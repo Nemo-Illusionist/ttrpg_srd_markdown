@@ -2,10 +2,6 @@ name: Build and Release
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - 'src/**'
     tags:
       - 'v*'
 
@@ -44,34 +40,7 @@ jobs:
             --toc-depth=2 \
             -V toc-title="Содержание"
 
-      - name: Get current date
-        id: date
-        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
-      - name: Update latest release
-        if: github.ref == 'refs/heads/main'
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: latest
-          name: "Последняя версия (${{ steps.date.outputs.date }})"
-          body: |
-            Автоматически собранная версия из ветки main.
-
-            Дата сборки: ${{ steps.date.outputs.date }}
-            Коммит: ${{ github.sha }}
-
-            ## Файлы
-            - `DND-SRD-5.2.1-RU.md` — Markdown
-            - `DND-SRD-5.2.1-RU.pdf` — PDF
-          prerelease: true
-          files: |
-            DND-SRD-5.2.1-RU.md
-            DND-SRD-5.2.1-RU.pdf
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create versioned release
-        if: startsWith(github.ref, 'refs/tags/v')
+      - name: Create release
         uses: softprops/action-gh-release@v1
         with:
           name: "D&D SRD 5.2.1 RU ${{ github.ref_name }}"
