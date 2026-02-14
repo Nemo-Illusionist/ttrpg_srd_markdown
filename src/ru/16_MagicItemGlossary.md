@@ -16,13 +16,13 @@
 | Armor of Vulnerability | Доспех уязвимости | Редкий | Доспех |
 | Arrow-Catching Shield | Щит ловли стрел | Редкий | Доспех |
 | Bag of Beans | Сумка фасоли | Редкий | Чудесный предмет |
-| Bag of Devouring | | Очень редкий | Чудесный предмет |
+| Bag of Devouring | Сумка пожирания | Очень редкий | Чудесный предмет |
 | Bag of Holding | Сумка хранения | Необычный | Чудесный предмет |
-| Bag of Tricks | | Необычный | Чудесный предмет |
+| Bag of Tricks | Сумка фокусов | Необычный | Чудесный предмет |
 | Bead of Force | Бусины силы | Редкий | Чудесный предмет |
 | Bead of Nourishment | Бусина питания | Обычный | Чудесный предмет |
 | Belt of Dwarvenkind | Пояс дварфов | Редкий | Чудесный предмет |
-| Belt of Giant Strength | | Варьируется | Чудесный предмет |
+| Belt of Giant Strength | Пояс силы великана | Варьируется | Чудесный предмет |
 | Berserker Axe | Топор берсерка | Редкий | Оружие |
 | Boots of Elvenkind | Сапоги эльфа | Необычный | Чудесный предмет |
 | Boots of Levitation | Сапоги левитации | Редкий | Чудесный предмет |
@@ -35,7 +35,7 @@
 | Brazier of Commanding Fire Elementals | Чаша призыва огненных элементалей | Редкий | Чудесный предмет |
 | Brooch of Shielding | Брошь защиты | Необычный | Чудесный предмет |
 | Broom of Flying | Метла полёта | Необычный | Чудесный предмет |
-| Candle of Invocation | | Очень редкий | Чудесный предмет |
+| Candle of Invocation | Свеча призыва | Очень редкий | Чудесный предмет |
 | Cape of the Mountebank | Плащ шарлатана | Редкий | Чудесный предмет |
 | Carpet of Flying | Ковёр-самолёт | Очень редкий | Чудесный предмет |
 | Censer of Controlling Air Elementals | Чаша управления воздушными элементалями | Редкий | Чудесный предмет |
@@ -69,7 +69,7 @@
 | Dust of Sneezing and Choking | Пыль чихания и удушья | Необычный | Чудесный предмет |
 | Dwarven Plate | Дварфийский латный доспех | Очень редкий | Доспех |
 | Dwarven Thrower | Дварфийский метатель | Очень редкий | Оружие |
-| Efficient Quiver | | Необычный | Чудесный предмет |
+| Efficient Quiver | Эффективный колчан | Необычный | Чудесный предмет |
 | Efreeti Bottle | Бутылка ифрита | Очень редкий | Чудесный предмет |
 | Elemental Gem | Сферы стихий | Необычный | Чудесный предмет |
 | Elixir of Health | Эликсир здоровья | Редкий | Зелье |
@@ -141,17 +141,17 @@
 | Periapt of Proof against Poison | Перстень защиты от яда | Редкий | Чудесный предмет |
 | Periapt of Wound Closure | Перстень заживления ран | Необычный | Чудесный предмет |
 | Philter of Love | Филе любви | Необычный | Зелье |
-| Pipes of Haunting | | Необычный | Чудесный предмет |
+| Pipes of Haunting | Свирель ужаса | Необычный | Чудесный предмет |
 | Pipes of the Sewers | Свиток труб | Необычный | Чудесный предмет |
-| Plate Armor of Etherealness | | Легендарный | Доспех |
+| Plate Armor of Etherealness | Латный доспех эфирности | Легендарный | Доспех |
 | Portable Hole | Переносная дыра | Редкий | Чудесный предмет |
-| Potion of Animal Friendship | | Необычный | Зелье |
-| Potion of Clairvoyance | | Редкий | Зелье |
-| Potion of Climbing | | Обычный | Зелье |
+| Potion of Animal Friendship | Зелье дружбы с животными | Необычный | Зелье |
+| Potion of Clairvoyance | Зелье ясновидения | Редкий | Зелье |
+| Potion of Climbing | Зелье лазания | Обычный | Зелье |
 | Potion of Diminution | Зелье уменьшения | Редкий | Зелье |
 | Potion of Flying | Зелье летучей силы | Очень редкий | Зелье |
-| Potion of Gaseous Form | | Редкий | Зелье |
-| Potion of Giant Strength | | Варьируется | Зелье |
+| Potion of Gaseous Form | Зелье газообразной формы | Редкий | Зелье |
+| Potion of Giant Strength | Зелье силы великана | Варьируется | Зелье |
 | Potion of Growth | Зелье роста | Необычный | Зелье |
 | Potions of Healing | Зелье лечения | Варьируется | Зелье |
 | Potion of Heroism | Зелье героизма | Редкий | Зелье |
@@ -159,14 +159,14 @@
 | Potion of Invulnerability | Зелье неуязвимости | Редкий | Зелье |
 | Potion of Longevity | Зелье долголетия | Очень редкий | Зелье |
 | Potion of Mind Reading | Зелье чтения мыслей | Редкий | Зелье |
-| Potion of Poison | | Необычный | Зелье |
+| Potion of Poison | Зелье яда | Необычный | Зелье |
 | Potion of Resistance | Зелье сопротивления | Необычный | Зелье |
 | Potion of Speed | Зелье скорости | Очень редкий | Зелье |
 | Potion of Vitality | Зелье жизненной силы | Очень редкий | Зелье |
 | Potion of Water Breathing | Зелье водного дыхания | Необычный | Зелье |
 | Quarterstaff of the Acrobat | Боевой посох акробата | Очень редкий | Оружие |
 | Ring of Animal Influence | Кольцо власти над животными | Редкий | Кольцо |
-| Ring of Djinni Summoning | | Легендарный | Кольцо |
+| Ring of Djinni Summoning | Кольцо призыва джинна | Легендарный | Кольцо |
 | Ring of Elemental Command | Кольцо хождения по стихиям | Легендарный | Кольцо |
 | Ring of Evasion | Кольцо уклонения | Редкий | Кольцо |
 | Ring of Feather Falling | Кольцо падения пёрышком | Редкий | Кольцо |
@@ -180,7 +180,7 @@
 | Ring of Shooting Stars | Кольцо стрельбы звёздами | Очень редкий | Кольцо |
 | Ring of Spell Storing | Кольцо хранения заклинаний | Редкий | Кольцо |
 | Ring of Spell Turning | Кольцо отражения заклинаний | Легендарный | Кольцо |
-| Ring of Swimming | | Необычный | Кольцо |
+| Ring of Swimming | Кольцо плавания | Необычный | Кольцо |
 | Ring of Telekinesis | Кольцо телекинеза | Очень редкий | Кольцо |
 | Ring of the Ram | Кольцо тарана | Редкий | Кольцо |
 | Ring of Three Wishes | Кольцо трёх желаний | Легендарный | Кольцо |
