@@ -196,7 +196,7 @@
 | Cantrip | Заговор | заклинание 0 уровня |
 | Spell Slot | Ячейка заклинания | |
 | Spell Level | Уровень заклинания | |
-| Spellcasting | Использование заклинаний | |
+| Spellcasting | Сотворение заклинаний | |
 | Concentration | Концентрация | |
 | Ritual | Ритуал | |
 | Components | Компоненты | |
