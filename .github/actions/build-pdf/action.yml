@@ -1,0 +1,35 @@
+name: Build PDF
+description: Convert a markdown file to PDF via pandoc + xelatex
+
+inputs:
+  input-file:
+    description: Input markdown file
+    required: true
+  output-file:
+    description: Output PDF file
+    required: true
+  lang:
+    description: Document language (ru, en)
+    required: true
+  toc-title:
+    description: Table of contents title
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Convert markdown to PDF
+      shell: bash
+      run: |
+        pandoc ${{ inputs.input-file }} \
+          -o ${{ inputs.output-file }} \
+          --pdf-engine=xelatex \
+          -V mainfont="Liberation Serif" \
+          -V sansfont="Liberation Sans" \
+          -V monofont="Liberation Mono" \
+          -V geometry:margin=2cm \
+          -V documentclass=report \
+          -V lang=${{ inputs.lang }} \
+          --toc \
+          --toc-depth=2 \
+          -V toc-title="${{ inputs.toc-title }}"
