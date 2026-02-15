@@ -13,19 +13,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build combined document
+      - name: Build combined RU document
         run: |
-          # Concatenate all markdown files from src/dnd/srd-5.2/ru-v2/
-          # Files are sorted alphabetically to maintain order
-          # Add empty line between files for proper heading recognition
           find src/dnd/srd-5.2/ru-v2 -name "*.md" | sort | while read f; do cat "$f"; echo; done > DND-SRD-5.2.1-RU.md
+
+      - name: Build combined EN document
+        run: |
+          find src/dnd/srd-5.2/en-v2 -name "*.md" | sort | while read f; do cat "$f"; echo; done > DND-SRD-5.2.1-EN.md
 
       - name: Install pandoc and LaTeX
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex texlive-fonts-extra texlive-lang-cyrillic fonts-liberation
 
-      - name: Convert to PDF
+      - name: Convert RU to PDF
         run: |
           pandoc DND-SRD-5.2.1-RU.md \
             -o DND-SRD-5.2.1-RU.pdf \
@@ -40,18 +41,37 @@ jobs:
             --toc-depth=2 \
             -V toc-title="Содержание"
 
+      - name: Convert EN to PDF
+        run: |
+          pandoc DND-SRD-5.2.1-EN.md \
+            -o DND-SRD-5.2.1-EN.pdf \
+            --pdf-engine=xelatex \
+            -V mainfont="Liberation Serif" \
+            -V sansfont="Liberation Sans" \
+            -V monofont="Liberation Mono" \
+            -V geometry:margin=2cm \
+            -V documentclass=report \
+            -V lang=en \
+            --toc \
+            --toc-depth=2 \
+            -V toc-title="Table of Contents"
+
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
-          name: "D&D SRD 5.2.1 RU ${{ github.ref_name }}"
+          name: "D&D SRD 5.2.1 — RU + EN ${{ github.ref_name }}"
           body: |
-            Русский перевод D&D System Reference Document 5.2.1
+            D&D System Reference Document 5.2.1
 
-            ## Скачать
-            - `DND-SRD-5.2.1-RU.md` — объединённый документ в формате Markdown
-            - `DND-SRD-5.2.1-RU.pdf` — документ в формате PDF
+            ## Скачать / Download
+            - `DND-SRD-5.2.1-RU.md` — Markdown (русский)
+            - `DND-SRD-5.2.1-RU.pdf` — PDF (русский)
+            - `DND-SRD-5.2.1-EN.md` — Markdown (English)
+            - `DND-SRD-5.2.1-EN.pdf` — PDF (English)
           files: |
             DND-SRD-5.2.1-RU.md
             DND-SRD-5.2.1-RU.pdf
+            DND-SRD-5.2.1-EN.md
+            DND-SRD-5.2.1-EN.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
