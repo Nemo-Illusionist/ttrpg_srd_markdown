@@ -28,15 +28,15 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install MkDocs Material
-        run: pip install mkdocs-material
+      - name: Install dependencies
+        run: pip install mkdocs-material mkdocs-static-i18n
 
       - name: Copy source files to docs
         run: |
-          mkdir -p docs/dnd/srd-5.2/ru/03_Classes
-          mkdir -p docs/dnd/srd-5.2/en/03_Classes
-          cp -r src/dnd/srd-5.2/ru-v2/* docs/dnd/srd-5.2/ru/
-          cp -r src/dnd/srd-5.2/en-v2/* docs/dnd/srd-5.2/en/
+          mkdir -p docs/ru/dnd/srd-5.2/03_Classes
+          mkdir -p docs/en/dnd/srd-5.2/03_Classes
+          cp -r src/dnd/srd-5.2/ru-v2/* docs/ru/dnd/srd-5.2/
+          cp -r src/dnd/srd-5.2/en-v2/* docs/en/dnd/srd-5.2/
 
       - name: Build site
         run: mkdocs build --strict
