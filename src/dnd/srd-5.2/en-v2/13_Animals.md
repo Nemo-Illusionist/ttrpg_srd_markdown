@@ -1,6 +1,8 @@
 # Animals
 
-## Allosaurus
+## Animals: A
+
+### Allosaurus
 
 *Large Beast (Dinosaur), Unaligned*
 
@@ -22,13 +24,13 @@
 - **Senses**: Passive Perception 15
 - **CR** 2 (XP 450; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 15 (2d10 + 4) Piercing damage.
 
 ***Claws.*** *Melee Attack Roll:* +6, reach 5 ft. 8 (1d8 + 4) Slashing damage. If the target is a Large or smaller creature and the allosaurus moved 30+ feet straight toward it immediately before the hit, the target has the Prone condition, and the allosaurus can make one Bite attack against it.
 
-## Ankylosaurus
+### Ankylosaurus
 
 *Huge Beast (Dinosaur), Unaligned*
 
@@ -49,13 +51,13 @@
 - **Senses**: Passive Perception 11
 - **CR** 3 (XP 700; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The ankylosaurus makes two Tail attacks.
 
 ***Tail.*** *Melee Attack Roll:* +6, reach 10 ft. 9 (1d10 + 4) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
 
-## Ape
+### Ape
 
 *Medium Beast, Unaligned*
 
@@ -77,7 +79,7 @@
 - **Senses**: Passive Perception 13
 - **CR** 1/2 (XP 100; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The ape makes two Fist attacks.
 
@@ -85,7 +87,7 @@
 
 ***Rock (Recharge 6).*** *Ranged Attack Roll:* +5, range 25/50 ft. 10 (2d6 + 3) Bludgeoning damage.
 
-## Archelon
+### Archelon
 
 *Huge Beast (Dinosaur), Unaligned*
 
@@ -107,18 +109,20 @@
 - **Senses**: Passive Perception 12
 - **CR** 4 (XP 1,100; PB +2)
 
-### Traits
+#### Traits
 
 ***Amphibious.*** The archelon can breathe air and water.
 
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The archelon makes two Bite attacks.
 
 ***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 14 (3d6 + 4) Piercing damage.
 
-## Baboon
+## Animals: B
+
+### Baboon
 
 *Small Beast, Unaligned*
 
@@ -139,16 +143,16 @@
 - **Senses**: Passive Perception 11
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The baboon has Advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +1, reach 5 ft. 1 (1d4 - 1) Piercing damage.
 
-## Bat
+### Bat
 
 *Small Beast, Unaligned*
 
@@ -169,11 +173,11 @@
 - **Senses**: blindsight 60 ft.; Passive Perception 11
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4 to hit, reach 5 ft. 1 Piercing damage.
 
-## Black Bear
+### Black Bear
 
 *Medium Beast, Unaligned*
 
@@ -195,13 +199,13 @@
 - **Senses**: darkvision 60 ft.; Passive Perception 15
 - **CR** 1/2 (XP 100; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The bear makes two Rend attacks.
 
 ***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Slashing damage.
 
-## Badger
+### Badger
 
 *Small Beast, Unaligned*
 
@@ -224,11 +228,11 @@
 - **Senses**: darkvision 30 ft.; Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +2, reach 5 ft. 1 Piercing damage.
 
-## Blood Hawk
+### Blood Hawk
 
 *Small Beast, Unaligned*
 
@@ -250,16 +254,16 @@
 - **Senses**: Passive Perception 16
 - **CR** 1/8 (XP 25; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The hawk has Advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 
-### Actions
+#### Actions
 
 ***Beak.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Piercing damage, or 6 (1d8 + 2) Piercing damage if the target is Bloodied.
 
-## Boar
+### Boar
 
 *Medium Beast, Unaligned*
 
@@ -280,16 +284,16 @@
 - **Senses**: Passive Perception 9
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Bloodied Fury.*** While Bloodied, the boar has Advantage on attack rolls.
 
 
-### Actions
+#### Actions
 
 ***Gore.*** *Melee Attack Roll:* +3, reach 5 ft. 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Piercing damage and has the Prone condition.
 
-## Brown Bear
+### Brown Bear
 
 *Large Beast, Unaligned*
 
@@ -311,7 +315,7 @@
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 1 (XP 200; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The bear makes one Bite attack and one Claw attack.
 
@@ -319,7 +323,9 @@
 
 ***Claw.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-## Camel
+## Animals: C
+
+### Camel
 
 *Large Beast, Unaligned*
 
@@ -340,11 +346,11 @@
 - **Senses**: darkvision 60 ft.; Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Bludgeoning damage.
 
-## Cat
+### Cat
 
 *Small Beast, Unaligned*
 
@@ -366,16 +372,16 @@
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Jumper.*** The cat's jump distance is determined using its Dexterity rather than its Strength.
 
 
-### Actions
+#### Actions
 
 ***Scratch.*** *Melee Attack Roll:* +4, reach 5 ft. 1 Slashing damage.
 
-## Constrictor Snake
+### Constrictor Snake
 
 *Large Beast, Unaligned*
 
@@ -397,13 +403,13 @@
 - **Senses**: blindsight 10 ft.; Passive Perception 12
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Piercing damage.
 
 ***Constrict.*** *Strength Saving Throw*: DC 12, one Medium or smaller creature the snake can see within 5 feet. *Failure:*  7 (3d4) Bludgeoning damage, and the target has the Grappled condition (escape DC 12).
 
-## Crab
+### Crab
 
 *Small Beast, Unaligned*
 
@@ -425,16 +431,16 @@
 - **Senses**: blindsight 30 ft.; Passive Perception 9
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Amphibious.*** The crab can breathe air and water.
 
 
-### Actions
+#### Actions
 
 ***Claw.*** *Melee Attack Roll:* +2, reach 5 ft. 1 Bludgeoning damage.
 
-## Crocodile
+### Crocodile
 
 *Large Beast, Unaligned*
 
@@ -456,16 +462,18 @@
 - **Senses**: Passive Perception 10
 - **CR** 1/2 (XP 100; PB +2)
 
-### Traits
+#### Traits
 
 ***Hold Breath.*** The crocodile can hold its breath for 1 hour.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12). While Grappled, the target has the Restrained condition.
 
-## Deer
+## Animals: D
+
+### Deer
 
 *Medium Beast, Unaligned*
 
@@ -487,16 +495,16 @@
 - **Senses**: darkvision 60 ft.; Passive Perception 14
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Agile.*** The deer doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
 
 
-### Actions
+#### Actions
 
 ***Ram.*** *Melee Attack Roll:* +2, reach 5 ft. 2 (1d4) Bludgeoning damage.
 
-## Dire Wolf
+### Dire Wolf
 
 *Large Beast, Unaligned*
 
@@ -518,16 +526,16 @@
 - **Senses**: darkvision 60 ft.; Passive Perception 15
 - **CR** 1 (XP 200; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-## Draft Horse
+### Draft Horse
 
 *Large Beast, Unaligned*
 
@@ -548,11 +556,13 @@
 - **Senses**: Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Hooves.*** *Melee Attack Roll:* +6, reach 5 ft. 6 (1d4 + 4) Bludgeoning damage.
 
-## Eagle
+## Animals: E
+
+### Eagle
 
 *Small Beast, Unaligned*
 
@@ -574,11 +584,11 @@
 - **Senses**: Passive Perception 16
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Actions
+#### Actions
 
 ***Talons.*** *Melee Attack Roll:* +4, reach 5 feet. 4 (1d4 + 2) Slashing damage.
 
-## Elephant
+### Elephant
 
 *Huge Beast, Unaligned*
 
@@ -599,18 +609,18 @@
 - **Senses**: Passive Perception 10
 - **CR** 4 (XP 1,100; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The elephant makes two Gore attacks.
 
 ***Gore.*** *Melee Attack Roll:* +8, reach 5 ft. 15 (2d8 + 6) Piercing damage. If the target is a Huge or smaller creature and the elephant moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
 
 
-### Bonus Actions
+#### Bonus Actions
 
 ***Trample.*** *Dexterity Saving Throw*: DC 16, one creature within 5 feet that has the Prone condition. *Failure:*  17 (2d10 + 6) Bludgeoning damage. *Success:*  Half damage.
 
-## Elk
+### Elk
 
 *Large Beast, Unaligned*
 
@@ -632,11 +642,13 @@
 - **Senses**: darkvision 60 ft.; Passive Perception 12
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Ram.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning damage and has the Prone condition.
 
-## Flying Snake
+## Animals: F
+
+### Flying Snake
 
 *Small Monstrosity, Unaligned*
 
@@ -657,16 +669,16 @@
 - **Senses**: blindsight 10 ft.; Passive Perception 11
 - **CR** 1/8 (XP 25; PB +2)
 
-### Traits
+#### Traits
 
 ***Flyby.*** The snake doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 1 Piercing damage plus 5 (2d4) Poison damage.
 
-## Frog
+### Frog
 
 *Small Beast, Unaligned*
 
@@ -688,18 +700,20 @@
 - **Senses**: darkvision 30 ft.; Passive Perception 11
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Amphibious.*** The frog can breathe air and water.
 
 ***Standing Leap.*** The frog's Long Jump is up to 10 feet and its High Jump is up to 5 feet with or without a running start.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +3, reach 5 ft. 1 Piercing damage.
 
-## Giant Ape
+## Animals: G
+
+### Giant Ape
 
 *Huge Beast, Unaligned*
 
@@ -721,7 +735,7 @@
 - **Senses**: Passive Perception 14
 - **CR** 7 (XP 2,900; PB +3)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The ape makes two Fist attacks.
 
@@ -730,11 +744,11 @@
 ***Boulder Toss (Recharge 6).*** The ape hurls a boulder at a point it can see within 90 feet. *Dexterity Saving Throw*: DC 17, each creature in a 5-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on that point. *Failure:*  24 (7d6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition. *Success:*  Half damage only.
 
 
-### Bonus Actions
+#### Bonus Actions
 
 ***Leap.*** The ape jumps up to 30 feet by spending 10 feet of movement.
 
-## Giant Badger
+### Giant Badger
 
 *Medium Beast, Unaligned*
 
@@ -757,11 +771,11 @@
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +3, reach 5 ft. 6 (2d4 + 1) Piercing damage.
 
-## Giant Bat
+### Giant Bat
 
 *Large Beast, Unaligned*
 
@@ -782,11 +796,11 @@
 - **Senses**: blindsight 120 ft.; Passive Perception 11
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Piercing damage.
 
-## Giant Boar
+### Giant Boar
 
 *Large Beast, Unaligned*
 
@@ -807,16 +821,16 @@
 - **Senses**: Passive Perception 8
 - **CR** 2 (XP 450; PB +2)
 
-### Traits
+#### Traits
 
 ***Bloodied Fury.*** The boar has Advantage on melee attack rolls while it is Bloodied.
 
 
-### Actions
+#### Actions
 
 ***Gore.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Piercing damage. If the target is a Large or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
 
-## Giant Centipede
+### Giant Centipede
 
 *Small Beast, Unaligned*
 
@@ -837,11 +851,11 @@
 - **Senses**: blindsight 30 ft.; Passive Perception 8
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Piercing damage, and the target has the Poisoned condition until the start of the centipede's next turn.
 
-## Giant Constrictor Snake
+### Giant Constrictor Snake
 
 *Huge Beast, Unaligned*
 
@@ -863,7 +877,7 @@
 - **Senses**: blindsight 10 ft.; Passive Perception 12
 - **CR** 2 (XP 450; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The snake makes one Bite attack and uses Constrict.
 
@@ -871,7 +885,7 @@
 
 ***Constrict.*** *Strength Saving Throw*: DC 14, one Large or smaller creature the snake can see within 10 feet. *Failure:*  13 (2d8 + 4) Bludgeoning damage, and the target has the Grappled condition (escape DC 14).
 
-## Giant Crab
+### Giant Crab
 
 *Medium Beast, Unaligned*
 
@@ -893,16 +907,16 @@
 - **Senses**: blindsight 30 ft.; Passive Perception 9
 - **CR** 1/8 (XP 25; PB +2)
 
-### Traits
+#### Traits
 
 ***Amphibious.*** The crab can breathe air and water.
 
 
-### Actions
+#### Actions
 
 ***Claw.*** *Melee Attack Roll:* +3, reach 5 ft. 4 (1d6 + 1) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 11) from one of two claws.
 
-## Giant Crocodile
+### Giant Crocodile
 
 *Huge Beast, Unaligned*
 
@@ -924,12 +938,12 @@
 - **Senses**: Passive Perception 10
 - **CR** 5 (XP 1,800; PB +3)
 
-### Traits
+#### Traits
 
 ***Hold Breath.*** The crocodile can hold its breath for 1 hour.
 
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The crocodile makes one Bite attack and one Tail attack.
 
@@ -937,7 +951,7 @@
 
 ***Tail.*** *Melee Attack Roll:* +8, reach 10 ft. 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-## Giant Eagle
+### Giant Eagle
 
 *Large Celestial, Neutral Good*
 
@@ -961,13 +975,13 @@
 - **Languages**: Celestial; understands Common and Primordial (Auran) but can't speak them
 - **CR** 1 (XP 200; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The eagle makes two Rend attacks.
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Slashing damage plus 3 (1d6) Radiant damage.
 
-## Giant Elk
+### Giant Elk
 
 *Huge Celestial, Neutral Good*
 
@@ -991,11 +1005,11 @@
 - **Languages**: Celestial; understands Common, Elvish, And Sylvan but can't speak them
 - **CR** 2 (XP 450; PB +2)
 
-### Actions
+#### Actions
 
 ***Ram.*** *Melee Attack Roll:* +6, reach 10 ft. 11 (2d6 + 4) Bludgeoning damage plus 5 (2d4) Radiant damage. If the target is a Huge or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
 
-## Giant Fire Beetle
+### Giant Fire Beetle
 
 *Small Beast, Unaligned*
 
@@ -1017,16 +1031,16 @@
 - **Senses**: blindsight 30 ft.; Passive Perception 8
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Illumination.*** The beetle sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +1, reach 5 ft. 1 Fire damage.
 
-## Giant Frog
+### Giant Frog
 
 *Medium Beast, Unaligned*
 
@@ -1048,21 +1062,21 @@
 - **Senses**: darkvision 30 ft.; Passive Perception 12
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Amphibious.*** The frog can breathe air and water.
 
 ***Standing Leap.*** The frog's Long Jump is up to 20 feet and its High Jump is up to 10 feet with or without a running start.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +3, reach 5 ft. 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 11).
 
 ***Swallow.*** The frog swallows a Small or smaller target it is grappling. While swallowed, the target isn't Grappled but has the Blinded and Restrained conditions, and it has Cover|XPHB|Total Cover against attacks and other effects outside the frog. While swallowing the target, the frog can't use Bite, and if the frog dies, the swallowed target is no longer Restrained and can escape from the corpse using 5 feet of movement, exiting with the Prone condition.
 At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid damage. If that damage doesn't kill it, the frog disgorges it, causing it to exit Prone.
 
-## Giant Goat
+### Giant Goat
 
 *Large Beast, Unaligned*
 
@@ -1084,11 +1098,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 1/2 (XP 100; PB +2)
 
-### Actions
+#### Actions
 
 ***Ram.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the goat moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
 
-## Giant Hyena
+### Giant Hyena
 
 *Large Beast, Unaligned*
 
@@ -1110,16 +1124,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 1 (XP 200; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Piercing damage.
 
 
-### Bonus Actions
+#### Bonus Actions
 
 ***Rampage (1/Day).*** Immediately after dealing damage to a creature that was already Bloodied, the hyena can move up to half its Speed, and it makes one Bite attack.
 
-## Giant Lizard
+### Giant Lizard
 
 *Large Beast, Unaligned*
 
@@ -1140,16 +1154,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Spider Climb.*** The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Piercing damage.
 
-## Giant Octopus
+### Giant Octopus
 
 *Large Beast, Unaligned*
 
@@ -1171,16 +1185,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 14
 - **CR** 1 (XP 200; PB +2)
 
-### Traits
+#### Traits
 
 ***Water Breathing.*** The octopus can breathe only underwater. It can hold its breath for 1 hour outside water.
 
 
-### Actions
+#### Actions
 
 ***Tentacles.*** *Melee Attack Roll:* +5, reach 10 ft. 10 (2d6 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from all eight tentacles. While Grappled, the target has the Restrained condition.
 
-## Giant Owl
+### Giant Owl
 
 *Large Celestial, Neutral*
 
@@ -1204,12 +1218,12 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Languages**: Celestial; understands Common, Elvish, And Sylvan but can't speak them
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Flyby.*** The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
 
-### Actions
+#### Actions
 
 ***Talons.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (1d10 + 2) Slashing damage.
 
@@ -1217,7 +1231,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 - **At Will:** *Detect Evil and Good*, *Detect Magic*
 - **1/Day Each:** *Clairvoyance*
-## Giant Rat
+### Giant Rat
 
 *Small Beast, Unaligned*
 
@@ -1239,16 +1253,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 12
 - **CR** 1/8 (XP 25; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The rat has Advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 feet. 5 (1d4 + 3) Piercing damage.
 
-## Giant Scorpion
+### Giant Scorpion
 
 *Large Beast, Unaligned*
 
@@ -1269,7 +1283,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 60 ft.; Passive Perception 9
 - **CR** 3 (XP 700; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The scorpion makes two Claw attacks and one Sting attack.
 
@@ -1277,7 +1291,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 ***Sting.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage plus 11 (2d10) Poison damage.
 
-## Giant Seahorse
+### Giant Seahorse
 
 *Large Beast, Unaligned*
 
@@ -1298,21 +1312,21 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
 
-### Traits
+#### Traits
 
 ***Water Breathing.*** The seahorse can breathe only underwater.
 
 
-### Actions
+#### Actions
 
 ***Ram.*** *Melee Attack Roll:* +4, reach 5 ft. 9 (2d6 + 2) Bludgeoning damage, or 11 (2d8 + 2) Bludgeoning damage if the seahorse moved 20+ feet straight toward the target immediately before the hit.
 
 
-### Bonus Actions
+#### Bonus Actions
 
 ***Bubble Dash.*** While underwater, the seahorse moves up to half its Swim Speed without provoking Opportunity Attacks.
 
-## Giant Shark
+### Giant Shark
 
 *Huge Beast, Unaligned*
 
@@ -1334,18 +1348,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 60 ft.; Passive Perception 13
 - **CR** 5 (XP 1,800; PB +3)
 
-### Traits
+#### Traits
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The shark makes two Bite attacks.
 
 ***Bite.*** *Melee Attack Roll:* +9 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. 22 (3d10 + 6) Piercing damage.
 
-## Giant Spider
+### Giant Spider
 
 *Large Beast, Unaligned*
 
@@ -1367,20 +1381,20 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 14
 - **CR** 1 (XP 200; PB +2)
 
-### Traits
+#### Traits
 
 ***Spider Climb.*** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webs, and it knows the location of any other creature in contact with the same web.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage plus 7 (2d6) Poison damage.
 
 ***Web (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, one creature the spider can see within 60 feet. *Failure:*  The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).
 
-## Giant Toad
+### Giant Toad
 
 *Large Beast, Unaligned*
 
@@ -1401,20 +1415,20 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 10
 - **CR** 1 (XP 200; PB +2)
 
-### Traits
+#### Traits
 
 ***Amphibious.*** The toad can breathe air and water.
 
 ***Standing Leap.*** The toad's Long Jump is up to 20 feet and its High Jump is up to 10 feet with or without a running start.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage plus 5 (2d4) Poison damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12).
 
 ***Swallow.*** The toad swallows a Medium or smaller target it is grappling. While swallowed, the target isn't Grappled but has the Blinded and Restrained conditions, and it has Cover|XPHB|Total Cover against attacks and other effects outside the toad. In addition, the target takes 10 (3d6) Acid damage at the end of each of the toad's turns. The toad can have only one target swallowed at a time, and it can't use Bite while it has a swallowed target. If the toad dies, a swallowed creature is no longer Restrained and can escape from the corpse using 5 feet of movement, exiting with the Prone condition.
 
-## Giant Venomous Snake
+### Giant Venomous Snake
 
 *Medium Beast, Unaligned*
 
@@ -1436,11 +1450,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 10 ft.; Passive Perception 12
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +6, reach 10 ft. 6 (1d4 + 4) Piercing damage plus 4 (1d8) Poison damage.
 
-## Giant Vulture
+### Giant Vulture
 
 *Large Monstrosity, Neutral Evil*
 
@@ -1464,16 +1478,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Languages**: Understands Common but can't speak
 - **CR** 1 (XP 200; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The vulture has Advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 
-### Actions
+#### Actions
 
 ***Gouge.*** *Melee Attack Roll:* +4, reach 5 ft. 9 (2d6 + 2) Piercing damage, and the target has the Poisoned condition until the end of its next turn.
 
-## Giant Wasp
+### Giant Wasp
 
 *Medium Beast, Unaligned*
 
@@ -1494,16 +1508,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 10
 - **CR** 1/2 (XP 100; PB +2)
 
-### Traits
+#### Traits
 
 ***Flyby.*** The wasp doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
 
-### Actions
+#### Actions
 
 ***Sting.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage plus 5 (2d4) Poison damage.
 
-## Giant Weasel
+### Giant Weasel
 
 *Medium Beast, Unaligned*
 
@@ -1525,11 +1539,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 1/8 (XP 25; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Piercing damage.
 
-## Giant Wolf Spider
+### Giant Wolf Spider
 
 *Medium Beast, Unaligned*
 
@@ -1551,16 +1565,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 13
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Spider Climb.*** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Piercing damage plus 5 (2d4) Poison damage.
 
-## Goat
+### Goat
 
 *Medium Beast, Unaligned*
 
@@ -1582,11 +1596,13 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 12
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Actions
+#### Actions
 
 ***Ram.*** *Melee Attack Roll:* +2, reach 5 ft. 1 Bludgeoning damage, or 2 (1d4) Bludgeoning damage if the goat moved 20+ feet straight toward the target immediately before the hit.
 
-## Hawk
+## Animals: H
+
+### Hawk
 
 *Small Beast, Unaligned*
 
@@ -1608,11 +1624,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 16
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Actions
+#### Actions
 
 ***Talons.*** *Melee Attack Roll:* +5, reach 5 ft. 1 Slashing damage.
 
-## Hippopotamus
+### Hippopotamus
 
 *Large Beast, Unaligned*
 
@@ -1634,18 +1650,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 13
 - **CR** 4 (XP 1,100; PB +2)
 
-### Traits
+#### Traits
 
 ***Hold Breath.*** The hippopotamus can hold its breath for 10 minutes.
 
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The hippopotamus makes two Bite attacks.
 
 ***Bite.*** *Melee Attack Roll:* +7, reach 5 ft. 16 (2d10 + 5) Piercing damage.
 
-## Hunter Shark
+### Hunter Shark
 
 *Large Beast, Unaligned*
 
@@ -1667,16 +1683,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 60 ft.; Passive Perception 12
 - **CR** 2 (XP 450; PB +2)
 
-### Traits
+#### Traits
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +6 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. 14 (3d6 + 4) Piercing damage.
 
-## Hyena
+### Hyena
 
 *Medium Beast, Unaligned*
 
@@ -1698,16 +1714,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The hyena has Advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +2, reach 5 ft. 3 (1d6) Piercing damage.
 
-## Jackal
+## Animals: J
+
+### Jackal
 
 *Small Beast, Unaligned*
 
@@ -1729,11 +1747,13 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 90 ft.; Passive Perception 15
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +1, reach 5 ft. 1 (1d4 - 1) Piercing damage.
 
-## Killer Whale
+## Animals: K
+
+### Killer Whale
 
 *Huge Beast, Unaligned*
 
@@ -1755,16 +1775,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 120 ft.; Passive Perception 13
 - **CR** 3 (XP 700; PB +2)
 
-### Traits
+#### Traits
 
 ***Hold Breath.*** The whale can hold its breath for 30 minutes.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 21 (5d6 + 4) Piercing damage.
 
-## Lion
+## Animals: L
+
+### Lion
 
 *Large Beast, Unaligned*
 
@@ -1786,14 +1808,14 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 1 (XP 200; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The lion has Advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 ***Running Leap.*** With a 10-foot running start, the lion can Long Jump up to 25 feet.
 
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The lion makes two Rend attacks. It can replace one attack with a use of Roar.
 
@@ -1801,7 +1823,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 ***Roar.*** *Wisdom Saving Throw*: DC 11, one creature within 15 feet. *Failure:*  The target has the Frightened condition until the start of the lion's next turn.
 
-## Lizard
+### Lizard
 
 *Small Beast, Unaligned*
 
@@ -1822,16 +1844,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 30 ft.; Passive Perception 9
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Spider Climb.*** The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +2, reach 5 ft. 1 Piercing damage.
 
-## Mammoth
+## Animals: M
+
+### Mammoth
 
 *Huge Beast, Unaligned*
 
@@ -1852,18 +1876,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 10
 - **CR** 6 (XP 2,300; PB +3)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The mammoth makes two Gore attacks.
 
 ***Gore.*** *Melee Attack Roll:* +10, reach 10 ft. 18 (2d10 + 7) Piercing damage. If the target is a Huge or smaller creature and the mammoth moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
 
 
-### Bonus Actions
+#### Bonus Actions
 
 ***Trample.*** *Dexterity Saving Throw*: DC 18, one creature within 5 feet that has the Prone condition. *Failure:*  29 (4d10 + 7) Bludgeoning damage. *Success:*  Half damage.
 
-## Mastiff
+### Mastiff
 
 *Medium Beast, Unaligned*
 
@@ -1885,11 +1909,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 15
 - **CR** 1/8 (XP 25; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +3, reach 5 ft. 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
-## Mule
+### Mule
 
 *Medium Beast, Unaligned*
 
@@ -1910,16 +1934,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
 
-### Traits
+#### Traits
 
 ***Beast of Burden.*** The mule counts as one size larger for the purpose of determining its carrying capacity.
 
 
-### Actions
+#### Actions
 
 ***Hooves.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Bludgeoning damage.
 
-## Octopus
+## Animals: O
+
+### Octopus
 
 *Small Beast, Unaligned*
 
@@ -1942,21 +1968,21 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Languages**: None
 - **CR** 0 (XP 0 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Compression.*** The octopus can move through a space as narrow as 1 inch without expending extra movement to do so.
 
 ***Water Breathing.*** The octopus can breathe only underwater.
 
-### Actions
+#### Actions
 
 ***Tentacles.*** *Melee Attack Roll:* +4, reach 5 ft. 1 Bludgeoning damage.
 
-### Reactions
+#### Reactions
 
 ***Ink Cloud (1/Day).*** *Trigger:* A creature ends its turn within 5 feet of the octopus while underwater. *Response:* The octopus releases ink that fills a 5-foot Cube centered on itself, and the octopus moves up to its Swim Speed. The Cube is Heavily Obscured for 1 minute or until a strong current or similar effect disperses the ink.
 
-## Owl
+### Owl
 
 *Small Beast, Unaligned*
 
@@ -1978,16 +2004,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 120 ft.; Passive Perception 15
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Flyby.*** The owl doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.
 
 
-### Actions
+#### Actions
 
 ***Talons.*** *Melee Attack Roll:* +3, reach 5 ft. 1 Slashing damage.
 
-## Panther
+## Animals: P
+
+### Panther
 
 *Medium Beast, Unaligned*
 
@@ -2009,16 +2037,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 14
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Slashing damage.
 
 
-### Bonus Actions
+#### Bonus Actions
 
 ***Nimble Escape.*** The panther takes the Disengage or Hide action.
 
-## Piranha
+### Piranha
 
 *Small Beast, Unaligned*
 
@@ -2039,16 +2067,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 8
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Water Breathing.*** The piranha can breathe only underwater.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. 1 Piercing damage.
 
-## Plesiosaurus
+### Plesiosaurus
 
 *Large Beast (Dinosaur), Unaligned*
 
@@ -2070,16 +2098,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 13
 - **CR** 2 (XP 450; PB +2)
 
-### Traits
+#### Traits
 
 ***Hold Breath.*** The plesiosaurus can hold its breath for 1 hour.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +6, reach 10 ft. 11 (2d6 + 4) Piercing damage.
 
-## Polar Bear
+### Polar Bear
 
 *Large Beast, Unaligned*
 
@@ -2102,13 +2130,13 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 15
 - **CR** 2 (XP 450; PB +2)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The bear makes two Rend attacks.
 
 ***Rend.*** *Melee Attack Roll:* +7, reach 5 ft. 9 (1d8 + 5) Slashing damage.
 
-## Pony
+### Pony
 
 *Medium Beast, Unaligned*
 
@@ -2129,11 +2157,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
 
-### Actions
+#### Actions
 
 ***Hooves.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Bludgeoning damage.
 
-## Pteranodon
+### Pteranodon
 
 *Medium Beast (Dinosaur), Unaligned*
 
@@ -2155,16 +2183,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 11
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Flyby.*** The pteranodon doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Piercing damage.
 
-## Rat
+## Animals: R
+
+### Rat
 
 *Small Beast, Unaligned*
 
@@ -2186,16 +2216,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 30 ft.; Passive Perception 12
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Agile.*** The rat doesn't provoke Opportunity Attacks when it moves out of an enemy's reach.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +2, reach 5 ft. 1 Piercing damage.
 
-## Raven
+### Raven
 
 *Small Beast, Unaligned*
 
@@ -2217,16 +2247,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Mimicry.*** The raven can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful DC 10 Wisdom (Insight) check.
 
 
-### Actions
+#### Actions
 
 ***Beak.*** *Melee Attack Roll:* +4, reach 5 ft. 1 Piercing damage.
 
-## Reef Shark
+### Reef Shark
 
 *Medium Beast, Unaligned*
 
@@ -2248,18 +2278,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 30 ft.; Passive Perception 12
 - **CR** 1/2 (XP 100; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The shark has Advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (2d4 + 2) Piercing damage.
 
-## Rhinoceros
+### Rhinoceros
 
 *Large Beast, Unaligned*
 
@@ -2280,11 +2310,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 11
 - **CR** 2 (XP 450; PB +2)
 
-### Actions
+#### Actions
 
 ***Gore.*** *Melee Attack Roll:* +7, reach 5 ft. 14 (2d8 + 5) Piercing damage. If target is a Large or smaller creature and the rhinoceros moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
 
-## Riding Horse
+### Riding Horse
 
 *Large Beast, Unaligned*
 
@@ -2305,11 +2335,13 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
-### Actions
+#### Actions
 
 ***Hooves.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Bludgeoning damage.
 
-## Saber-Toothed Tiger
+## Animals: S
+
+### Saber-Toothed Tiger
 
 *Large Beast, Unaligned*
 
@@ -2331,23 +2363,23 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 15
 - **CR** 2 (XP 450; PB +2)
 
-### Traits
+#### Traits
 
 ***Running Leap.*** With a 10-foot running start, the tiger can Long Jump up to 25 feet.
 
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The tiger makes two Rend attacks.
 
 ***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 11 (2d6 + 4) Slashing damage.
 
 
-### Bonus Actions
+#### Bonus Actions
 
 ***Nimble Escape.*** The tiger takes the Disengage or Hide action.
 
-## Scorpion
+### Scorpion
 
 *Small Beast, Unaligned*
 
@@ -2368,11 +2400,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 10 ft.; Passive Perception 9
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Actions
+#### Actions
 
 ***Sting.*** *Melee Attack Roll:* +2, reach 5 ft. 1 Piercing damage plus 3 (1d6) Poison damage.
 
-## Seahorse
+### Seahorse
 
 *Small Beast, Unaligned*
 
@@ -2394,16 +2426,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 12
 - **CR** 0 (XP 0)
 
-### Traits
+#### Traits
 
 ***Water Breathing.*** The seahorse can breathe only underwater.
 
 
-### Actions
+#### Actions
 
 ***Bubble Dash.*** While underwater, the seahorse moves up to its Swim Speed without provoking Opportunity Attacks.
 
-## Spider
+### Spider
 
 *Small Beast, Unaligned*
 
@@ -2425,18 +2457,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 30 ft.; Passive Perception 10
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Spider Climb.*** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 1 Piercing damage plus 2 (1d4) Poison damage.
 
-## Swarm of Bats
+### Swarm of Bats
 
 *Large Beast, Unaligned*
 
@@ -2459,16 +2491,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 60 ft.; Passive Perception 11
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
 
-### Actions
+#### Actions
 
 ***Bites.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
 
-## Swarm of Insects
+### Swarm of Insects
 
 *Medium Beast, Unaligned*
 
@@ -2491,18 +2523,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 30 ft.; Passive Perception 8
 - **CR** 1/2 (XP 100; PB +2)
 
-### Traits
+#### Traits
 
 ***Spider Climb.*** If the swarm has a Climb Speed, the swarm can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
 
-### Actions
+#### Actions
 
 ***Bites.*** *Melee Attack Roll:* +3, reach 5 ft. 6 (2d4 + 1) Poison damage, or 3 (1d4 + 1) Poison damage if the swarm is Bloodied.
 
-## Swarm of Piranhas
+### Swarm of Piranhas
 
 *Medium Beast, Unaligned*
 
@@ -2525,18 +2557,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 8
 - **CR** 1 (XP 200; PB +2)
 
-### Traits
+#### Traits
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny piranha. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
 ***Water Breathing.*** The swarm can breathe only underwater.
 
 
-### Actions
+#### Actions
 
 ***Bites.*** *Melee Attack Roll:* +5 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing damage if the swarm is Bloodied.
 
-## Swarm of Rats
+### Swarm of Rats
 
 *Medium Beast, Unaligned*
 
@@ -2559,16 +2591,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 30 ft.; Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
 
-### Actions
+#### Actions
 
 ***Bites.*** *Melee Attack Roll:* +2, reach 5 ft. 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
 
-## Swarm of Ravens
+### Swarm of Ravens
 
 *Medium Beast, Unaligned*
 
@@ -2592,18 +2624,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 15
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
 
-### Actions
+#### Actions
 
 ***Beaks.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
 
 ***Cacophony (Recharge 6).*** *Wisdom Saving Throw*: DC 10, one creature in the swarm's space. *Failure:*  The target has the Deafened condition until the start of the swarm's next turn. While Deafened, the target also has Disadvantage on ability checks and attack rolls.
 
-## Swarm of Venomous Snakes
+### Swarm of Venomous Snakes
 
 *Medium Beast, Unaligned*
 
@@ -2626,16 +2658,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 10 ft.; Passive Perception 10
 - **CR** 2 (XP 450; PB +2)
 
-### Traits
+#### Traits
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
 
-### Actions
+#### Actions
 
 ***Bites.*** *Melee Attack Roll:* +6, reach 5 ft. 8 (1d8 + 4) Piercing damage—or 6 (1d4 + 4) Piercing damage if the swarm is Bloodied—plus 10 (3d6) Poison damage.
 
-## Tiger
+## Animals: T
+
+### Tiger
 
 *Large Beast, Unaligned*
 
@@ -2657,16 +2691,16 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 1 (XP 200; PB +2)
 
-### Actions
+#### Actions
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
 
-### Bonus Actions
+#### Bonus Actions
 
 ***Nimble Escape.*** The tiger takes the Disengage or Hide action.
 
-## Triceratops
+### Triceratops
 
 *Huge Beast (Dinosaur), Unaligned*
 
@@ -2687,13 +2721,13 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 10
 - **CR** 5 (XP 1,800; PB +3)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The triceratops makes two Gore attacks.
 
 ***Gore.*** *Melee Attack Roll:* +9, reach 5 ft. 19 (2d12 + 6) Piercing damage. If the target is Huge or smaller and the triceratops moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
 
-## Tyrannosaurus Rex
+### Tyrannosaurus Rex
 
 *Huge Beast (Dinosaur), Unaligned*
 
@@ -2715,7 +2749,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 14
 - **CR** 8 (XP 3,900; PB +3)
 
-### Actions
+#### Actions
 
 ***Multiattack.*** The tyrannosaurus makes one Bite attack and one Tail attack.
 
@@ -2723,7 +2757,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 ***Tail.*** *Melee Attack Roll:* +10, reach 15 ft. 25 (4d8 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
 
-## Venomous Snake
+## Animals: V
+
+### Venomous Snake
 
 *Small Beast, Unaligned*
 
@@ -2744,11 +2780,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: blindsight 10 ft.; Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Piercing damage plus 3 (1d6) Poison damage.
 
-## Vulture
+### Vulture
 
 *Medium Beast, Unaligned*
 
@@ -2770,16 +2806,18 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The vulture has Advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 
-### Actions
+#### Actions
 
 ***Beak.*** *Melee Attack Roll:* +2, reach 5 ft. 2 (1d4) Piercing damage.
 
-## Warhorse
+## Animals: W
+
+### Warhorse
 
 *Large Beast, Unaligned*
 
@@ -2800,11 +2838,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
 
-### Actions
+#### Actions
 
 ***Hooves.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (2d4 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the horse moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
 
-## Weasel
+### Weasel
 
 *Small Beast, Unaligned*
 
@@ -2826,11 +2864,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 1 Piercing damage.
 
-## Wolf
+### Wolf
 
 *Medium Beast, Unaligned*
 
@@ -2852,11 +2890,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Senses**: darkvision 60 ft.; Passive Perception 15
 - **CR** 1/4 (XP 50; PB +2)
 
-### Traits
+#### Traits
 
 ***Pack Tactics.*** The wolf has Advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
 
-### Actions
+#### Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.
