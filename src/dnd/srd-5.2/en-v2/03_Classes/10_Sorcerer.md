@@ -7,7 +7,7 @@ Table: Core Sorcerer Traits
 | Primary Ability            | Charisma                                                                                        |
 | Hit Point Die              | D6 per Sorcerer level                                                                           |
 | Saving Throw Proficiencies | Constitution and Charisma                                                                       |
-| Skill Proficiencies        | Choose 2: Arcana, Deception, Insight, Intimidation, Persua sion, or Religion                    |
+| Skill Proficiencies        | Choose 2: Arcana, Deception, Insight, Intimidation, Persuasion, or Religion                    |
 | Weapon Proficiencies       | Simple weapons                                                                                  |
 | Armor Training             | None                                                                                            |
 | Starting Equipment         | Choose A or B: (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 28 GP; or (B) 50 GP |
@@ -24,11 +24,11 @@ Table: Core Sorcerer Traits
 - Gain the Hit Point Die from the Core Sorcerer Traits table.
 - Gain the Sorcerer's level 1 features, which are listed in the Sorcerer Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
-### **Sorcerer Class Features**
+### Sorcerer Class Features
 
 As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.
 
-Table: Sorcerer Features:  ——Spell Slots per Spell Level——
+Table: Sorcerer Features: ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features                  | Sorcery Points | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |-------|-------------------|---------------------------------|----------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
@@ -150,9 +150,7 @@ The following options are available to your Metamagic feature. The options are p
 
 *Cost: 1 Sorcery Point*
 
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and
-
-it takes no damage if it would normally take half damage on a successful save.
+When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
 
 #### Distant Spell
 
@@ -251,7 +249,7 @@ Table: Level 1 Sorcerer Spells
 | Detect Magic         | Divination    | C, R    |
 | Disguise Self        | Illusion      | —       |
 | Expeditious Retreat  | Transmutation | C       |
-| False Life           | Necromancy    | –       |
+| False Life           | Necromancy    | —       |
 | Feather Fall         | Transmutation | —       |
 | Fog Cloud            | Conjuration   | C       |
 | Grease               | Conjuration   | —       |
@@ -371,7 +369,6 @@ Table: Level 6 Sorcerer Spells
 | Move Earth               | Transmutation | C       |
 | Sunbeam                  | Evocation     | C       |
 | True Seeing              | Divination    | M       |
-|                          |               |         |
 
 Table: Level 7 Sorcerer Spells
 
