@@ -49,7 +49,6 @@ The glossary uses the following conventions:
 | V    | Verbal component    |
 | Wis. | Wisdom              |
 | XP   | Experience Point(s) |
-| LN   | Lawful Neutral      |
 
 ## Rules Definitions
 
@@ -184,7 +183,7 @@ Table: Object Hit Points
 **_Damage Types and Objects._** Objects have Immunity to Poison and Psychic damage. The GM might decide that some damage types are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have Vulnerability to Fire damage.
 
 **_Damage Threshold._** Big objects, such as castle walls, often have extra resilience represented by a damage threshold. *See also* "Damage Threshold."
-k
+
 **_No Ability Scores._** An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
 
 #### Bright Light
@@ -512,7 +511,7 @@ While you have the Grappled condition, you experience the following effects.
 
 **_Speed 0._** Your Speed is 0 and can't increase.
 
-**_Attacks Affected._** You have Disadvantage on attack rolls against any target other than the grappler. 
+**_Attacks Affected._** You have Disadvantage on attack rolls against any target other than the grappler.
 
 **_Movable._** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
@@ -676,9 +675,7 @@ A Line's point of origin isn't included in the area of effect unless its creator
 
 #### Long Jump
 
-When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you
-
-move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.
+When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.
 
 If you land in Difficult Terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check or have the Prone condition.
 
@@ -764,7 +761,7 @@ While you have the Paralyzed condition, you experience the following effects.
 
 **_Incapacitated._** You have the Incapacitated condition.
 
-**_Speed 0._** Your Speed is 0 and can't increase. *Saving Throws Affected.* You automatically fail Strength and Dexterity saving throws.
+**_Speed 0._** Your Speed is 0 and can't increase.*Saving Throws Affected.* You automatically fail Strength and Dexterity saving throws.
 
 **_Attacks Affected._** Attack rolls against you have Advantage.
 
@@ -788,7 +785,7 @@ While you have the Petrified condition, you experience the following effects.
 
 **_Incapacitated._** You have the Incapacitated condition.
 
-**_Speed 0._** Your Speed is 0 and can't increase. *Attacks Affected.* Attack rolls against you have Advantage.
+**_Speed 0._** Your Speed is 0 and can't increase.*Attacks Affected.* Attack rolls against you have Advantage.
 
 **_Saving Throws Affected._** You automatically fail Strength and Dexterity saving throws.
 
@@ -848,9 +845,9 @@ If you have Resistance to a damage type, damage of that type is halved against y
 
 While you have the Restrained condition, you experience the following effects.
 
-**_Speed 0._** Your Speed is 0 and can't increase. 
+**_Speed 0._** Your Speed is 0 and can't increase.
 
-**_Attacks Affected._** Attack rolls against you have Advantage, and your attack rolls have Disadvantage. 
+**_Attacks Affected._** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
 
 **_Saving Throws Affected._** You have Disadvantage on Dexterity saving throws.
 
@@ -997,7 +994,7 @@ When you take the Study action, you make an Intelligence check to study your mem
 
 The Areas of Knowledge table suggests which skills are applicable to various areas of knowledge.
 
-#### **Areas of Knowledge**
+#### Areas of Knowledge
 
 | Skill         | Areas                                                                                                                                             |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
