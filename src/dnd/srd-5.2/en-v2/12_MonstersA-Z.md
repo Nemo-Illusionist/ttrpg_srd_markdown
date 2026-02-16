@@ -1,6 +1,6 @@
 # Monsters A–Z
 
-## Monsters A–Z: A
+## Monsters: A
 
 ### Aboleth
 
@@ -191,7 +191,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 
 ***Burning Hammer.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Bludgeoning damage plus 3 (1d6) Fire damage.
 
-## Monsters A–Z: Angels
+## Monsters: Angels
 
 ### Deva
 
@@ -349,7 +349,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 
 ***Radiant Teleport.*** The solar teleports up to 60 feet to an unoccupied space it can see. *Dexterity Saving Throw*: DC 25, each creature in a 10-foot Emanation originating from the solar at its destination space. *Failure:*  11 (2d10) Radiant damage. *Success:*  Half damage.
 
-## Monsters A–Z: Animated Objects
+## Monsters: Animated Objects
 
 ### Animated Armor
 
@@ -432,7 +432,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 ***Smother.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, the rug can give it the Grappled condition (escape DC 13) instead of dealing damage. Until the grapple ends, the target has the Blinded and Restrained conditions, is suffocating, and takes 10 (2d6 + 3) Bludgeoning damage at the start of each of its turns. The rug can smother only one creature at a time.
 While grappling the target, the rug can't take this action, the rug halves the damage it takes (round down), and the target takes the same amount of damage.
 
-## Monsters A–Z: Awakened Plants
+## Monsters: Awakened Plants
 
 ### Awakened Shrub
 
@@ -490,7 +490,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 
 ***Slam.*** *Melee Attack Roll:* +6, reach 10 ft. 13 (2d8 + 4) Bludgeoning damage.
 
-## Monsters A–Z: B
+## Monsters: B
 
 ### Basilisk
 
@@ -629,7 +629,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Leap.*** The bulette jumps up to 30 feet by spending 10 feet of movement.
 
-## Monsters A–Z: Bandits
+## Monsters: Bandits
 
 ### Bandit
 
@@ -692,7 +692,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Pistol.*** *Ranged Attack Roll:* +5, range 30/90 ft. 8 (1d10 + 3) Piercing damage.
 
-## Monsters A–Z: Bugbears
+## Monsters: Bugbears
 
 ### Bugbear Stalker
 
@@ -771,7 +771,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Light Hammer.*** *Melee or Ranged Attack Roll:* +4 (with Advantage if the target is Grappled by the bugbear), reach 10 ft. or range 20/60 ft. 9 (3d4 + 2) Bludgeoning damage.
 
-## Monsters A–Z: C
+## Monsters: C
 
 ### Centaur Trooper
 
@@ -1031,7 +1031,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 ***Divine Aid (2/Day).*** The couatl casts *Bless*, *Lesser Restoration*, or *Sanctuary*, requiring no spell components and using the same spellcasting ability as Spellcasting.
 
-## Monsters A–Z: Cultists
+## Monsters: Cultists
 
 ### Cultist
 
@@ -1099,7 +1099,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 ***Spiritual Weapon (2/Day).*** The cultist casts the *Spiritual Weapon* spell, using the same spellcasting ability as Spellcasting.
 
-## Monsters A–Z: D
+## Monsters: D
 
 ### Darkmantle
 
@@ -1380,7 +1380,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Tree Stride.*** If within 5 feet of a Large or bigger tree, the dryad teleports to an unoccupied space within 5 feet of a second Large or bigger tree that is within 60 feet of the previous tree.
 
-## Monsters A–Z: Demons
+## Monsters: Demons
 
 ### Balor
 
@@ -1724,7 +1724,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Stunning Screech (1/Day).*** *Constitution Saving Throw*: DC 15, each creature in a 20-foot Emanation originating from the vrock (demons succeed automatically). *Failure:*  10 (3d6) Thunder damage, and the target has the Stunned condition until the end of the vrock's next turn.
 
-## Monsters A–Z: Devils
+## Monsters: Devils
 
 ### Barbed Devil
 
@@ -2134,7 +2134,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 - **At Will:** 
 
-## Monsters A–Z: Dragons
+## Monsters: Dragons
 
 ### Adult Black Dragon
 
@@ -3874,7 +3874,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 15, each creature in a 30-foot Cone. *Failure:*  40 (9d8) Cold damage. *Success:*  Half damage.
 
-## Monsters A–Z: E
+## Monsters: E
 
 ### Efreeti
 
@@ -3998,7 +3998,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Morningstar.*** *Melee Attack Roll:* +7, reach 5 ft. 14 (2d8 + 5) Piercing damage, and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
 
-## Monsters A–Z: Elementals
+## Monsters: Elementals
 
 ### Air Elemental
 
@@ -4156,7 +4156,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Whelm (Recharge 4-6).*** *Strength Saving Throw*: DC 15, each creature in the elemental's space. *Failure:*  22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Restrained condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning damage at the start of each of the elemental's turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength (Athletics) check. *Success:*  Half damage only.
 
-## Monsters A–Z: Fungi
+## Monsters: Fungi
 
 ### Shrieker Fungus
 
@@ -4208,7 +4208,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rotting Touch.*** *Melee Attack Roll:* +2, reach 10 ft. 4 (1d8) Necrotic damage.
 
-## Monsters A–Z: G
+## Monsters: G
 
 ### Gargoyle
 
@@ -4548,7 +4548,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 ***Bone Cudgel.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Bludgeoning damage plus 2 (1d4) Psychic damage.
 
-## Monsters A–Z: Giants
+## Monsters: Giants
 
 ### Cloud Giant
 
@@ -4766,7 +4766,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **At Will:** *Detect Magic*, *Light*
 - **1/Day Each:** *Control Weather*
 
-## Monsters A–Z: Goblins
+## Monsters: Goblins
 
 ### Goblin Boss
 
@@ -4873,7 +4873,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 ***Nimble Escape.*** The goblin takes the Disengage or Hide action.
 
-## Monsters A–Z: Golems
+## Monsters: Golems
 
 ### Clay Golem
 
@@ -5049,7 +5049,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Slow (Recharge 5-6).*** The golem casts the *Slow* spell, requiring no spell components and using Constitution as the spellcasting ability (spell save DC 17).
 
-## Monsters A–Z: Guards
+## Monsters: Guards
 
 ### Guard
 
@@ -5111,7 +5111,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Longsword.*** *Melee Attack Roll:* +6, reach 5 ft. 15 (2d10 + 4) Slashing damage.
 
-## Monsters A–Z: H
+## Monsters: H
 
 ### Half-Dragon
 
@@ -5323,7 +5323,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Bite.*** *Melee Attack Roll:* +8, reach 10 ft. 10 (1d10 + 5) Piercing damage.
 
-## Monsters A–Z: Hags
+## Monsters: Hags
 
 ### Green Hag
 
@@ -5457,7 +5457,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 
 - **At Will:** *Disguise Self*
 
-## Monsters A–Z: Hobgoblins
+## Monsters: Hobgoblins
 
 ### Hobgoblin Captain
 
@@ -5529,7 +5529,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 
 ***Longbow.*** *Ranged Attack Roll:* +3, range 150/600 ft. 5 (1d8 + 1) Piercing damage plus 7 (3d4) Poison damage.
 
-## Monsters A–Z: I
+## Monsters: I
 
 ### Incubus
 
@@ -5615,7 +5615,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 
 ***Vortex.*** *Constitution Saving Throw*: DC 14, one Large or smaller creature in the stalker's space. *Failure:*  7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and takes 7 (2d6) Thunder damage at the start of each of the stalker's turns.
 
-## Monsters A–Z: K
+## Monsters: K
 
 ### Kobold Warrior
 
@@ -5704,7 +5704,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Toxic Ink.*** *Constitution Saving Throw*: DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. *Failure:*  The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. *Failure or Success*:  The kraken can't take this action again until the start of its next turn.
 
-## Monsters A–Z: L
+## Monsters: L
 
 ### Lamia
 
@@ -5805,7 +5805,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Frightening Gaze.*** The lich casts *Fear*, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.
 
-## Monsters A–Z: Lycanthropes
+## Monsters: Lycanthropes
 
 ### Werebear
 
@@ -6009,7 +6009,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Shape-Shift.*** The werewolf shape-shifts into a Large wolf-humanoid hybrid or a Medium wolf, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-## Monsters A–Z: M
+## Monsters: M
 
 ### Magmin
 
@@ -6252,7 +6252,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Gore (Recharge 5-6).*** *Melee Attack Roll:* +6, reach 5 ft. 18 (4d6 + 4) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra 10 (3d6) Piercing damage and has the Prone condition.
 
-## Monsters A–Z: Mages
+## Monsters: Mages
 
 ### Archmage
 
@@ -6386,7 +6386,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Protective Magic (3/Day).*** The mage casts *Counterspell* or *Shield* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 
-## Monsters A–Z: Mephits
+## Monsters: Mephits
 
 ### Dust Mephit
 
@@ -6543,7 +6543,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Steam Breath (Recharge 6).*** *Constitution Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:*  5 (2d4) Fire damage, and the target's Speed decreases by 10 feet until the end of the mephit's next turn. *Success:*  Half damage only. *Failure or Success*:  Being underwater doesn't grant Resistance to this Fire damage.
 
-## Monsters A–Z: Mummies
+## Monsters: Mummies
 
 ### Mummy
 
@@ -6634,7 +6634,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Dread Command.*** The mummy casts *Command* (level 2 version), using the same spellcasting ability as Spellcasting. The mummy can't take this action again until the start of its next turn.
 
-## Monsters A–Z: N
+## Monsters: N
 
 ### Nightmare
 
@@ -6700,7 +6700,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Rapier.*** *Melee Attack Roll:* +3, reach 5 ft. 5 (1d8 + 1) Piercing damage.
 
-## Monsters A–Z: Nagas
+## Monsters: Nagas
 
 ### Guardian Naga
 
@@ -6785,7 +6785,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **At Will:** *Detect Magic*, *Mage Hand*, *Minor Illusion*, *Water Breathing*
 - **2e/Day Each:** *Detect Thoughts*, *Dimension Door*, *Hold Person*, *Lightning Bolt*
 
-## Monsters A–Z: O
+## Monsters: O
 
 ### Ogre
 
@@ -6924,7 +6924,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Rend.*** *Melee Attack Roll:* +7, reach 5 ft. 14 (2d8 + 5) Slashing damage.
 
-## Monsters A–Z: Oozes
+## Monsters: Oozes
 
 ### Black Pudding
 
@@ -7069,7 +7069,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 
 ***Pseudopod.*** *Melee Attack Roll:* +4, reach 5 ft. 12 (3d6 + 2) Acid damage.
 
-## Monsters A–Z: P
+## Monsters: P
 
 ### Pegasus
 
@@ -7216,7 +7216,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 ***Swallow.*** *Strength Saving Throw*: DC 19, one Large or smaller creature Grappled by the worm (it can have up to three creatures swallowed at a time). *Failure:*  The target is swallowed by the worm, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, has Cover|XPHB|Total Cover against attacks and other effects outside the worm, and takes 17 (5d6) Acid damage at the start of each of the worm's turns.
 If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the worm and has the Prone condition. If the worm dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.
 
-## Monsters A–Z: Pirates
+## Monsters: Pirates
 
 ### Pirate
 
@@ -7286,7 +7286,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ***Captain's Charm.*** *Wisdom Saving Throw*: DC 14, one creature the pirate can see within 30 feet. *Failure:*  The target has the Charmed condition until the start of the pirate's next turn.
 
-## Monsters A–Z: Priests
+## Monsters: Priests
 
 ### Priest
 
@@ -7368,7 +7368,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ***Divine Aid (1/Day).*** The priest casts *Bless*, *Healing Word*, or *Sanctuary*, using the same spellcasting ability as Spellcasting.
 
-## Monsters A–Z: R
+## Monsters: R
 
 ### Rakshasa
 
@@ -7561,7 +7561,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 
 ***Destroy Metal.*** The rust monster touches a nonmagical metal object within 5 feet of itself that isn't being worn or carried. The touch destroys a 1-foot Cube [Area of Effect]|XPHB|Cube of the object.
 
-## Monsters A–Z: S
+## Monsters: S
 
 ### Sahuagin Warrior
 
@@ -8034,7 +8034,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Swarm of Grasping Hands.*** *Melee Attack Roll:* +4, reach 5 ft. 20 (4d8 + 2) Necrotic damage, or 11 (2d8 + 2) Necrotic damage if the swarm is Bloodied. If the target is a Medium or smaller creature, it has the Prone condition.
 
-## Monsters A–Z: Skeletons
+## Monsters: Skeletons
 
 ### Minotaur Skeleton
 
@@ -8124,7 +8124,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Hooves.*** *Melee Attack Roll:* +6, reach 5 ft. 7 (1d6 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
 
-## Monsters A–Z: Sphinxes
+## Monsters: Sphinxes
 
 ### Sphinx of Lore
 
@@ -8266,7 +8266,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Slashing damage plus 7 (2d6) Radiant damage.
 
-## Monsters A–Z: T
+## Monsters: T
 
 ### Tarrasque
 
@@ -8367,7 +8367,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 
 ***Animate Trees (1/Day).*** The treant magically animates up to two trees it can see within 60 feet of itself. Each tree uses the Treant stat block, except it has Intelligence and Charisma scores of 1, it can't speak, and it lacks this action. The tree takes its turn immediately after the treant on the same Initiative count, and it obeys the treant. A tree remains animate for 1 day or until it dies, the treant dies, or it is more than 120 feet from the treant. The tree then takes root if possible.
 
-## Monsters A–Z: Thugs
+## Monsters: Thugs
 
 ### Tough
 
@@ -8439,7 +8439,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 
 ***Heavy Crossbow.*** *Ranged Attack Roll:* +4, range 100/400 ft. 13 (2d10 + 2) Piercing damage.
 
-## Monsters A–Z: Trolls
+## Monsters: Trolls
 
 ### Troll
 
@@ -8514,7 +8514,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 
 ***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (2d4 + 4) Slashing damage.
 
-## Monsters A–Z: U
+## Monsters: U
 
 ### Unicorn
 
@@ -8569,7 +8569,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 
 ***Shimmering Shield.*** The unicorn targets itself or one creature it can see within 60 feet of itself. The target gains 10 (3d6) Temporary Hit Points, and its AC increases by 2 until the end of the unicorn's next turn. The unicorn can't take this action again until the start of its next turn.
 
-## Monsters A–Z: Vampires
+## Monsters: Vampires
 
 ### Vampire
 
@@ -8728,7 +8728,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 
 ***Deathless Agility.*** The vampire takes the Dash or Disengage action.
 
-## Monsters A–Z: W
+## Monsters: W
 
 ### Wight
 
@@ -8945,7 +8945,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 
 ***Sting.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Piercing damage plus 24 (7d6) Poison damage, and the target has the Poisoned condition until the start of the wyvern's next turn.
 
-## Monsters A–Z: Warriors
+## Monsters: Warriors
 
 ### Berserker
 
@@ -9107,7 +9107,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 
 ***Heavy Crossbow.*** *Ranged Attack Roll:* +3, range 100/400 ft. 12 (2d10 + 1) Piercing damage.
 
-## Monsters A–Z: X
+## Monsters: X
 
 ### Xorn
 
@@ -9153,7 +9153,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 
 ***Charge.*** The xorn moves up to its Speed or Burrow Speed straight toward an enemy it can sense.
 
-## Monsters A–Z: Zombies
+## Monsters: Zombies
 
 ### Ogre Zombie
 
