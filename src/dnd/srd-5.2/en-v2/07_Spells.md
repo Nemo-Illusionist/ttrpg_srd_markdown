@@ -966,7 +966,7 @@ To discern that you are disguised, a creature must take the Study action to insp
 
 One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes 3d6 Psychic damage and must immediately use its Reaction, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
 
-**Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
+**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Divine Favor
 
@@ -1981,7 +1981,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 >
 > ##### Actions
 >
-> **_.Otherworldly Slam. Melee Attack Roll:_** Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 plus the spell's level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
+> **_Otherworldly Slam. Melee Attack Roll:_** Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 plus the spell's level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
 >
 > ##### Bonus Actions
 >
@@ -1989,7 +1989,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 >
 > **_Fey Step (Fey Only; Recharges after a Long Rest)._** The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.
 >
-> **Healing Touch (Celestial Only; Recharges after a Long Rest)._** One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 plus the spell's level.
+> **_Healing Touch (Celestial Only; Recharges after a Long Rest)._** One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 plus the spell's level.
 
 ### Find Traps
 
@@ -2838,7 +2838,7 @@ A bright streak flashes from you to a point you choose within range and then blo
 
 Flammable objects in the area that aren't being worn or carried start burning.
 
-**Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 3.
+**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 3.
 
 ### Fly
 
@@ -3748,11 +3748,11 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 >
 > **_Poison Jab. Melee Attack Roll:_** Bonus equals your spell attack modifier, reach 10 ft. *Hit:* 1d6 + 3 plus the spell's level Piercing damage plus 1d4 Poison damage.
 >
-> **Web Bolt (Spider Only). Ranged Attack Roll:_** Bonus equals your spell attack modifier, range 60 ft. *Hit:* 1d10 + 3 plus the spell's level Bludgeoning damage, and the target's Speed is reduced to 0 until the start of the insect's next turn.
+> **_Web Bolt (Spider Only). Ranged Attack Roll:_** Bonus equals your spell attack modifier, range 60 ft. *Hit:* 1d10 + 3 plus the spell's level Bludgeoning damage, and the target's Speed is reduced to 0 until the start of the insect's next turn.
 >
 > ##### Bonus Actions
 >
-> **Venomous Spew (Centipede Only). Constitution Saving Throw:_** Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the Poisoned condition until the start of the insect's next turn.
+> **_Venomous Spew (Centipede Only). Constitution Saving Throw:_** Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the Poisoned condition until the start of the insect's next turn.
 
 ### Greater Invisibility
 
@@ -4090,7 +4090,7 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 >
 > ##### Actions
 >
-> **Slam.** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3 (Medium or smaller), 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).
+> **_Slam. Melee Attack Roll:_** Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3 (Medium or smaller), 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).
 
 ### Antilife Shell
 
@@ -4740,7 +4740,9 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 >
 > **Senses** Blindsight 30 ft., Darkvision 60 ft.; Passive Perception 12
 >
-> **Languages** Draconic, understands the languages you know **CR** None (XP 0; PB equals your Proficiency Bonus)
+> **Languages** Draconic, understands the languages you know
+>
+> **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > ##### Traits
 >
@@ -4752,7 +4754,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 >
 > **_Rend. Melee Attack Roll:_** Bonus equals your spell attack modifier, reach 10 feet. *Hit:* 1d6 + 4 + the spell's level Piercing damage.
 >
-> **_Breath Weapon. Dexterity Saving Throw:_** DC equals your spell save DC, each creature in a 30-foot Cone. *Failure:* 2d6 damage of a type this spirit has Resistance to (your choice when you cast the spell). *Success:*  Half damage.
+> **_Breath Weapon. Dexterity Saving Throw:_** DC equals your spell save DC, each creature in a 30-foot Cone. *Failure:* 2d6 damage of a type this spirit has Resistance to (your choice when you cast the spell). *Success:* Half damage.
 
 ### Telekinesis
 
@@ -4916,7 +4918,7 @@ You launch a lightning bolt toward a target you can see within range. Three bolt
 
 Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a failed save or half as much damage on a successful one.
 
-*Using a Higher-Level Spell Slot.* One additional bolt leaps from the first target to another target for each spell slot level above 6.
+**_Using a Higher-Level Spell Slot._** One additional bolt leaps from the first target to another target for each spell slot level above 6.
 
 ### Circle of Death
 
@@ -6049,7 +6051,7 @@ You can also cause the effects below.
 
 **_Fissures._** A total of 1d6 fissures open in the spell's area at the end of the turn you cast it. You choose the fissures' locations, which can't be under structures. Each fissure is 1d10 × 10 feet deep and 10 feet wide, and it extends from one edge of the spell's area to another edge. A creature in the same space as a fissure must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure's edge as it opens.
 
-**Structures._** The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 Hit Points, it collapses.
+**_Structures._** The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 Hit Points, it collapses.
 
 A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes 12d6 Bludgeoning damage, has the Prone condition, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. On a successful save, the creature takes half as much damage only.
 
