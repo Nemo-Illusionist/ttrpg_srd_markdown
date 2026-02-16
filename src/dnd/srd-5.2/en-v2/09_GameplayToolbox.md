@@ -20,11 +20,11 @@ Characters can push themselves to travel for more than 8 hours per day, at the r
 
 If a party can travel at a high Speed for an extended time, as with a spell such as *Wind Walk* or a magic item such as a *Carpet of Flying*, translate the party's Speed into travel rates using these rules:
 
-**Miles per hour** = Speed ÷ 10 
+**Miles per hour** = Speed ÷ 10
 
-**Miles per day** (Normal pace) = Miles per hour × number of hours traveled (typically 8) 
+**Miles per day** (Normal pace) = Miles per hour × number of hours traveled (typically 8)
 
-**Fast pace** = Miles per day × 1⅓ (round down) 
+**Fast pace** = Miles per day × 1⅓ (round down)
 
 **Slow pace** = Miles per day × 2/3 (round down)
 
@@ -68,7 +68,7 @@ Table: Travel Terrain
 | Urban      | Normal       | 2d6 × 10 feet      | 20          | 15            | 15        |
 | Waterborne | Special†     | 6d6 × 10 feet      | 15          | 10            | 15        |
 
-\*Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain. 
+\*Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain.
 
 † Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
 
@@ -162,9 +162,9 @@ Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which af
 
 Fouled potions and alchemical waste can give rise to Sewer Plague, which incubates in sewers and refuse heaps and is sometimes transmitted by creatures that dwell in such areas, including otyughs and rats. Any Humanoid that is wounded by a creature that carries the contagion or that comes into contact with contaminated filth or offal must succeed on a DC 11 Constitution saving throw or become infected with Sewer Plague. A creature suffers the following effects 1d4 days after infection:
 
-**Fatigue.** The creature gains 1 Exhaustion level. 
+**Fatigue.** The creature gains 1 Exhaustion level.
 
-**Weakness.** While the creature has any Exhaustion levels, it regains only half the normal number of Hit Points from spending Hit Point Dice. 
+**Weakness.** While the creature has any Exhaustion levels, it regains only half the normal number of Hit Points from spending Hit Point Dice.
 
 **Restlessness.** While the creature has any Exhaustion levels, finishing a Long Rest neither restores lost Hit Points nor reduces the creature's Exhaustion level.
 
@@ -180,7 +180,7 @@ Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a D
 
 **_Spreading the Contagion._** Any Humanoid that makes skin contact with a creature infected with Sight Rot must succeed on a DC 15 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
 
-## Environmental Effects 
+## Environmental Effects
 
 ### Deep Water
 
@@ -406,7 +406,7 @@ Traps are presented in alphabetical order.
 
 *Deadly Trap (Levels 1–4)*
 
-**Trigger:** A creature crosses a trip wire 
+**Trigger:** A creature crosses a trip wire
 
 **Duration:** Instantaneous
 
@@ -428,7 +428,7 @@ The first creature that crosses the trip wire causes the supports to topple and 
 
 *Nuisance Trap (Levels 1–4)*
 
-**Trigger:** A creature crosses a trip wire 
+**Trigger:** A creature crosses a trip wire
 
 **Duration:** Instantaneous
 
@@ -460,7 +460,7 @@ As a Search action, a creature can examine the section of floor that forms the p
 
 **_At Higher Levels._** You can scale the trap for higher levels by increasing the damage and the area of effect, as shown in the following table.
 
-| Levels | Fire Damage | Area of Effect | 
+| Levels | Fire Damage | Area of Effect |
 |--------|-------------|----------------|
 | 5–10   | 22 (4d10)   | 30-foot Cone   |
 | 11–16  | 55 (10d10)  | 60-foot Cone   |
@@ -470,7 +470,7 @@ As a Search action, a creature can examine the section of floor that forms the p
 
 *Nuisance Trap (Levels 1–4)*
 
-**Trigger:** A creature moves onto the pit's lid 
+**Trigger:** A creature moves onto the pit's lid
 
 **Duration:** Instantaneous
 
@@ -494,7 +494,7 @@ A creature that falls into the pit takes 3 (1d6) Bludgeoning damage from the fal
 
 *Deadly Trap (Levels 1–4)*
 
-**Trigger:** A creature moves onto a pressure plate 
+**Trigger:** A creature moves onto a pressure plate
 
 **Duration:** Instantaneous, and the trap resets at the start of the next turn if it has activated fewer than three times
 
@@ -512,7 +512,7 @@ As a Search action, a creature can examine the section of floor that forms the p
 
 *Nuisance Trap (Levels 1–4)*
 
-**Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap 
+**Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap
 
 **Duration:** Instantaneous
 
@@ -534,7 +534,7 @@ A poisoned needle is hidden in a lock. When a creature opens the lock with any o
 
 *Deadly Trap (Levels 11–16) or Nuisance Trap (Levels 17–20)*
 
-**Trigger:** A creature moves onto a pressure plate 
+**Trigger:** A creature moves onto a pressure plate
 
 **Duration:** Until the stone stops rolling
 
@@ -554,7 +554,7 @@ The stone stops when it hits a wall or similar barrier. It can't go around corne
 
 *Deadly Trap (Levels 1–4)*
 
-**Trigger:** A creature moves onto the pit's lid 
+**Trigger:** A creature moves onto the pit's lid
 
 **Duration:** Instantaneous
 
@@ -604,7 +604,7 @@ Three categories describe the range of encounter difficulty:
 
 Using the XP Budget per Character table, cross-reference the party's level with the desired encounter difficulty. Multiply the number in the table by the number of characters in the party to get your XP budget for the encounter.
 
-Table: XP Budget per Character: ——— Encounter Difficulty ——— 
+Table: XP Budget per Character: ——— Encounter Difficulty ———
 
 | Party's Level | Low DC | Moderate DC | High DC |
 |---------------|--------|-------------|---------|
