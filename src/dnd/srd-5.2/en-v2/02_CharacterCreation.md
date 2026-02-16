@@ -236,7 +236,6 @@ The summaries of the alignments below describe the typical behavior of a creatur
 >
 >Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. Sharks are savage predators, for example, but they aren't evil; they are unaligned.
 
-
 ### Step 5: Character Creation Details
 
 Now fill in the rest of your character sheet.
@@ -282,7 +281,7 @@ The character sheet includes room to note your current Hit Points when you take 
 
 **Attacks.** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
-*Melee attack bonus* = Strength modifier + Proficiency Bonus 
+*Melee attack bonus* = Strength modifier + Proficiency Bonus
 
 *Ranged attack bonus* = Dexterity modifier + Proficiency Bonus
 
@@ -503,7 +502,7 @@ Table: Trinkets
 | 07    | A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips          |
 | 08    | A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it       |
 | 09    | A lock of someone's hair                                                                                    |
-| 10    | The deed for a parcel of land in a realm un known to you                                                    |
+| 10    | The deed for a parcel of land in a realm unknown to you                                                    |
 | 11    | A 1-ounce block made from an unknown material                                                               |
 | 12    | A small cloth doll skewered with needles                                                                    |
 | 13    | A tooth from an unknown beast                                                                               |
@@ -528,17 +527,17 @@ Table: Trinkets
 | 32    | A knife that belonged to a relative                                                                         |
 | 33    | A glass vial filled with nail clippings                                                                     |
 | 34    | A rectangular metal device with two tiny metal cups on one end that throws sparks when wet                  |
-| 35    | A white, sequined glove sized for a human                                                                   | 
+| 35    | A white, sequined glove sized for a human                                                                   |
 | 36    | A vest with one hundred tiny pockets                                                                        |
 | 37    | A weightless stone                                                                                          |
 | 38    | A sketch of a goblin                                                                                        |
-| 39    | An empty glass vial that smells of perfume                                                                  | 
+| 39    | An empty glass vial that smells of perfume                                                                  |
 | 40    | A gemstone that looks like a lump of coal when examined by anyone but you                                   |
 | 41    | A scrap of cloth from an old banner                                                                         |
 | 42    | A rank insignia from a lost legionnaire                                                                     |
 | 43    | A silver bell without a clapper                                                                             |
 | 44    | A mechanical canary inside a lamp                                                                           |
-| 45    | A miniature chest carved to look like it has nu merous feet on the bottom                                   |
+| 45    | A miniature chest carved to look like it has numerous feet on the bottom                                   |
 | 46    | A dead sprite inside a clear glass bottle                                                                   |
 | 47    | A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice) |
 | 48    | A glass orb filled with water, in which swims a clockwork goldfish                                          |
@@ -564,7 +563,7 @@ Table: Trinkets
 | 68    | A 1-inch cube, each side a different color                                                                  |
 | 69    | A crystal doorknob                                                                                          |
 | 70    | A packet filled with pink dust                                                                              |
-| 71    | A fragment of a beautiful song, written as mu sical notes on two pieces of parchment                        |
+| 71    | A fragment of a beautiful song, written as musical notes on two pieces of parchment                        |
 | 72    | A silver teardrop earring containing a real teardrop                                                        |
 | 73    | An eggshell painted with scenes of misery in disturbing detail                                              |
 | 74    | A fan that, when unfolded, shows a sleepy cat                                                               |
@@ -594,4 +593,3 @@ Table: Trinkets
 | 98    | A glass jar containing lard with a label that reads, "Griffon Grease"                                       |
 | 99    | A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body             |
 | 00    | A metal urn containing the ashes of a hero                                                                  |
-
