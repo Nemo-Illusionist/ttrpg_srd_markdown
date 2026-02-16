@@ -7,11 +7,11 @@ Table: Core Rogue Traits
 | Primary Ability            | Dexterity                                                                                           |
 | Hit Point Die              | D8 per Rogue level                                                                                  |
 | Saving Throw Proficiencies | Dexterity and Intelligence                                                                          |
-| Skill Proficiencies        | Choose 4: Acrobatics, Ath letics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
+| Skill Proficiencies        | Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
 | Weapon Proficiencies       | Simple weapons and Martial weapons that have the Finesse or Light property                          |
 | Tool Proficiencies         | Thieves' Tools                                                                                      |
 | Armor Training             | Light armor                                                                                         |
-| Starting Equipment         | Choose A or B: (A) Leather Ar mor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |
+| Starting Equipment         | Choose A or B: (A) Leather Armor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |
 
 ### Becoming a Rogue …
 
