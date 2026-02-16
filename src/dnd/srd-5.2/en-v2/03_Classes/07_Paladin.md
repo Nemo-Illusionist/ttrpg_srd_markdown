@@ -1,6 +1,6 @@
 ## Paladin
 
-Table: Core Paladin Traits**
+Table: Core Paladin Traits
 
 |                               |                                                                                             |
 |-------------------------------|---------------------------------------------------------------------------------------------|
@@ -12,15 +12,14 @@ Table: Core Paladin Traits**
 | Armor Training                | Light, Medium, and Heavy armor and Shields                                                  |
 | Starting Equipment            | Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or (B) 150 GP |
 
-### **Becoming a Paladin …**
+### Becoming a Paladin …
 
 #### As a Level 1 Character
 
-• Gain all the traits in the Core Paladin Traits table.
+- Gain all the traits in the Core Paladin Traits table.
+- Gain the Paladin's level 1 features, which are listed in the Paladin Features table.
 
-• Gain the Paladin's level 1 features, which are listed in the Paladin Features table.
-
-## **As a Multiclass Character**
+### As a Multiclass Character
 
 - Gain the following traits from the Core Paladin Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
 - Gain the Paladin's level 1 features, which are listed in the Paladin Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
@@ -29,7 +28,7 @@ Table: Core Paladin Traits**
 
 As a Paladin, you gain the following class features when you reach the specified Paladin levels. These features are listed in the Paladin Features table.
 
-Table: Paladin Features: —Spell Slots per Spell Level— 
+Table: Paladin Features: —Spell Slots per Spell Level—
 
 | Level | Proficiency Bonus | Class Features                                | Channel Divinity | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
 |-------|-------------------|-----------------------------------------------|------------------|-----------------|---|---|---|---|---|
