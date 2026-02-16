@@ -3154,9 +3154,7 @@ Upon receiving your message, a creature can block your ability to reach it again
 
 Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder centered on a point you choose within range. The area is Heavily Obscured, and exposed flames in the area are doused.
 
-Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a
-
-Dexterity saving throw or have the Prone condition and lose Concentration.
+Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the Prone condition and lose Concentration.
 
 ### Slow
 
@@ -4226,9 +4224,7 @@ For example, you could determine the location of a powerful monster in the area,
 
 **Duration:** Instantaneous
 
-You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a
-
-Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
+You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 
 **_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 5.
 
@@ -5116,9 +5112,7 @@ The spell creates the effects below within the warded area. *Dispel Magic* has n
 
 **Duration:** Instantaneous
 
-You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6
-
-Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's Hit Point maximum below 1.
+You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's Hit Point maximum below 1.
 
 ### Heal
 
@@ -5904,9 +5898,7 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 
 **Antipathy.** The creature has the Frightened condition. The Frightened creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.
 
-**Sympathy.** The creature has the Charmed condition. The Charmed creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the Charmed creature, that creature can make a
-
-Wisdom saving throw to end the effect, as described below.
+**Sympathy.** The creature has the Charmed condition. The Charmed creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the Charmed creature, that creature can make a Wisdom saving throw to end the effect, as described below.
 
 **_Ending the Effect._** If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
 
