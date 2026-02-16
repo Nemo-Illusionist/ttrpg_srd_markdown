@@ -7,11 +7,11 @@ Table: Core Druid Traits
 | Primary Ability            | Wisdom                                                                                                                                   |
 | Hit Point Die              | D8 per Druid level                                                                                                                       |
 | Saving Throw Proficiencies | Intelligence and Wisdom                                                                                                                  |
-| Skill Proficiencies        | Choose 2: Animal Handling, Arcana, Insight, Medicine, Na ture, Perception, Religion, or Survival                                         |
+| Skill Proficiencies        | Choose 2: Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Religion, or Survival                                         |
 | Weapon Proficiencies       | Simple weapons                                                                                                                           |
 | Tool Proficiencies         | Herbalism Kit                                                                                                                            |
 | Armor Training             | Light armor and Shields                                                                                                                  |
-| Starting Equipment         | Choose A or B: (A) Leather Ar mor, Shield, Sickle, Druidic Fo cus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
+| Starting Equipment         | Choose A or B: (A) Leather Armor, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
 
 ### Becoming a Druid …
 
@@ -29,7 +29,7 @@ Table: Core Druid Traits
 
 As a Druid, you gain the following class features when you reach the specified Druid levels. These features are listed in the Druid Features table.
 
-Table: Druid Features: ——Spell Slots per Spell Level—— 
+Table: Druid Features: ——Spell Slots per Spell Level——
 
 | Level       | Proficiency Bonus | Class Features                         | Wild Shape | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |-------------|-------------------|----------------------------------------|------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
@@ -181,20 +181,19 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 Table: Cantrips (Level 0 Druid Spells)
 
-| School        | Special |
-|---------------|---------|
-| Transmutation | —       |
-| Transmutation | —       |
-| Divination    | C       |
-| Transmutation | —       |
-| Transmutation | —       |
-| Necromancy    | —       |
-| Conjuration   | —       |
-| Abjuration    | C       |
-| Transmutation | —       |
-| Necromancy    | —       |
-| Evocation     | —       |
-|               |         |
+| Spell           | School        | Special |
+|-----------------|---------------|---------|
+| Control Flames  | Transmutation | —       |
+| Druidcraft      | Transmutation | —       |
+| Guidance        | Divination    | C       |
+| Mending         | Transmutation | —       |
+| Message         | Transmutation | —       |
+| Poison Spray    | Necromancy    | —       |
+| Produce Flame   | Conjuration   | —       |
+| Resistance      | Abjuration    | C       |
+| Shillelagh      | Transmutation | —       |
+| Spare the Dying | Necromancy    | —       |
+| Starry Wisp     | Evocation     | —       |
 
 Table: Level 1 Druid Spells
 
@@ -305,7 +304,6 @@ Table: Level 5 Druid Spells
 | Scrying             | Divination    | C, M    |
 | Tree Stride         | Conjuration   | C       |
 | Wall of Stone       | Evocation     | C       |
-|                     |               |         |
 
 Table: Level 6 Druid Spells
 
