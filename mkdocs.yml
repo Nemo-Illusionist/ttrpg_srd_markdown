@@ -72,6 +72,12 @@ plugins:
             Монстры: Monsters
             "Монстры от А до Я": "Monsters A\u2013Z"
             Животные: Animals
+            Глоссарий: Glossary
+            Термины: Terms
+            "Заклинания (справочник)": "Spells (Reference)"
+            "Магические предметы (справочник)": "Magic Items (Reference)"
+            "Монстры (справочник)": "Monsters (Reference)"
+            "Животные (справочник)": "Animals (Reference)"
   - search:
       lang:
         - ru
@@ -117,3 +123,9 @@ nav:
           - Монстры: dnd/srd-5.2/11_Monsters.md
           - "Монстры от А до Я": dnd/srd-5.2/12_MonstersA-Z.md
           - Животные: dnd/srd-5.2/13_Animals.md
+          - Глоссарий:
+              - Термины: dnd/srd-5.2/14_Glossary/00_Glossary.md
+              - Заклинания (справочник): dnd/srd-5.2/14_Glossary/02_Spells.md
+              - Магические предметы (справочник): dnd/srd-5.2/14_Glossary/03_MagicItems.md
+              - Монстры (справочник): dnd/srd-5.2/14_Glossary/04_Monsters.md
+              - Животные (справочник): dnd/srd-5.2/14_Glossary/05_Animals.md
