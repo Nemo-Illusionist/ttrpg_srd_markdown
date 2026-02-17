@@ -24,8 +24,6 @@ theme:
         name: Светлая тема
   features:
     - navigation.tabs
-    - navigation.sections
-    - navigation.expand
     - navigation.top
     - navigation.footer
     - search.suggest
@@ -87,7 +85,7 @@ plugins:
             Мультиклассирование: Multiclassing
             Состояния: Conditions
             Инструментарий мастера: Gamemastering Toolbox
-            "D&D Конвертация в SRD 5.2.1": "D&D Converting to SRD 5.2.1"
+            "Конвертация в SRD 5.2.1": "Converting to SRD 5.2.1"
   - search:
       lang:
         - ru
@@ -105,66 +103,67 @@ markdown_extensions:
 
 nav:
   - Главная: index.md
-  - D&D SRD 5.2.1:
-      - Правовая информация: dnd/srd-5.2/00_Legal.md
-      - Как играть: dnd/srd-5.2/01_PlayingTheGame.md
-      - Создание персонажа: dnd/srd-5.2/02_CharacterCreation.md
-      - Классы:
-          - Варвар: dnd/srd-5.2/03_Classes/01_Barbarian.md
-          - Бард: dnd/srd-5.2/03_Classes/02_Bard.md
-          - Жрец: dnd/srd-5.2/03_Classes/03_Cleric.md
-          - Друид: dnd/srd-5.2/03_Classes/04_Druid.md
-          - Воин: dnd/srd-5.2/03_Classes/05_Fighter.md
-          - Монах: dnd/srd-5.2/03_Classes/06_Monk.md
-          - Паладин: dnd/srd-5.2/03_Classes/07_Paladin.md
-          - Следопыт: dnd/srd-5.2/03_Classes/08_Ranger.md
-          - Плут: dnd/srd-5.2/03_Classes/09_Rogue.md
-          - Чародей: dnd/srd-5.2/03_Classes/10_Sorcerer.md
-          - Колдун: dnd/srd-5.2/03_Classes/11_Warlock.md
-          - Волшебник: dnd/srd-5.2/03_Classes/12_Wizard.md
-      - Происхождение персонажа: dnd/srd-5.2/04_CharacterOrigins.md
-      - Черты: dnd/srd-5.2/05_Feats.md
-      - Снаряжение: dnd/srd-5.2/06_Equipment.md
-      - Заклинания: dnd/srd-5.2/07_Spells.md
-      - Глоссарий правил: dnd/srd-5.2/08_RulesGlossary.md
-      - Инструментарий: dnd/srd-5.2/09_GameplayToolbox.md
-      - Магические предметы: dnd/srd-5.2/10_MagicItems.md
-      - Монстры: dnd/srd-5.2/11_Monsters.md
-      - "Монстры от А до Я": dnd/srd-5.2/12_MonstersA-Z.md
-      - Животные: dnd/srd-5.2/13_Animals.md
-      - Глоссарий:
-          - Термины: dnd/srd-5.2/14_Glossary/00_Glossary.md
-          - Заклинания (справочник): dnd/srd-5.2/14_Glossary/02_Spells.md
-          - Магические предметы (справочник): dnd/srd-5.2/14_Glossary/03_MagicItems.md
-          - Монстры (справочник): dnd/srd-5.2/14_Glossary/04_Monsters.md
-          - Животные (справочник): dnd/srd-5.2/14_Glossary/05_Animals.md
-  - D&D SRD 5.1:
-      - Правовая информация: dnd/srd-5.1/00_Legal.md
-      - Способности: dnd/srd-5.1/01_Abilities.md
-      - Приключения: dnd/srd-5.1/02_Adventuring.md
-      - Бой: dnd/srd-5.1/03_Combat.md
-      - Расы: dnd/srd-5.1/04_Races.md
-      - Детали персонажа: dnd/srd-5.1/05_CharacterDetails.md
-      - Классы:
-          - Варвар: dnd/srd-5.1/06_Classes/01_Barbarian.md
-          - Бард: dnd/srd-5.1/06_Classes/02_Bard.md
-          - Жрец: dnd/srd-5.1/06_Classes/03_Cleric.md
-          - Друид: dnd/srd-5.1/06_Classes/04_Druid.md
-          - Воин: dnd/srd-5.1/06_Classes/05_Fighter.md
-          - Монах: dnd/srd-5.1/06_Classes/06_Monk.md
-          - Паладин: dnd/srd-5.1/06_Classes/07_Paladin.md
-          - Следопыт: dnd/srd-5.1/06_Classes/08_Ranger.md
-          - Плут: dnd/srd-5.1/06_Classes/09_Rogue.md
-          - Чародей: dnd/srd-5.1/06_Classes/10_Sorcerer.md
-          - Колдун: dnd/srd-5.1/06_Classes/11_Warlock.md
-          - Волшебник: dnd/srd-5.1/06_Classes/12_Wizard.md
-      - Мультиклассирование: dnd/srd-5.1/07_Multiclassing.md
-      - Черты: dnd/srd-5.1/08_Feats.md
-      - Снаряжение: dnd/srd-5.1/09_Equipment.md
-      - Заклинания: dnd/srd-5.1/10_Spells.md
-      - Состояния: dnd/srd-5.1/11_Conditions.md
-      - Инструментарий мастера: dnd/srd-5.1/12_GamemasteringToolbox.md
-      - Магические предметы: dnd/srd-5.1/13_MagicItems.md
-      - Монстры: dnd/srd-5.1/14_Monsters.md
-      - "Монстры от А до Я": dnd/srd-5.1/15_MonstersA-Z.md
-  - "D&D Конвертация в SRD 5.2.1": dnd/converting-srd-5.2/converting-to-srd-5.2.1.md
+  - D&D:
+      - SRD 5.2.1:
+          - Правовая информация: dnd/srd-5.2/00_Legal.md
+          - Как играть: dnd/srd-5.2/01_PlayingTheGame.md
+          - Создание персонажа: dnd/srd-5.2/02_CharacterCreation.md
+          - Классы:
+              - Варвар: dnd/srd-5.2/03_Classes/01_Barbarian.md
+              - Бард: dnd/srd-5.2/03_Classes/02_Bard.md
+              - Жрец: dnd/srd-5.2/03_Classes/03_Cleric.md
+              - Друид: dnd/srd-5.2/03_Classes/04_Druid.md
+              - Воин: dnd/srd-5.2/03_Classes/05_Fighter.md
+              - Монах: dnd/srd-5.2/03_Classes/06_Monk.md
+              - Паладин: dnd/srd-5.2/03_Classes/07_Paladin.md
+              - Следопыт: dnd/srd-5.2/03_Classes/08_Ranger.md
+              - Плут: dnd/srd-5.2/03_Classes/09_Rogue.md
+              - Чародей: dnd/srd-5.2/03_Classes/10_Sorcerer.md
+              - Колдун: dnd/srd-5.2/03_Classes/11_Warlock.md
+              - Волшебник: dnd/srd-5.2/03_Classes/12_Wizard.md
+          - Происхождение персонажа: dnd/srd-5.2/04_CharacterOrigins.md
+          - Черты: dnd/srd-5.2/05_Feats.md
+          - Снаряжение: dnd/srd-5.2/06_Equipment.md
+          - Заклинания: dnd/srd-5.2/07_Spells.md
+          - Глоссарий правил: dnd/srd-5.2/08_RulesGlossary.md
+          - Инструментарий: dnd/srd-5.2/09_GameplayToolbox.md
+          - Магические предметы: dnd/srd-5.2/10_MagicItems.md
+          - Монстры: dnd/srd-5.2/11_Monsters.md
+          - "Монстры от А до Я": dnd/srd-5.2/12_MonstersA-Z.md
+          - Животные: dnd/srd-5.2/13_Animals.md
+          - Глоссарий:
+              - Термины: dnd/srd-5.2/14_Glossary/00_Glossary.md
+              - Заклинания (справочник): dnd/srd-5.2/14_Glossary/02_Spells.md
+              - Магические предметы (справочник): dnd/srd-5.2/14_Glossary/03_MagicItems.md
+              - Монстры (справочник): dnd/srd-5.2/14_Glossary/04_Monsters.md
+              - Животные (справочник): dnd/srd-5.2/14_Glossary/05_Animals.md
+      - SRD 5.1:
+          - Правовая информация: dnd/srd-5.1/00_Legal.md
+          - Способности: dnd/srd-5.1/01_Abilities.md
+          - Приключения: dnd/srd-5.1/02_Adventuring.md
+          - Бой: dnd/srd-5.1/03_Combat.md
+          - Расы: dnd/srd-5.1/04_Races.md
+          - Детали персонажа: dnd/srd-5.1/05_CharacterDetails.md
+          - Классы:
+              - Варвар: dnd/srd-5.1/06_Classes/01_Barbarian.md
+              - Бард: dnd/srd-5.1/06_Classes/02_Bard.md
+              - Жрец: dnd/srd-5.1/06_Classes/03_Cleric.md
+              - Друид: dnd/srd-5.1/06_Classes/04_Druid.md
+              - Воин: dnd/srd-5.1/06_Classes/05_Fighter.md
+              - Монах: dnd/srd-5.1/06_Classes/06_Monk.md
+              - Паладин: dnd/srd-5.1/06_Classes/07_Paladin.md
+              - Следопыт: dnd/srd-5.1/06_Classes/08_Ranger.md
+              - Плут: dnd/srd-5.1/06_Classes/09_Rogue.md
+              - Чародей: dnd/srd-5.1/06_Classes/10_Sorcerer.md
+              - Колдун: dnd/srd-5.1/06_Classes/11_Warlock.md
+              - Волшебник: dnd/srd-5.1/06_Classes/12_Wizard.md
+          - Мультиклассирование: dnd/srd-5.1/07_Multiclassing.md
+          - Черты: dnd/srd-5.1/08_Feats.md
+          - Снаряжение: dnd/srd-5.1/09_Equipment.md
+          - Заклинания: dnd/srd-5.1/10_Spells.md
+          - Состояния: dnd/srd-5.1/11_Conditions.md
+          - Инструментарий мастера: dnd/srd-5.1/12_GamemasteringToolbox.md
+          - Магические предметы: dnd/srd-5.1/13_MagicItems.md
+          - Монстры: dnd/srd-5.1/14_Monsters.md
+          - "Монстры от А до Я": dnd/srd-5.1/15_MonstersA-Z.md
+      - "Конвертация в SRD 5.2.1": dnd/converting-srd-5.2/converting-to-srd-5.2.1.md
