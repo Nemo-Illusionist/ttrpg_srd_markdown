@@ -24,7 +24,6 @@ theme:
         name: Светлая тема
   features:
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - navigation.footer
     - search.suggest
