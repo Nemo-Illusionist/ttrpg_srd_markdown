@@ -23,7 +23,6 @@ theme:
         icon: material/brightness-4
         name: Светлая тема
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
@@ -87,7 +86,7 @@ plugins:
             Мультиклассирование: Multiclassing
             Состояния: Conditions
             Инструментарий мастера: Gamemastering Toolbox
-            "Конвертация в SRD 5.2.1": "Converting to SRD 5.2.1"
+            "D&D Конвертация в SRD 5.2.1": "D&D Converting to SRD 5.2.1"
   - search:
       lang:
         - ru
@@ -105,7 +104,7 @@ markdown_extensions:
 
 nav:
   - Главная: index.md
-  - SRD 5.2.1:
+  - D&D SRD 5.2.1:
       - Правовая информация: dnd/srd-5.2/00_Legal.md
       - Как играть: dnd/srd-5.2/01_PlayingTheGame.md
       - Создание персонажа: dnd/srd-5.2/02_CharacterCreation.md
@@ -138,7 +137,7 @@ nav:
           - Магические предметы (справочник): dnd/srd-5.2/14_Glossary/03_MagicItems.md
           - Монстры (справочник): dnd/srd-5.2/14_Glossary/04_Monsters.md
           - Животные (справочник): dnd/srd-5.2/14_Glossary/05_Animals.md
-  - SRD 5.1:
+  - D&D SRD 5.1:
       - Правовая информация: dnd/srd-5.1/00_Legal.md
       - Способности: dnd/srd-5.1/01_Abilities.md
       - Приключения: dnd/srd-5.1/02_Adventuring.md
@@ -167,4 +166,4 @@ nav:
       - Магические предметы: dnd/srd-5.1/13_MagicItems.md
       - Монстры: dnd/srd-5.1/14_Monsters.md
       - "Монстры от А до Я": dnd/srd-5.1/15_MonstersA-Z.md
-  - "Конвертация в SRD 5.2.1": dnd/converting-srd-5.2/converting-to-srd-5.2.1.md
+  - "D&D Конвертация в SRD 5.2.1": dnd/converting-srd-5.2/converting-to-srd-5.2.1.md
