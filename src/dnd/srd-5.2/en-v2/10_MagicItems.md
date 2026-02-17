@@ -41,12 +41,12 @@ Table: Potion Miscibility
 | 1d100 | Result                                                                                                                                      |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 01    | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius Sphere centered on itself. Each creature in that area takes 4d10 Force damage. |
-| 02–08 | Both potions lose their effects, and the mix ture becomes an ingested poison of your choice (see "Poison" in "Gameplay Toolbox").           |
+| 02–08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see "Poison" in "Gameplay Toolbox").           |
 | 09–15 | Both potions lose their effects.                                                                                                            |
 | 16–25 | One potion loses its effect.                                                                                                                |
 | 26–35 | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect. |
 | 36–90 | Both potions work normally.                                                                                                                 |
-| 91–99 | Both potions work, but the numerical effects and duration of one potion are doubled. If nei ther potion has anything to double in this way, they work normally. |
+| 91–99 | Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
 | 00    | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a *Potion of Healing* might increase the drinker's Hit Point maximum by 2d4 + 2, or a *Potion of Invisibility* might give the drinker the Invisible condition indefinitely. At your discretion, a *Dispel Magic* spell or similar magic might end this lasting effect. |
 
 ### Rings
@@ -148,7 +148,7 @@ A magic item may require the user to use their own spellcasting ability when cas
 
 Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the *Identify* spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains.
 
-## The Next Dawn"
+## The Next Dawn
 
 Magic items often have charges or properties that recharge at the next dawn or some other specified time. If such an item is on a world or plane of existence where the specified event doesn't occur, the GM determines when the item recharges.
 
@@ -180,14 +180,14 @@ Table: Magic Item Tools
 
 | Item Category | Required Tool                                                                                                                    |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Armor         | Leatherworker's Tools, Smith's Tools, or Weaver's Tools depend ing on the kind of armor as noted in the tools' descriptions      |
+| Armor         | Leatherworker's Tools, Smith's Tools, or Weaver's Tools depending on the kind of armor as noted in the tools' descriptions      |
 | Potion        | Alchemist's Supplies or Herbalism Kit                                                                                            |
 | Ring          | Jeweler's Tools                                                                                                                  |
 | Rod           | Woodcarver's Tools                                                                                                               |
 | Scroll        | Calligrapher's Supplies                                                                                                          |
 | Staff         | Woodcarver's Tools                                                                                                               |
 | Wand          | Woodcarver's Tools                                                                                                               |
-| Weapon        | Leatherworker's Tools, Smith's Tools, or Woodcarver's Tools de pending on the kind of weapon as noted in the tools' descriptions |
+| Weapon        | Leatherworker's Tools, Smith's Tools, or Woodcarver's Tools depending on the kind of weapon as noted in the tools' descriptions |
 | Wondrous Item | Tinker's Tools or the tool required to make the nonmagical item on which the magic item is based                                 |
 
 ### Spells
@@ -573,9 +573,7 @@ Table: Tan Bag of Tricks
 
 This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 *Beads of Force* are found together.
 
-You can take a Magic action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius Sphere on impact and is destroyed. Each creature
-
-in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can pass through.
+You can take a Magic action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius Sphere on impact and is destroyed. Each creature in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can pass through.
 
 An enclosed creature can take a Utilize action to push against the sphere's wall, moving the sphere up to half the creature's Speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
@@ -691,9 +689,7 @@ While wearing these bracers, you gain a +2 bonus to Armor Class if you are weari
 
 *Wondrous Item, Rare*
 
-While you are within 5 feet of this brazier, you can take a Magic action to summon a **Fire Elemental**. The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or
-
-when you dismiss it as a Bonus Action. The brazier can't be used this way again until the next dawn.
+While you are within 5 feet of this brazier, you can take a Magic action to summon a **Fire Elemental**. The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The brazier can't be used this way again until the next dawn.
 
 #### Brooch of Shielding
 
@@ -1069,9 +1065,7 @@ As a Utilize action, you can sprinkle a pinch of the dust on an Elemental within
 
 Found in a small container, this powder resembles *Dust of Disappearance*, and *Identify* reveals it to be such. There is enough of it for one use.
 
-As a Utilize action, you can throw the dust into the air, forcing yourself and every creature in a 30-foot
-
-Emanation originating from you to make a DC 15 Constitution saving throw. Constructs, Elementals, Oozes, Plants, and Undead succeed on the save automatically.
+As a Utilize action, you can throw the dust into the air, forcing yourself and every creature in a 30-foot Emanation originating from you to make a DC 15 Constitution saving throw. Constructs, Elementals, Oozes, Plants, and Undead succeed on the save automatically.
 
 On a failed save, a creature begins sneezing uncontrollably; it has the Incapacitated condition and is suffocating. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success. The effect also ends on any creature targeted by a *Lesser Restoration* spell.
 
@@ -1254,9 +1248,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 **_Ivory Goats (Rare)._** These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:
 
-**Goat of Terror.** This figurine can become a **Giant Goat** for up to 3 hours. The goat can't attack, but you can (harmlessly) remove its horns and use them as weapons. One horn becomes a *+1 Lance*, and the other becomes a *+2 Longsword*. Removing a horn requires a Magic action, and the weapons disappear and the horns return when the goat reverts to figurine form. While you ride the goat,
-
-any Hostile creature that starts its turn within a 30-foot Emanation originating from the goat must succeed on a DC 15 Wisdom saving throw or have the Frightened condition for 1 minute, until you are no longer riding the goat, or until the goat reverts to figurine form. The Frightened creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the save, a creature is immune to this effect for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.
+**Goat of Terror.** This figurine can become a **Giant Goat** for up to 3 hours. The goat can't attack, but you can (harmlessly) remove its horns and use them as weapons. One horn becomes a *+1 Lance*, and the other becomes a *+2 Longsword*. Removing a horn requires a Magic action, and the weapons disappear and the horns return when the goat reverts to figurine form. While you ride the goat, any Hostile creature that starts its turn within a 30-foot Emanation originating from the goat must succeed on a DC 15 Wisdom saving throw or have the Frightened condition for 1 minute, until you are no longer riding the goat, or until the goat reverts to figurine form. The Frightened creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the save, a creature is immune to this effect for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.
 
 **_Goat of Traveling._** This figurine can become a Large goat with the same statistics as a **Riding Horse**. It has 24 charges, and each hour or portion thereof it spends in goat form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all expended charges.
 
@@ -1811,9 +1803,7 @@ Each card's effect is described below.
 
 **_Sage._** At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question.
 
-**_Skull._** An **Avatar of Death** (see the accompanying stat block) appears in an unoccupied space as close
-
-to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another **Avatar of Death**. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
+**_Skull._** An **Avatar of Death** (see the accompanying stat block) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another **Avatar of Death**. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
 **_Star._** Increase one of your ability scores by 2, to a maximum of 24.
 
@@ -2449,9 +2439,7 @@ While you wear the robe, you can take a Magic action to enter the Astral Plane a
 
 This elegant garment is made from exquisite cloth and adorned with runes.
 
-You gain these benefits while wearing the robe. *Armor.* If you aren't wearing armor, your base
-
-Armor Class is 15 plus your Dexterity modifier. *Magic Resistance.* You have Advantage on saving throws against spells and other magical effects. *War Mage.* Your spell save DC and spell attack bonus each increase by 2.
+You gain these benefits while wearing the robe. *Armor.* If you aren't wearing armor, your base Armor Class is 15 plus your Dexterity modifier. *Magic Resistance.* You have Advantage on saving throws against spells and other magical effects. *War Mage.* Your spell save DC and spell attack bonus each increase by 2.
 
 #### Robe of Useful Items
 
