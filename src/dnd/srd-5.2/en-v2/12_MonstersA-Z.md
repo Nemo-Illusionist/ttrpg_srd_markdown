@@ -33,7 +33,7 @@
 
 ***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the aboleth fails a saving throw, it can choose to succeed instead.
 
-***Mucus Cloud.*** While underwater, the aboleth is surrounded by mucus. *Constitution Saving Throw*: DC 14, each creature in a 5-foot Emanation originating from the aboleth at the end of the aboleth's turn. *Failure:*  The target is cursed. Until the curse ends, the target's skin becomes slimy, the target can breathe air and water, and it can't regain Hit Points unless it is underwater.
+***Mucus Cloud.*** While underwater, the aboleth is surrounded by mucus. *Constitution Saving Throw*: DC 14, each creature in a 5-foot Emanation originating from the aboleth at the end of the aboleth's turn. *Failure:* The target is cursed. Until the curse ends, the target's skin becomes slimy, the target can breathe air and water, and it can't regain Hit Points unless it is underwater.
 While the cursed creature is outside a body of water, the creature takes 6 (1d12) Acid damage at the end of every 10 minutes unless moisture is applied to its skin before those minutes have passed.
 
 ***Probing Telepathy.*** If a creature the aboleth can see communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires.
@@ -45,9 +45,9 @@ While the cursed creature is outside a body of water, the creature takes 6 (1d12
 
 ***Tentacle.*** *Melee Attack Roll:* +9, reach 15 ft. 12 (2d6 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of four tentacles.
 
-***Consume Memories.*** *Intelligence Saving Throw*: DC 16, one creature within 30 feet that is Charmed or Grappled by the aboleth. *Failure:*  10 (3d6) Psychic damage. *Success:*  Half damage. *Failure or Success*:  The aboleth gains the target's memories if the target is a Humanoid and is reduced to 0 Hit Points by this action.
+***Consume Memories.*** *Intelligence Saving Throw*: DC 16, one creature within 30 feet that is Charmed or Grappled by the aboleth. *Failure:* 10 (3d6) Psychic damage. *Success:* Half damage. *Failure or Success*: The aboleth gains the target's memories if the target is a Humanoid and is reduced to 0 Hit Points by this action.
 
-***Dominate Mind (2/Day).*** *Wisdom Saving Throw*: DC 16, one creature the aboleth can see within 30 feet. *Failure:*  The target has the Charmed condition until the aboleth dies or is on a different plane of existence from the target. While Charmed, the target acts as an ally to the aboleth and is under its control while within 60 feet of it. In addition, the aboleth and the target can communicate telepathically with each other over any distance.
+***Dominate Mind (2/Day).*** *Wisdom Saving Throw*: DC 16, one creature the aboleth can see within 30 feet. *Failure:* The target has the Charmed condition until the aboleth dies or is on a different plane of existence from the target. While Charmed, the target acts as an ally to the aboleth and is under its control while within 60 feet of it. In addition, the aboleth and the target can communicate telepathically with each other over any distance.
 The target repeats the save whenever it takes damage as well as after every 24 hours it spends at least 1 mile away from the aboleth, ending the effect on itself on a success.
 
 
@@ -87,7 +87,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 
 ***Bite.*** *Melee Attack Roll:* +5 (with Advantage if the target is Grappled by the ankheg), reach 5 ft. 10 (2d6 + 3) Slashing damage plus 3 (1d6) Acid damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13).
 
-***Acid Spray (Recharge 6).*** *Dexterity Saving Throw*: DC 12, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:*  14 (4d6) Acid damage. *Success:*  Half damage.
+***Acid Spray (Recharge 6).*** *Dexterity Saving Throw*: DC 12, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:* 14 (4d6) Acid damage. *Success:* Half damage.
 
 ### Assassin
 
@@ -280,7 +280,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 
 ***Radiant Sword.*** *Melee Attack Roll:* +12, reach 10 ft. 14 (2d6 + 7) Slashing damage plus 18 (4d8) Radiant damage.
 
-***Holy Burst.*** *Dexterity Saving Throw*: DC 20, each enemy in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the planetar can see within 120 feet. *Failure:*  24 (7d6) Radiant damage. *Success:*  Half damage.
+***Holy Burst.*** *Dexterity Saving Throw*: DC 20, each enemy in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the planetar can see within 120 feet. *Failure:* 24 (7d6) Radiant damage. *Success:* Half damage.
 
 ***Spellcasting.*** The planetar casts one of the following spells, requiring no Material components and using Charisma as spellcasting ability (spell save DC 20):
 
@@ -330,9 +330,9 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 
 ***Multiattack.*** The solar makes two Flying Sword attacks. It can replace one attack with a use of Slaying Bow.
 
-***Flying Sword.*** *Melee or Ranged Attack Roll:* +15, reach 10 ft. or range 120 ft. 22 (4d6 + 8) Slashing damage plus 36 (8d8) Radiant damage. HitomThe sword magically returns to the solar's hand or hovers within 5 feet of the solar immediately after a ranged attack.
+***Flying Sword.*** *Melee or Ranged Attack Roll:* +15, reach 10 ft. or range 120 ft. 22 (4d6 + 8) Slashing damage plus 36 (8d8) Radiant damage. *Hit or Miss.* The sword magically returns to the solar's hand or hovers within 5 feet of the solar immediately after a ranged attack.
 
-***Slaying Bow.*** *Dexterity Saving Throw*: DC 21, one creature the solar can see within 600 feet. *Failure:*  If the creature has 100 Hit Points or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36 (8d8) Radiant damage.
+***Slaying Bow.*** *Dexterity Saving Throw*: DC 21, one creature the solar can see within 600 feet. *Failure:* If the creature has 100 Hit Points or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36 (8d8) Radiant damage.
 
 ***Spellcasting.*** The solar casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 25):
 
@@ -345,9 +345,9 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 
 #### Legendary Actions
 
-***Blinding Gaze.*** *Constitution Saving Throw*: DC 25, one creature the solar can see within 120 feet. *Failure:*  The target has the Blinded condition for 1 minute. *Failure or Success*:  The solar can't take this action again until the start of its next turn.
+***Blinding Gaze.*** *Constitution Saving Throw*: DC 25, one creature the solar can see within 120 feet. *Failure:* The target has the Blinded condition for 1 minute. *Failure or Success*: The solar can't take this action again until the start of its next turn.
 
-***Radiant Teleport.*** The solar teleports up to 60 feet to an unoccupied space it can see. *Dexterity Saving Throw*: DC 25, each creature in a 10-foot Emanation originating from the solar at its destination space. *Failure:*  11 (2d10) Radiant damage. *Success:*  Half damage.
+***Radiant Teleport.*** The solar teleports up to 60 feet to an unoccupied space it can see. *Dexterity Saving Throw*: DC 25, each creature in a 10-foot Emanation originating from the solar at its destination space. *Failure:* 11 (2d10) Radiant damage. *Success:* Half damage.
 
 ## Monsters: Animated Objects
 
@@ -552,14 +552,14 @@ While grappling the target, the rug can't take this action, the rug halves the d
 
 ***Bite.*** *Melee Attack Roll:* +10, reach 10 ft. 19 (2d12 + 6) Piercing damage plus 11 (2d10) Lightning damage.
 
-***Constrict.*** *Strength Saving Throw*: DC 18, one Large or smaller creature the behir can see within 5 feet. *Failure:*  28 (5d8 + 6) Bludgeoning damage. The target has the Grappled condition (escape DC 16), and it has the Restrained condition until the grapple ends.
+***Constrict.*** *Strength Saving Throw*: DC 18, one Large or smaller creature the behir can see within 5 feet. *Failure:* 28 (5d8 + 6) Bludgeoning damage. The target has the Grappled condition (escape DC 16), and it has the Restrained condition until the grapple ends.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 16, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:*  66 (12d10) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 16, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:* 66 (12d10) Lightning damage. *Success:* Half damage.
 
 
 #### Bonus Actions
 
-***Swallow.*** *Dexterity Saving Throw*: DC 18, one Large or smaller creature Grappled by the behir (the behir can have only one creature swallowed at a time). *Failure:*  The behir swallows the target, which is no longer Grappled. While swallowed, a creature has the Blinded and Restrained conditions, has Cover|XPHB|Total Cover against attacks and other effects outside the behir, and takes 21 (6d6) Acid damage at the start of each of the behir's turns.
+***Swallow.*** *Dexterity Saving Throw*: DC 18, one Large or smaller creature Grappled by the behir (the behir can have only one creature swallowed at a time). *Failure:* The behir swallows the target, which is no longer Grappled. While swallowed, a creature has the Blinded and Restrained conditions, has Cover|XPHB|Total Cover against attacks and other effects outside the behir, and takes 21 (6d6) Acid damage at the start of each of the behir's turns.
 If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls in a space within 10 feet of the behir and has the Prone condition. If the behir dies, a swallowed creature is no longer Restrained and can escape from the corpse by using 15 feet of movement, exiting Prone.
 
 ### Blink Dog
@@ -622,7 +622,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Bite.*** *Melee Attack Roll:* +7, reach 5 ft. 17 (2d12 + 4) Piercing damage.
 
-***Deadly Leap.*** The bulette spends 5 feet of movement to jump to a space within 15 feet that contains one or more Large or smaller creatures. *Dexterity Saving Throw*: DC 15, each creature in the bulette's destination space. *Failure:*  19 (3d12) Bludgeoning damage, and the target has the Prone condition. *Success:*  Half damage, and the target is pushed 5 feet straight away from the bulette.
+***Deadly Leap.*** The bulette spends 5 feet of movement to jump to a space within 15 feet that contains one or more Large or smaller creatures. *Dexterity Saving Throw*: DC 15, each creature in the bulette's destination space. *Failure:* 19 (3d12) Bludgeoning damage, and the target has the Prone condition. *Success:* Half damage, and the target is pushed 5 feet straight away from the bulette.
 
 
 #### Bonus Actions
@@ -734,7 +734,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 #### Bonus Actions
 
-***Quick Grapple.*** *Dexterity Saving Throw*: DC 13, one Medium or smaller creature the bugbear can see within 10 feet. *Failure:*  The target has the Grappled condition (escape DC 13).
+***Quick Grapple.*** *Dexterity Saving Throw*: DC 13, one Medium or smaller creature the bugbear can see within 10 feet. *Failure:* The target has the Grappled condition (escape DC 13).
 
 ### Bugbear Warrior
 
@@ -808,7 +808,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 #### Bonus Actions
 
-***Trampling Charge (Recharge 5-6).*** The centaur moves up to its Speed without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each creature whose space the centaur enters is targeted once by the following effect. *Strength Saving Throw*: DC 14. *Failure:*  7 (1d6 + 4) Bludgeoning damage, and the target has the Prone condition.
+***Trampling Charge (Recharge 5-6).*** The centaur moves up to its Speed without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each creature whose space the centaur enters is targeted once by the following effect. *Strength Saving Throw*: DC 14. *Failure:* 7 (1d6 + 4) Bludgeoning damage, and the target has the Prone condition.
 
 ### Chimera
 
@@ -843,7 +843,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Ram.*** *Melee Attack Roll:* +7, reach 5 ft. 10 (1d12 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 15, each creature in a 15-foot Cone. *Failure:*  31 (7d8) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 15, each creature in a 15-foot Cone. *Failure:* 31 (7d8) Fire damage. *Success:* Half damage.
 
 ### Chuul
 
@@ -882,7 +882,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Pincer.*** *Melee Attack Roll:* +6, reach 10 ft. 9 (1d10 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two pincers.
 
-***Paralyzing Tentacles.*** *Constitution Saving Throw*: DC 13, one creature Grappled by the chuul. *Failure:*  The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While Poisoned, the target has the Paralyzed condition.
+***Paralyzing Tentacles.*** *Constitution Saving Throw*: DC 13, one creature Grappled by the chuul. *Failure:* The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While Poisoned, the target has the Paralyzed condition.
 
 ### Cloaker
 
@@ -925,7 +925,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 #### Bonus Actions
 
-***Moan.*** *Wisdom Saving Throw*: DC 13, each creature in a 60-foot Emanation originating from the cloaker. *Failure:*  The target has the Frightened condition until the end of the cloaker's next turn. *Success:*  The target is immune to this cloaker's Moan for the next 24 hours.
+***Moan.*** *Wisdom Saving Throw*: DC 13, each creature in a 60-foot Emanation originating from the cloaker. *Failure:* The target has the Frightened condition until the end of the cloaker's next turn. *Success:* The target is immune to this cloaker's Moan for the next 24 hours.
 
 ***Phantasms (Recharge after a Short or Long Rest).*** The cloaker casts the *Mirror Image* spell, requiring no spell components and using Wisdom as the spellcasting ability. The spell ends early if the cloaker starts or ends its turn in Bright Light.
 
@@ -1020,7 +1020,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 ***Bite.*** *Melee Attack Roll:* +7, reach 5 ft. 11 (1d12 + 5) Piercing damage, and the target has the Poisoned condition until the end of the couatl's next turn.
 
-***Constrict.*** *Strength Saving Throw*: DC 15, one Medium or smaller creature the couatl can see within 5 feet. *Failure:*  8 (1d6 + 5) Bludgeoning damage. The target has the Grappled condition (escape DC 13), and it has the Restrained condition until the grapple ends.
+***Constrict.*** *Strength Saving Throw*: DC 15, one Medium or smaller creature the couatl can see within 5 feet. *Failure:* 8 (1d6 + 5) Bludgeoning damage. The target has the Grappled condition (escape DC 13), and it has the Restrained condition until the grapple ends.
 
 ***Spellcasting.*** The couatl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 15):
 
@@ -1129,7 +1129,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 While attached to a target, the darkmantle can attack only the target but has Advantage on its attack rolls. Its Speed becomes 0, it can't benefit from any bonus to its Speed, and it moves with the target.
 A creature can take an action to try to detach the darkmantle from itself, doing so with a successful DC 13 Strength (Athletics) check. On its turn, the darkmantle can detach itself by using 5 feet of movement.
 
-***Darkness Aura (1/Day).*** Magical darkness fills a 15-foot Emanation originating from the darkmantle. This effect lasts while the darkmantle maintains  Concentration on it, up to 10 minutes. Darkvision can't penetrate this area, and no light can illuminate it.
+***Darkness Aura (1/Day).*** Magical darkness fills a 15-foot Emanation originating from the darkmantle. This effect lasts while the darkmantle maintains Concentration on it, up to 10 minutes. Darkvision can't penetrate this area, and no light can illuminate it.
 
 ### Death Dog
 
@@ -1200,8 +1200,8 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 
 ***Storm Bolt.*** *Ranged Attack Roll:* +9, range 120 feet. 13 (3d8) Thunder damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-***Create Whirlwind.*** The djinni conjures a whirlwind at a point it can see within 120 feet. The whirlwind fills a 20-foot-radius, 60-foot-high Cylinder [Area of Effect]|XPHB|Cylinder centered on that point. The whirlwind lasts until the djinni's  Concentration on it ends. The djinni can move the whirlwind up to 20 feet at the start of each of its turns.
-Whenever the whirlwind enters a creature's space or a creature enters the whirlwind, that creature is subjected to the following effect. *Strength Saving Throw*: DC 17 (a creature makes this save only once per turn, and the djinni is unaffected). *Failure:*  While in the whirlwind, the target has the Restrained condition and moves with the whirlwind. At the start of each of its turns, the Restrained target takes 21 (6d6) Thunder damage. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success.
+***Create Whirlwind.*** The djinni conjures a whirlwind at a point it can see within 120 feet. The whirlwind fills a 20-foot-radius, 60-foot-high Cylinder [Area of Effect]|XPHB|Cylinder centered on that point. The whirlwind lasts until the djinni's Concentration on it ends. The djinni can move the whirlwind up to 20 feet at the start of each of its turns.
+Whenever the whirlwind enters a creature's space or a creature enters the whirlwind, that creature is subjected to the following effect. *Strength Saving Throw*: DC 17 (a creature makes this save only once per turn, and the djinni is unaffected). *Failure:* While in the whirlwind, the target has the Restrained condition and moves with the whirlwind. At the start of each of its turns, the Restrained target takes 21 (6d6) Thunder damage. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success.
 
 ***Spellcasting.*** The djinni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
@@ -1239,7 +1239,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Slam.*** *Melee Attack Roll:* +6 (with Advantage during the first round of each combat), reach 5 ft. 11 (2d6 + 4) Bludgeoning damage.
 
-***Unsettling Visage (Recharge 6).*** *Wisdom Saving Throw*: DC 12, each creature in a 15-foot Emanation originating from the doppelganger that can see the doppelganger. *Failure:*  The target has the Frightened condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Unsettling Visage (Recharge 6).*** *Wisdom Saving Throw*: DC 12, each creature in a 15-foot Emanation originating from the doppelganger that can see the doppelganger. *Failure:* The target has the Frightened condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
 ***Read Thoughts.*** The doppelganger casts *Detect Thoughts*, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).
 
@@ -1286,7 +1286,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Tail.*** *Melee Attack Roll:* +13, reach 15 ft. 18 (2d10 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
 
-***Steam Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 19, each creature in a 60-foot Cone. *Failure:*  56 (16d6) Fire damage. *Success:*  Half damage. *Failure or Success*:  Being underwater doesn't grant Resistance to this Fire damage.
+***Steam Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 19, each creature in a 60-foot Cone. *Failure:* 56 (16d6) Fire damage. *Success:* Half damage. *Failure or Success*: Being underwater doesn't grant Resistance to this Fire damage.
 
 ### Drider
 
@@ -1409,7 +1409,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Traits
 
-***Death Throes.*** The balor explodes when it dies. *Dexterity Saving Throw*: DC 20, each creature in a 30-foot Emanation originating from the balor. *Failure:*  31 (9d6) Fire damage plus 31 (9d6) Force damage. *Success:*  Half damage. *Failure or Success*:  If the balor dies outside the Abyss, it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+***Death Throes.*** The balor explodes when it dies. *Dexterity Saving Throw*: DC 20, each creature in a 30-foot Emanation originating from the balor. *Failure:* 31 (9d6) Fire damage plus 31 (9d6) Force damage. *Success:* Half damage. *Failure or Success*: If the balor dies outside the Abyss, it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
 
 ***Fire Aura.*** At the end of each of the balor's turns, each creature in a 5-foot Emanation originating from the balor takes 13 (3d8) Fire damage.
 
@@ -1459,7 +1459,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +3, reach 5 ft. 4 (1d6 + 1) Slashing damage.
 
-***Fetid Cloud (1/Day).*** *Constitution Saving Throw*: DC 11, each creature in a 10-foot Emanation originating from the dretch. *Failure:*  The target has the Poisoned condition until the end of its next turn. While Poisoned, the creature can take either an action or a Bonus Action on its turn, not both, and it can't take Reactions.
+***Fetid Cloud (1/Day).*** *Constitution Saving Throw*: DC 11, each creature in a 10-foot Emanation originating from the dretch. *Failure:* The target has the Poisoned condition until the end of its next turn. While Poisoned, the creature can take either an action or a Bonus Action on its turn, not both, and it can't take Reactions.
 
 ### Glabrezu
 
@@ -1499,7 +1499,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Pincer.*** *Melee Attack Roll:* +9, reach 10 ft. 16 (2d10 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 15) from one of two pincers.
 
-***Pummel.*** *Dexterity Saving Throw*: DC 17, one creature Grappled by the glabrezu. *Failure:*  15 (3d6 + 5) Bludgeoning damage. *Success:*  Half damage.
+***Pummel.*** *Dexterity Saving Throw*: DC 17, one creature Grappled by the glabrezu. *Failure:* 15 (3d6 + 5) Bludgeoning damage. *Success:* Half damage.
 
 ***Spellcasting.*** The glabrezu casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
@@ -1536,7 +1536,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Magic Resistance.*** The hezrou has Advantage on saving throws against spells and other magical effects.
 
-***Stench.*** *Constitution Saving Throw*: DC 16, any creature that starts its turn in a 10-foot Emanation originating from the hezrou. *Failure:*  The target has the Poisoned condition until the start of its next turn.
+***Stench.*** *Constitution Saving Throw*: DC 16, any creature that starts its turn in a 10-foot Emanation originating from the hezrou. *Failure:* The target has the Poisoned condition until the start of its next turn.
 
 
 #### Actions
@@ -1590,7 +1590,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Pact Blade.*** *Melee Attack Roll:* +10, reach 5 ft. 10 (1d10 + 5) Slashing damage plus 7 (2d6) Necrotic damage.
 
-***Constrict.*** *Strength Saving Throw*: DC 17, one Medium or smaller creature the marilith can see within 5 feet. *Failure:*  15 (2d10 + 4) Bludgeoning damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
+***Constrict.*** *Strength Saving Throw*: DC 17, one Medium or smaller creature the marilith can see within 5 feet. *Failure:* 15 (2d10 + 4) Bludgeoning damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
 
 
 #### Bonus Actions
@@ -1639,7 +1639,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Bonus Actions
 
-***Horror Nimbus (Recharge 5-6).*** *Wisdom Saving Throw*: DC 15, each creature in a 15-foot Emanation originating from the nalfeshnee. *Failure:*  28 (8d6) Psychic damage, and the target has the Frightened condition for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee out of line of sight. *Success:*  The target is immune to this nalfeshnee's Horror Nimbus for 24 hours.
+***Horror Nimbus (Recharge 5-6).*** *Wisdom Saving Throw*: DC 15, each creature in a 15-foot Emanation originating from the nalfeshnee. *Failure:* 28 (8d6) Psychic damage, and the target has the Frightened condition for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee out of line of sight. *Success:* The target is immune to this nalfeshnee's Horror Nimbus for 24 hours.
 
 ### Quasit
 
@@ -1675,7 +1675,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Slashing damage, and the target has the Poisoned condition until the start of the quasit's next turn.
 
-***Scare (1/Day).*** *Wisdom Saving Throw*: DC 10, one creature within 20 feet. *Failure:*  The target has the Frightened condition. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Scare (1/Day).*** *Wisdom Saving Throw*: DC 10, one creature within 20 feet. *Failure:* The target has the Frightened condition. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
 ***Shape-Shift.*** The quasit shape-shifts to resemble a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn't transformed.
 
@@ -1720,9 +1720,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Shred.*** *Melee Attack Roll:* +6, reach 5 ft. 10 (2d6 + 3) Piercing damage plus 10 (3d6) Poison damage.
 
-***Spores (Recharge 6).*** *Constitution Saving Throw*: DC 15, each creature in a 20-foot Emanation originating from the vrock. *Failure:*  The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. While Poisoned, the target takes 5 (1d10) Poison damage at the start of each of its turns. Emptying a flask of Holy Water on the target ends the effect early.
+***Spores (Recharge 6).*** *Constitution Saving Throw*: DC 15, each creature in a 20-foot Emanation originating from the vrock. *Failure:* The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. While Poisoned, the target takes 5 (1d10) Poison damage at the start of each of its turns. Emptying a flask of Holy Water on the target ends the effect early.
 
-***Stunning Screech (1/Day).*** *Constitution Saving Throw*: DC 15, each creature in a 20-foot Emanation originating from the vrock (demons succeed automatically). *Failure:*  10 (3d6) Thunder damage, and the target has the Stunned condition until the end of the vrock's next turn.
+***Stunning Screech (1/Day).*** *Constitution Saving Throw*: DC 15, each creature in a 20-foot Emanation originating from the vrock (demons succeed automatically). *Failure:* 10 (3d6) Thunder damage, and the target has the Stunned condition until the end of the vrock's next turn.
 
 ## Monsters: Devils
 
@@ -1805,7 +1805,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Beard.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage, and the target has the Poisoned condition until the start of the devil's next turn. Until this poison ends, the target can't regain Hit Points.
 
-***Infernal Glaive.*** *Melee Attack Roll:* +5, reach 10 ft. 8 (1d10 + 3) Slashing damage. If the target is a creature and doesn't already have an infernal wound, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:*  The target receives an infernal wound. While wounded, the target loses 5 (1d10) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 12 Wisdom (Medicine) check.
+***Infernal Glaive.*** *Melee Attack Roll:* +5, reach 10 ft. 8 (1d10 + 3) Slashing damage. If the target is a creature and doesn't already have an infernal wound, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:* The target receives an infernal wound. While wounded, the target loses 5 (1d10) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 12 Wisdom (Medicine) check.
 
 ### Bone Devil
 
@@ -1884,7 +1884,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Chain.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Slashing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two chains, and it has the Restrained condition until the grapple ends.
 
-***Conjure Infernal Chain.*** The devil conjures a fiery chain to bind a creature. *Dexterity Saving Throw*: DC 15, one creature the devil can see within 60 feet. *Failure:*  9 (2d4 + 4) Fire damage, and the target has the Restrained condition until the end of the devil's next turn, at which point the chain disappears. If the target is Large or smaller, the devil moves the target up to 30 feet straight toward itself. *Success:*  The chain disappears.
+***Conjure Infernal Chain.*** The devil conjures a fiery chain to bind a creature. *Dexterity Saving Throw*: DC 15, one creature the devil can see within 60 feet. *Failure:* 9 (2d4 + 4) Fire damage, and the target has the Restrained condition until the end of the devil's next turn, at which point the chain disappears. If the target is Large or smaller, the devil moves the target up to 30 feet straight toward itself. *Success:* The chain disappears.
 
 ### Erinyes
 
@@ -1926,7 +1926,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Withering Sword.*** *Melee Attack Roll:* +8, reach 5 ft. 13 (2d8 + 4) Slashing damage plus 11 (2d10) Necrotic damage.
 
-***Entangling Rope (Requires Magic Rope).*** *Strength Saving Throw*: DC 16, one creature the erinyes can see within 120 feet. *Failure:*  14 (4d6) Force damage, and the target has the Restrained condition until the rope is destroyed, the erinyes uses a Bonus Action to release the target, or the erinyes uses Entangling Rope again.
+***Entangling Rope (Requires Magic Rope).*** *Strength Saving Throw*: DC 16, one creature the erinyes can see within 120 feet. *Failure:* 14 (4d6) Force damage, and the target has the Restrained condition until the rope is destroyed, the erinyes uses a Bonus Action to release the target, or the erinyes uses Entangling Rope again.
 
 ### Horned Devil
 
@@ -1966,7 +1966,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Hurl Flame.*** *Ranged Attack Roll:* +8, range 150 ft. 26 (5d8 + 4) Fire damage. If the target is a flammable object that isn't being worn or carried, it starts burning.
 
-***Infernal Tail.*** *Dexterity Saving Throw*: DC 17, one creature the devil can see within 10 feet. *Failure:*  10 (1d8 + 6) Necrotic damage, and the target receives an infernal wound if it doesn't have one. While wounded, the target loses 10 (3d6) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 17 Wisdom (Medicine) check.
+***Infernal Tail.*** *Dexterity Saving Throw*: DC 17, one creature the devil can see within 10 feet. *Failure:* 10 (1d8 + 6) Necrotic damage, and the target receives an infernal wound if it doesn't have one. While wounded, the target loses 10 (3d6) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 17 Wisdom (Medicine) check.
 
 ### Ice Devil
 
@@ -2003,13 +2003,13 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Multiattack.*** The devil makes three Ice Spear attacks. It can replace one attack with a Tail attack.
 
-***Ice Spear.*** *Melee or Ranged Attack Roll:* +10, reach 5 ft. or range 30/120 ft. 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end of its next turn, the target can't take a Bonus Action or Reaction, its Speed decreases by 10 feet, and it can move or take one action on its turn, not both. HitomThe spear magically returns to the devil's hand immediately after a ranged attack.
+***Ice Spear.*** *Melee or Ranged Attack Roll:* +10, reach 5 ft. or range 30/120 ft. 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end of its next turn, the target can't take a Bonus Action or Reaction, its Speed decreases by 10 feet, and it can move or take one action on its turn, not both. *Hit or Miss.* The spear magically returns to the devil's hand immediately after a ranged attack.
 
 ***Tail.*** *Melee Attack Roll:* +10, reach 10 ft. 15 (3d6 + 5) Bludgeoning damage plus 18 (4d8) Cold damage.
 
 ***Ice Wall (Recharge 6).*** The devil casts *Wall of Ice* (level 8 version), requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17).
 
-- **At Will:** 
+- **At Will:**
 
 ### Imp
 
@@ -2113,7 +2113,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Diabolical Restoration.*** If the pit fiend dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
 
-***Fear Aura.*** The pit fiend emanates an aura in a 20-foot Emanation while it doesn't have the Incapacitated condition. *Wisdom Saving Throw*: DC 21, any enemy that starts its turn in the aura. *Failure:*  The target has the Frightened condition until the start of its next turn. *Success:*  The target is immune to this pit fiend's aura for 24 hours.
+***Fear Aura.*** The pit fiend emanates an aura in a 20-foot Emanation while it doesn't have the Incapacitated condition. *Wisdom Saving Throw*: DC 21, any enemy that starts its turn in the aura. *Failure:* The target has the Frightened condition until the start of its next turn. *Success:* The target is immune to this pit fiend's aura for 24 hours.
 
 ***Legendary Resistance (4/Day).*** If the pit fiend fails a saving throw, it can choose to succeed instead.
 
@@ -2124,7 +2124,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Multiattack.*** The pit fiend makes one Bite attack, two Devilish Claw attacks, and one Fiery Mace attack.
 
-***Bite.*** *Melee Attack Roll:* +14, reach 10 ft. 18 (3d6 + 8) Piercing damage. If the target is a creature, it must make the following saving throw. *Constitution Saving Throw*: DC 21. *Failure:*  The target has the Poisoned condition. While Poisoned, the target can't regain Hit Points and takes 21 (6d6) Poison damage at the start of each of its turns, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Bite.*** *Melee Attack Roll:* +14, reach 10 ft. 18 (3d6 + 8) Piercing damage. If the target is a creature, it must make the following saving throw. *Constitution Saving Throw*: DC 21. *Failure:* The target has the Poisoned condition. While Poisoned, the target can't regain Hit Points and takes 21 (6d6) Poison damage at the start of each of its turns, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
 ***Devilish Claw.*** *Melee Attack Roll:* +14, reach 10 ft. 26 (4d8 + 8) Necrotic damage.
 
@@ -2132,7 +2132,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Hellfire Spellcasting (Recharge 4-6).*** The pit fiend casts *Fireball* (level 5 version) twice, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21). It can replace one *Fireball* with *Hold Monster* (level 7 version) or *Wall of Fire*.
 
-- **At Will:** 
+- **At Will:**
 
 ## Monsters: Dragons
 
@@ -2171,7 +2171,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Slashing damage plus 2 (1d4) Acid damage.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 15-foot-long, 5-foot-wide Line. *Failure:*  22 (5d8) Acid damage. *Success:*  Half damage.
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 15-foot-long, 5-foot-wide Line. *Failure:* 22 (5d8) Acid damage. *Success:* Half damage.
 
 ### Young Black Dragon
 
@@ -2208,7 +2208,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 9 (2d4 + 4) Slashing damage plus 3 (1d6) Acid damage.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:*  49 (14d6) Acid damage. *Success:*  Half damage.
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:* 49 (14d6) Acid damage. *Success:* Half damage.
 
 ### Adult Black Dragon
 
@@ -2247,7 +2247,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 13 (2d6 + 6) Slashing damage plus 4 (1d8) Acid damage.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:*  54 (12d8) Acid damage. *Success:*  Half damage.
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:* 54 (12d8) Acid damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
 
@@ -2256,7 +2256,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Legendary Actions
 
-***Cloud of Insects.*** *Dexterity Saving Throw*: DC 17, one creature the dragon can see within 120 feet. *Failure:*  22 (4d10) Poison damage, and the target has Disadvantage on saving throws to maintain  Concentration until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Cloud of Insects.*** *Dexterity Saving Throw*: DC 17, one creature the dragon can see within 120 feet. *Failure:* 22 (4d10) Poison damage, and the target has Disadvantage on saving throws to maintain Concentration until the end of its next turn. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Frightful Presence.*** The dragon uses Spellcasting to cast *Fear*. The dragon can't take this action again until the start of its next turn.
 
@@ -2299,7 +2299,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +15, reach 15 ft. 17 (2d8 + 8) Slashing damage plus 9 (2d8) Acid damage.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 22, each creature in a 90-foot-long, 10-foot-wide Line. *Failure:*  67 (15d8) Acid damage. *Success:*  Half damage.
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 22, each creature in a 90-foot-long, 10-foot-wide Line. *Failure:* 67 (15d8) Acid damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
 
@@ -2308,7 +2308,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Legendary Actions
 
-***Cloud of Insects.*** *Dexterity Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:*  33 (6d10) Poison damage, and the target has Disadvantage on saving throws to maintain  Concentration until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Cloud of Insects.*** *Dexterity Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:* 33 (6d10) Poison damage, and the target has Disadvantage on saving throws to maintain Concentration until the end of its next turn. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Frightful Presence.*** The dragon uses Spellcasting to cast *Fear*. The dragon can't take this action again until the start of its next turn.
 
@@ -2344,7 +2344,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Slashing damage plus 3 (1d6) Lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:*  21 (6d6) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:* 21 (6d6) Lightning damage. *Success:* Half damage.
 
 ### Young Blue Dragon
 
@@ -2376,7 +2376,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +9, reach 10 ft. 12 (2d6 + 5) Slashing damage plus 5 (1d10) Lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 16, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:*  55 (10d10) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 16, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:* 55 (10d10) Lightning damage. *Success:* Half damage.
 
 ### Adult Blue Dragon
 
@@ -2413,7 +2413,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +12, reach 10 ft. 16 (2d8 + 7) Slashing damage plus 5 (1d10) Lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 19, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:*  60 (11d10) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 19, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:* 60 (11d10) Lightning damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
 
@@ -2463,7 +2463,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +16, reach 15 ft. 18 (2d8 + 9) Slashing damage plus 11 (2d10) Lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 23, each creature in a 120-foot-long, 10-foot-wide Line. *Failure:*  88 (16d10) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 23, each creature in a 120-foot-long, 10-foot-wide Line. *Failure:* 88 (16d10) Lightning damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22):
 
@@ -2506,9 +2506,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (1d10 + 2) Slashing damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 20-foot-long, 5-foot-wide Line. *Failure:*  14 (4d6) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 20-foot-long, 5-foot-wide Line. *Failure:* 14 (4d6) Fire damage. *Success:* Half damage.
 
-***Sleep Breath.*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:*  The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
+***Sleep Breath.*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:* The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
 
 ### Young Brass Dragon
 
@@ -2540,9 +2540,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 15 (2d10 + 4) Slashing damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:*  38 (11d6) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:* 38 (11d6) Fire damage. *Success:* Half damage.
 
-***Sleep Breath.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:*  The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
+***Sleep Breath.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:* The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
 
 ### Adult Brass Dragon
 
@@ -2579,9 +2579,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 17 (2d10 + 6) Slashing damage plus 4 (1d8) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:*  45 (10d8) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:* 45 (10d8) Fire damage. *Success:* Half damage.
 
-***Sleep Breath.*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:*  The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 10 minutes. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
+***Sleep Breath.*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:* The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 10 minutes. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 16):
 
@@ -2594,7 +2594,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-***Scorching Sands.*** *Dexterity Saving Throw*: DC 16, one creature the dragon can see within 120 feet. *Failure:*  27 (6d8) Fire damage, and the target's Speed is halved until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Scorching Sands.*** *Dexterity Saving Throw*: DC 16, one creature the dragon can see within 120 feet. *Failure:* 27 (6d8) Fire damage, and the target's Speed is halved until the end of its next turn. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ### Ancient Brass Dragon
 
@@ -2631,9 +2631,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +14, reach 15 ft. 19 (2d10 + 8) Slashing damage plus 7 (2d6) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:*  58 (13d8) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:* 58 (13d8) Fire damage. *Success:* Half damage.
 
-***Sleep Breath.*** *Constitution Saving Throw*: DC 21, each creature in a 90-foot Cone. *Failure:*  The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 10 minutes. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
+***Sleep Breath.*** *Constitution Saving Throw*: DC 21, each creature in a 90-foot Cone. *Failure:* The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 10 minutes. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20):
 
@@ -2646,7 +2646,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-***Scorching Sands.*** *Dexterity Saving Throw*: DC 20, one creature the dragon can see within 120 feet. *Failure:*  36 (8d8) Fire damage, and the target's Speed is halved until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Scorching Sands.*** *Dexterity Saving Throw*: DC 20, one creature the dragon can see within 120 feet. *Failure:* 36 (8d8) Fire damage, and the target's Speed is halved until the end of its next turn. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ### Bronze Dragon Wyrmling
 
@@ -2683,9 +2683,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Slashing damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:*  16 (3d10) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:* 16 (3d10) Lightning damage. *Success:* Half damage.
 
-***Repulsion Breath.*** *Strength Saving Throw*: DC 12, each creature in a 30-foot Cone. *Failure:*  The target is pushed up to 30 feet straight away from the dragon and has the Prone condition.
+***Repulsion Breath.*** *Strength Saving Throw*: DC 12, each creature in a 30-foot Cone. *Failure:* The target is pushed up to 30 feet straight away from the dragon and has the Prone condition.
 
 ### Young Bronze Dragon
 
@@ -2722,9 +2722,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +8, reach 10 ft. 16 (2d10 + 5) Slashing damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 15, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:*  49 (9d10) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 15, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:* 49 (9d10) Lightning damage. *Success:* Half damage.
 
-***Repulsion Breath.*** *Strength Saving Throw*: DC 15, each creature in a 30-foot Cone. *Failure:*  The target is pushed up to 40 feet straight away from the dragon and has the Prone condition.
+***Repulsion Breath.*** *Strength Saving Throw*: DC 15, each creature in a 30-foot Cone. *Failure:* The target is pushed up to 40 feet straight away from the dragon and has the Prone condition.
 
 ### Adult Bronze Dragon
 
@@ -2763,9 +2763,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +12, reach 10 ft. 16 (2d8 + 7) Slashing damage plus 5 (1d10) Lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 19, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:*  55 (10d10) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 19, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:* 55 (10d10) Lightning damage. *Success:* Half damage.
 
-***Repulsion Breath.*** *Strength Saving Throw*: DC 19, each creature in a 30-foot Cone. *Failure:*  The target is pushed up to 60 feet straight away from the dragon and has the Prone condition.
+***Repulsion Breath.*** *Strength Saving Throw*: DC 19, each creature in a 30-foot Cone. *Failure:* The target is pushed up to 60 feet straight away from the dragon and has the Prone condition.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +10 to hit with spell attacks):
 
@@ -2778,7 +2778,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-***Thunderclap.*** *Constitution Saving Throw*: DC 17, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:*  10 (3d6) Thunder damage, and the target has the Deafened condition until the end of its next turn.
+***Thunderclap.*** *Constitution Saving Throw*: DC 17, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:* 10 (3d6) Thunder damage, and the target has the Deafened condition until the end of its next turn.
 
 ### Ancient Bronze Dragon
 
@@ -2817,9 +2817,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +16, reach 15 ft. 18 (2d8 + 9) Slashing damage plus 9 (2d8) Lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 23, each creature in a 120-foot-long, 10-foot-wide Line. *Failure:*  82 (15d10) Lightning damage. *Success:*  Half damage.
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 23, each creature in a 120-foot-long, 10-foot-wide Line. *Failure:* 82 (15d10) Lightning damage. *Success:* Half damage.
 
-***Repulsion Breath.*** *Strength Saving Throw*: DC 23, each creature in a 30-foot Cone. *Failure:*  The target is pushed up to 60 feet straight away from the dragon and has the Prone condition.
+***Repulsion Breath.*** *Strength Saving Throw*: DC 23, each creature in a 30-foot Cone. *Failure:* The target is pushed up to 60 feet straight away from the dragon and has the Prone condition.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22, +14 to hit with spell attacks):
 
@@ -2832,7 +2832,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-***Thunderclap.*** *Constitution Saving Throw*: DC 22, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:*  13 (3d8) Thunder damage, and the target has the Deafened condition until the end of its next turn.
+***Thunderclap.*** *Constitution Saving Throw*: DC 22, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:* 13 (3d8) Thunder damage, and the target has the Deafened condition until the end of its next turn.
 
 ### Copper Dragon Wyrmling
 
@@ -2862,9 +2862,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (1d10 + 2) Slashing damage.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 20-foot-long, 5-foot-wide Line. *Failure:*  18 (4d8) Acid damage. *Success:*  Half damage.
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 20-foot-long, 5-foot-wide Line. *Failure:* 18 (4d8) Acid damage. *Success:* Half damage.
 
-***Slowing Breath.*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:*  The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
+***Slowing Breath.*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:* The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
 
 ### Young Copper Dragon
 
@@ -2896,9 +2896,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 15 (2d10 + 4) Slashing damage.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:*  40 (9d8) Acid damage. *Success:*  Half damage.
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:* 40 (9d8) Acid damage. *Success:* Half damage.
 
-***Slowing Breath.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:*  The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
+***Slowing Breath.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:* The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
 
 ### Adult Copper Dragon
 
@@ -2935,9 +2935,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 17 (2d10 + 6) Slashing damage plus 4 (1d8) Acid damage.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in an 60-foot-long, 5-foot-wide Line. *Failure:*  54 (12d8) Acid damage. *Success:*  Half damage.
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in an 60-foot-long, 5-foot-wide Line. *Failure:* 54 (12d8) Acid damage. *Success:* Half damage.
 
-***Slowing Breath.*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:*  The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
+***Slowing Breath.*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:* The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
@@ -2946,7 +2946,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Legendary Actions
 
-***Giggling Magic.*** *Charisma Saving Throw*: DC 17, one creature the dragon can see within 90 feet. *Failure:*  24 (7d6) Psychic damage. Until the end of its next turn, the target rolls 1d6 whenever it makes an ability check or attack roll and subtracts the number rolled from the D20 Test. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Giggling Magic.*** *Charisma Saving Throw*: DC 17, one creature the dragon can see within 90 feet. *Failure:* 24 (7d6) Psychic damage. Until the end of its next turn, the target rolls 1d6 whenever it makes an ability check or attack roll and subtracts the number rolled from the D20 Test. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Mind Jolt.*** The dragon uses Spellcasting to cast *Mind Spike* (level 4 version). The dragon can't take this action again until the start of its next turn.
 
@@ -2987,9 +2987,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +15, reach 15 ft. 19 (2d10 + 8) Slashing damage plus 9 (2d8) Acid damage.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 22, each creature in an 90-foot-long, 10-foot-wide Line. *Failure:*  63 (14d8) Acid damage. *Success:*  Half damage.
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 22, each creature in an 90-foot-long, 10-foot-wide Line. *Failure:* 63 (14d8) Acid damage. *Success:* Half damage.
 
-***Slowing Breath.*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:*  The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
+***Slowing Breath.*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:* The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
 
@@ -2998,7 +2998,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Legendary Actions
 
-***Giggling Magic.*** *Charisma Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:*  31 (9d6) Psychic damage. Until the end of its next turn, the target rolls 1d8 whenever it makes an ability check or attack roll and subtracts the number rolled from the D20 Test. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Giggling Magic.*** *Charisma Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:* 31 (9d6) Psychic damage. Until the end of its next turn, the target rolls 1d8 whenever it makes an ability check or attack roll and subtracts the number rolled from the D20 Test. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Mind Jolt.*** The dragon uses Spellcasting to cast *Mind Spike* (level 5 version). The dragon can't take this action again until the start of its next turn.
 
@@ -3039,9 +3039,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (1d10 + 4) Slashing damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:*  22 (4d10) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:* 22 (4d10) Fire damage. *Success:* Half damage.
 
-***Weakening Breath.*** *Strength Saving Throw*: DC 13, each creature that isn't currently affected by this breath in a 15-foot Cone. *Failure:*  The target has Disadvantage on Strength-based D20 Test and subtracts 2 (1d4) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Weakening Breath.*** *Strength Saving Throw*: DC 13, each creature that isn't currently affected by this breath in a 15-foot Cone. *Failure:* The target has Disadvantage on Strength-based D20 Test and subtracts 2 (1d4) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
 ### Young Gold Dragon
 
@@ -3078,9 +3078,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +10, reach 10 ft. 17 (2d10 + 6) Slashing damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:*  55 (10d10) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:* 55 (10d10) Fire damage. *Success:* Half damage.
 
-***Weakening Breath.*** *Strength Saving Throw*: DC 17, each creature that isn't currently affected by this breath in a 30-foot Cone. *Failure:*  The target has Disadvantage on Strength-based D20 Test and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Weakening Breath.*** *Strength Saving Throw*: DC 17, each creature that isn't currently affected by this breath in a 30-foot Cone. *Failure:* The target has Disadvantage on Strength-based D20 Test and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
 ### Adult Gold Dragon
 
@@ -3119,9 +3119,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +14, reach 10 ft. 17 (2d8 + 8) Slashing damage plus 4 (1d8) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 60-foot Cone. *Failure:*  66 (12d10) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 60-foot Cone. *Failure:* 66 (12d10) Fire damage. *Success:* Half damage.
 
-***Weakening Breath.*** *Strength Saving Throw*: DC 21, each creature that isn't currently affected by this breath in a 60-foot Cone. *Failure:*  The target has Disadvantage on Strength-based D20 Test and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Weakening Breath.*** *Strength Saving Throw*: DC 21, each creature that isn't currently affected by this breath in a 60-foot Cone. *Failure:* The target has Disadvantage on Strength-based D20 Test and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
 
@@ -3130,7 +3130,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Legendary Actions
 
-***Banish.*** *Charisma Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:*  10 (3d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Banish.*** *Charisma Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:* 10 (3d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Guiding Light.*** The dragon uses Spellcasting to cast *Guiding Bolt* (level 2 version).
 
@@ -3173,9 +3173,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +17 to hit, reach 15 ft. 19 (2d8 + 10) Slashing damage plus 9 (2d8) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:*  71 (13d10) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:* 71 (13d10) Fire damage. *Success:* Half damage.
 
-***Weakening Breath.*** *Strength Saving Throw*: DC 24, each creature that isn't currently affected by this breath in a 90-foot Cone. *Failure:*  The target has Disadvantage on Strength-based D20 Test and subtracts 5 (1d10) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Weakening Breath.*** *Strength Saving Throw*: DC 24, each creature that isn't currently affected by this breath in a 90-foot Cone. *Failure:* The target has Disadvantage on Strength-based D20 Test and subtracts 5 (1d10) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
 
@@ -3184,7 +3184,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Legendary Actions
 
-***Banish.*** *Charisma Saving Throw*: DC 24, one creature the dragon can see within 120 feet. *Failure:*  24 (7d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Banish.*** *Charisma Saving Throw*: DC 24, one creature the dragon can see within 120 feet. *Failure:* 24 (7d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Guiding Light.*** The dragon uses Spellcasting to cast *Guiding Bolt* (level 4 version).
 
@@ -3225,7 +3225,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (1d10 + 2) Slashing damage plus 3 (1d6) Poison damage.
 
-***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:*  21 (6d6) Poison damage. *Success:*  Half damage.
+***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:* 21 (6d6) Poison damage. *Success:* Half damage.
 
 ### Young Green Dragon
 
@@ -3262,7 +3262,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Slashing damage plus 7 (2d6) Poison damage.
 
-***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:*  42 (12d6) Poison damage. *Success:*  Half damage.
+***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:* 42 (12d6) Poison damage. *Success:* Half damage.
 
 ### Adult Green Dragon
 
@@ -3301,7 +3301,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 15 (2d8 + 6) Slashing damage plus 7 (2d6) Poison damage.
 
-***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:*  56 (16d6) Poison damage. *Success:*  Half damage.
+***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:* 56 (16d6) Poison damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
@@ -3312,7 +3312,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Mind Invasion.*** The dragon uses Spellcasting to cast *Mind Spike* (level 3 version).
 
-***Noxious Miasma.*** *Constitution Saving Throw*: DC 17, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:*  7 (2d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Noxious Miasma.*** *Constitution Saving Throw*: DC 17, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:* 7 (2d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
@@ -3353,7 +3353,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +15, reach 15 ft. 17 (2d8 + 8) Slashing damage plus 10 (3d6) Poison damage.
 
-***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:*  77 (22d6) Poison damage. *Success:*  Half damage.
+***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:* 77 (22d6) Poison damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
 
@@ -3364,7 +3364,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Mind Invasion.*** The dragon uses Spellcasting to cast *Mind Spike* (level 5 version).
 
-***Noxious Miasma.*** *Constitution Saving Throw*: DC 21, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:*  17 (5d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Noxious Miasma.*** *Constitution Saving Throw*: DC 21, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:* 17 (5d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
@@ -3398,7 +3398,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (1d10 + 4) Slashing damage plus 3 (1d6) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:*  24 (7d6) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:* 24 (7d6) Fire damage. *Success:* Half damage.
 
 ### Young Red Dragon
 
@@ -3430,7 +3430,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +10, reach 10 ft. 13 (2d6 + 6) Slashing damage plus 3 (1d6) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:*  56 (16d6) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:* 56 (16d6) Fire damage. *Success:* Half damage.
 
 ### Adult Red Dragon
 
@@ -3467,7 +3467,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +14, reach 10 ft. 13 (1d10 + 8) Slashing damage plus 5 (2d4) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 60-foot Cone. *Failure:*  59 (17d6) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 60-foot Cone. *Failure:* 59 (17d6) Fire damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20, +12 to hit with spell attacks):
 
@@ -3517,7 +3517,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +17, reach 15 ft. 19 (2d8 + 10) Slashing damage plus 10 (3d6) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:*  91 (26d6) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:* 91 (26d6) Fire damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
 
@@ -3562,7 +3562,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (1d10 + 4) Piercing damage.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:*  18 (4d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:* 18 (4d8) Cold damage. *Success:* Half damage.
 
 ***Paralyzing Breath.*** *Constitution Saving Throw*: DC 13, each creature in a 15-foot Cone. *First Failure* The target has the Incapacitated condition until the end of its next turn, when it repeats the save. *Second Failure* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
@@ -3596,7 +3596,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +10, reach 10 ft. 15 (2d8 + 6) Slashing damage.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:*  49 (11d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:* 49 (11d8) Cold damage. *Success:* Half damage.
 
 ***Paralyzing Breath.*** *Constitution Saving Throw*: DC 17, each creature in a 30-foot Cone. *First Failure* The target has the Incapacitated condition until the end of its next turn, when it repeats the save. *Second Failure* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
@@ -3635,7 +3635,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +13, reach 10 ft. 17 (2d8 + 8) Slashing damage plus 4 (1d8) Cold damage.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 20, each creature in a 60-foot Cone. *Failure:*  54 (12d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 20, each creature in a 60-foot Cone. *Failure:* 54 (12d8) Cold damage. *Success:* Half damage.
 
 ***Paralyzing Breath.*** *Constitution Saving Throw*: DC 20, each creature in a 60-foot Cone. *First Failure* The target has the Incapacitated condition until the end of its next turn, when it repeats the save. *Second Failure* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
@@ -3648,7 +3648,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Chill.*** The dragon uses Spellcasting to cast *Hold Monster*. The dragon can't take this action again until the start of its next turn.
 
-***Cold Gale.*** *Dexterity Saving Throw*: DC 19, each creature in a 60-foot-long, 10-foot-wide Line. *Failure:*  14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. *Success:*  Half damage only. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Cold Gale.*** *Dexterity Saving Throw*: DC 19, each creature in a 60-foot-long, 10-foot-wide Line. *Failure:* 14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. *Success:* Half damage only. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
@@ -3687,7 +3687,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +17, reach 15 ft. 19 (2d8 + 10) Slashing damage plus 9 (2d8) Cold damage.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:*  67 (15d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:* 67 (15d8) Cold damage. *Success:* Half damage.
 
 ***Paralyzing Breath.*** *Constitution Saving Throw*: DC 24, each creature in a 90-foot Cone. *First Failure* The target has the Incapacitated condition until the end of its next turn, when it repeats the save. *Second Failure* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
@@ -3700,7 +3700,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Chill.*** The dragon uses Spellcasting to cast *Hold Monster*. The dragon can't take this action again until the start of its next turn.
 
-***Cold Gale.*** *Dexterity Saving Throw*: DC 23, each creature in a 60-foot-long, 10-foot-wide Line. *Failure:*  14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. *Success:*  Half damage only. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Cold Gale.*** *Dexterity Saving Throw*: DC 23, each creature in a 60-foot-long, 10-foot-wide Line. *Failure:* 14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. *Success:* Half damage only. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
@@ -3739,7 +3739,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Slashing damage plus 2 (1d4) Cold damage.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:*  22 (5d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:* 22 (5d8) Cold damage. *Success:* Half damage.
 
 ### Young White Dragon
 
@@ -3776,7 +3776,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 9 (2d4 + 4) Slashing damage plus 2 (1d4) Cold damage.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 15, each creature in a 30-foot Cone. *Failure:*  40 (9d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 15, each creature in a 30-foot Cone. *Failure:* 40 (9d8) Cold damage. *Success:* Half damage.
 
 ### Adult White Dragon
 
@@ -3815,12 +3815,12 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 13 (2d6 + 6) Slashing damage plus 4 (1d8) Cold damage.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 19, each creature in a 60-foot Cone. *Failure:*  54 (12d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 19, each creature in a 60-foot Cone. *Failure:* 54 (12d8) Cold damage. *Success:* Half damage.
 
 
 #### Legendary Actions
 
-***Freezing Burst.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:*  7 (2d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Freezing Burst.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:* 7 (2d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
@@ -3863,12 +3863,12 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Rend.*** *Melee Attack Roll:* +14, reach 15 ft. 17 (2d8 + 8) Slashing damage plus 7 (2d6) Cold damage.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:*  63 (14d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:* 63 (14d8) Cold damage. *Success:* Half damage.
 
 
 #### Legendary Actions
 
-***Freezing Burst.*** *Constitution Saving Throw*: DC 20, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:*  14 (4d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Freezing Burst.*** *Constitution Saving Throw*: DC 20, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:* 14 (4d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. *Failure or Success*: The dragon can't take this action again until the start of its next turn.
 
 ***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
 
@@ -3958,7 +3958,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Claw.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (2d4 + 2) Slashing damage.
 
-***Web Strand (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, one Large or smaller creature the ettercap can see within 30 feet. *Failure:*  The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Bludgeoning, Poison, and Psychic damage).
+***Web Strand (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, one Large or smaller creature the ettercap can see within 30 feet. *Failure:* The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Bludgeoning, Poison, and Psychic damage).
 
 
 #### Bonus Actions
@@ -4035,7 +4035,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Thunderous Slam.*** *Melee Attack Roll:* +8, reach 10 ft. 14 (2d8 + 5) Thunder damage.
 
-***Whirlwind (Recharge 4-6).*** *Strength Saving Throw*: DC 13, one Medium or smaller creature in the elemental's space. *Failure:*  24 (4d10 + 2) Thunder damage, and the target is pushed up to 20 feet straight away from the elemental and has the Prone condition. *Success:*  Half damage only.
+***Whirlwind (Recharge 4-6).*** *Strength Saving Throw*: DC 13, one Medium or smaller creature in the elemental's space. *Failure:* 24 (4d10 + 2) Thunder damage, and the target is pushed up to 20 feet straight away from the elemental and has the Prone condition. *Success:* Half damage only.
 
 ### Earth Elemental
 
@@ -4154,7 +4154,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Slam.*** *Melee Attack Roll:* +7, reach 5 ft. 13 (2d8 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
-***Whelm (Recharge 4-6).*** *Strength Saving Throw*: DC 15, each creature in the elemental's space. *Failure:*  22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Restrained condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning damage at the start of each of the elemental's turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength (Athletics) check. *Success:*  Half damage only.
+***Whelm (Recharge 4-6).*** *Strength Saving Throw*: DC 15, each creature in the elemental's space. *Failure:* 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Restrained condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning damage at the start of each of the elemental's turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength (Athletics) check. *Success:* Half damage only.
 
 ## Monsters: Fungi
 
@@ -4271,14 +4271,14 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Traits
 
-***Stench.*** *Constitution Saving Throw*: DC 10, any creature that starts its turn in a 5-foot Emanation originating from the ghast. *Failure:*  The target has the Poisoned condition until the start of its next turn. *Success:*  The target is immune to this ghast's Stench for 24 hours.
+***Stench.*** *Constitution Saving Throw*: DC 10, any creature that starts its turn in a 5-foot Emanation originating from the ghast. *Failure:* The target has the Poisoned condition until the start of its next turn. *Success:* The target is immune to this ghast's Stench for 24 hours.
 
 
 #### Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage plus 9 (2d8) Necrotic damage.
 
-***Claw.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage. If the target is a non-Undead creature, it is subjected to the following effect. *Constitution Saving Throw*: DC 10. *Failure:*  The target has the Paralyzed condition until the end of its next turn.
+***Claw.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage. If the target is a non-Undead creature, it is subjected to the following effect. *Constitution Saving Throw*: DC 10. *Failure:* The target has the Paralyzed condition until the end of its next turn.
 
 ### Ghost
 
@@ -4317,10 +4317,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Withering Touch.*** *Melee Attack Roll:* +5, reach 5 ft. 19 (3d10 + 3) Necrotic damage.
 
-***Horrific Visage.*** *Wisdom Saving Throw*: DC 13, each creature in a 60-foot Cone that can see the ghost and isn't an Undead. *Failure:*  10 (2d6 + 3) Psychic damage, and the target has the Frightened condition until the start of the ghost's next turn. *Success:*  The target is immune to this ghost's Horrific Visage for 24 hours.
+***Horrific Visage.*** *Wisdom Saving Throw*: DC 13, each creature in a 60-foot Cone that can see the ghost and isn't an Undead. *Failure:* 10 (2d6 + 3) Psychic damage, and the target has the Frightened condition until the start of the ghost's next turn. *Success:* The target is immune to this ghost's Horrific Visage for 24 hours.
 
-***Possession (Recharge 6).*** *Charisma Saving Throw*: DC 13, one Humanoid the ghost can see within 5 feet. *Failure:*  The target is possessed by the ghost; the ghost disappears, and the target has the Incapacitated condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost's game statistics are the same, except it uses the possessed target's Speed, as well as the target's Strength, Dexterity, and Constitution modifiers.
-The possession lasts until the body drops to 0 Hit Points or the ghost leaves as a Bonus Action. When the possession ends, the ghost appears in an unoccupied space within 5 feet of the target, and the target is immune to this ghost's Possession for 24 hours. *Success:*  The target is immune to this ghost's Possession for 24 hours.
+***Possession (Recharge 6).*** *Charisma Saving Throw*: DC 13, one Humanoid the ghost can see within 5 feet. *Failure:* The target is possessed by the ghost; the ghost disappears, and the target has the Incapacitated condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost's game statistics are the same, except it uses the possessed target's Speed, as well as the target's Strength, Dexterity, and Constitution modifiers.
+The possession lasts until the body drops to 0 Hit Points or the ghost leaves as a Bonus Action. When the possession ends, the ghost appears in an unoccupied space within 5 feet of the target, and the target is immune to this ghost's Possession for 24 hours. *Success:* The target is immune to this ghost's Possession for 24 hours.
 
 ***Etherealness.*** The ghost casts the *Etherealness* spell, requiring no spell components and using Charisma as the spellcasting ability. The ghost is visible on the Material Plane while on the Border Ethereal and vice versa, but it can't affect or be affected by anything on the other plane.
 
@@ -4355,7 +4355,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage plus 3 (1d6) Necrotic damage.
 
-***Claw.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Slashing damage. If the target is a creature that isn't an Undead or elf, it is subjected to the following effect. *Constitution Saving Throw*: DC 10. *Failure:*  The target has the Paralyzed condition until the end of its next turn.
+***Claw.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Slashing damage. If the target is a creature that isn't an Undead or elf, it is subjected to the following effect. *Constitution Saving Throw*: DC 10. *Failure:* The target has the Paralyzed condition until the end of its next turn.
 
 ### Gibbering Mouther
 
@@ -4383,7 +4383,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 ***Aberrant Ground.*** The ground in a 10-foot Emanation originating from the mouther is Difficult Terrain.
 
-***Gibbering.*** The mouther babbles incoherently while it doesn't have the Incapacitated condition. *Wisdom Saving Throw*: DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. *Failure:*  The target rolls 1d8 to determine what it does during the current turn:
+***Gibbering.*** The mouther babbles incoherently while it doesn't have the Incapacitated condition. *Wisdom Saving Throw*: DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. *Failure:* The target rolls 1d8 to determine what it does during the current turn:
 
 
 - **1-4**: The target does nothing.
@@ -4395,7 +4395,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 ***Bite.*** *Melee Attack Roll:* +2, reach 5 ft. 7 (2d6) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition. The target dies if it is reduced to 0 Hit Points by this attack. Its body is then absorbed into the mouther, leaving only equipment behind.
 
-***Blinding Spittle (Recharge 5-6).*** *Dexterity Saving Throw*: DC 10, each creature in a 10-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point within 30 feet. *Failure:*  7 (2d6) Radiant damage, and the target has the Blinded condition until the end of the mouther's next turn.
+***Blinding Spittle (Recharge 5-6).*** *Dexterity Saving Throw*: DC 10, each creature in a 10-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point within 30 feet. *Failure:* 7 (2d6) Radiant damage, and the target has the Blinded condition until the end of the mouther's next turn.
 
 ### Gnoll Warrior
 
@@ -4462,7 +4462,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 #### Bonus Actions
 
-***Trample.*** *Dexterity Saving Throw*: DC 16, one creature within 5 feet that has the Prone condition. *Failure:*  16 (2d10 + 5) Bludgeoning damage. *Success:*  Half damage.
+***Trample.*** *Dexterity Saving Throw*: DC 16, one creature within 5 feet that has the Prone condition. *Failure:* 16 (2d10 + 5) Bludgeoning damage. *Success:* Half damage.
 
 ### Grick
 
@@ -4759,7 +4759,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 ***Thunderbolt.*** *Ranged Attack Roll:* +14, range 500 ft. 22 (2d12 + 9) Lightning damage, and the target has the Blinded and Deafened conditions until the start of the giant's next turn.
 
-***Lightning Storm (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 10-foot-radius, 40-foot-high Cylinder [Area of Effect]|XPHB|Cylinder originating from a point the giant can see within 500 feet. *Failure:*  55 (10d10) Lightning damage. *Success:*  Half damage.
+***Lightning Storm (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 10-foot-radius, 40-foot-high Cylinder [Area of Effect]|XPHB|Cylinder originating from a point the giant can see within 500 feet. *Failure:* 55 (10d10) Lightning damage. *Success:* Half damage.
 
 ***Spellcasting.*** The giant casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 18):
 
@@ -5004,7 +5004,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Fiery Bolt.*** *Ranged Attack Roll:* +10, range 120 ft. 36 (8d8) Fire damage.
 
-***Poison Breath (Recharge 6).*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:*  55 (10d10) Poison damage. *Success:*  Half damage.
+***Poison Breath (Recharge 6).*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:* 55 (10d10) Poison damage. *Success:* Half damage.
 
 ### Stone Golem
 
@@ -5148,7 +5148,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Claw.*** *Melee Attack Roll:* +7, reach 10 ft. 6 (1d4 + 4) Slashing damage plus 7 (2d6) damage of the type chosen for the Draconic Origin trait.
 
-***Dragon's Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:*  28 (8d6) damage of the type chosen for the Draconic Origin trait. *Success:*  Half damage.
+***Dragon's Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:* 28 (8d6) damage of the type chosen for the Draconic Origin trait. *Success:* Half damage.
 
 
 #### Bonus Actions
@@ -5181,7 +5181,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Claw.*** *Melee Attack Roll:* +3, reach 5 ft. 6 (2d4 + 1) Slashing damage.
 
-***Luring Song.*** The harpy sings a magical melody, which lasts until the harpy's  Concentration ends on it. *Wisdom Saving Throw*: DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. *Failure:*  The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn't avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. *Success:*  The target is immune to this harpy's Luring Song for 24 hours.
+***Luring Song.*** The harpy sings a magical melody, which lasts until the harpy's Concentration ends on it. *Wisdom Saving Throw*: DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. *Failure:* The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn't avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. *Success:* The target is immune to this harpy's Luring Song for 24 hours.
 
 ### Hell Hound
 
@@ -5218,7 +5218,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage plus 3 (1d6) Fire damage.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:*  17 (5d6) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:* 17 (5d6) Fire damage. *Success:* Half damage.
 
 ### Hippogriff
 
@@ -5283,7 +5283,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 #### Actions
 
-***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 1 Piercing damage, and the target is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:*  The target has the Poisoned condition until the end of the homunculus's next turn. *Failure by 5 or More:* The target has the Poisoned condition for 1 minute. While Poisoned, the target has the Unconscious condition, which ends early if the target takes any damage.
+***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 1 Piercing damage, and the target is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:* The target has the Poisoned condition until the end of the homunculus's next turn. *Failure by 5 or More:* The target has the Poisoned condition for 1 minute. While Poisoned, the target has the Unconscious condition, which ends early if the target takes any damage.
 
 ### Hydra
 
@@ -5411,7 +5411,7 @@ The bag has AC 15, HP 20, and Resistance to all damage. The bag turns to dust if
 ***Nightmare Haunting (1/Day; Requires Soul Bag).*** While on the Ethereal Plane, the hag casts *Dream*, using the same spellcasting ability as Spellcasting. Only the hag can serve as the spell's messenger, and the target must be a creature the hag can see on the Material Plane. The spell fails and is wasted if the target is under the effect of the *Protection from Evil and Good* spell or within a *Magic Circle* spell.
 If the target takes damage from the *Dream* spell, the target's Hit Point maximum decreases by an amount equal to that damage. If the spell kills the target, its soul is trapped in the hag's soul bag, and the target can't be raised from the dead until its soul is released.
 
-- **At Will:** 
+- **At Will:**
 - **1/Day Each:** *Dream*, *Protection from Evil and Good*, *Magic Circle*
 
 #### Bonus Actions
@@ -5444,14 +5444,14 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 
 ***Amphibious.*** The hag can breathe air and water.
 
-***Vile Appearance.*** *Wisdom Saving Throw*: DC 11, any Beast or Humanoid that starts its turn within 30 feet of the hag and can see the hag's true form. *Failure:*  The target has the Frightened condition until the start of its next turn. *Success:*  The target is immune to this hag's Vile Appearance for 24 hours.
+***Vile Appearance.*** *Wisdom Saving Throw*: DC 11, any Beast or Humanoid that starts its turn within 30 feet of the hag and can see the hag's true form. *Failure:* The target has the Frightened condition until the start of its next turn. *Success:* The target is immune to this hag's Vile Appearance for 24 hours.
 
 
 #### Actions
 
 ***Claw.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage.
 
-***Death Glare (Recharge 5-6).*** *Wisdom Saving Throw*: DC 11, one Frightened creature the hag can see within 30 feet. *Failure:*  If the target has 20 Hit Points or fewer, it drops to 0 Hit Points. Otherwise, the target takes 13 (3d8) Psychic damage.
+***Death Glare (Recharge 5-6).*** *Wisdom Saving Throw*: DC 11, one Frightened creature the hag can see within 30 feet. *Failure:* If the target has 20 Hit Points or fewer, it drops to 0 Hit Points. Otherwise, the target takes 13 (3d8) Psychic damage.
 
 ***Illusory Appearance.*** The hag casts *Disguise Self*, using Constitution as the spellcasting ability (spell save DC 13). The spell's duration is 24 hours.
 
@@ -5573,7 +5573,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 
 #### Bonus Actions
 
-***Nightmare (Recharge 6).*** *Wisdom Saving Throw*: DC 15, one creature the incubus can see within 60 feet. *Failure:*  If the target has 20 Hit Points or fewer, it has the Unconscious condition for 1 hour, until it takes damage, or until a creature within 5 feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8) Psychic damage.
+***Nightmare (Recharge 6).*** *Wisdom Saving Throw*: DC 15, one creature the incubus can see within 60 feet. *Failure:* If the target has 20 Hit Points or fewer, it has the Unconscious condition for 1 hour, until it takes damage, or until a creature within 5 feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8) Psychic damage.
 
 ### Invisible Stalker
 
@@ -5613,7 +5613,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 
 ***Wind Swipe.*** *Melee Attack Roll:* +7, reach 5 ft. 11 (2d6 + 4) Force damage.
 
-***Vortex.*** *Constitution Saving Throw*: DC 14, one Large or smaller creature in the stalker's space. *Failure:*  7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and takes 7 (2d6) Thunder damage at the start of each of the stalker's turns.
+***Vortex.*** *Constitution Saving Throw*: DC 14, one Large or smaller creature in the stalker's space. *Failure:* 7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and takes 7 (2d6) Thunder damage at the start of each of the stalker's turns.
 
 ## Monsters: K
 
@@ -5690,11 +5690,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 
 ***Tentacle.*** *Melee Attack Roll:* +17, reach 30 ft. 24 (4d6 + 10) Bludgeoning damage. The target has the Grappled condition (escape DC 20) from one of ten tentacles, and it has the Restrained condition until the grapple ends.
 
-***Fling.*** The kraken throws a Large or smaller creature Grappled by it to a space it can see within 60 feet of itself that isn't in the air. *Dexterity Saving Throw*: DC 25, the creature thrown and each creature in the destination space. *Failure:*  18 (4d8) Bludgeoning damage, and the target has the Prone condition. *Success:*  Half damage only.
+***Fling.*** The kraken throws a Large or smaller creature Grappled by it to a space it can see within 60 feet of itself that isn't in the air. *Dexterity Saving Throw*: DC 25, the creature thrown and each creature in the destination space. *Failure:* 18 (4d8) Bludgeoning damage, and the target has the Prone condition. *Success:* Half damage only.
 
-***Lightning Strike.*** *Dexterity Saving Throw*: DC 23, one creature the kraken can see within 120 feet. *Failure:*  33 (6d10) Lightning damage. *Success:*  Half damage.
+***Lightning Strike.*** *Dexterity Saving Throw*: DC 23, one creature the kraken can see within 120 feet. *Failure:* 33 (6d10) Lightning damage. *Success:* Half damage.
 
-***Swallow.*** *Dexterity Saving Throw*: DC 25, one creature Grappled by the kraken (it can have up to four creatures swallowed at a time). *Failure:*  23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is swallowed and no longer Grappled. A swallowed creature has the Restrained condition, has Cover|XPHB|Total Cover against attacks and other effects outside the kraken, and takes 24 (7d6) Acid damage at the start of each of its turns.
+***Swallow.*** *Dexterity Saving Throw*: DC 25, one creature Grappled by the kraken (it can have up to four creatures swallowed at a time). *Failure:* 23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is swallowed and no longer Grappled. A swallowed creature has the Restrained condition, has Cover|XPHB|Total Cover against attacks and other effects outside the kraken, and takes 24 (7d6) Acid damage at the start of each of its turns.
 If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the kraken with the Prone condition. If the kraken dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 15 feet of movement, exiting Prone.
 
 
@@ -5702,7 +5702,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Storm Bolt.*** The kraken uses Lightning Strike.
 
-***Toxic Ink.*** *Constitution Saving Throw*: DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. *Failure:*  The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. *Failure or Success*:  The kraken can't take this action again until the start of its next turn.
+***Toxic Ink.*** *Constitution Saving Throw*: DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. *Failure:* The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. *Failure or Success*: The kraken can't take this action again until the start of its next turn.
 
 ## Monsters: L
 
@@ -5735,7 +5735,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Claw.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Slashing damage plus 7 (2d6) Psychic damage.
 
-***Corrupting Touch.*** *Wisdom Saving Throw*: DC 13, one creature the lamia can see within 5 feet. *Failure:*  13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions.
+***Corrupting Touch.*** *Wisdom Saving Throw*: DC 13, one creature the lamia can see within 5 feet. *Failure:* 13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions.
 
 ***Spellcasting.*** The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
 
@@ -5801,7 +5801,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Deathly Teleport.*** The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.
 
-***Disrupt Life.*** *Constitution Saving Throw*: DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. *Failure:*  31 (9d6) Necrotic damage. *Success:*  Half damage. *Failure or Success*:  The lich can't take this action again until the start of its next turn.
+***Disrupt Life.*** *Constitution Saving Throw*: DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. *Failure:* 31 (9d6) Necrotic damage. *Success:* Half damage. *Failure or Success*: The lich can't take this action again until the start of its next turn.
 
 ***Frightening Gaze.*** The lich casts *Fear*, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.
 
@@ -5835,7 +5835,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Multiattack.*** The werebear makes two attacks, using Handaxe or Rend in any combination. It can replace one attack with a Bite attack.
 
-***Bite (Bear or Hybrid Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. 17 (2d12 + 4) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 14. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werebear under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this werebear's curse for 24 hours.
+***Bite (Bear or Hybrid Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. 17 (2d12 + 4) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 14. *Failure:* The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werebear under the DM's control and has 10 Hit Points. *Success:* The target is immune to this werebear's curse for 24 hours.
 
 ***Handaxe (Humanoid or Hybrid Form Only).*** *Melee or Ranged Attack Roll:* +7, reach 5 ft or range 20/60 ft. 14 (3d6 + 4) Slashing damage.
 
@@ -5874,7 +5874,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Multiattack.*** The wereboar makes two attacks, using Javelin or Tusk in any combination. It can replace one attack with a Gore attack.
 
-***Gore (Boar or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wereboar under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this wereboar's curse for 24 hours.
+***Gore (Boar or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:* The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wereboar under the DM's control and has 10 Hit Points. *Success:* The target is immune to this wereboar's curse for 24 hours.
 
 ***Javelin (Humanoid or Hybrid Form Only).*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 30/120 ft. 13 (3d6 + 3) Piercing damage.
 
@@ -5913,7 +5913,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Multiattack.*** The wererat makes two attacks, using Scratch or Hand Crossbow in any combination. It can replace one attack with a Bite attack.
 
-***Bite (Rat or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 8 (2d4 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 11. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wererat under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this wererat's curse for 24 hours.
+***Bite (Rat or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 8 (2d4 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 11. *Failure:* The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wererat under the DM's control and has 10 Hit Points. *Success:* The target is immune to this wererat's curse for 24 hours.
 
 ***Scratch.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Slashing damage.
 
@@ -5952,7 +5952,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Multiattack.*** The weretiger makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
 
-***Bite (Tiger or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 13. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Weretiger under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this weretiger's curse for 24 hours.
+***Bite (Tiger or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 13. *Failure:* The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Weretiger under the DM's control and has 10 Hit Points. *Success:* The target is immune to this weretiger's curse for 24 hours.
 
 ***Scratch.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage.
 
@@ -5998,7 +5998,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Multiattack.*** The werewolf makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
 
-***Bite (Wolf or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werewolf under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this werewolf's curse for 24 hours.
+***Bite (Wolf or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:* The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werewolf under the DM's control and has 10 Hit Points. *Success:* The target is immune to this werewolf's curse for 24 hours.
 
 ***Scratch.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage.
 
@@ -6036,7 +6036,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 #### Traits
 
-***Death Burst.*** The magmin explodes when it dies. *Dexterity Saving Throw*: DC 11, each creature in a 10-foot Emanation originating from the magmin. *Failure:*  7 (2d6) Fire damage. *Success:*  Half damage.
+***Death Burst.*** The magmin explodes when it dies. *Dexterity Saving Throw*: DC 11, each creature in a 10-foot Emanation originating from the magmin. *Failure:* 7 (2d6) Fire damage. *Success:* Half damage.
 
 
 #### Actions
@@ -6145,7 +6145,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 #### Actions
 
-***Ocean Spear.*** *Melee or Ranged Attack Roll:* +2, reach 5 ft. or range 20/60 ft. 3 (1d6) Piercing damage plus 2 (1d4) Cold damage. If the target is a creature, its Speed decreases by 10 feet until the end of its next turn. HitomThe spear magically returns to the merfolk's hand immediately after a ranged attack.
+***Ocean Spear.*** *Melee or Ranged Attack Roll:* +2, reach 5 ft. or range 20/60 ft. 3 (1d6) Piercing damage plus 2 (1d4) Cold damage. If the target is a creature, its Speed decreases by 10 feet until the end of its next turn. *Hit or Miss.* The spear magically returns to the merfolk's hand immediately after a ranged attack.
 
 ### Merrow
 
@@ -6415,18 +6415,18 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 #### Traits
 
-***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:*  5 (2d4) Bludgeoning damage. *Success:*  Half damage.
+***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:* 5 (2d4) Bludgeoning damage. *Success:* Half damage.
 
 
 #### Actions
 
 ***Claw.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Slashing damage.
 
-***Blinding Breath (Recharge 6).*** *Dexterity Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:*  The target has the Blinded condition until the end of the mephit's next turn.
+***Blinding Breath (Recharge 6).*** *Dexterity Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:* The target has the Blinded condition until the end of the mephit's next turn.
 
 ***Sleep (1/Day).*** The mephit casts the *Sleep* spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 10).
 
-- **At Will:** 
+- **At Will:**
 - **1/Day Each:** *Sleep*
 
 ### Ice Mephit
@@ -6456,18 +6456,18 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 #### Traits
 
-***Death Burst.*** The mephit explodes when it dies. *Constitution Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:*  5 (2d4) Cold damage. *Success:*  Half damage.
+***Death Burst.*** The mephit explodes when it dies. *Constitution Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:* 5 (2d4) Cold damage. *Success:* Half damage.
 
 
 #### Actions
 
 ***Claw.*** *Melee Attack Roll:* +3, reach 5 ft. 3 (1d4 + 1) Slashing damage plus 2 (1d4) Cold damage.
 
-***Frost Breath (Recharge 6).*** *Constitution Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:*  7 (3d4) Cold damage. *Success:*  Half damage.
+***Frost Breath (Recharge 6).*** *Constitution Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:* 7 (3d4) Cold damage. *Success:* Half damage.
 
 ***Fog Cloud (1/Day).*** The mephit casts *Fog Cloud*, requiring no spell components and using Charisma as the spellcasting ability.
 
-- **At Will:** 
+- **At Will:**
 - **1/Day Each:** *Fog Cloud*
 
 ### Magma Mephit
@@ -6497,14 +6497,14 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 #### Traits
 
-***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 11, each creature in a 5-foot Emanation originating from the mephit. *Failure:*  7 (2d6) Fire damage. *Success:*  Half damage.
+***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 11, each creature in a 5-foot Emanation originating from the mephit. *Failure:* 7 (2d6) Fire damage. *Success:* Half damage.
 
 
 #### Actions
 
 ***Claw.*** *Melee Attack Roll:* +3, reach 5 ft. 3 (1d4 + 1) Slashing damage plus 3 (1d6) Fire damage.
 
-***Fire Breath (Recharge 6).*** *Dexterity Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:*  7 (2d6) Fire damage. *Success:*  Half damage.
+***Fire Breath (Recharge 6).*** *Dexterity Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:* 7 (2d6) Fire damage. *Success:* Half damage.
 
 ### Steam Mephit
 
@@ -6534,14 +6534,14 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Blurred Form.*** Attack rolls against the mephit are made with Disadvantage unless the mephit has the Incapacitated condition.
 
-***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:*  5 (2d4) Fire damage. *Success:*  Half damage.
+***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:* 5 (2d4) Fire damage. *Success:* Half damage.
 
 
 #### Actions
 
 ***Claw.*** *Melee Attack Roll:* +2, reach 5 ft. 2 (1d4) Slashing damage plus 2 (1d4) Fire damage.
 
-***Steam Breath (Recharge 6).*** *Constitution Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:*  5 (2d4) Fire damage, and the target's Speed decreases by 10 feet until the end of the mephit's next turn. *Success:*  Half damage only. *Failure or Success*:  Being underwater doesn't grant Resistance to this Fire damage.
+***Steam Breath (Recharge 6).*** *Constitution Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:* 5 (2d4) Fire damage, and the target's Speed decreases by 10 feet until the end of the mephit's next turn. *Success:* Half damage only. *Failure or Success*: Being underwater doesn't grant Resistance to this Fire damage.
 
 ## Monsters: Mummies
 
@@ -6575,7 +6575,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Rotting Fist.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can't regain Hit Points, its Hit Point maximum doesn't return to normal when finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
 
-***Dreadful Glare.*** *Wisdom Saving Throw*: DC 11, one creature the mummy can see within 60 feet. *Failure:*  The target has the Frightened condition until the end of the mummy's next turn. *Success:*  The target is immune to this mummy's Dreadful Glare for 24 hours.
+***Dreadful Glare.*** *Wisdom Saving Throw*: DC 11, one creature the mummy can see within 60 feet. *Failure:* The target has the Frightened condition until the end of the mummy's next turn. *Success:* The target is immune to this mummy's Dreadful Glare for 24 hours.
 
 ### Mummy Lord
 
@@ -6619,7 +6619,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Channel Negative Energy.*** *Ranged Attack Roll:* +9, range 60 ft. 25 (6d6 + 4) Necrotic damage.
 
-***Dreadful Glare.*** *Wisdom Saving Throw*: DC 17, one creature the mummy can see within 60 feet. *Failure:*  25 (6d6 + 4) Psychic damage, and the target has the Paralyzed condition until the end of the mummy's next turn.
+***Dreadful Glare.*** *Wisdom Saving Throw*: DC 17, one creature the mummy can see within 60 feet. *Failure:* 25 (6d6 + 4) Psychic damage, and the target has the Paralyzed condition until the end of the mummy's next turn.
 
 ***Spellcasting.*** The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
 
@@ -6737,7 +6737,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Bite.*** *Melee Attack Roll:* +8, reach 10 ft. 17 (2d12 + 4) Piercing damage plus 22 (4d10) Poison damage.
 
-***Poisonous Spittle.*** *Constitution Saving Throw*: DC 16, one creature the naga can see within 60 feet. *Failure:*  31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga's next turn. *Success:*  Half damage only.
+***Poisonous Spittle.*** *Constitution Saving Throw*: DC 16, one creature the naga can see within 60 feet. *Failure:* 31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga's next turn. *Success:* Half damage only.
 
 ***Spellcasting.*** The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16):
 
@@ -6857,7 +6857,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Spellcasting.*** The oni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-- **At Will:** 
+- **At Will:**
 - **1e/Day Each:** *Charm Person*, *Darkness*, *Gaseous Form*, *Sleep*
 
 #### Bonus Actions
@@ -6890,11 +6890,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Multiattack.*** The otyugh makes one Bite attack and two Tentacle attacks.
 
-***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 12 (2d8 + 3) Piercing damage, and the target has the Poisoned condition. Whenever the Poisoned target finishes a Long Rest, it is subjected to the following effect. *Constitution Saving Throw*: DC 15. *Failure:*  The target's Hit Point maximum decreases by 5 (1d10) and doesn't return to normal until the Poisoned condition ends on the target. *Success:*  The Poisoned condition ends.
+***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 12 (2d8 + 3) Piercing damage, and the target has the Poisoned condition. Whenever the Poisoned target finishes a Long Rest, it is subjected to the following effect. *Constitution Saving Throw*: DC 15. *Failure:* The target's Hit Point maximum decreases by 5 (1d10) and doesn't return to normal until the Poisoned condition ends on the target. *Success:* The Poisoned condition ends.
 
 ***Tentacle.*** *Melee Attack Roll:* +6, reach 10 ft. 12 (2d8 + 3) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two tentacles.
 
-***Tentacle Slam.*** *Constitution Saving Throw*: DC 14, each creature Grappled by the otyugh. *Failure:*  16 (3d8 + 3) Bludgeoning damage, and the target has the Stunned condition until the start of the otyugh's next turn. *Success:*  Half damage only.
+***Tentacle Slam.*** *Constitution Saving Throw*: DC 14, each creature Grappled by the otyugh. *Failure:* 16 (3d8 + 3) Bludgeoning damage, and the target has the Stunned condition until the start of the otyugh's next turn. *Success:* Half damage only.
 
 ### Owlbear
 
@@ -6997,7 +6997,7 @@ As an action, a creature within 5 feet of the cube can pull a creature or an obj
 
 ***Pseudopod.*** *Melee Attack Roll:* +4, reach 5 ft. 12 (3d6 + 2) Acid damage.
 
-***Engulf.*** The cube moves up to its Speed without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze Cube [Area of Effect]|XPHB|Cube trait). *Dexterity Saving Throw*: DC 12, each creature whose space the cube enters for the first time during this move. *Failure:*  10 (3d6) Acid damage, and the target is engulfed. An engulfed target is suffocating, can't cast spells with a Verbal component, has the Restrained condition, and takes 10 (3d6) Acid damage at the start of each of the cube's turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a DC 12 Strength (Athletics) check. On a successful check, the target escapes and enters the nearest unoccupied space. *Success:*  Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead.
+***Engulf.*** The cube moves up to its Speed without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze Cube [Area of Effect]|XPHB|Cube trait). *Dexterity Saving Throw*: DC 12, each creature whose space the cube enters for the first time during this move. *Failure:* 10 (3d6) Acid damage, and the target is engulfed. An engulfed target is suffocating, can't cast spells with a Verbal component, has the Restrained condition, and takes 10 (3d6) Acid damage at the start of each of the cube's turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a DC 12 Strength (Athletics) check. On a successful check, the target escapes and enters the nearest unoccupied space. *Success:* Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead.
 
 ### Gray Ooze
 
@@ -7174,7 +7174,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Piercing damage.
 
-***Sting.*** *Constitution Saving Throw*: DC 12, one creature the pseudodragon can see within 5 feet. *Failure:*  5 (2d4) Poison damage, and the target has the Poisoned condition for 1 hour. *Failure by 5 or More:* While Poisoned, the target also has the Unconscious condition, which ends early if the target takes damage or a creature within 5 feet of it takes an action to wake it.
+***Sting.*** *Constitution Saving Throw*: DC 12, one creature the pseudodragon can see within 5 feet. *Failure:* 5 (2d4) Poison damage, and the target has the Poisoned condition for 1 hour. *Failure by 5 or More:* While Poisoned, the target also has the Unconscious condition, which ends early if the target takes damage or a creature within 5 feet of it takes an action to wake it.
 
 ### Purple Worm
 
@@ -7213,7 +7213,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 
 #### Bonus Actions
 
-***Swallow.*** *Strength Saving Throw*: DC 19, one Large or smaller creature Grappled by the worm (it can have up to three creatures swallowed at a time). *Failure:*  The target is swallowed by the worm, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, has Cover|XPHB|Total Cover against attacks and other effects outside the worm, and takes 17 (5d6) Acid damage at the start of each of the worm's turns.
+***Swallow.*** *Strength Saving Throw*: DC 19, one Large or smaller creature Grappled by the worm (it can have up to three creatures swallowed at a time). *Failure:* The target is swallowed by the worm, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, has Cover|XPHB|Total Cover against attacks and other effects outside the worm, and takes 17 (5d6) Acid damage at the start of each of the worm's turns.
 If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the worm and has the Prone condition. If the worm dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.
 
 ## Monsters: Pirates
@@ -7247,7 +7247,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ***Dagger.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. 5 (1d4 + 3) Piercing damage.
 
-***Enthralling Panache.*** *Wisdom Saving Throw*: DC 12, one creature the pirate can see within 30 feet. *Failure:*  The target has the Charmed condition until the start of the pirate's next turn.
+***Enthralling Panache.*** *Wisdom Saving Throw*: DC 12, one creature the pirate can see within 30 feet. *Failure:* The target has the Charmed condition until the start of the pirate's next turn.
 
 ### Pirate Captain
 
@@ -7284,7 +7284,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 #### Bonus Actions
 
-***Captain's Charm.*** *Wisdom Saving Throw*: DC 14, one creature the pirate can see within 30 feet. *Failure:*  The target has the Charmed condition until the start of the pirate's next turn.
+***Captain's Charm.*** *Wisdom Saving Throw*: DC 14, one creature the pirate can see within 30 feet. *Failure:* The target has the Charmed condition until the start of the pirate's next turn.
 
 ## Monsters: Priests
 
@@ -7408,7 +7408,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ***Cursed Touch.*** *Melee Attack Roll:* +10, reach 5 ft. 12 (2d6 + 5) Slashing damage plus 19 (3d12) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target gains no benefit from finishing a Short Rest|XPHB|Short or Long Rest.
 
-***Baleful Command (Recharge 5-6).*** *Wisdom Saving Throw*: DC 18, each enemy in a 30-foot Emanation originating from the rakshasa. *Failure:*  28 (8d6) Psychic damage, and the target has the Frightened and Incapacitated conditions until the start of the rakshasa's next turn.
+***Baleful Command (Recharge 5-6).*** *Wisdom Saving Throw*: DC 18, each enemy in a 30-foot Emanation originating from the rakshasa. *Failure:* 28 (8d6) Psychic damage, and the target has the Frightened and Incapacitated conditions until the start of the rakshasa's next turn.
 
 ***Spellcasting.*** The rakshasa casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
 
@@ -7449,7 +7449,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 #### Bonus Actions
 
-***Swallow.*** *Strength Saving Throw*: DC 19, one Large or smaller creature Grappled by the remorhaz (it can have up to two creatures swallowed at a time). *Failure:*  The target is swallowed by the remorhaz, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, it has Cover|XPHB|Total Cover against attacks and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.
+***Swallow.*** *Strength Saving Throw*: DC 19, one Large or smaller creature Grappled by the remorhaz (it can have up to two creatures swallowed at a time). *Failure:* The target is swallowed by the remorhaz, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, it has Cover|XPHB|Total Cover against attacks and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.
 If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the remorhaz and has the Prone condition. If the remorhaz dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse by using 15 feet of movement, exiting Prone.
 
 ### Roc
@@ -7557,7 +7557,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 
 ***Bite.*** *Melee Attack Roll:* +3, reach 5 ft. 5 (1d8 + 1) Piercing damage.
 
-***Antennae.*** The rust monster targets one nonmagical metal object—armor or a weapon—worn or carried by a creature within 5 feet of itself. *Dexterity Saving Throw*: DC 11, the creature with the object. *Failure:*  The object takes a -1 penalty to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty reaches -5. The penalty can be removed by casting the *Mending* spell on the armor or weapon.
+***Antennae.*** The rust monster targets one nonmagical metal object—armor or a weapon—worn or carried by a creature within 5 feet of itself. *Dexterity Saving Throw*: DC 11, the creature with the object. *Failure:* The object takes a -1 penalty to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty reaches -5. The penalty can be removed by casting the *Mending* spell on the armor or weapon.
 
 ***Destroy Metal.*** The rust monster touches a nonmagical metal object within 5 feet of itself that isn't being worn or carried. The touch destroys a 1-foot Cube [Area of Effect]|XPHB|Cube of the object.
 
@@ -7640,9 +7640,9 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 
 ***Multiattack.*** The salamander makes two Flame Spear attacks. It can replace one attack with a use of Constrict.
 
-***Flame Spear.*** *Melee or Ranged Attack Roll:* +7, reach 5 ft. or range 20/60 ft. 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. HitomThe spear magically returns to the salamander's hand immediately after a ranged attack.
+***Flame Spear.*** *Melee or Ranged Attack Roll:* +7, reach 5 ft. or range 20/60 ft. 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. *Hit or Miss.* The spear magically returns to the salamander's hand immediately after a ranged attack.
 
-***Constrict.*** *Strength Saving Throw*: DC 15, one Large or smaller creature the salamander can see within 10 feet. *Failure:*  11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Fire damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
+***Constrict.*** *Strength Saving Throw*: DC 15, one Large or smaller creature the salamander can see within 10 feet. *Failure:* 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Fire damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
 
 ### Satyr
 
@@ -7676,7 +7676,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 
 ***Hooves.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, the satyr pushes the target up to 10 feet straight away from itself.
 
-***Mockery.*** *Wisdom Saving Throw*: DC 12, one creature the satyr can see within 90 feet. *Failure:*  5 (1d6 + 2) Psychic damage.
+***Mockery.*** *Wisdom Saving Throw*: DC 12, one creature the satyr can see within 90 feet. *Failure:* 5 (1d6 + 2) Psychic damage.
 
 ### Scout
 
@@ -7786,7 +7786,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 
 ***Charged Tendril.*** *Melee Attack Roll:* +7, reach 10 ft. 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Lightning damage. If the target is a Medium or smaller creature, the shambling mound pulls the target 5 feet straight toward itself.
 
-***Engulf.*** *Strength Saving Throw*: DC 15, one Medium or smaller creature within 5 feet. *Failure:*  The target is pulled into the shambling mound's space and has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time.
+***Engulf.*** *Strength Saving Throw*: DC 15, one Medium or smaller creature within 5 feet. *Failure:* The target is pulled into the shambling mound's space and has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time.
 
 ### Shield Guardian
 
@@ -7890,7 +7890,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 
 ***Enchanting Bow.*** *Ranged Attack Roll:* +6, range 40/160 ft. 1 Piercing damage, and the target has the Charmed condition until the start of the sprite's next turn.
 
-***Heart Sight.*** *Charisma Saving Throw*: DC 10, one creature within 5 feet the sprite can see (Celestials, Fiends, and Undead automatically fail the save). *Failure:*  The sprite knows the target's emotions and alignment.
+***Heart Sight.*** *Charisma Saving Throw*: DC 10, one creature within 5 feet the sprite can see (Celestials, Fiends, and Undead automatically fail the save). *Failure:* The sprite knows the target's emotions and alignment.
 
 ***Invisibility.*** The sprite casts *Invisibility* on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
@@ -7994,7 +7994,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Charm.*** The succubus casts *Dominate Person* (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 15).
 
-***Draining Kiss.*** *Constitution Saving Throw*: DC 15, one creature Charmed by the succubus within 5 feet. *Failure:*  13 (3d8) Psychic damage. *Success:*  Half damage. *Failure or Success*:  The target's Hit Point maximum decreases by an amount equal to the damage taken.
+***Draining Kiss.*** *Constitution Saving Throw*: DC 15, one creature Charmed by the succubus within 5 feet. *Failure:* 13 (3d8) Psychic damage. *Success:* Half damage. *Failure or Success*: The target's Hit Point maximum decreases by an amount equal to the damage taken.
 
 
 #### Bonus Actions
@@ -8164,7 +8164,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Claw.*** *Melee Attack Roll:* +8, reach 5 ft. 14 (3d6 + 4) Slashing damage.
 
-***Mind-Rending Roar (Recharge 5-6).*** *Wisdom Saving Throw*: DC 16, each enemy in a 300-foot Emanation originating from the sphinx. *Failure:*  35 (10d6) Psychic damage, and the target has the Incapacitated condition until the start of the sphinx's next turn.
+***Mind-Rending Roar (Recharge 5-6).*** *Wisdom Saving Throw*: DC 16, each enemy in a 300-foot Emanation originating from the sphinx. *Failure:* 35 (10d6) Psychic damage, and the target has the Incapacitated condition until the start of the sphinx's next turn.
 
 ***Spellcasting.*** The sphinx casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
@@ -8175,7 +8175,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Arcane Prowl.*** The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
 
-***Weight of Years.*** *Constitution Saving Throw*: DC 16, one creature the sphinx can see within 120 feet. *Failure:*  The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. *Failure or Success*:  The sphinx can't take this action again until the start of its next turn.
+***Weight of Years.*** *Constitution Saving Throw*: DC 16, one creature the sphinx can see within 120 feet. *Failure:* The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. *Failure or Success*: The sphinx can't take this action again until the start of its next turn.
 
 ### Sphinx of Valor
 
@@ -8218,9 +8218,9 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 ***Roar (3/Day).*** The sphinx emits a magical roar. Whenever it roars, the roar has a different effect, as detailed below (the sequence resets when it takes a Long Rest):
 
 
-- **First Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  The target has the Frightened condition for 1 minute.
-- **Second Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
-- **Third Roar**: *Constitution Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  44 (8d10) Thunder damage, and the target has the Prone condition. *Success:*  Half damage only.
+- **First Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* The target has the Frightened condition for 1 minute.
+- **Second Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+- **Third Roar**: *Constitution Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* 44 (8d10) Thunder damage, and the target has the Prone condition. *Success:* Half damage only.
 
 ***Spellcasting.*** The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20):
 
@@ -8231,7 +8231,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Arcane Prowl.*** The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
 
-***Weight of Years.*** *Constitution Saving Throw*: DC 16, one creature the sphinx can see within 120 feet. *Failure:*  The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. *Failure or Success*:  The sphinx can't take this action again until the start of its next turn.
+***Weight of Years.*** *Constitution Saving Throw*: DC 16, one creature the sphinx can see within 120 feet. *Failure:* The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. *Failure or Success*: The sphinx can't take this action again until the start of its next turn.
 
 ### Sphinx of Wonder
 
@@ -8313,12 +8313,12 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Tail.*** *Melee Attack Roll:* +19, reach 30 ft. 23 (3d8 + 10) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
 
-***Thunderous Bellow (Recharge 5-6).*** *Constitution Saving Throw*: DC 27, each creature and each object that isn't being worn or carried in a 150-foot Cone. *Failure:*  78 (12d12) Thunder damage, and the target has the Deafened and Frightened conditions until the end of its next turn. *Success:*  Half damage only.
+***Thunderous Bellow (Recharge 5-6).*** *Constitution Saving Throw*: DC 27, each creature and each object that isn't being worn or carried in a 150-foot Cone. *Failure:* 78 (12d12) Thunder damage, and the target has the Deafened and Frightened conditions until the end of its next turn. *Success:* Half damage only.
 
 
 #### Bonus Actions
 
-***Swallow.*** *Strength Saving Throw*: DC 27, one Large or smaller creature Grappled by the tarrasque (it can have up to six creatures swallowed at a time). *Failure:*  The target is swallowed, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions and can't teleport, it has Cover|XPHB|Total Cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) Acid damage at the start of each of the tarrasque's turns.
+***Swallow.*** *Strength Saving Throw*: DC 27, one Large or smaller creature Grappled by the tarrasque (it can have up to six creatures swallowed at a time). *Failure:* The target is swallowed, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions and can't teleport, it has Cover|XPHB|Total Cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) Acid damage at the start of each of the tarrasque's turns.
 If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the tarrasque and has the Prone condition. If the tarrasque dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.
 
 
@@ -8326,7 +8326,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 
 ***Onslaught.*** The tarrasque moves up to half its Speed, and it makes one Claw or Tail attack.
 
-***World-Shaking Movement.*** The tarrasque moves up to its Speed. At the end of this movement, the tarrasque creates an instantaneous shock wave in a 60-foot Emanation originating from itself. Creatures in that area lose  Concentration and, if Medium or smaller, have the Prone condition. The tarrasque can't take this action again until the start of its next turn.
+***World-Shaking Movement.*** The tarrasque moves up to its Speed. At the end of this movement, the tarrasque creates an instantaneous shock wave in a 60-foot Emanation originating from itself. Creatures in that area lose Concentration and, if Medium or smaller, have the Prone condition. The tarrasque can't take this action again until the start of its next turn.
 
 ### Treant
 
@@ -8619,7 +8619,7 @@ While it has 0 Hit Points in mist form, it can't return to its vampire form, and
 
 ***Grave Strike (Vampire Form Only).*** *Melee Attack Roll:* +9, reach 5 ft. 8 (1d8 + 4) Bludgeoning damage plus 7 (2d6) Necrotic damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two hands.
 
-***Bite (Bat or Vampire Form Only).*** *Constitution Saving Throw*: DC 17, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:*  6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount. A Humanoid reduced to 0 Hit Points by this damage and then buried rises the following sunset as a Vampire Spawn under the vampire's control.
+***Bite (Bat or Vampire Form Only).*** *Constitution Saving Throw*: DC 17, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount. A Humanoid reduced to 0 Hit Points by this damage and then buried rises the following sunset as a Vampire Spawn under the vampire's control.
 
 
 #### Bonus Actions
@@ -8721,7 +8721,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 
 ***Claw.*** *Melee Attack Roll:* +6, reach 5 ft. 8 (2d4 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws.
 
-***Bite.*** *Constitution Saving Throw*: DC 14, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:*  5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount.
+***Bite.*** *Constitution Saving Throw*: DC 14, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount.
 
 
 #### Bonus Actions
@@ -8769,7 +8769,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 
 ***Necrotic Bow.*** *Ranged Attack Roll:* +4, range 150/600 ft. 6 (1d8 + 2) Piercing damage plus 4 (1d8) Necrotic damage.
 
-***Life Drain.*** *Constitution Saving Throw*: DC 13, one creature within 5 feet. *Failure:*  6 (1d8 + 2) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken.
+***Life Drain.*** *Constitution Saving Throw*: DC 13, one creature within 5 feet. *Failure:* 6 (1d8 + 2) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken.
 A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.
 
 ### Will-o'-Wisp
@@ -8812,9 +8812,9 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 
 #### Bonus Actions
 
-***Consume Life.*** *Constitution Saving Throw*: DC 10, one living creature the wisp can see within 5 feet that has 0 Hit Points. *Failure:*  The target dies, and the wisp regains 10 (3d6) Hit Points.
+***Consume Life.*** *Constitution Saving Throw*: DC 10, one living creature the wisp can see within 5 feet that has 0 Hit Points. *Failure:* The target dies, and the wisp regains 10 (3d6) Hit Points.
 
-***Vanish.*** The wisp and its light have the Invisible condition until the wisp's  Concentration ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.
+***Vanish.*** The wisp and its light have the Invisible condition until the wisp's Concentration ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.
 
 ### Winter Wolf
 
@@ -8849,7 +8849,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 
 ***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:*  18 (4d8) Cold damage. *Success:*  Half damage.
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:* 18 (4d8) Cold damage. *Success:* Half damage.
 
 ### Worg
 
@@ -9009,7 +9009,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 
 ***Spear.*** *Melee or Ranged Attack Roll:* +7, reach 5 ft. or range 20/60 ft. 11 (2d6 + 4) Piercing damage.
 
-***Shield Bash.*** *Strength Saving Throw*: DC 15, one creature within 5 feet that the gladiator can see. *Failure:*  9 (2d4 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
+***Shield Bash.*** *Strength Saving Throw*: DC 15, one creature within 5 feet that the gladiator can see. *Failure:* 9 (2d4 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
 ### Knight
 
