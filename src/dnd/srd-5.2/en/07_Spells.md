@@ -664,20 +664,6 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 ## Level 1 Spells
 
-### Mage Armor
-
-*Level 1 Abjuration (Sorcerer, Wizard)*
-
-**Casting Time:** Action
-
-**Range:** Touch
-
-**Components:** V, S, M (a piece of cured leather)
-
-**Duration:** 8 hours
-
-You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
-
 ### Alarm
 
 *Level 1 Abjuration (Ranger, Wizard)*
@@ -1398,6 +1384,20 @@ You touch a creature. The target's Speed increases by 10 feet until the spell en
 
 **_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
 
+### Mage Armor
+
+*Level 1 Abjuration (Sorcerer, Wizard)*
+
+**Casting Time:** Action
+
+**Range:** Touch
+
+**Components:** V, S, M (a piece of cured leather)
+
+**Duration:** 8 hours
+
+You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
+
 ### Magic Missile
 
 *Level 1 Evocation (Sorcerer, Wizard)*
@@ -1604,6 +1604,22 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 ## Level 2 Spells
 
+### Acid Arrow
+
+*Level 2 Evocation (Wizard)*
+
+**Casting Time:** Action
+
+**Range:** 90 feet
+
+**Components:** V, S, M (powdered rhubarb leaf)
+
+**Duration:** Instantaneous
+
+A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 Acid damage and 2d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage only.
+
+**_Using a Higher-Level Spell Slot._** The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
+
 ### Aid
 
 *Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
@@ -1639,22 +1655,6 @@ You alter your physical form. Choose one of the following options. Its effects l
 **_Change Appearance._** You alter your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and other distinguishing characteristics. You can make yourself appear as a member of another species, though none of your statistics change. You can't appear as a creature of a different size, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. For the duration, you can take a Magic action to change your appearance in this way again.
 
 **_Natural Weapons._** You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your Unarmed Strike to deal damage with that new growth, it deals 1d6 damage of the type in parentheses instead of dealing the normal damage for your Unarmed Strike, and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
-
-### Acid Arrow
-
-*Level 2 Evocation (Wizard)*
-
-**Casting Time:** Action
-
-**Range:** 90 feet
-
-**Components:** V, S, M (powdered rhubarb leaf)
-
-**Duration:** Instantaneous
-
-A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 Acid damage and 2d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage only.
-
-**_Using a Higher-Level Spell Slot._** The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
 
 ### Animal Messenger
 
@@ -3362,33 +3362,6 @@ You create an Invisible, invulnerable eye within range that hovers for the durat
 
 As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-### Confusion
-
-*Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action
-
-**Range:** 90 feet
-
-**Components:** V, S, M (three nut shells)
-
-**Duration:** Concentration, up to 1 minute
-
-Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.
-
-Table: 1d10 Behavior for the Turn
-
-| d10  | Behavior for the Turn                                                                                                                        |
-|------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | The target doesn't take an action, and it uses all its movement to move. Roll 1d4 for the direction: 1, north; 2, east; 3, south; or 4, west.|
-| 2–6  | The target doesn't move or take actions.                                                                                                     |
-| 7–8  | The target doesn't move, and it takes the Attack action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
-| 9–10 | The target chooses its behavior.                                                                                                             |
-
-At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
-
-**_Using a Higher-Level Spell Slot._** The Sphere's radius increases by 5 feet for each spell slot level above 4.
-
 ### Aura of Life
 
 *Level 4 Abjuration (Cleric, Paladin)*
@@ -3488,6 +3461,33 @@ One creature you can see within range makes a Wisdom saving throw. It does so wi
 Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition until the spell ends.
 
 For the duration, you can take a Bonus Action to designate a direction that is horizontal to you. Each Charmed target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
+
+### Confusion
+
+*Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
+
+**Casting Time:** Action
+
+**Range:** 90 feet
+
+**Components:** V, S, M (three nut shells)
+
+**Duration:** Concentration, up to 1 minute
+
+Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.
+
+Table: 1d10 Behavior for the Turn
+
+| d10  | Behavior for the Turn                                                                                                                        |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | The target doesn't take an action, and it uses all its movement to move. Roll 1d4 for the direction: 1, north; 2, east; 3, south; or 4, west.|
+| 2–6  | The target doesn't move or take actions.                                                                                                     |
+| 7–8  | The target doesn't move, and it takes the Attack action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
+| 9–10 | The target chooses its behavior.                                                                                                             |
+
+At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
+
+**_Using a Higher-Level Spell Slot._** The Sphere's radius increases by 5 feet for each spell slot level above 4.
 
 ### Conjure Minor Elementals
 
@@ -4002,42 +4002,6 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 Fire d
 **_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 4.
 
 ## Level 5 Spells
-
-### Passwall
-
-*Level 5 Transmutation (Wizard)*
-
-**Casting Time:** Action
-
-**Range:** 30 feet
-
-**Components:** V, S, M (a pinch of sesame seeds)
-
-**Duration:** 1 hour
-
-A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
-
-When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
-
-### Teleportation Circle
-
-*Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** 1 minute
-
-**Range:** 10 feet
-
-**Components:** V, M (rare inks worth 50+ GP, which the spell consumes)
-
-**Duration:** 1 round
-
-As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
-
-Many major temples, guildhalls, and other important places have permanent teleportation circles. Each circle includes a unique sigil sequence—a string of runes arranged in a particular pattern.
-
-When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You might learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
-
-You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
 ### Animate Objects
 
@@ -4574,6 +4538,22 @@ A *Remove Curse* or *Greater Restoration* spell cast on the target restores the 
 
 **_Using a Higher-Level Spell Slot._** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
 
+### Passwall
+
+*Level 5 Transmutation (Wizard)*
+
+**Casting Time:** Action
+
+**Range:** 30 feet
+
+**Components:** V, S, M (a pinch of sesame seeds)
+
+**Duration:** 1 hour
+
+A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
+
+When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
+
 ### Planar Binding
 
 *Level 5 Abjuration (Bard, Cleric, Druid, Warlock, Wizard)*
@@ -4790,6 +4770,26 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
+### Teleportation Circle
+
+*Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
+
+**Casting Time:** 1 minute
+
+**Range:** 10 feet
+
+**Components:** V, M (rare inks worth 50+ GP, which the spell consumes)
+
+**Duration:** 1 round
+
+As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
+
+Many major temples, guildhalls, and other important places have permanent teleportation circles. Each circle includes a unique sigil sequence—a string of runes arranged in a particular pattern.
+
+When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You might learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
+
+You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
+
 ### Tree Stride
 
 *Level 5 Conjuration (Druid, Ranger)*
@@ -4848,40 +4848,6 @@ If you maintain your Concentration on this spell for its full duration, the wall
 
 ## Level 6 Spells
 
-### Conjure Fey
-
-*Level 6 Conjuration (Druid)*
-
-**Casting Time:** Action
-
-**Range:** 60 feet
-
-**Components:** V, S
-
-**Duration:** Concentration, up to 10 minutes
-
-You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to 3d12 plus your spellcasting ability modifier, and the target has the Frightened condition until the start of your next turn, with both you and the spirit as the source of the fear.
-
-As a Bonus Action on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d12 for each spell slot level above 6.
-
-### Find the Path
-
-*Level 6 Divination (Bard, Cleric, Druid)*
-
-**Casting Time:** 1 minute
-
-**Range:** Self
-
-**Components:** V, S, M (a set of divination tools—such as cards or runes—worth 100+ GP)
-
-**Duration:** Concentration, up to 1 day
-
-You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as "a green dragon's lair").
-
-For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
-
 ### Blade Barrier
 
 *Level 6 Evocation (Cleric)*
@@ -4931,6 +4897,24 @@ Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a fa
 Negative energy ripples out in a 60-foot-radius Sphere from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one.
 
 **_Using a Higher-Level Spell Slot._** The damage increases by 2d8 for each spell slot level above 6.
+
+### Conjure Fey
+
+*Level 6 Conjuration (Druid)*
+
+**Casting Time:** Action
+
+**Range:** 60 feet
+
+**Components:** V, S
+
+**Duration:** Concentration, up to 10 minutes
+
+You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to 3d12 plus your spellcasting ability modifier, and the target has the Frightened condition until the start of your next turn, with both you and the spirit as the source of the fear.
+
+As a Bonus Action on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
+
+**_Using a Higher-Level Spell Slot._** The damage increases by 1d12 for each spell slot level above 6.
 
 ### Contingency
 
@@ -5011,6 +4995,22 @@ On each of your turns until the spell ends, you can take a Magic action to targe
 **_Panicked._** The target has the Frightened condition. On each of its turns, the Frightened target must take the Dash action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends.
 
 **_Sickened._** The target has the Poisoned condition.
+
+### Find the Path
+
+*Level 6 Divination (Bard, Cleric, Druid)*
+
+**Casting Time:** 1 minute
+
+**Range:** Self
+
+**Components:** V, S, M (a set of divination tools—such as cards or runes—worth 100+ GP)
+
+**Duration:** Concentration, up to 1 day
+
+You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as "a green dragon's lair").
+
+For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
 
 ### Flesh to Stone
 
@@ -6506,3 +6506,4 @@ Alternatively, you can create one of the following effects of your choice:
 Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item's current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god's divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, your wish fails.
 
 The stress of casting *Wish* to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take 1d10 Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *Wish* ever again if you suffer this stress.
+
