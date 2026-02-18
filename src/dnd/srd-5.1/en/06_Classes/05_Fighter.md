@@ -22,10 +22,6 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-### Fighter Class Features
-
-As a Fighter, you gain the following class features when you reach the specified Fighter levels. These features are listed in the Fighter Features table.
-
 Table: Fighter Features
 
 | Level | Proficiency Bonus | Features                                          |
