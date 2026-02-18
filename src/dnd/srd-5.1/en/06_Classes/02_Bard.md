@@ -4,41 +4,16 @@ Table: Core Bard Traits
 
 |                               |                                                                                                         |
 |-------------------------------|---------------------------------------------------------------------------------------------------------|
-| Hit Dice                      | 1d8 per Bard level                                                                                      |
+| Hit Point Die                 | 1d8 per Bard level                                                                                      |
 | Hit Points at 1st Level       | 8 + your Constitution modifier                                                                          |
 | Hit Points at Higher Levels   | 1d8 (or 5) + your Constitution modifier per Bard level after 1st                                        |
 | Saving Throw Proficiencies    | Dexterity and Charisma                                                                                   |
 | Skill Proficiencies           | Choose any 3                                                                                             |
 | Weapon Proficiencies          | Simple weapons, Hand Crossbows, Longswords, Rapiers, Shortswords                                         |
 | Tool Proficiencies            | Three Musical Instruments of your choice                                                                 |
-| Armor Proficiencies           | Light armor                                                                                              |
-| Starting Equipment            | (a) a Rapier, (b) a Longsword, or (c) any simple weapon; (a) a Diplomat's Pack or (b) an Entertainer's Pack; (a) a Lute or (b) any other Musical Instrument; Leather Armor and a Dagger |
+| Armor Training                | Light armor                                                                                              |
 
-### Bard Class Features
-
-As a bard, you gain the following class features.
-
-#### Hit Points
-
-**Hit Dice:** 1d8 per bard level
-
-**Hit Points at 1st Level:** 8 + your Constitution modifier
-
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
-
-#### Proficiencies
-
-**Armor:** Light armor
-
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
-**Tools:** Three musical instruments of your choice
-
-**Saving Throws:** Dexterity, Charisma
-
-**Skills:** Choose any three
-
-#### Equipment
+### Starting Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 

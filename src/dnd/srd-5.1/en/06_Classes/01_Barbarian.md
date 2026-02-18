@@ -4,40 +4,16 @@ Table: Core Barbarian Traits
 
 |                               |                                                                                     |
 |-------------------------------|-------------------------------------------------------------------------------------|
-| Hit Dice                      | 1d12 per Barbarian level                                                            |
+| Hit Point Die                 | 1d12 per Barbarian level                                                            |
 | Hit Points at 1st Level       | 12 + your Constitution modifier                                                    |
 | Hit Points at Higher Levels   | 1d12 (or 7) + your Constitution modifier per Barbarian level after 1st              |
 | Saving Throw Proficiencies    | Strength and Constitution                                                           |
 | Skill Proficiencies           | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
-| Armor Proficiencies           | Light armor, Medium armor, and Shields                                              |
 | Weapon Proficiencies          | Simple and Martial weapons                                                          |
-| Starting Equipment            | (a) Greataxe or (b) any martial melee weapon; (a) two Handaxes or (b) any simple weapon; Explorer's Pack and 4 Javelins |
+| Tool Proficiencies            | None                                                                                |
+| Armor Training                | Light armor, Medium armor, and Shields                                              |
 
-### Barbarian Class Features
-
-As a barbarian, you gain the following class features.
-
-#### Hit Points
-
-**Hit Dice:** 1d12 per barbarian level
-
-**Hit Points at 1st Level:** 12 + your Constitution modifier
-
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
-
-#### Proficiencies
-
-**Armor:** Light armor, medium armor, shields
-
-**Weapons:** Simple weapons, martial weapons
-
-**Tools:** None
-
-**Saving Throws:** Strength, Constitution
-
-**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
-
-#### Equipment
+### Starting Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
