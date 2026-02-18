@@ -1403,7 +1403,7 @@ Objects come to life at your command. Choose up to ten nonmagical objects within
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-**Table- Animate Object Stats**
+Table: Animate Object Stats
 
 | Size   | HP | AC | Attack                     | Str | Dex |
 |--------|----|----|----------------------------|-----|-----|
@@ -2214,7 +2214,7 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
-**Table- Confusion Behavior**
+Table: Confusion Behavior
 
 | d10  | Behavior                                                                                                                                                                                        |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2498,7 +2498,7 @@ When you cast the spell, you change the current weather conditions, which are de
 
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
-**Table- Control Weather (Precipitation)**
+Table: Control Weather (Precipitation)
 
 | Stage | Condition                                  |
 |-------|--------------------------------------------|
@@ -2509,7 +2509,7 @@ When you change the weather conditions, find a current condition on the followin
 | 5     | Torrential rain, driving hail, or blizzard |
 |       |                                            |
 
-**Table- Control Weather (Temperature)**
+Table: Control Weather (Temperature)
 
 | Stage | Condition       |
 |-------|-----------------|
@@ -2521,7 +2521,7 @@ When you change the weather conditions, find a current condition on the followin
 | 6     | Arctic cold     |
 |       |                 |
 
-**Table- Control Weather (Wind)**
+Table: Control Weather (Wind)
 
 | Stage | Condition     |
 |-------|---------------|
@@ -2619,7 +2619,7 @@ You pull wisps of shadow material from the Shadowfell to create a nonliving obje
 
 The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
-**Table- Creation Duration**
+Table: Creation Duration
 
 | Material              | Duration   |
 |-----------------------|------------|
@@ -5803,7 +5803,7 @@ If the target's soul isn't free or willing to do so, the spell fails.
 
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
 
-**Table- Reincarnate Race**
+Table: Reincarnate Race
 
 | d100  | Race                |
 |-------|---------------------|
@@ -6011,7 +6011,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
-**Table- Scrying Save Modifier**
+Table: Scrying Save Modifier
 
 | Knowledge                                         | Save Modifier |
 |---------------------------------------------------|---------------|
@@ -6680,7 +6680,7 @@ This spell instantly transports you and up to eight willing creatures of your ch
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
-**Table- Teleport Familiarity**
+Table: Teleport Familiarity
 
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
 |-------------------|--------|--------------|------------|-----------|

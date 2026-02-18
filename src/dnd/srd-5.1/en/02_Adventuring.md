@@ -40,7 +40,7 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a *carpet of flying*, allow you to travel more swiftly.
 
-**Table- Travel Pace**
+Table: Travel Pace
 
 **Distance Traveled Per ...**
 

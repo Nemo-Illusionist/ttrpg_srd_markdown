@@ -5,7 +5,7 @@ A monster’s statistics, sometimes referred to as its **stat block**, provide t
 ## Size
 A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the *Player’s Handbook* for more information on creature size and space.
 
-**Table- Size Categories**
+Table: Size Categories
 
 | Size       | Space                  | Examples            |
 | ---------- | ---------------------- | ------------------- |
@@ -80,7 +80,7 @@ A monster's hit points are presented both as a die expression and as an average 
 
 A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-**Table- Hit Dice by Size**
+Table: Hit Dice by Size
 
 | Monster Size | Hit Die | Average HP per Die |
 |--------------|---------|--------------------|
@@ -128,7 +128,7 @@ The Saving Throws entry is reserved for creatures that are adept at resisting ce
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-**Table- Proficiency Bonus by Challenge Rating**
+Table: Proficiency Bonus by Challenge Rating
 
 | Challenge | Proficiency Bonus |
 |-----------|-------------------|
@@ -236,7 +236,7 @@ The number of experience points (XP) a monster is worth is based on its challeng
 
 Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
 
-**Table- Experience Points by Challenge Rating**
+Table: Experience Points by Challenge Rating
 
 | Challenge | XP      |
 |-----------|---------|

@@ -144,7 +144,7 @@ Flying creatures enjoy many benefits of mobility, but they must also deal with t
 
 Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-**Table- Creature Size**
+Table: Creature Size
 
 | Size       | Space                  |
 |------------|------------------------|

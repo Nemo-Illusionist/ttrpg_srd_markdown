@@ -5642,7 +5642,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 ***Resistances***. The half-dragon gains resistance to a type of damage based on its color.
 
-**Table- 114** - Monsters: Half-Dragon Template (Damage Resistance)
+Table: 114 - Monsters: Half-Dragon Template (Damage Resistance)
 
 | Color               | Damage Resistance |
 |---------------------|-------------------|
@@ -5657,7 +5657,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 ***New Action: Breath Weapon***. The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
-**Table- 115** - Monsters: Half-Dragon Template (Size)
+Table: 115 - Monsters: Half-Dragon Template (Size)
 
 | Size             | Breath Weapon      | Optional Prerequisite |
 |------------------|--------------------|-----------------------|

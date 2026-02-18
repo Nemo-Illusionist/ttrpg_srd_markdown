@@ -21,7 +21,7 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
 
 Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
-**Table- Ability Scores and Modifiers**
+Table: Ability Scores and Modifiers
 
 | Score | Modifier |
 |-------|----------|
@@ -79,7 +79,7 @@ For every ability check, the GM decides which of the six abilities is relevant t
 
 The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-**Table- Difficulty Classes**
+Table: Difficulty Classes
 
 | Task Difficulty   | DC |
 |-------------------|----|
@@ -109,7 +109,7 @@ For example, a Dexterity check might reflect a character's attempt to pull off a
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-**Table- Related Skills**
+Table: Related Skills
 
 | Strength  | Dexterity       | Intelligence  | Wisdom          | Charisma     |
 |-----------|-----------------|---------------|-----------------|--------------|
