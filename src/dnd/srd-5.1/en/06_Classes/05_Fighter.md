@@ -107,6 +107,8 @@ You can use this feature twice between long rests starting at 13th level and thr
 
 ### Fighter Subclass: Champion
 
+Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
+
 The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
 
 #### Level 3: Improved Critical
