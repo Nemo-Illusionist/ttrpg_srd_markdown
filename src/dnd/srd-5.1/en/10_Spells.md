@@ -1632,7 +1632,7 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
-## Level 1
+## Level 1 Spells
 
 ### Alarm
 
@@ -2455,7 +2455,7 @@ Once on each of your turns as a bonus action, you can mentally command the serva
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
-## Level 2
+## Level 2 Spells
 
 ### Acid Arrow
 
@@ -3408,7 +3408,7 @@ You create a magical zone that guards against deception in a 15-foot radius sphe
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-## Level 3
+## Level 3 Spells
 
 ### Animate Dead
 
@@ -4152,7 +4152,7 @@ When the wall appears, each creature within its area must make a Strength saving
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can't pass through it.
 
-## Level 4
+## Level 4 Spells
 
 ### Arcane Eye
 
@@ -4756,7 +4756,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 fire d
 
 ***At Higher Levels***. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
-## Level 5
+## Level 5 Spells
 
 ### Animate Objects
 
@@ -5556,7 +5556,7 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 
 If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-## Level 6
+## Level 6 Spells
 
 ### Blade Barrier
 
@@ -6154,7 +6154,7 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn't dedicated to your deity, the spell has no effect.
 
-## Level 7
+## Level 7 Spells
 
 ### Arcane Sword
 
@@ -6588,7 +6588,7 @@ Table: Teleport Familiarity
 
 ***Mishap***. The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
-## Level 8
+## Level 8 Spells
 
 ### Animal Shapes
 
@@ -6929,7 +6929,7 @@ A creature blinded by this spell makes another Constitution saving throw at the 
 
 This spell dispels any darkness in its area that was created by a spell.
 
-## Level 9
+## Level 9 Spells
 
 ### Astral Projection
 
