@@ -1350,17 +1350,17 @@ Table: Horn of Valhalla
 
 If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
 
-#### Horseshoes of Speed
-
-*Wondrous Item, Rare*
-
-These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet.
-
 #### Horseshoes of a Zephyr
 
 *Wondrous Item, Very Rare*
 
 These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
+
+#### Horseshoes of Speed
+
+*Wondrous Item, Rare*
+
+These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet.
 
 #### Immovable Rod
 
@@ -2077,6 +2077,14 @@ You have a swimming speed of 40 feet while wearing this ring.
 
 While wearing this ring, you can cast the *telekinesis* spell at will, but you can target only objects that aren't being worn or carried.
 
+#### Ring of the Ram
+
+*Ring, Rare (Requires Attunement)*
+
+This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you.
+
+Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
+
 #### Ring of Three Wishes
 
 *Ring, Legendary*
@@ -2102,14 +2110,6 @@ While wearing this ring, you can stand on and move across any liquid surface as 
 While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.
 
 Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion.
-
-#### Ring of the Ram
-
-*Ring, Rare (Requires Attunement)*
-
-This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you.
-
-Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
 
 #### Robe of Eyes
 
@@ -2140,6 +2140,18 @@ This black or dark blue robe is embroidered with small white or silver stars. Yo
 Six stars, located on the robe's upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast *magic missile* as a 5th-level spell. Daily at dusk, 1d6 removed stars reappear on the robe.
 
 While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.
+
+#### Robe of the Archmagi
+
+*Wondrous Item, Legendary (Requires Attunement By a Sorcerer, Warlock, or Wizard)*
+
+This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a *robe of the archmagi* that doesn't correspond to your alignment.
+
+You gain these benefits while wearing the robe:
+
+- If you aren't wearing armor, your base Armor Class is 15+your Dexterity modifier.
+- You have advantage on saving throws against spells and other magical effects.
+- Your spell save DC and spell attack bonus each increase by 2.
 
 #### Robe of Useful Items
 
@@ -2174,18 +2186,6 @@ Table: Robe of Useful Items
 | 84-90  | 2 mastiffs                                                                                                                                                                                        |
 | 91-96  | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach                                                                                             |
 | 97-100 | Portable ram                                                                                                                                                                                      |
-
-#### Robe of the Archmagi
-
-*Wondrous Item, Legendary (Requires Attunement By a Sorcerer, Warlock, or Wizard)*
-
-This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a *robe of the archmagi* that doesn't correspond to your alignment.
-
-You gain these benefits while wearing the robe:
-
-- If you aren't wearing armor, your base Armor Class is 15+your Dexterity modifier.
-- You have advantage on saving throws against spells and other magical effects.
-- Your spell save DC and spell attack bonus each increase by 2.
 
 #### Rod of Absorption
 
@@ -2453,30 +2453,6 @@ This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If
 
 **_Insect Cloud._** While holding the staff, you can use an action and expend 1 charge to cause a swarm of harmless flying insects to spread out in a 30-foot radius from you. The insects remain for 10 minutes, making the area heavily obscured for creatures other than you. The swarm moves with you, remaining centered on you. A wind of at least 10 miles per hour disperses the swarm and ends the effect.
 
-#### Staff of Thunder and Lightning
-
-*Staff, Very Rare (Requires Attunement)*
-
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
-
-**_Lightning._** When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 lightning damage.
-
-**_Thunder._** When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become stunned until the end of your next turn.
-
-**_Lightning Strike._** You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking 9d6 lightning damage on a failed save, or half as much damage on a successful one.
-
-**_Thunderclap._** You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn't deafened.
-
-**_Thunder and Lightning._** You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
-
-#### Staff of Withering
-
-*Staff, Rare (Requires Attunement By a Cleric, Druid, or Warlock)*
-
-This staff has 3 charges and regains 1d3 expended charges daily at dawn.
-
-The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
-
 #### Staff of the Magi
 
 *Staff, Legendary (Requires Attunement By a Sorcerer, Warlock, or Wizard)*
@@ -2528,6 +2504,30 @@ You can also use an action to cast the *pass without trace* spell from the staff
 **_Tree Form._** You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot diameter trunk, and its branches at the top spread out in a 20-foot radius.
 
 The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by *detect magic*. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
+
+#### Staff of Thunder and Lightning
+
+*Staff, Very Rare (Requires Attunement)*
+
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
+
+**_Lightning._** When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 lightning damage.
+
+**_Thunder._** When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become stunned until the end of your next turn.
+
+**_Lightning Strike._** You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking 9d6 lightning damage on a failed save, or half as much damage on a successful one.
+
+**_Thunderclap._** You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn't deafened.
+
+**_Thunder and Lightning._** You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
+
+#### Staff of Withering
+
+*Staff, Rare (Requires Attunement By a Cleric, Druid, or Warlock)*
+
+This staff has 3 charges and regains 1d3 expended charges daily at dawn.
+
+The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
 
 #### Stone of Controlling Earth Elementals
 
@@ -2585,6 +2585,12 @@ If you are a good cleric or paladin, you can use the talisman as a holy symbol, 
 
 The talisman has 7 charges. If you are wearing or holding it, you can use an action to expend 1 charge from it and choose one creature you can see on the ground within 120 feet of you. If the target is of evil alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed.
 
+#### Talisman of the Sphere
+
+*Wondrous Item, Legendary (Requires Attunement)*
+
+When you make an Intelligence (Arcana) check to control a *sphere of annihilation* while you are holding this talisman, you double your proficiency bonus on the check. In addition, when you start your turn with control over a *sphere of annihilation*, you can use an action to levitate it 10 feet plus a number of additional feet equal to 10 × your Intelligence modifier.
+
 #### Talisman of Ultimate Evil
 
 *Wondrous Item, Legendary (Requires Attunement By a Creature of Evil Alignment)*
@@ -2594,12 +2600,6 @@ This item symbolizes unrepentant evil. A creature that is neither good nor evil 
 If you are an evil cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.
 
 The talisman has 6 charges. If you are wearing or holding it, you can use an action to expend 1 charge from the talisman and choose one creature you can see on the ground within 120 feet of you. If the target is of good alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.
-
-#### Talisman of the Sphere
-
-*Wondrous Item, Legendary (Requires Attunement)*
-
-When you make an Intelligence (Arcana) check to control a *sphere of annihilation* while you are holding this talisman, you double your proficiency bonus on the check. In addition, when you start your turn with control over a *sphere of annihilation*, you can use an action to levitate it 10 feet plus a number of additional feet equal to 10 × your Intelligence modifier.
 
 #### Tome of Clear Thought
 
@@ -2725,6 +2725,12 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand regains 1d3 expended charges daily at dawn.
 
+#### Wand of the War Mage, +1, +2, or +3
+
+*Wand, Uncommon (+1), Rare (+2), or Very Rare (+3) (Requires Attunement By a Spellcaster)*
+
+While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
+
 #### Wand of Web
 
 *Wand, Uncommon (Requires Attunement By a Spellcaster)*
@@ -2769,12 +2775,6 @@ Table: Wand of Wonder
 | 91-95  | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.                                                                                                                                                                                                                                                                            |
 | 96-97  | The target's skin turns bright blue for 1d10 days. If you chose a point in space, the creature nearest to that point is affected.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 98-100 | If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly petrified. On any other failed save, the target is restrained and begins to turn to stone. While restrained in this way, the target must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic. |
-
-#### Wand of the War Mage, +1, +2, or +3
-
-*Wand, Uncommon (+1), Rare (+2), or Very Rare (+3) (Requires Attunement By a Spellcaster)*
-
-While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
 
 #### Weapon, +1, +2, or +3
 
