@@ -9,7 +9,7 @@
 - **Armor Class:** 17
 - **Hit Points:** 150 (20d10 + 40)
 - **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -20,9 +20,9 @@
 | WIS | 15 | +2 | +6 |
 | CHA | 18 | +4 | +4 |
 
-- **Skills**: History +12, Perception +10
-- **Senses**: darkvision 120 ft.; Passive Perception 20
-- **Languages**: Deep Speech; telepathy 120 ft.
+- **Skills:** History +12, Perception +10
+- **Senses:** darkvision 120 ft.; Passive Perception 20
+- **Languages:** Deep Speech; telepathy 120 ft.
 - **CR** 10 (XP 5,900, or 7,200 in lair)
 
 #### Traits
@@ -62,7 +62,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 14
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 30 ft., Burrow 10 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -73,7 +73,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 11
+- **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 11
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -93,7 +93,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 16
 - **Hit Points:** 97 (15d8 + 30)
 - **Speed:** 30 ft.
-- **Initiative**: +10 (20)
+- **Initiative:** +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -104,11 +104,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Resistances**: Poison
-- **Skills**: Acrobatics +7, Perception +6, Stealth +10
+- **Resistances:** Poison
+- **Skills:** Acrobatics +7, Perception +6, Stealth +10
 - **Gear** Light Crossbow, Shortsword, Studded Leather Armor
-- **Senses**: Passive Perception 16
-- **Languages**: Common, Thieves' cant
+- **Senses:** Passive Perception 16
+- **Languages:** Common, Thieves' cant
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
@@ -134,7 +134,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 11
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -145,7 +145,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -159,7 +159,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 17
 - **Hit Points:** 39 (6d8 + 12)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -170,9 +170,9 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 13 | +1 | +1 |
 | CHA | 10 | +0 | +0 |
 
-- **Immunities**: Fire, Poison; Poisoned
-- **Senses**: Passive Perception 11
-- **Languages**: Primordial (Ignan)
+- **Immunities:** Fire, Poison; Poisoned
+- **Senses:** Passive Perception 11
+- **Languages:** Primordial (Ignan)
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -194,7 +194,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 17
 - **Hit Points:** 229 (27d8 + 108)
 - **Speed:** 30 ft., Fly 90 ft. (hover)
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -205,11 +205,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 20 | +5 | +9 |
 | CHA | 20 | +5 | +9 |
 
-- **Resistances**: Radiant
-- **Immunities**: Charmed, Exhaustion, Frightened
-- **Skills**: Insight +9, Perception +9
-- **Senses**: darkvision 120 ft.; Passive Perception 19
-- **Languages**: All; telepathy 120 ft.
+- **Resistances:** Radiant
+- **Immunities:** Charmed, Exhaustion, Frightened
+- **Skills:** Insight +9, Perception +9
+- **Senses:** darkvision 120 ft.; Passive Perception 19
+- **Languages:** All; telepathy 120 ft.
 - **CR** 10 (XP 5,900; PB +4)
 
 #### Traits
@@ -240,7 +240,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 19
 - **Hit Points:** 262 (21d10 + 147)
 - **Speed:** 40 ft., Fly 120 ft. (hover)
-- **Initiative**: +10 (20)
+- **Initiative:** +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -251,11 +251,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 22 | +6 | +11 |
 | CHA | 25 | +7 | +12 |
 
-- **Resistances**: Radiant
-- **Immunities**: Charmed, Exhaustion, Frightened
-- **Skills**: Perception +11
-- **Senses**: truesight 120 ft.; Passive Perception 21
-- **Languages**: All; telepathy 120 ft.
+- **Resistances:** Radiant
+- **Immunities:** Charmed, Exhaustion, Frightened
+- **Skills:** Perception +11
+- **Senses:** truesight 120 ft.; Passive Perception 21
+- **Languages:** All; telepathy 120 ft.
 - **CR** 16 (XP 15,000; PB +5)
 
 #### Traits
@@ -290,7 +290,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 21
 - **Hit Points:** 297 (22d10 + 176)
 - **Speed:** 50 ft., Fly 150 ft. (hover)
-- **Initiative**: +20 (30)
+- **Initiative:** +20 (30)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -301,10 +301,10 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 25 | +7 | +7 |
 | CHA | 30 | +10 | +10 |
 
-- **Immunities**: Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
-- **Skills**: Perception +14
-- **Senses**: truesight 120 ft.; Passive Perception 24
-- **Languages**: All; telepathy 120 ft.
+- **Immunities:** Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
+- **Skills:** Perception +14
+- **Senses:** truesight 120 ft.; Passive Perception 24
+- **Languages:** All; telepathy 120 ft.
 - **CR** 21 (XP 33,000; PB +7)
 
 #### Traits
@@ -349,7 +349,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 18
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 25 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -360,8 +360,8 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 3 | -4 | -4 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 60 ft.; Passive Perception 6
+- **Immunities:** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses:** blindsight 60 ft.; Passive Perception 6
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -377,7 +377,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 17
 - **Hit Points:** 14 (4d6)
 - **Speed:** 5 ft., Fly 50 ft. (hover)
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -388,8 +388,8 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 5 | -3 | -3 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 60 ft.; Passive Perception 7
+- **Immunities:** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses:** blindsight 60 ft.; Passive Perception 7
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -403,7 +403,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Armor Class:** 12
 - **Hit Points:** 27 (5d10)
 - **Speed:** 10 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -414,8 +414,8 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | WIS | 3 | -4 | -4 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 60 ft.; Passive Perception 6
+- **Immunities:** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses:** blindsight 60 ft.; Passive Perception 6
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -432,7 +432,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Armor Class:** 9
 - **Hit Points:** 10 (3d6)
 - **Speed:** 20 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -443,10 +443,10 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | WIS | 10 | +0 | +0 |
 | CHA | 6 | -2 | -2 |
 
-- **Vulnerabilities**: Fire
-- **Resistances**: Piercing
-- **Senses**: Passive Perception 10
-- **Languages**: Common plus one other language
+- **Vulnerabilities:** Fire
+- **Resistances:** Piercing
+- **Senses:** Passive Perception 10
+- **Languages:** Common plus one other language
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -460,7 +460,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Armor Class:** 13
 - **Hit Points:** 59 (7d12 + 14)
 - **Speed:** 20 ft.
-- **Initiative**: -2 (8)
+- **Initiative:** -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -471,10 +471,10 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | WIS | 10 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Vulnerabilities**: Fire
-- **Resistances**: Bludgeoning, Piercing
-- **Senses**: Passive Perception 10
-- **Languages**: Common plus one other language
+- **Vulnerabilities:** Fire
+- **Resistances:** Bludgeoning, Piercing
+- **Senses:** Passive Perception 10
+- **Languages:** Common plus one other language
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -490,7 +490,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Armor Class:** 15
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 20 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -501,7 +501,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | WIS | 8 | -1 | -1 |
 | CHA | 7 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 9
+- **Senses:** darkvision 60 ft.; Passive Perception 9
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -519,7 +519,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Armor Class:** 17
 - **Hit Points:** 168 (16d12 + 64)
 - **Speed:** 50 ft., Climb 50 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -530,10 +530,10 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | WIS | 14 | +2 | +2 |
 | CHA | 12 | +1 | +1 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +6, Stealth +7
-- **Senses**: darkvision 90 ft.; Passive Perception 16
-- **Languages**: Draconic
+- **Immunities:** Lightning
+- **Skills:** Perception +6, Stealth +7
+- **Senses:** darkvision 90 ft.; Passive Perception 16
+- **Languages:** Draconic
 - **CR** 11 (XP 7,200; PB +4)
 
 #### Actions
@@ -558,7 +558,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 13
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -569,9 +569,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 13 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Perception +5, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Understands Elvish and Sylvan but can't speak them
+- **Skills:** Perception +5, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 15
+- **Languages:** Understands Elvish and Sylvan but can't speak them
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -589,7 +589,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 17
 - **Hit Points:** 94 (9d10 + 45)
 - **Speed:** 40 ft., Burrow 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -600,8 +600,8 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +6
-- **Senses**: darkvision 60 ft., tremorsense 120 ft.; Passive Perception 16
+- **Skills:** Perception +6
+- **Senses:** darkvision 60 ft., tremorsense 120 ft.; Passive Perception 16
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
@@ -625,7 +625,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 12
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -637,8 +637,8 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | CHA | 10 | +0 | +0 |
 
 - **Gear** Leather Armor, Light Crossbow, Scimitar
-- **Senses**: Passive Perception 10
-- **Languages**: Common, Thieves' cant
+- **Senses:** Passive Perception 10
+- **Languages:** Common, Thieves' cant
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -654,7 +654,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 15
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -665,10 +665,10 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 11 | +0 | +2 |
 | CHA | 14 | +2 | +2 |
 
-- **Skills**: Athletics +4, Deception +4
+- **Skills:** Athletics +4, Deception +4
 - **Gear** Pistol, Scimitar, Studded Leather Armor
-- **Senses**: Passive Perception 10
-- **Languages**: Common, Thieves' cant
+- **Senses:** Passive Perception 10
+- **Languages:** Common, Thieves' cant
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -688,7 +688,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 15
 - **Hit Points:** 65 (10d8 + 20)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -699,10 +699,10 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 12 | +1 | +3 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Stealth +6, Survival +3
+- **Skills:** Stealth +6, Survival +3
 - **Gear** Chain Shirt, Javelin x 6, Morningstar
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common, Goblin
+- **Senses:** darkvision 60 ft.; Passive Perception 11
+- **Languages:** Common, Goblin
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -728,7 +728,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 14
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -739,10 +739,10 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 11 | +0 | +0 |
 | CHA | 9 | -1 | -1 |
 
-- **Skills**: Stealth +6, Survival +2
+- **Skills:** Stealth +6, Survival +2
 - **Gear** Hide Armor, Light Hammer x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common, Goblin
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Common, Goblin
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -764,7 +764,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 16
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 50 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -775,10 +775,10 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 13 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Athletics +6, Perception +3
+- **Skills:** Athletics +6, Perception +3
 - **Gear** Breastplate, Longbow, Pike
-- **Senses**: Passive Perception 13
-- **Languages**: Elvish, Sylvan
+- **Senses:** Passive Perception 13
+- **Languages:** Elvish, Sylvan
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -800,7 +800,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 14
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -811,9 +811,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 14 | +2 | +2 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Perception +8
-- **Senses**: darkvision 60 ft.; Passive Perception 18
-- **Languages**: Understands Draconic but can't speak
+- **Skills:** Perception +8
+- **Senses:** darkvision 60 ft.; Passive Perception 18
+- **Languages:** Understands Draconic but can't speak
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
@@ -835,7 +835,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 16
 - **Hit Points:** 76 (9d10 + 27)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -846,10 +846,10 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 11 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Understands Deep Speech but can't speak
+- **Immunities:** Poison; Poisoned
+- **Skills:** Perception +4
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Understands Deep Speech but can't speak
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -873,7 +873,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 14
 - **Hit Points:** 91 (14d10 + 14)
 - **Speed:** 10 ft., Fly 40 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -884,10 +884,10 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | WIS | 14 | +2 | +2 |
 | CHA | 7 | -2 | -2 |
 
-- **Immunities**: Frightened
-- **Skills**: Stealth +5
-- **Senses**: darkvision 120 ft.; Passive Perception 12
-- **Languages**: Deep Speech, Undercommon
+- **Immunities:** Frightened
+- **Skills:** Stealth +5
+- **Senses:** darkvision 120 ft.; Passive Perception 12
+- **Languages:** Deep Speech, Undercommon
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
@@ -916,7 +916,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Armor Class:** 11
 - **Hit Points:** 22 (5d6 + 5)
 - **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -927,8 +927,8 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 | WIS | 13 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Petrified
-- **Senses**: darkvision 60 ft.; Passive Perception 11
+- **Immunities:** Petrified
+- **Senses:** darkvision 60 ft.; Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -942,7 +942,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Armor Class:** 10
 - **Hit Points:** 4 (1d8)
 - **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -954,8 +954,8 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 | CHA | 10 | +0 | +0 |
 
 - **Gear** Club
-- **Senses**: Passive Perception 10
-- **Languages**: Common
+- **Senses:** Passive Perception 10
+- **Languages:** Common
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -973,7 +973,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Armor Class:** 19
 - **Hit Points:** 60 (8d8 + 24)
 - **Speed:** 30 ft., Fly 90 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -984,10 +984,10 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 | WIS | 20 | +5 | +7 |
 | CHA | 18 | +4 | +4 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Psychic, Radiant
-- **Senses**: truesight 120 ft.; Passive Perception 15
-- **Languages**: All; telepathy 120 ft.
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Psychic, Radiant
+- **Senses:** truesight 120 ft.; Passive Perception 15
+- **Languages:** All; telepathy 120 ft.
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -1018,7 +1018,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Armor Class:** 12
 - **Hit Points:** 9 (2d8)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1029,10 +1029,10 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 | WIS | 11 | +0 | +2 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Deception +2, Religion +2
+- **Skills:** Deception +2, Religion +2
 - **Gear** Leather Armor, Sickle
-- **Senses**: Passive Perception 10
-- **Languages**: Common
+- **Senses:** Passive Perception 10
+- **Languages:** Common
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -1046,7 +1046,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Armor Class:** 13
 - **Hit Points:** 44 (8d8 + 8)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1057,10 +1057,10 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 | WIS | 14 | +2 | +4 |
 | CHA | 13 | +1 | +1 |
 
-- **Skills**: Deception +3, Persuasion +3, Religion +2
+- **Skills:** Deception +3, Persuasion +3, Religion +2
 - **Gear** Holy Symbol, Leather Armor
-- **Senses**: Passive Perception 12
-- **Languages**: Common
+- **Senses:** Passive Perception 12
+- **Languages:** Common
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -1086,7 +1086,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Armor Class:** 11
 - **Hit Points:** 22 (5d6 + 5)
 - **Speed:** 10 ft., Fly 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1097,8 +1097,8 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Stealth +3
-- **Senses**: blindsight 60 ft.; Passive Perception 10
+- **Skills:** Stealth +3
+- **Senses:** blindsight 60 ft.; Passive Perception 10
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -1116,7 +1116,7 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 - **Armor Class:** 12
 - **Hit Points:** 39 (6d8 + 12)
 - **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1127,9 +1127,9 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: darkvision 120 ft.; Passive Perception 15
+- **Immunities:** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+- **Skills:** Perception +5, Stealth +4
+- **Senses:** darkvision 120 ft.; Passive Perception 15
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -1145,7 +1145,7 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 - **Armor Class:** 17
 - **Hit Points:** 218 (19d10 + 114)
 - **Speed:** 30 ft., Fly 90 ft. (hover)
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1156,9 +1156,9 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 | WIS | 16 | +3 | +7 |
 | CHA | 20 | +5 | +5 |
 
-- **Immunities**: Lightning, Thunder
-- **Senses**: darkvision 120 ft.; Passive Perception 13
-- **Languages**: Primordial (Auran)
+- **Immunities:** Lightning, Thunder
+- **Senses:** darkvision 120 ft.; Passive Perception 13
+- **Languages:** Primordial (Auran)
 - **CR** 11 (XP 7,200; PB +4)
 
 #### Traits
@@ -1193,7 +1193,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 14
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1204,10 +1204,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +1 |
 | CHA | 14 | +2 | +2 |
 
-- **Immunities**: Charmed
-- **Skills**: Deception +6, Insight +3
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common plus three other languages
+- **Immunities:** Charmed
+- **Skills:** Deception +6, Insight +3
+- **Senses:** darkvision 60 ft.; Passive Perception 11
+- **Languages:** Common plus three other languages
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -1233,7 +1233,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 20
 - **Hit Points:** 356 (23d20 + 115)
 - **Speed:** 20 ft., Swim 50 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1244,9 +1244,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +7 |
 | CHA | 12 | +1 | +1 |
 
-- **Resistances**: Fire
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Draconic, Primordial (Aquan)
+- **Resistances:** Fire
+- **Senses:** darkvision 120 ft.; Passive Perception 11
+- **Languages:** Draconic, Primordial (Aquan)
 - **CR** 17 (XP 18,000; PB +6)
 
 #### Traits
@@ -1270,7 +1270,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 19
 - **Hit Points:** 123 (13d10 + 52)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1281,9 +1281,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 16 | +3 | +3 |
 | CHA | 12 | +1 | +1 |
 
-- **Skills**: Perception +6, Stealth +10
-- **Senses**: darkvision 120 ft.; Passive Perception 16
-- **Languages**: Elvish, Undercommon
+- **Skills:** Perception +6, Stealth +10
+- **Senses:** darkvision 120 ft.; Passive Perception 16
+- **Languages:** Elvish, Undercommon
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Traits
@@ -1313,7 +1313,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 16
 - **Hit Points:** 22 (5d8)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1324,9 +1324,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +2 |
 | CHA | 18 | +4 | +4 |
 
-- **Skills**: Perception +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Elvish, Sylvan
+- **Skills:** Perception +4, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Elvish, Sylvan
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -1361,7 +1361,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 19
 - **Hit Points:** 287 (23d12 + 138)
 - **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +14 (24)
+- **Initiative:** +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1372,11 +1372,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 16 | +3 | +9 |
 | CHA | 22 | +6 | +6 |
 
-- **Resistances**: Cold, Lightning
-- **Immunities**: Fire, Poison; Charmed, Frightened, Poisoned
-- **Skills**: Perception +9
-- **Senses**: truesight 120 ft.; Passive Perception 19
-- **Languages**: Abyssal; telepathy 120 ft.
+- **Resistances:** Cold, Lightning
+- **Immunities:** Fire, Poison; Charmed, Frightened, Poisoned
+- **Skills:** Perception +9
+- **Senses:** truesight 120 ft.; Passive Perception 19
+- **Languages:** Abyssal; telepathy 120 ft.
 - **CR** 19 (XP 22,000; PB +6)
 
 #### Traits
@@ -1408,7 +1408,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 11
 - **Hit Points:** 18 (4d6 + 4)
 - **Speed:** 20 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1419,10 +1419,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 8 | -1 | -1 |
 | CHA | 3 | -4 | -4 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
+- **Resistances:** Cold, Fire, Lightning
+- **Immunities:** Poison; Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 9
+- **Languages:** Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -1438,7 +1438,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 189 (18d10 + 90)
 - **Speed:** 40 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1449,11 +1449,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 17 | +3 | +7 |
 | CHA | 16 | +3 | +7 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +7, Perception +7
-- **Senses**: truesight 120 ft.; Passive Perception 17
-- **Languages**: Abyssal; telepathy 120 ft.
+- **Resistances:** Cold, Fire, Lightning
+- **Immunities:** Poison; Poisoned
+- **Skills:** Deception +7, Perception +7
+- **Senses:** truesight 120 ft.; Passive Perception 17
+- **Languages:** Abyssal; telepathy 120 ft.
 - **CR** 9 (XP 5,000; PB +4)
 
 #### Traits
@@ -1482,7 +1482,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 157 (15d10 + 75)
 - **Speed:** 30 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1493,10 +1493,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +4 |
 | CHA | 13 | +1 | +1 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Abyssal; telepathy 120 ft.
+- **Resistances:** Cold, Fire, Lightning
+- **Immunities:** Poison; Poisoned
+- **Senses:** darkvision 120 ft.; Passive Perception 11
+- **Languages:** Abyssal; telepathy 120 ft.
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
@@ -1524,7 +1524,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 16
 - **Hit Points:** 220 (21d10 + 105)
 - **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +10 (20)
+- **Initiative:** +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1535,11 +1535,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 16 | +3 | +8 |
 | CHA | 20 | +5 | +10 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Skills**: Perception +8
-- **Senses**: truesight 120 ft.; Passive Perception 18
-- **Languages**: Abyssal; telepathy 120 ft.
+- **Resistances:** Cold, Fire, Lightning
+- **Immunities:** Poison; Poisoned
+- **Skills:** Perception +8
+- **Senses:** truesight 120 ft.; Passive Perception 18
+- **Languages:** Abyssal; telepathy 120 ft.
 - **CR** 16 (XP 15,000; PB +5)
 
 #### Traits
@@ -1569,7 +1569,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 184 (16d10 + 96)
 - **Speed:** 20 ft., Fly 30 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1580,10 +1580,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +6 |
 | CHA | 15 | +2 | +7 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Frightened, Poisoned
-- **Senses**: truesight 120 ft.; Passive Perception 11
-- **Languages**: Abyssal; telepathy 120 ft.
+- **Resistances:** Cold, Fire, Lightning
+- **Immunities:** Poison; Frightened, Poisoned
+- **Senses:** truesight 120 ft.; Passive Perception 11
+- **Languages:** Abyssal; telepathy 120 ft.
 - **CR** 13 (XP 10,000; PB +5)
 
 #### Traits
@@ -1611,7 +1611,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 13
 - **Hit Points:** 25 (10d4)
 - **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1622,11 +1622,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 10 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Skills**: Stealth +5
-- **Senses**: darkvision 120 ft.; Passive Perception 10
-- **Languages**: Abyssal, Common
+- **Resistances:** Cold, Fire, Lightning
+- **Immunities:** Poison; Poisoned
+- **Skills:** Stealth +5
+- **Senses:** darkvision 120 ft.; Passive Perception 10
+- **Languages:** Abyssal, Common
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -1652,7 +1652,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 15
 - **Hit Points:** 152 (16d10 + 64)
 - **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1663,10 +1663,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +4 |
 | CHA | 8 | -1 | +2 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Abyssal; telepathy 120 ft.
+- **Resistances:** Cold, Fire, Lightning
+- **Immunities:** Poison; Poisoned
+- **Senses:** darkvision 120 ft.; Passive Perception 11
+- **Languages:** Abyssal; telepathy 120 ft.
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Traits
@@ -1694,7 +1694,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 15
 - **Hit Points:** 110 (13d8 + 52)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1705,11 +1705,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 14 | +2 | +5 |
 | CHA | 14 | +2 | +5 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Deception +5, Insight +5, Perception +8
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 18
-- **Languages**: Infernal; telepathy 120 ft.
+- **Resistances:** Cold
+- **Immunities:** Fire, Poison; Poisoned
+- **Skills:** Deception +5, Insight +5, Perception +8
+- **Senses:** darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 18
+- **Languages:** Infernal; telepathy 120 ft.
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -1737,7 +1737,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 13
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1748,10 +1748,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +0 |
 | CHA | 14 | +2 | +4 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Frightened, Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
-- **Languages**: Infernal; telepathy 120 ft.
+- **Resistances:** Cold
+- **Immunities:** Fire, Poison; Frightened, Poisoned
+- **Senses:** darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
+- **Languages:** Infernal; telepathy 120 ft.
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -1773,7 +1773,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 16
 - **Hit Points:** 161 (17d10 + 68)
 - **Speed:** 40 ft., Fly 40 ft.
-- **Initiative**: +7 (17)
+- **Initiative:** +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1784,11 +1784,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 14 | +2 | +6 |
 | CHA | 16 | +3 | +7 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Deception +7, Insight +6
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 12
-- **Languages**: Infernal; telepathy 120 ft.
+- **Resistances:** Cold
+- **Immunities:** Fire, Poison; Poisoned
+- **Skills:** Deception +7, Insight +6
+- **Senses:** darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 12
+- **Languages:** Infernal; telepathy 120 ft.
 - **CR** 9 (XP 5,000; PB +4)
 
 #### Traits
@@ -1812,7 +1812,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 15
 - **Hit Points:** 85 (10d8 + 40)
 - **Speed:** 30 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1823,10 +1823,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +4 |
 | CHA | 14 | +2 | +2 |
 
-- **Resistances**: Bludgeoning, Cold, Piercing, Slashing
-- **Immunities**: Fire, Poison; Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
-- **Languages**: Infernal; telepathy 120 ft.
+- **Resistances:** Bludgeoning, Cold, Piercing, Slashing
+- **Immunities:** Fire, Poison; Poisoned
+- **Senses:** darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
+- **Languages:** Infernal; telepathy 120 ft.
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
@@ -1850,7 +1850,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 178 (21d8 + 84)
 - **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +7 (17)
+- **Initiative:** +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1861,11 +1861,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 14 | +2 | +2 |
 | CHA | 18 | +4 | +8 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Perception +6, Persuasion +8
-- **Senses**: truesight 120 ft.; Passive Perception 16
-- **Languages**: Infernal; telepathy 120 ft.
+- **Resistances:** Cold
+- **Immunities:** Fire, Poison; Poisoned
+- **Skills:** Perception +6, Persuasion +8
+- **Senses:** truesight 120 ft.; Passive Perception 16
+- **Languages:** Infernal; telepathy 120 ft.
 - **CR** 12 (XP 8,400; PB +4)
 
 #### Traits
@@ -1891,7 +1891,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 199 (19d10 + 95)
 - **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +7 (17)
+- **Initiative:** +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1902,9 +1902,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 16 | +3 | +7 |
 | CHA | 18 | +4 | +8 |
 
-- **Immunities**: Fire, Poison; Poisoned
-- **Senses**: darkvision 150 ft. (unimpeded by magical darkness); Passive Perception 13
-- **Languages**: Infernal; telepathy 120 ft.
+- **Immunities:** Fire, Poison; Poisoned
+- **Senses:** darkvision 150 ft. (unimpeded by magical darkness); Passive Perception 13
+- **Languages:** Infernal; telepathy 120 ft.
 - **CR** 11 (XP 7,200; PB +4)
 
 #### Traits
@@ -1930,7 +1930,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 228 (24d10 + 96)
 - **Speed:** 40 ft.
-- **Initiative**: +7 (17)
+- **Initiative:** +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1941,10 +1941,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +7 |
 | CHA | 18 | +4 | +9 |
 
-- **Immunities**: Cold, Fire, Poison; Poisoned
-- **Skills**: Insight +7, Perception +7, Persuasion +9
-- **Senses**: blindsight 120 ft.; Passive Perception 17
-- **Languages**: Infernal; telepathy 120 ft.
+- **Immunities:** Cold, Fire, Poison; Poisoned
+- **Skills:** Insight +7, Perception +7, Persuasion +9
+- **Senses:** blindsight 120 ft.; Passive Perception 17
+- **Languages:** Infernal; telepathy 120 ft.
 - **CR** 14 (XP 11,500; PB +5)
 
 #### Traits
@@ -1972,7 +1972,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 13
 - **Hit Points:** 21 (6d4 + 6)
 - **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1983,11 +1983,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +1 |
 | CHA | 14 | +2 | +2 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Deception +4, Insight +3, Stealth +5
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
-- **Languages**: Common, Infernal
+- **Resistances:** Cold
+- **Immunities:** Fire, Poison; Poisoned
+- **Skills:** Deception +4, Insight +3, Stealth +5
+- **Senses:** darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
+- **Languages:** Common, Infernal
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -2011,7 +2011,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 9
 - **Hit Points:** 9 (2d8)
 - **Speed:** 20 ft.
-- **Initiative**: -3 (7)
+- **Initiative:** -3 (7)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2022,10 +2022,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Charmed, Frightened, Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
-- **Languages**: Understands Infernal but can't speak
+- **Resistances:** Cold
+- **Immunities:** Fire, Poison; Charmed, Frightened, Poisoned
+- **Senses:** darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
+- **Languages:** Understands Infernal but can't speak
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -2043,7 +2043,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 21
 - **Hit Points:** 337 (27d10 + 189)
 - **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +14 (24)
+- **Initiative:** +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2054,11 +2054,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 18 | +4 | +10 |
 | CHA | 24 | +7 | +7 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Perception +10, Persuasion +19
-- **Senses**: truesight 120 ft.; Passive Perception 20
-- **Languages**: Infernal; telepathy 120 ft.
+- **Resistances:** Cold
+- **Immunities:** Fire, Poison; Poisoned
+- **Skills:** Perception +10, Persuasion +19
+- **Senses:** truesight 120 ft.; Passive Perception 20
+- **Languages:** Infernal; telepathy 120 ft.
 - **CR** 20 (XP 25,000; PB +6)
 
 #### Traits
@@ -2094,7 +2094,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2105,10 +2105,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 13 | +1 | +1 |
 
-- **Immunities**: Acid
-- **Skills**: Perception +4, Stealth +4
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Acid
+- **Skills:** Perception +4, Stealth +4
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -2130,7 +2130,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 127 (15d10 + 45)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2141,10 +2141,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +3 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Acid
-- **Skills**: Perception +6, Stealth +5
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
-- **Languages**: Common, Draconic
+- **Immunities:** Acid
+- **Skills:** Perception +6, Stealth +5
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
+- **Languages:** Common, Draconic
 - **CR** 7 (XP 2,900; PB +3)
 
 #### Traits
@@ -2166,7 +2166,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 19
 - **Hit Points:** 195 (17d12 + 85)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2177,10 +2177,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +6 |
 | CHA | 19 | +4 | +4 |
 
-- **Immunities**: Acid
-- **Skills**: Perception +11, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
+- **Immunities:** Acid
+- **Skills:** Perception +11, Stealth +7
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
+- **Languages:** Common, Draconic
 - **CR** 14 (XP 11,500, or 13,000 in lair)
 
 #### Traits
@@ -2217,7 +2217,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 22
 - **Hit Points:** 367 (21d20 + 147)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2228,10 +2228,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +9 |
 | CHA | 22 | +6 | +6 |
 
-- **Immunities**: Acid
-- **Skills**: Perception +16, Stealth +9
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
-- **Languages**: Common, Draconic
+- **Immunities:** Acid
+- **Skills:** Perception +16, Stealth +9
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
+- **Languages:** Common, Draconic
 - **CR** 21 (XP 33,000, or 41,000 in lair)
 
 #### Traits
@@ -2268,7 +2268,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 65 (10d8 + 20)
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2279,10 +2279,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Lightning
+- **Skills:** Perception +4, Stealth +2
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -2300,7 +2300,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 152 (16d10 + 64)
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2311,10 +2311,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +5 |
 | CHA | 17 | +3 | +3 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +9, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 19
-- **Languages**: Common, Draconic
+- **Immunities:** Lightning
+- **Skills:** Perception +9, Stealth +4
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 19
+- **Languages:** Common, Draconic
 - **CR** 9 (XP 5,000; PB +4)
 
 #### Actions
@@ -2332,7 +2332,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 19
 - **Hit Points:** 212 (17d12 + 102)
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2343,10 +2343,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +7 |
 | CHA | 20 | +5 | +5 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +12, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
+- **Immunities:** Lightning
+- **Skills:** Perception +12, Stealth +5
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
+- **Languages:** Common, Draconic
 - **CR** 16 (XP 15,000, or 18,000 in lair)
 
 #### Traits
@@ -2381,7 +2381,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 22
 - **Hit Points:** 481 (26d20 + 208)
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2392,10 +2392,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 17 | +3 | +10 |
 | CHA | 25 | +7 | +7 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +17, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
+- **Immunities:** Lightning
+- **Skills:** Perception +17, Stealth +7
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
+- **Languages:** Common, Draconic
 - **CR** 23 (XP 50,000, or 62,000 in lair)
 
 #### Traits
@@ -2430,7 +2430,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 15
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2441,10 +2441,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 13 | +1 | +1 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Fire
+- **Skills:** Perception +4, Stealth +2
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -2462,7 +2462,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 110 (13d10 + 39)
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2473,10 +2473,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +3 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +6, Persuasion +5, Stealth +3
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** Perception +6, Persuasion +5, Stealth +3
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
+- **Languages:** Common, Draconic
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
@@ -2496,7 +2496,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 172 (15d12 + 75)
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2507,10 +2507,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +6 |
 | CHA | 17 | +3 | +3 |
 
-- **Immunities**: Fire
-- **Skills**: History +7, Perception +11, Persuasion +8, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** History +7, Perception +11, Persuasion +8, Stealth +5
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
+- **Languages:** Common, Draconic
 - **CR** 13 (XP 10,000, or 11,500 in lair)
 
 #### Traits
@@ -2547,7 +2547,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 20
 - **Hit Points:** 332 (19d20 + 133)
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2558,10 +2558,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +8 |
 | CHA | 22 | +6 | +6 |
 
-- **Immunities**: Fire
-- **Skills**: History +9, Perception +14, Persuasion +12, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** History +9, Perception +14, Persuasion +12, Stealth +6
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
+- **Languages:** Common, Draconic
 - **CR** 20 (XP 25,000, or 33,000 in lair)
 
 #### Traits
@@ -2598,7 +2598,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 15
 - **Hit Points:** 39 (6d8 + 12)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2609,10 +2609,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Lightning
+- **Skills:** Perception +4, Stealth +2
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -2636,7 +2636,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 142 (15d10 + 60)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2647,10 +2647,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +4 |
 | CHA | 17 | +3 | +3 |
 
-- **Immunities**: Lightning
-- **Skills**: Insight +4, Perception +7, Stealth +3
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common, Draconic
+- **Immunities:** Lightning
+- **Skills:** Insight +4, Perception +7, Stealth +3
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
+- **Languages:** Common, Draconic
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
@@ -2674,7 +2674,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 212 (17d12 + 102)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2685,10 +2685,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +7 |
 | CHA | 20 | +5 | +5 |
 
-- **Immunities**: Lightning
-- **Skills**: Insight +7, Perception +12, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
+- **Immunities:** Lightning
+- **Skills:** Insight +7, Perception +12, Stealth +5
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
+- **Languages:** Common, Draconic
 - **CR** 15 (XP 13,000, or 15,000 in lair)
 
 #### Traits
@@ -2727,7 +2727,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 22
 - **Hit Points:** 444 (24d20 + 192)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2738,10 +2738,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 17 | +3 | +10 |
 | CHA | 25 | +7 | +7 |
 
-- **Immunities**: Lightning
-- **Skills**: Insight +10, Perception +17, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
+- **Immunities:** Lightning
+- **Skills:** Insight +10, Perception +17, Stealth +7
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
+- **Languages:** Common, Draconic
 - **CR** 22 (XP 41,000, or 50,000 in lair)
 
 #### Traits
@@ -2780,7 +2780,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 16
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2791,10 +2791,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 13 | +1 | +1 |
 
-- **Immunities**: Acid
-- **Skills**: Perception +4, Stealth +3
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Acid
+- **Skills:** Perception +4, Stealth +3
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -2812,7 +2812,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 119 (14d10 + 42)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2823,10 +2823,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +4 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Acid
-- **Skills**: Deception +5, Perception +7, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common, Draconic
+- **Immunities:** Acid
+- **Skills:** Deception +5, Perception +7, Stealth +4
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
+- **Languages:** Common, Draconic
 - **CR** 7 (XP 2,900; PB +3)
 
 #### Actions
@@ -2846,7 +2846,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 184 (16d12 + 80)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2857,10 +2857,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +7 |
 | CHA | 18 | +4 | +4 |
 
-- **Immunities**: Acid
-- **Skills**: Deception +9, Perception +12, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
+- **Immunities:** Acid
+- **Skills:** Deception +9, Perception +12, Stealth +6
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
+- **Languages:** Common, Draconic
 - **CR** 14 (XP 11,500, or 13,000 in lair)
 
 #### Traits
@@ -2897,7 +2897,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 21
 - **Hit Points:** 367 (21d20 + 147)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2908,10 +2908,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 17 | +3 | +10 |
 | CHA | 22 | +6 | +6 |
 
-- **Immunities**: Acid
-- **Skills**: Deception +13, Perception +17, Stealth +8
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
+- **Immunities:** Acid
+- **Skills:** Deception +13, Perception +17, Stealth +8
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
+- **Languages:** Common, Draconic
 - **CR** 21 (XP 33,000, or 41,000 in lair)
 
 #### Traits
@@ -2948,7 +2948,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 60 (8d8 + 24)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2959,10 +2959,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 16 | +3 | +3 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +4, Stealth +4
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Fire
+- **Skills:** Perception +4, Stealth +4
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -2986,7 +2986,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 178 (17d10 + 85)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2997,10 +2997,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +5 |
 | CHA | 20 | +5 | +5 |
 
-- **Immunities**: Fire
-- **Skills**: Insight +5, Perception +9, Persuasion +9, Stealth +6
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 19
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** Insight +5, Perception +9, Persuasion +9, Stealth +6
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 19
+- **Languages:** Common, Draconic
 - **CR** 10 (XP 5,900; PB +4)
 
 #### Traits
@@ -3024,7 +3024,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 19
 - **Hit Points:** 243 (18d12 + 126)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3035,10 +3035,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +8 |
 | CHA | 24 | +7 | +7 |
 
-- **Immunities**: Fire
-- **Skills**: Insight +8, Perception +14, Persuasion +13, Stealth +8
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** Insight +8, Perception +14, Persuasion +13, Stealth +8
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
+- **Languages:** Common, Draconic
 - **CR** 17 (XP 18,000, or 20,000 in lair)
 
 #### Traits
@@ -3077,7 +3077,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 22
 - **Hit Points:** 546 (28d20 + 252)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3088,10 +3088,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 17 | +3 | +10 |
 | CHA | 28 | +9 | +9 |
 
-- **Immunities**: Fire
-- **Skills**: Insight +10, Perception +17, Persuasion +16, Stealth +9
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** Insight +10, Perception +17, Persuasion +16, Stealth +9
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
+- **Languages:** Common, Draconic
 - **CR** 24 (XP 62,000, or 75,000 in lair)
 
 #### Traits
@@ -3130,7 +3130,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 38 (7d8 + 7)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3141,10 +3141,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 13 | +1 | +1 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Perception +4, Stealth +3
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Poison; Poisoned
+- **Skills:** Perception +4, Stealth +3
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -3166,7 +3166,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 136 (16d10 + 48)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3177,10 +3177,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +4 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +5, Perception +7, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common, Draconic
+- **Immunities:** Poison; Poisoned
+- **Skills:** Deception +5, Perception +7, Stealth +4
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
+- **Languages:** Common, Draconic
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
@@ -3202,7 +3202,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 19
 - **Hit Points:** 207 (18d12 + 90)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3213,10 +3213,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +7 |
 | CHA | 18 | +4 | +4 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +9, Perception +12, Persuasion +9, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
+- **Immunities:** Poison; Poisoned
+- **Skills:** Deception +9, Perception +12, Persuasion +9, Stealth +6
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
+- **Languages:** Common, Draconic
 - **CR** 15 (XP 13,000, or 15,000 in lair)
 
 #### Traits
@@ -3253,7 +3253,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 21
 - **Hit Points:** 402 (23d20 + 161)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3264,10 +3264,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 17 | +3 | +10 |
 | CHA | 22 | +6 | +6 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +13, Perception +17, Persuasion +13, Stealth +8
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
+- **Immunities:** Poison; Poisoned
+- **Skills:** Deception +13, Perception +17, Persuasion +13, Stealth +8
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
+- **Languages:** Common, Draconic
 - **CR** 22 (XP 41,000, or 50,000 in lair)
 
 #### Traits
@@ -3304,7 +3304,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 75 (10d8 + 30)
 - **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3315,10 +3315,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Fire
+- **Skills:** Perception +4, Stealth +2
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
@@ -3336,7 +3336,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 178 (17d10 + 85)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3347,10 +3347,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +4 |
 | CHA | 19 | +4 | +4 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +8, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 18
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** Perception +8, Stealth +4
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 18
+- **Languages:** Common, Draconic
 - **CR** 10 (XP 5,900; PB +4)
 
 #### Actions
@@ -3368,7 +3368,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 19
 - **Hit Points:** 256 (19d12 + 133)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3379,10 +3379,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +7 |
 | CHA | 23 | +6 | +6 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +13, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** Perception +13, Stealth +6
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
+- **Languages:** Common, Draconic
 - **CR** 17 (XP 18,000, or 20,000 in lair)
 
 #### Traits
@@ -3417,7 +3417,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 22
 - **Hit Points:** 507 (26d20 + 234)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3428,10 +3428,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +9 |
 | CHA | 27 | +8 | +8 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +16, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
-- **Languages**: Common, Draconic
+- **Immunities:** Fire
+- **Skills:** Perception +16, Stealth +7
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
+- **Languages:** Common, Draconic
 - **CR** 24 (XP 62,000, or 75,000 in lair)
 
 #### Traits
@@ -3466,7 +3466,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 45 (6d8 + 18)
 - **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3477,10 +3477,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +2 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Cold
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Cold
+- **Skills:** Perception +4, Stealth +2
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -3500,7 +3500,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 168 (16d10 + 80)
 - **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3511,10 +3511,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +4 |
 | CHA | 19 | +4 | +4 |
 
-- **Immunities**: Cold
-- **Skills**: History +6, Perception +8, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 18
-- **Languages**: Common, Draconic
+- **Immunities:** Cold
+- **Skills:** History +6, Perception +8, Stealth +4
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 18
+- **Languages:** Common, Draconic
 - **CR** 9 (XP 5,000; PB +4)
 
 #### Actions
@@ -3534,7 +3534,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 19
 - **Hit Points:** 216 (16d12 + 112)
 - **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3545,10 +3545,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +6 |
 | CHA | 22 | +6 | +6 |
 
-- **Immunities**: Cold
-- **Skills**: History +8, Perception +11, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
+- **Immunities:** Cold
+- **Skills:** History +8, Perception +11, Stealth +5
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
+- **Languages:** Common, Draconic
 - **CR** 16 (XP 15,000, or 18,000 in lair)
 
 #### Traits
@@ -3585,7 +3585,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 22
 - **Hit Points:** 468 (24d20 + 216)
 - **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3596,10 +3596,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +9 |
 | CHA | 26 | +8 | +8 |
 
-- **Immunities**: Cold
-- **Skills**: History +11, Perception +16, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
-- **Languages**: Common, Draconic
+- **Immunities:** Cold
+- **Skills:** History +11, Perception +16, Stealth +7
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
+- **Languages:** Common, Draconic
 - **CR** 23 (XP 50,000, or 62,000 in lair)
 
 #### Traits
@@ -3636,7 +3636,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 16
 - **Hit Points:** 32 (5d8 + 10)
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3647,10 +3647,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 10 | +0 | +2 |
 | CHA | 11 | +0 | +0 |
 
-- **Immunities**: Cold
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
+- **Immunities:** Cold
+- **Skills:** Perception +4, Stealth +2
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+- **Languages:** Draconic
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -3672,7 +3672,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 123 (13d10 + 52)
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3683,10 +3683,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +3 |
 | CHA | 12 | +1 | +1 |
 
-- **Immunities**: Cold
-- **Skills**: Perception +6, Stealth +3
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
-- **Languages**: Common, Draconic
+- **Immunities:** Cold
+- **Skills:** Perception +6, Stealth +3
+- **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
+- **Languages:** Common, Draconic
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Traits
@@ -3708,7 +3708,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 18
 - **Hit Points:** 200 (16d12 + 96)
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3719,10 +3719,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +6 |
 | CHA | 12 | +1 | +1 |
 
-- **Immunities**: Cold
-- **Skills**: Perception +11, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
+- **Immunities:** Cold
+- **Skills:** Perception +11, Stealth +5
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
+- **Languages:** Common, Draconic
 - **CR** 13 (XP 10,000, or 11,500 in lair)
 
 #### Traits
@@ -3754,7 +3754,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 20
 - **Hit Points:** 333 (18d20 + 144)
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3765,10 +3765,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 13 | +1 | +7 |
 | CHA | 18 | +4 | +4 |
 
-- **Immunities**: Cold
-- **Skills**: Perception +13, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
-- **Languages**: Common, Draconic
+- **Immunities:** Cold
+- **Skills:** Perception +13, Stealth +6
+- **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
+- **Languages:** Common, Draconic
 - **CR** 20 (XP 25,000, or 33,000 in lair)
 
 #### Traits
@@ -3802,7 +3802,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 212 (17d10 + 119)
 - **Speed:** 40 ft., Fly 60 ft. (hover)
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3813,9 +3813,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 15 | +2 | +6 |
 | CHA | 19 | +4 | +8 |
 
-- **Immunities**: Fire
-- **Senses**: darkvision 120 ft.; Passive Perception 12
-- **Languages**: Primordial (Ignan)
+- **Immunities:** Fire
+- **Senses:** darkvision 120 ft.; Passive Perception 12
+- **Languages:** Primordial (Ignan)
 - **CR** 11 (XP 7,200; PB +4)
 
 #### Traits
@@ -3846,7 +3846,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 13
 - **Hit Points:** 44 (8d8 + 8)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3857,8 +3857,8 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +3, Stealth +4, Survival +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3, Stealth +4, Survival +3
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -3888,7 +3888,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 12
 - **Hit Points:** 85 (10d10 + 30)
 - **Speed:** 40 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3899,11 +3899,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 10 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +4
+- **Immunities:** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+- **Skills:** Perception +4
 - **Gear** Battleaxe, Morningstar
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Giant
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Giant
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
@@ -3923,7 +3923,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 15
 - **Hit Points:** 90 (12d10 + 24)
 - **Speed:** 10 ft., Fly 90 ft. (hover)
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3934,10 +3934,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 10 | +0 | +0 |
 | CHA | 6 | -2 | -2 |
 
-- **Resistances**: Bludgeoning, Lightning, Piercing, Slashing
-- **Immunities**: Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Auran)
+- **Resistances:** Bludgeoning, Lightning, Piercing, Slashing
+- **Immunities:** Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Auran)
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -3959,7 +3959,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 17
 - **Hit Points:** 147 (14d10 + 70)
 - **Speed:** 30 ft., Burrow 30 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -3970,10 +3970,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Thunder
-- **Immunities**: Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Terran)
+- **Vulnerabilities:** Thunder
+- **Immunities:** Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
+- **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Terran)
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -3997,7 +3997,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 13
 - **Hit Points:** 93 (11d10 + 33)
 - **Speed:** 50 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4008,10 +4008,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 10 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan)
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Ignan)
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -4037,7 +4037,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 14
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 30 ft., Swim 90 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4048,10 +4048,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 10 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Resistances**: Acid, Fire
-- **Immunities**: Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Aquan)
+- **Resistances:** Acid, Fire
+- **Immunities:** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Aquan)
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -4077,7 +4077,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 5
 - **Hit Points:** 13 (3d8)
 - **Speed:** 5 ft.
-- **Initiative**: -5 (5)
+- **Initiative:** -5 (5)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4088,8 +4088,8 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 3 | -4 | -4 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened
-- **Senses**: blindsight 30 ft.; Passive Perception 6
+- **Immunities:** Blinded, Charmed, Deafened, Frightened
+- **Senses:** blindsight 30 ft.; Passive Perception 6
 - **CR** 0 (XP 0)
 
 ### Violet Fungus
@@ -4099,7 +4099,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 5
 - **Hit Points:** 18 (4d8)
 - **Speed:** 5 ft.
-- **Initiative**: -5 (5)
+- **Initiative:** -5 (5)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4110,8 +4110,8 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 3 | -4 | -4 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened
-- **Senses**: blindsight 30 ft.; Passive Perception 6
+- **Immunities:** Blinded, Charmed, Deafened, Frightened
+- **Senses:** blindsight 30 ft.; Passive Perception 6
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -4129,7 +4129,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 15
 - **Hit Points:** 67 (9d8 + 27)
 - **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4140,10 +4140,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 11 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Immunities**: Poison; Exhaustion, Petrified, Poisoned
-- **Skills**: Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Terran)
+- **Immunities:** Poison; Exhaustion, Petrified, Poisoned
+- **Skills:** Stealth +4
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Terran)
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -4163,7 +4163,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 13
 - **Hit Points:** 36 (8d8)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4174,10 +4174,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 10 | +0 | +2 |
 | CHA | 8 | -1 | -1 |
 
-- **Resistances**: Necrotic
-- **Immunities**: Poison; Charmed, Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common
+- **Resistances:** Necrotic
+- **Immunities:** Poison; Charmed, Exhaustion, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Common
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -4197,7 +4197,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Armor Class:** 11
 - **Hit Points:** 45 (10d8)
 - **Speed:** 5 ft., Fly 40 ft. (hover)
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4208,10 +4208,10 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | WIS | 12 | +1 | +1 |
 | CHA | 17 | +3 | +3 |
 
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common plus one other language
+- **Resistances:** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+- **Senses:** darkvision 60 ft.; Passive Perception 11
+- **Languages:** Common plus one other language
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -4242,7 +4242,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 12
 - **Hit Points:** 22 (5d8)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4253,9 +4253,9 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 10 | +0 | +0 |
 | CHA | 6 | -2 | -2 |
 
-- **Immunities**: Poison; Charmed, Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common
+- **Immunities:** Poison; Charmed, Exhaustion, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Common
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -4273,7 +4273,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 9
 - **Hit Points:** 52 (7d8 + 21)
 - **Speed:** 20 ft., Swim 20 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4284,8 +4284,8 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 10 | +0 | +0 |
 | CHA | 6 | -2 | -2 |
 
-- **Immunities**: Prone
-- **Senses**: darkvision 60 ft.; Passive Perception 10
+- **Immunities:** Prone
+- **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -4294,9 +4294,9 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 ***Gibbering.*** The mouther babbles incoherently while it doesn't have the Incapacitated condition. *Wisdom Saving Throw*: DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. *Failure:* The target rolls 1d8 to determine what it does during the current turn:
 
-- **1-4**: The target does nothing.
-- **5-6**: The target takes no action or Bonus Action and uses all its movement to move in a random direction.
-- **7-8**: The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+- **1-4:** The target does nothing.
+- **5-6:** The target takes no action or Bonus Action and uses all its movement to move in a random direction.
+- **7-8:** The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
 #### Actions
 
@@ -4311,7 +4311,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 15
 - **Hit Points:** 27 (6d8)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4322,8 +4322,8 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 10 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Gnoll
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Gnoll
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -4343,7 +4343,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 19
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4354,9 +4354,9 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Immunities**: Exhaustion, Petrified
-- **Skills**: Perception +7
-- **Senses**: darkvision 60 ft.; Passive Perception 17
+- **Immunities:** Exhaustion, Petrified
+- **Skills:** Perception +7
+- **Senses:** darkvision 60 ft.; Passive Perception 17
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
@@ -4376,7 +4376,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 14
 - **Hit Points:** 54 (12d8)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4387,8 +4387,8 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 14 | +2 | +2 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 12
+- **Skills:** Stealth +4
+- **Senses:** darkvision 60 ft.; Passive Perception 12
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -4406,7 +4406,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 12
 - **Hit Points:** 59 (7d10 + 21)
 - **Speed:** 30 ft., Fly 80 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4417,8 +4417,8 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 13 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
+- **Skills:** Perception +5
+- **Senses:** darkvision 60 ft.; Passive Perception 15
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -4434,7 +4434,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 11
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4445,8 +4445,8 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 8 | -1 | -1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Athletics +5, Perception +3, Stealth +5
-- **Senses**: blindsight 30 ft.; Passive Perception 13
+- **Skills:** Athletics +5, Perception +3, Stealth +5
+- **Senses:** blindsight 30 ft.; Passive Perception 13
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -4462,7 +4462,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 14
 - **Hit Points:** 200 (16d12 + 96)
 - **Speed:** 40 ft., Fly 20 ft. (hover)
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4473,9 +4473,9 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 16 | +3 | +7 |
 | CHA | 16 | +3 | +3 |
 
-- **Skills**: Insight +7, Perception +11
-- **Senses**: Passive Perception 21
-- **Languages**: Common, Giant
+- **Skills:** Insight +7, Perception +11
+- **Senses:** Passive Perception 21
+- **Languages:** Common, Giant
 - **CR** 9 (XP 5,000; PB +4)
 
 #### Actions
@@ -4502,7 +4502,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 18
 - **Hit Points:** 162 (13d12 + 78)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4513,10 +4513,10 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 14 | +2 | +2 |
 | CHA | 13 | +1 | +5 |
 
-- **Immunities**: Fire
-- **Skills**: Athletics +11, Perception +6
-- **Senses**: Passive Perception 16
-- **Languages**: Giant
+- **Immunities:** Fire
+- **Skills:** Athletics +11, Perception +6
+- **Senses:** Passive Perception 16
+- **Languages:** Giant
 - **CR** 9 (XP 5,000; PB +4)
 
 #### Actions
@@ -4534,7 +4534,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 15
 - **Hit Points:** 149 (13d12 + 65)
 - **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4545,10 +4545,10 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 10 | +0 | +3 |
 | CHA | 12 | +1 | +4 |
 
-- **Immunities**: Cold
-- **Skills**: Athletics +9, Perception +3
-- **Senses**: Passive Perception 13
-- **Languages**: Giant
+- **Immunities:** Cold
+- **Skills:** Athletics +9, Perception +3
+- **Senses:** Passive Perception 13
+- **Languages:** Giant
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Actions
@@ -4570,7 +4570,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 13
 - **Hit Points:** 105 (10d12 + 40)
 - **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4581,9 +4581,9 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 9 | -1 | -1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +2
-- **Senses**: Passive Perception 12
-- **Languages**: Giant
+- **Skills:** Perception +2
+- **Senses:** Passive Perception 12
+- **Languages:** Giant
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
@@ -4601,7 +4601,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 17
 - **Hit Points:** 126 (11d12 + 55)
 - **Speed:** 40 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4612,9 +4612,9 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 12 | +1 | +4 |
 | CHA | 9 | -1 | -1 |
 
-- **Skills**: Athletics +12, Perception +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Giant
+- **Skills:** Athletics +12, Perception +4, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Giant
 - **CR** 7 (XP 2,900; PB +3)
 
 #### Actions
@@ -4632,7 +4632,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 16
 - **Hit Points:** 230 (20d12 + 100)
 - **Speed:** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
-- **Initiative**: +7 (17)
+- **Initiative:** +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4643,11 +4643,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 20 | +5 | +10 |
 | CHA | 18 | +4 | +9 |
 
-- **Resistances**: Cold
-- **Immunities**: Lightning, Thunder
-- **Skills**: Arcana +8, Athletics +14, History +8, Perception +10
-- **Senses**: darkvision 120 ft., truesight 30 ft.; Passive Perception 20
-- **Languages**: Common, Giant
+- **Resistances:** Cold
+- **Immunities:** Lightning, Thunder
+- **Skills:** Arcana +8, Athletics +14, History +8, Perception +10
+- **Senses:** darkvision 120 ft., truesight 30 ft.; Passive Perception 20
+- **Languages:** Common, Giant
 - **CR** 13 (XP 10,000; PB +5)
 
 #### Traits
@@ -4678,7 +4678,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 17
 - **Hit Points:** 21 (6d6)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4689,10 +4689,10 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 8 | -1 | -1 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Stealth +6
+- **Skills:** Stealth +6
 - **Gear** Chain Shirt, Scimitar, Shield, Shortbow
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common, Goblin
+- **Senses:** darkvision 60 ft.; Passive Perception 9
+- **Languages:** Common, Goblin
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -4714,7 +4714,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 12
 - **Hit Points:** 7 (2d6)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4725,10 +4725,10 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 8 | -1 | -1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Stealth +6
+- **Skills:** Stealth +6
 - **Gear** Dagger x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common, Goblin
+- **Senses:** darkvision 60 ft.; Passive Perception 9
+- **Languages:** Common, Goblin
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -4746,7 +4746,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 15
 - **Hit Points:** 10 (3d6)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4757,10 +4757,10 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 8 | -1 | -1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Stealth +6
+- **Skills:** Stealth +6
 - **Gear** Leather Armor, Scimitar, Shield, Shortbow
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common, Goblin
+- **Senses:** darkvision 60 ft.; Passive Perception 9
+- **Languages:** Common, Goblin
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -4782,7 +4782,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 14
 - **Hit Points:** 123 (13d10 + 52)
 - **Speed:** 20 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4793,10 +4793,10 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 8 | -1 | -1 |
 | CHA | 1 | -5 | -5 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Acid, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common plus one other language
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Acid, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 9
+- **Languages:** Common plus one other language
 - **CR** 9 (XP 5,000; PB +4)
 
 #### Traits
@@ -4826,7 +4826,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Armor Class:** 9
 - **Hit Points:** 127 (15d8 + 60)
 - **Speed:** 30 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4837,9 +4837,9 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands Common plus one other language but can't speak
+- **Immunities:** Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Understands Common plus one other language but can't speak
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -4868,7 +4868,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 20
 - **Hit Points:** 252 (24d10 + 120)
 - **Speed:** 30 ft.
-- **Initiative**: +9 (19)
+- **Initiative:** +9 (19)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4879,9 +4879,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 11 | +0 | +0 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 10
-- **Languages**: Understands Common plus two other languages but can't speak
+- **Immunities:** Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses:** darkvision 120 ft.; Passive Perception 10
+- **Languages:** Understands Common plus two other languages but can't speak
 - **CR** 16 (XP 15,000; PB +5)
 
 #### Traits
@@ -4909,7 +4909,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 18
 - **Hit Points:** 220 (21d10 + 105)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4920,9 +4920,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 11 | +0 | +0 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 10
-- **Languages**: Understands Common plus two other languages but can't speak
+- **Immunities:** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses:** darkvision 120 ft.; Passive Perception 10
+- **Languages:** Understands Common plus two other languages but can't speak
 - **CR** 10 (XP 5,900; PB +4)
 
 #### Traits
@@ -4952,7 +4952,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 16
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4963,10 +4963,10 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Perception +2
+- **Skills:** Perception +2
 - **Gear** Chain Shirt, Shield, Spear
-- **Senses**: Passive Perception 12
-- **Languages**: Common
+- **Senses:** Passive Perception 12
+- **Languages:** Common
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -4980,7 +4980,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 18
 - **Hit Points:** 75 (10d8 + 30)
 - **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -4991,10 +4991,10 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 14 | +2 | +2 |
 | CHA | 13 | +1 | +1 |
 
-- **Skills**: Athletics +6, Perception +4
+- **Skills:** Athletics +6, Perception +4
 - **Gear** Breastplate, Javelin x 6, Longsword, Shield
-- **Senses**: Passive Perception 14
-- **Languages**: Common
+- **Senses:** Passive Perception 14
+- **Languages:** Common
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
@@ -5014,7 +5014,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 18
 - **Hit Points:** 105 (14d8 + 42)
 - **Speed:** 40 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5025,10 +5025,10 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 15 | +2 | +5 |
 | CHA | 14 | +2 | +2 |
 
-- **Resistances**: Damage type chosen for the Draconic Origin trait below
-- **Skills**: Athletics +7, Perception +5, Stealth +5
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
-- **Languages**: Common, Draconic
+- **Resistances:** Damage type chosen for the Draconic Origin trait below
+- **Skills:** Athletics +7, Perception +5, Stealth +5
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
+- **Languages:** Common, Draconic
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -5054,7 +5054,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 11
 - **Hit Points:** 38 (7d8 + 7)
 - **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5065,8 +5065,8 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 10 | +0 | +0 |
 | CHA | 13 | +1 | +1 |
 
-- **Senses**: Passive Perception 10
-- **Languages**: Common
+- **Senses:** Passive Perception 10
+- **Languages:** Common
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -5082,7 +5082,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 15
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5093,10 +5093,10 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Understands Infernal but can't speak
+- **Immunities:** Fire
+- **Skills:** Perception +5
+- **Senses:** darkvision 60 ft.; Passive Perception 15
+- **Languages:** Understands Infernal but can't speak
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -5118,7 +5118,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 11
 - **Hit Points:** 26 (4d10 + 4)
 - **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5129,8 +5129,8 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +5
-- **Senses**: Passive Perception 15
+- **Skills:** Perception +5
+- **Senses:** Passive Perception 15
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -5150,7 +5150,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 13
 - **Hit Points:** 4 (1d4 + 2)
 - **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5161,9 +5161,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 10 | +0 | +2 |
 | CHA | 7 | -2 | +0 |
 
-- **Immunities**: Poison; Charmed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands Common plus one other language but can't speak
+- **Immunities:** Poison; Charmed, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Understands Common plus one other language but can't speak
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -5181,7 +5181,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 15
 - **Hit Points:** 184 (16d12 + 80)
 - **Speed:** 40 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5192,9 +5192,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 10 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +6
-- **Senses**: darkvision 60 ft.; Passive Perception 16
+- **Immunities:** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+- **Skills:** Perception +6
+- **Senses:** darkvision 60 ft.; Passive Perception 16
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
@@ -5220,7 +5220,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 17
 - **Hit Points:** 82 (11d8 + 33)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5231,9 +5231,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 14 | +2 | +2 |
 | CHA | 14 | +2 | +2 |
 
-- **Skills**: Arcana +5, Deception +4, Perception +4, Stealth +3
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common, Elvish, Sylvan
+- **Skills:** Arcana +5, Deception +4, Perception +4, Stealth +3
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Common, Elvish, Sylvan
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -5259,7 +5259,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 17
 - **Hit Points:** 112 (15d8 + 45)
 - **Speed:** 30 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5270,11 +5270,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 | WIS | 14 | +2 | +2 |
 | CHA | 16 | +3 | +3 |
 
-- **Resistances**: Cold, Fire
-- **Immunities**: Charmed
-- **Skills**: Deception +6, Insight +5, Perception +5, Stealth +5
-- **Senses**: darkvision 120 ft.; Passive Perception 15
-- **Languages**: Abyssal, Common, Infernal, Primordial
+- **Resistances:** Cold, Fire
+- **Immunities:** Charmed
+- **Skills:** Deception +6, Insight +5, Perception +5, Stealth +5
+- **Senses:** darkvision 120 ft.; Passive Perception 15
+- **Languages:** Abyssal, Common, Infernal, Primordial
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -5311,7 +5311,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Armor Class:** 14
 - **Hit Points:** 52 (7d8 + 21)
 - **Speed:** 30 ft., Swim 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5322,8 +5322,8 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 | WIS | 12 | +1 | +1 |
 | CHA | 13 | +1 | +1 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common, Giant, Primordial (Aquan)
+- **Senses:** darkvision 60 ft.; Passive Perception 11
+- **Languages:** Common, Giant, Primordial (Aquan)
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -5351,7 +5351,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Armor Class:** 17
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5363,8 +5363,8 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 | CHA | 13 | +1 | +1 |
 
 - **Gear** Greatsword, Half Plate Armor, Longbow
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common, Goblin
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Common, Goblin
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -5386,7 +5386,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Armor Class:** 18
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5398,8 +5398,8 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 | CHA | 9 | -1 | -1 |
 
 - **Gear** Half Plate Armor, Longbow, Longsword, Shield
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common, Goblin
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Common, Goblin
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -5421,7 +5421,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Armor Class:** 15
 - **Hit Points:** 66 (12d8 + 12)
 - **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5432,10 +5432,10 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 | WIS | 12 | +1 | +1 |
 | CHA | 20 | +5 | +5 |
 
-- **Resistances**: Cold, Fire, Poison, Psychic
-- **Skills**: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Abyssal, Common, Infernal; telepathy 60 ft.
+- **Resistances:** Cold, Fire, Poison, Psychic
+- **Skills:** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+- **Senses:** darkvision 60 ft.; Passive Perception 15
+- **Languages:** Abyssal, Common, Infernal; telepathy 60 ft.
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -5464,7 +5464,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Armor Class:** 14
 - **Hit Points:** 97 (13d10 + 26)
 - **Speed:** 50 ft., Fly 50 ft. (hover)
-- **Initiative**: +7 (17)
+- **Initiative:** +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5475,11 +5475,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 | WIS | 15 | +2 | +2 |
 | CHA | 11 | +0 | +0 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Skills**: Perception +8, Stealth +10
-- **Senses**: darkvision 60 ft.; Passive Perception 18
-- **Languages**: Common, Primordial (Auran)
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Skills:** Perception +8, Stealth +10
+- **Senses:** darkvision 60 ft.; Passive Perception 18
+- **Languages:** Common, Primordial (Auran)
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Traits
@@ -5505,7 +5505,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Armor Class:** 14
 - **Hit Points:** 7 (3d6 - 3)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5517,8 +5517,8 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 | CHA | 8 | -1 | -1 |
 
 - **Gear** Dagger x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Common, Draconic
+- **Senses:** darkvision 60 ft.; Passive Perception 8
+- **Languages:** Common, Draconic
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
@@ -5538,7 +5538,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Armor Class:** 18
 - **Hit Points:** 481 (26d20 + 208)
 - **Speed:** 30 ft., Swim 120 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5549,10 +5549,10 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 | WIS | 18 | +4 | +11 |
 | CHA | 20 | +5 | +5 |
 
-- **Immunities**: Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
-- **Skills**: History +13, Perception +11
-- **Senses**: truesight 120 ft.; Passive Perception 21
-- **Languages**: Understands Abyssal, Celestial, Infernal, And Primordial but can't speak; telepathy 120 ft.
+- **Immunities:** Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
+- **Skills:** History +13, Perception +11
+- **Senses:** truesight 120 ft.; Passive Perception 21
+- **Languages:** Understands Abyssal, Celestial, Infernal, And Primordial but can't speak; telepathy 120 ft.
 - **CR** 23 (XP 50,000, or 62,000 in lair)
 
 #### Traits
@@ -5591,7 +5591,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 13
 - **Hit Points:** 97 (13d10 + 26)
 - **Speed:** 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5602,9 +5602,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 15 | +2 | +2 |
 | CHA | 16 | +3 | +3 |
 
-- **Skills**: Deception +7, Insight +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Abyssal, Common
+- **Skills:** Deception +7, Insight +4, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 12
+- **Languages:** Abyssal, Common
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
@@ -5631,7 +5631,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 20
 - **Hit Points:** 315 (42d8 + 126)
 - **Speed:** 30 ft.
-- **Initiative**: +7 (17)
+- **Initiative:** +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5642,12 +5642,12 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 14 | +2 | +9 |
 | CHA | 16 | +3 | +3 |
 
-- **Resistances**: Cold, Lightning
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-- **Skills**: Arcana +19, History +12, Insight +9, Perception +9
+- **Resistances:** Cold, Lightning
+- **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Skills:** Arcana +19, History +12, Insight +9, Perception +9
 - **Gear** Component Pouch
-- **Senses**: truesight 120 ft.; Passive Perception 19
-- **Languages**: All
+- **Senses:** truesight 120 ft.; Passive Perception 19
+- **Languages:** All
 - **CR** 21 (XP 33,000, or 41,000 in lair)
 
 #### Traits
@@ -5691,7 +5691,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 15
 - **Hit Points:** 135 (18d8 + 54)
 - **Speed:** 30 ft., Alternate ? ft., Climb 30 ft. (bear form only)
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5702,10 +5702,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 12 | +1 | +1 |
 | CHA | 12 | +1 | +1 |
 
-- **Skills**: Perception +7
+- **Skills:** Perception +7
 - **Gear** Handaxe x 4
-- **Senses**: darkvision 60 ft.; Passive Perception 17
-- **Languages**: Common (can't speak in bear form)
+- **Senses:** darkvision 60 ft.; Passive Perception 17
+- **Languages:** Common (can't speak in bear form)
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
@@ -5729,7 +5729,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 15
 - **Hit Points:** 97 (15d8 + 30)
 - **Speed:** 30 ft., Alternate ? ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5740,10 +5740,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 11 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +2
+- **Skills:** Perception +2
 - **Gear** Javelin x 6
-- **Senses**: Passive Perception 12
-- **Languages**: Common (can't speak in boar form)
+- **Senses:** Passive Perception 12
+- **Languages:** Common (can't speak in boar form)
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
@@ -5767,7 +5767,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 13
 - **Hit Points:** 60 (11d8 + 11)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5778,10 +5778,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 10 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +4, Stealth +5
+- **Skills:** Perception +4, Stealth +5
 - **Gear** Hand Crossbow
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common (can't speak in rat form)
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Common (can't speak in rat form)
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -5805,7 +5805,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 12
 - **Hit Points:** 120 (16d8 + 48)
 - **Speed:** 30 ft., Alternate ? ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5816,10 +5816,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 13 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Perception +5, Stealth +4
+- **Skills:** Perception +5, Stealth +4
 - **Gear** Longbow
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Common (can't speak in tiger form)
+- **Senses:** darkvision 60 ft.; Passive Perception 15
+- **Languages:** Common (can't speak in tiger form)
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
@@ -5845,7 +5845,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 15
 - **Hit Points:** 71 (11d8 + 22)
 - **Speed:** 30 ft., Alternate ? ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5856,10 +5856,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Perception +4, Stealth +4
+- **Skills:** Perception +4, Stealth +4
 - **Gear** Longbow
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common (can't speak in wolf form)
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Common (can't speak in wolf form)
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -5889,7 +5889,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 14
 - **Hit Points:** 13 (3d6 + 3)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5900,9 +5900,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Immunities**: Fire
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan)
+- **Immunities:** Fire
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Ignan)
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -5924,7 +5924,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 14
 - **Hit Points:** 68 (8d10 + 24)
 - **Speed:** 30 ft., Fly 50 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5935,8 +5935,8 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common
+- **Senses:** darkvision 60 ft.; Passive Perception 11
+- **Languages:** Common
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -5954,7 +5954,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 15
 - **Hit Points:** 127 (17d8 + 51)
 - **Speed:** 30 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -5965,9 +5965,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 13 | +1 | +4 |
 | CHA | 15 | +2 | +2 |
 
-- **Skills**: Deception +5, Perception +4, Stealth +6
-- **Senses**: darkvision 150 ft.; Passive Perception 14
-- **Languages**: Common plus one other language
+- **Skills:** Deception +5, Perception +4, Stealth +6
+- **Senses:** darkvision 150 ft.; Passive Perception 14
+- **Languages:** Common plus one other language
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
@@ -5991,7 +5991,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 11
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6002,8 +6002,8 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 14 | +2 | +2 |
 | CHA | 12 | +1 | +1 |
 
-- **Senses**: Passive Perception 12
-- **Languages**: Common, Primordial (Aquan)
+- **Senses:** Passive Perception 12
+- **Languages:** Common, Primordial (Aquan)
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
@@ -6021,7 +6021,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 13
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6032,8 +6032,8 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 10 | +0 | +0 |
 | CHA | 9 | -1 | -1 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Abyssal, Primordial (Aquan)
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Abyssal, Primordial (Aquan)
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -6057,7 +6057,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 12
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 20 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6068,9 +6068,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 13 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Immunities**: Acid; Prone
-- **Skills**: Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 11
+- **Immunities:** Acid; Prone
+- **Skills:** Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 11
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -6094,7 +6094,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 14
 - **Hit Points:** 85 (10d10 + 30)
 - **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6105,9 +6105,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 16 | +3 | +3 |
 | CHA | 9 | -1 | -1 |
 
-- **Skills**: Perception +7, Survival +7
-- **Senses**: darkvision 60 ft.; Passive Perception 17
-- **Languages**: Abyssal
+- **Skills:** Perception +7, Survival +7
+- **Senses:** darkvision 60 ft.; Passive Perception 17
+- **Languages:** Abyssal
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -6125,7 +6125,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 17
 - **Hit Points:** 170 (31d8 + 31)
 - **Speed:** 30 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6136,11 +6136,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 15 | +2 | +6 |
 | CHA | 16 | +3 | +3 |
 
-- **Immunities**: Psychic; Charmed ((with Mind Blank))
-- **Skills**: Arcana +13, History +9, Perception +6
+- **Immunities:** Psychic; Charmed ((with Mind Blank))
+- **Skills:** Arcana +13, History +9, Perception +6
 - **Gear** Wand
-- **Senses**: Passive Perception 16
-- **Languages**: Common plus five other languages
+- **Senses:** Passive Perception 16
+- **Languages:** Common plus five other languages
 - **CR** 12 (XP 8,400; PB +4)
 
 #### Traits
@@ -6174,7 +6174,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 13
 - **Hit Points:** 44 (8d8 + 8)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6185,10 +6185,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 16 | +3 | +3 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Medicine +5, Nature +3, Perception +5
+- **Skills:** Medicine +5, Nature +3, Perception +5
 - **Gear** Studded Leather Armor
-- **Senses**: Passive Perception 15
-- **Languages**: Common, Druidic, Sylvan
+- **Senses:** Passive Perception 15
+- **Languages:** Common, Druidic, Sylvan
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -6212,7 +6212,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 15
 - **Hit Points:** 81 (18d8)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6223,10 +6223,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 12 | +1 | +4 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Arcana +6, History +6, Perception +4
+- **Skills:** Arcana +6, History +6, Perception +4
 - **Gear** Wand
-- **Senses**: Passive Perception 14
-- **Languages**: Common and any three languages
+- **Senses:** Passive Perception 14
+- **Languages:** Common and any three languages
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
@@ -6258,7 +6258,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 12
 - **Hit Points:** 17 (5d6)
 - **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6269,11 +6269,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Skills**: Perception +2, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Primordial (Auran, Terran)
+- **Vulnerabilities:** Fire
+- **Immunities:** Poison; Exhaustion, Poisoned
+- **Skills:** Perception +2, Stealth +4
+- **Senses:** darkvision 60 ft.; Passive Perception 12
+- **Languages:** Primordial (Auran, Terran)
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -6298,7 +6298,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 11
 - **Hit Points:** 21 (6d6)
 - **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6309,11 +6309,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 11 | +0 | +0 |
 | CHA | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Cold, Poison; Exhaustion, Poisoned
-- **Skills**: Perception +2, Stealth +3
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Primordial (Aquan, Auran)
+- **Vulnerabilities:** Fire
+- **Immunities:** Cold, Poison; Exhaustion, Poisoned
+- **Skills:** Perception +2, Stealth +3
+- **Senses:** darkvision 60 ft.; Passive Perception 12
+- **Languages:** Primordial (Aquan, Auran)
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -6338,7 +6338,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 11
 - **Hit Points:** 18 (4d6 + 4)
 - **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6349,11 +6349,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 10 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Vulnerabilities**: Cold
-- **Immunities**: Fire, Poison; Exhaustion, Poisoned
-- **Skills**: Stealth +3
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan, Terran)
+- **Vulnerabilities:** Cold
+- **Immunities:** Fire, Poison; Exhaustion, Poisoned
+- **Skills:** Stealth +3
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Ignan, Terran)
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -6373,7 +6373,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 10
 - **Hit Points:** 17 (5d6)
 - **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6384,10 +6384,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 10 | +0 | +0 |
 | CHA | 12 | +1 | +1 |
 
-- **Immunities**: Fire, Poison; Exhaustion, Poisoned
-- **Skills**: Stealth +2
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Aquan, Ignan)
+- **Immunities:** Fire, Poison; Exhaustion, Poisoned
+- **Skills:** Stealth +2
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Aquan, Ignan)
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -6411,7 +6411,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 11
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 20 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6422,10 +6422,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 12 | +1 | +3 |
 | CHA | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common plus two other languages
+- **Vulnerabilities:** Fire
+- **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 11
+- **Languages:** Common plus two other languages
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -6443,7 +6443,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 17
 - **Hit Points:** 187 (25d8 + 75)
 - **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6454,11 +6454,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 19 | +4 | +9 |
 | CHA | 16 | +3 | +3 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-- **Skills**: History +5, Perception +9, Religion +5
-- **Senses**: truesight 60 ft.; Passive Perception 19
-- **Languages**: Common plus three other languages
+- **Vulnerabilities:** Fire
+- **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Skills:** History +5, Perception +9, Religion +5
+- **Senses:** truesight 60 ft.; Passive Perception 19
+- **Languages:** Common plus three other languages
 - **CR** 15 (XP 13,000, or 15,000 in lair)
 
 #### Traits
@@ -6501,7 +6501,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 13
 - **Hit Points:** 68 (8d10 + 24)
 - **Speed:** 60 ft., Fly 90 ft. (hover)
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6512,9 +6512,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 13 | +1 | +1 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Fire
-- **Senses**: Passive Perception 11
-- **Languages**: Understands Abyssal, Common, And Infernal but can't speak
+- **Immunities:** Fire
+- **Senses:** Passive Perception 11
+- **Languages:** Understands Abyssal, Common, And Infernal but can't speak
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -6536,7 +6536,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 15
 - **Hit Points:** 9 (2d8)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6547,10 +6547,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 14 | +2 | +2 |
 | CHA | 16 | +3 | +3 |
 
-- **Skills**: Deception +5, Insight +4, Persuasion +5
+- **Skills:** Deception +5, Insight +4, Persuasion +5
 - **Gear** Breastplate, Rapier
-- **Senses**: Passive Perception 12
-- **Languages**: Common plus two other languages
+- **Senses:** Passive Perception 12
+- **Languages:** Common plus two other languages
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -6566,7 +6566,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 18
 - **Hit Points:** 136 (16d10 + 48)
 - **Speed:** 40 ft., Climb 40 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6577,10 +6577,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 19 | +4 | +8 |
 | CHA | 18 | +4 | +8 |
 
-- **Immunities**: Poison; Charmed, Paralyzed, Poisoned, Restrained
-- **Skills**: Arcana +11, History +11, Religion +11
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Celestial, Common
+- **Immunities:** Poison; Charmed, Paralyzed, Poisoned, Restrained
+- **Skills:** Arcana +11, History +11, Religion +11
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Celestial, Common
 - **CR** 10 (XP 5,900; PB +4)
 
 #### Traits
@@ -6607,7 +6607,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 17
 - **Hit Points:** 135 (18d10 + 36)
 - **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6618,9 +6618,9 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 15 | +2 | +5 |
 | CHA | 16 | +3 | +6 |
 
-- **Immunities**: Poison; Charmed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Abyssal, Common
+- **Immunities:** Poison; Charmed, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 12
+- **Languages:** Abyssal, Common
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
@@ -6649,7 +6649,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 11
 - **Hit Points:** 68 (8d10 + 24)
 - **Speed:** 40 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6661,8 +6661,8 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | CHA | 7 | -2 | -2 |
 
 - **Gear** Greatclub, Javelin x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Common, Giant
+- **Senses:** darkvision 60 ft.; Passive Perception 8
+- **Languages:** Common, Giant
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -6678,7 +6678,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 17
 - **Hit Points:** 119 (14d10 + 42)
 - **Speed:** 30 ft., Fly 30 ft. (hover)
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6689,10 +6689,10 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 12 | +1 | +4 |
 | CHA | 15 | +2 | +5 |
 
-- **Resistances**: Cold
-- **Skills**: Arcana +5, Deception +8, Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common, Giant
+- **Resistances:** Cold
+- **Skills:** Arcana +5, Deception +8, Perception +4
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Common, Giant
 - **CR** 7 (XP 2,900; PB +3)
 
 #### Traits
@@ -6725,7 +6725,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 14
 - **Hit Points:** 104 (11d10 + 44)
 - **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6736,8 +6736,8 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
+- **Senses:** darkvision 120 ft.; Passive Perception 11
+- **Languages:** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
@@ -6757,7 +6757,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 13
 - **Hit Points:** 59 (7d10 + 21)
 - **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6768,8 +6768,8 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
+- **Skills:** Perception +5
+- **Senses:** darkvision 60 ft.; Passive Perception 15
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -6787,7 +6787,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Armor Class:** 7
 - **Hit Points:** 68 (8d10 + 24)
 - **Speed:** 20 ft., Climb 20 ft.
-- **Initiative**: -3 (7)
+- **Initiative:** -3 (7)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6798,8 +6798,8 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 | WIS | 6 | -2 | -2 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-- **Senses**: blindsight 60 ft.; Passive Perception 8
+- **Immunities:** Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+- **Senses:** blindsight 60 ft.; Passive Perception 8
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -6822,7 +6822,7 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 - **Armor Class:** 6
 - **Hit Points:** 63 (6d10 + 30)
 - **Speed:** 15 ft.
-- **Initiative**: -4 (6)
+- **Initiative:** -4 (6)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6833,8 +6833,8 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 | WIS | 6 | -2 | -2 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
-- **Senses**: blindsight 60 ft.; Passive Perception 8
+- **Immunities:** Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
+- **Senses:** blindsight 60 ft.; Passive Perception 8
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -6858,7 +6858,7 @@ As an action, a creature within 5 feet of the cube can pull a creature or an obj
 - **Armor Class:** 9
 - **Hit Points:** 22 (3d8 + 9)
 - **Speed:** 10 ft., Climb 10 ft.
-- **Initiative**: -2 (8)
+- **Initiative:** -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6869,10 +6869,10 @@ As an action, a creature within 5 feet of the cube can pull a creature or an obj
 | WIS | 6 | -2 | -2 |
 | CHA | 2 | -4 | -4 |
 
-- **Resistances**: Acid, Cold, Fire
-- **Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-- **Skills**: Stealth +2
-- **Senses**: blindsight 60 ft.; Passive Perception 8
+- **Resistances:** Acid, Cold, Fire
+- **Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+- **Skills:** Stealth +2
+- **Senses:** blindsight 60 ft.; Passive Perception 8
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -6893,7 +6893,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Armor Class:** 8
 - **Hit Points:** 52 (7d10 + 14)
 - **Speed:** 20 ft., Climb 20 ft.
-- **Initiative**: -2 (8)
+- **Initiative:** -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6904,9 +6904,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 | WIS | 6 | -2 | -2 |
 | CHA | 1 | -5 | -5 |
 
-- **Resistances**: Acid
-- **Immunities**: Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-- **Senses**: blindsight 60 ft.; Passive Perception 8
+- **Resistances:** Acid
+- **Immunities:** Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+- **Senses:** blindsight 60 ft.; Passive Perception 8
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -6928,7 +6928,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Armor Class:** 12
 - **Hit Points:** 59 (7d10 + 21)
 - **Speed:** 60 ft., Fly 90 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6939,9 +6939,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 | WIS | 15 | +2 | +4 |
 | CHA | 13 | +1 | +3 |
 
-- **Skills**: Perception +6
-- **Senses**: Passive Perception 16
-- **Languages**: Understands Celestial, Common, Elvish, And Sylvan but can't speak
+- **Skills:** Perception +6
+- **Senses:** Passive Perception 16
+- **Languages:** Understands Celestial, Common, Elvish, And Sylvan but can't speak
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -6955,7 +6955,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Armor Class:** 14
 - **Hit Points:** 45 (7d10 + 7)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -6966,8 +6966,8 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 | WIS | 10 | +0 | +0 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 10
+- **Skills:** Stealth +7
+- **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -6995,7 +6995,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Armor Class:** 14
 - **Hit Points:** 10 (3d4 + 3)
 - **Speed:** 15 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7006,9 +7006,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 | WIS | 12 | +1 | +1 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
-- **Languages**: Understands Common and Draconic but can't speak
+- **Skills:** Perception +5, Stealth +4
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
+- **Languages:** Understands Common and Draconic but can't speak
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -7030,7 +7030,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Armor Class:** 18
 - **Hit Points:** 247 (15d20 + 90)
 - **Speed:** 50 ft., Burrow 50 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7041,7 +7041,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 | WIS | 8 | -1 | +4 |
 | CHA | 4 | -3 | -3 |
 
-- **Senses**: blindsight 30 ft., tremorsense 60 ft.; Passive Perception 9
+- **Senses:** blindsight 30 ft., tremorsense 60 ft.; Passive Perception 9
 - **CR** 15 (XP 13,000; PB +5)
 
 #### Traits
@@ -7070,7 +7070,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Armor Class:** 14
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 30 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7082,8 +7082,8 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 | CHA | 14 | +2 | +4 |
 
 - **Gear** Dagger x 6, Leather Armor
-- **Senses**: Passive Perception 11
-- **Languages**: Common plus one other language
+- **Senses:** Passive Perception 11
+- **Languages:** Common plus one other language
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -7101,7 +7101,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Armor Class:** 17
 - **Hit Points:** 84 (13d8 + 26)
 - **Speed:** 30 ft.
-- **Initiative**: +7 (17)
+- **Initiative:** +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7112,10 +7112,10 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 | WIS | 14 | +2 | +5 |
 | CHA | 17 | +3 | +6 |
 
-- **Skills**: Acrobatics +7, Perception +5
+- **Skills:** Acrobatics +7, Perception +5
 - **Gear** Pistol, Rapier
-- **Senses**: Passive Perception 15
-- **Languages**: Common plus one other language
+- **Senses:** Passive Perception 15
+- **Languages:** Common plus one other language
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
@@ -7139,7 +7139,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Armor Class:** 13
 - **Hit Points:** 38 (7d8 + 7)
 - **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7150,10 +7150,10 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 | WIS | 16 | +3 | +3 |
 | CHA | 13 | +1 | +1 |
 
-- **Skills**: Medicine +7, Perception +5, Religion +5
+- **Skills:** Medicine +7, Perception +5, Religion +5
 - **Gear** Chain Shirt, Holy Symbol, Mace
-- **Senses**: Passive Perception 15
-- **Languages**: Common plus one other language
+- **Senses:** Passive Perception 15
+- **Languages:** Common plus one other language
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -7180,7 +7180,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Armor Class:** 13
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7191,10 +7191,10 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 | WIS | 14 | +2 | +2 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Medicine +4, Religion +2
+- **Skills:** Medicine +4, Religion +2
 - **Gear** Chain Shirt, Holy Symbol, Mace
-- **Senses**: Passive Perception 12
-- **Languages**: Common
+- **Senses:** Passive Perception 12
+- **Languages:** Common
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -7220,7 +7220,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Armor Class:** 17
 - **Hit Points:** 221 (26d8 + 104)
 - **Speed:** 40 ft.
-- **Initiative**: +8 (18)
+- **Initiative:** +8 (18)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7231,11 +7231,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 | WIS | 16 | +3 | +3 |
 | CHA | 20 | +5 | +5 |
 
-- **Vulnerabilities**: Piercing
-- **Immunities**: Charmed, Frightened
-- **Skills**: Deception +10, Insight +8, Perception +8
-- **Senses**: truesight 60 ft.; Passive Perception 18
-- **Languages**: Common, Infernal
+- **Vulnerabilities:** Piercing
+- **Immunities:** Charmed, Frightened
+- **Skills:** Deception +10, Insight +8, Perception +8
+- **Senses:** truesight 60 ft.; Passive Perception 18
+- **Languages:** Common, Infernal
 - **CR** 13 (XP 10,000; PB +5)
 
 #### Traits
@@ -7264,7 +7264,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Armor Class:** 17
 - **Hit Points:** 195 (17d12 + 85)
 - **Speed:** 40 ft., Burrow 30 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7275,8 +7275,8 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Cold, Fire
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
+- **Immunities:** Cold, Fire
+- **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
 - **CR** 11 (XP 7,200; PB +4)
 
 #### Traits
@@ -7299,7 +7299,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Armor Class:** 15
 - **Hit Points:** 248 (16d20 + 80)
 - **Speed:** 20 ft., Fly 120 ft.
-- **Initiative**: +8 (18)
+- **Initiative:** +8 (18)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7310,8 +7310,8 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 | WIS | 10 | +0 | +4 |
 | CHA | 9 | -1 | -1 |
 
-- **Skills**: Perception +8
-- **Senses**: Passive Perception 18
+- **Skills:** Perception +8
+- **Senses:** Passive Perception 18
 - **CR** 11 (XP 7,200; PB +4)
 
 #### Actions
@@ -7333,7 +7333,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Armor Class:** 20
 - **Hit Points:** 93 (11d10 + 33)
 - **Speed:** 10 ft., Climb 20 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7344,8 +7344,8 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 | WIS | 16 | +3 | +3 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +6, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 16
+- **Skills:** Perception +6, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 16
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -7370,7 +7370,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 14
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7381,7 +7381,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 11
+- **Senses:** darkvision 60 ft.; Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -7407,7 +7407,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 12
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 30 ft., Swim 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7418,10 +7418,10 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 13 | +1 | +1 |
 | CHA | 9 | -1 | -1 |
 
-- **Resistances**: Acid, Cold
-- **Skills**: Perception +5
-- **Senses**: darkvision 120 ft.; Passive Perception 15
-- **Languages**: Sahuagin
+- **Resistances:** Acid, Cold
+- **Skills:** Perception +5
+- **Senses:** darkvision 120 ft.; Passive Perception 15
+- **Languages:** Sahuagin
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -7449,7 +7449,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 15
 - **Hit Points:** 90 (12d10 + 24)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7460,10 +7460,10 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 10 | +0 | +0 |
 | CHA | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Cold
-- **Immunities**: Fire
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan)
+- **Vulnerabilities:** Cold
+- **Immunities:** Fire
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Primordial (Ignan)
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -7485,7 +7485,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 13
 - **Hit Points:** 31 (7d8)
 - **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7496,9 +7496,9 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 10 | +0 | +0 |
 | CHA | 14 | +2 | +2 |
 
-- **Skills**: Perception +2, Performance +6, Stealth +5
-- **Senses**: Passive Perception 12
-- **Languages**: Common, Elvish, Sylvan
+- **Skills:** Perception +2, Performance +6, Stealth +5
+- **Senses:** Passive Perception 12
+- **Languages:** Common, Elvish, Sylvan
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -7518,7 +7518,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 13
 - **Hit Points:** 16 (3d8 + 3)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7529,10 +7529,10 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 13 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Nature +4, Perception +5, Stealth +6, Survival +5
+- **Skills:** Nature +4, Perception +5, Stealth +6, Survival +5
 - **Gear** Leather Armor, Longbow, Shortsword
-- **Senses**: Passive Perception 15
-- **Languages**: Common plus one other language
+- **Senses:** Passive Perception 15
+- **Languages:** Common plus one other language
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -7550,7 +7550,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 12
 - **Hit Points:** 27 (5d8 + 5)
 - **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7561,11 +7561,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 10 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Vulnerabilities**: Radiant
-- **Resistances**: Acid, Cold, Fire, Lightning, Thunder
-- **Immunities**: Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Skills**: Stealth +6
-- **Senses**: darkvision 60 ft.; Passive Perception 10
+- **Vulnerabilities:** Radiant
+- **Resistances:** Acid, Cold, Fire, Lightning, Thunder
+- **Immunities:** Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Skills:** Stealth +6
+- **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -7589,7 +7589,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 15
 - **Hit Points:** 110 (13d10 + 39)
 - **Speed:** 30 ft., Swim 20 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7600,10 +7600,10 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Resistances**: Cold, Fire
-- **Immunities**: Lightning; Deafened, Exhaustion
-- **Skills**: Stealth +3
-- **Senses**: blindsight 60 ft.; Passive Perception 10
+- **Resistances:** Cold, Fire
+- **Immunities:** Lightning; Deafened, Exhaustion
+- **Skills:** Stealth +3
+- **Senses:** blindsight 60 ft.; Passive Perception 10
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -7625,7 +7625,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 17
 - **Hit Points:** 142 (15d10 + 60)
 - **Speed:** 30 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7636,9 +7636,9 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Immunities**: Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands commands given in any language but can't speak
+- **Immunities:** Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 10
+- **Languages:** Understands commands given in any language but can't speak
 - **CR** 7 (XP 2,900; PB +3)
 
 #### Traits
@@ -7662,7 +7662,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 12
 - **Hit Points:** 22 (5d8)
 - **Speed:** 30 ft., Fly 50 ft. (hover)
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7673,10 +7673,10 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 10 | +0 | +0 |
 | CHA | 11 | +0 | +0 |
 
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands Common plus one other language but can't speak
+- **Resistances:** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses:** darkvision 60 ft.; Passive Perception 10
+- **Languages:** Understands Common plus one other language but can't speak
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -7696,7 +7696,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 15
 - **Hit Points:** 10 (4d4)
 - **Speed:** 10 ft., Fly 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7707,9 +7707,9 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 13 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Perception +3, Stealth +8
-- **Senses**: Passive Perception 13
-- **Languages**: Common, Elvish, Sylvan
+- **Skills:** Perception +3, Stealth +8
+- **Senses:** Passive Perception 13
+- **Languages:** Common, Elvish, Sylvan
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -7731,7 +7731,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 12
 - **Hit Points:** 27 (6d8)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7742,10 +7742,10 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 14 | +2 | +2 |
 | CHA | 16 | +3 | +3 |
 
-- **Skills**: Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of hand +4, Stealth +6
+- **Skills:** Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of hand +4, Stealth +6
 - **Gear** Hand Crossbow, Shortsword, Thieves' Tools
-- **Senses**: Passive Perception 16
-- **Languages**: Common plus one other language
+- **Senses:** Passive Perception 16
+- **Languages:** Common plus one other language
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -7765,7 +7765,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Armor Class:** 13
 - **Hit Points:** 5 (2d4)
 - **Speed:** 10 ft., Fly 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7776,7 +7776,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 | WIS | 8 | -1 | -1 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 9
+- **Senses:** darkvision 60 ft.; Passive Perception 9
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -7791,7 +7791,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 15
 - **Hit Points:** 71 (13d8 + 13)
 - **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7802,10 +7802,10 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 12 | +1 | +1 |
 | CHA | 20 | +5 | +5 |
 
-- **Resistances**: Cold, Fire, Poison, Psychic
-- **Skills**: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Abyssal, Common, Infernal; telepathy 60 ft.
+- **Resistances:** Cold, Fire, Poison, Psychic
+- **Skills:** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+- **Senses:** darkvision 60 ft.; Passive Perception 15
+- **Languages:** Abyssal, Common, Infernal; telepathy 60 ft.
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -7833,7 +7833,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 12
 - **Hit Points:** 49 (11d8)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7844,10 +7844,10 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 10 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
-- **Senses**: blindsight 30 ft.; Passive Perception 10
-- **Languages**: Understands Common but can't speak
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
+- **Senses:** blindsight 30 ft.; Passive Perception 10
+- **Languages:** Understands Common but can't speak
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -7867,7 +7867,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 12
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7878,10 +7878,10 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 8 | -1 | -1 |
 | CHA | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Bludgeoning
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Understands Abyssal but can't speak
+- **Vulnerabilities:** Bludgeoning
+- **Immunities:** Poison; Exhaustion, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 9
+- **Languages:** Understands Abyssal but can't speak
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -7897,7 +7897,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 14
 - **Hit Points:** 13 (2d8 + 4)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7908,11 +7908,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 8 | -1 | -1 |
 | CHA | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Bludgeoning
-- **Immunities**: Poison; Exhaustion, Poisoned
+- **Vulnerabilities:** Bludgeoning
+- **Immunities:** Poison; Exhaustion, Poisoned
 - **Gear** Shortbow, Shortsword
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Understands Common plus one other language but can't speak
+- **Senses:** darkvision 60 ft.; Passive Perception 9
+- **Languages:** Understands Common plus one other language but can't speak
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -7928,7 +7928,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 13
 - **Hit Points:** 22 (3d10 + 6)
 - **Speed:** 60 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7939,9 +7939,9 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 8 | -1 | -1 |
 | CHA | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Bludgeoning
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
+- **Vulnerabilities:** Bludgeoning
+- **Immunities:** Poison; Exhaustion, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 9
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -7957,7 +7957,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 17
 - **Hit Points:** 170 (20d10 + 60)
 - **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -7968,11 +7968,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 18 | +4 | +4 |
 | CHA | 18 | +4 | +4 |
 
-- **Resistances**: Necrotic, Radiant
-- **Immunities**: Psychic; Charmed, Frightened
-- **Skills**: Arcana +12, History +12, Perception +8, Religion +12
-- **Senses**: truesight 120 ft.; Passive Perception 18
-- **Languages**: Celestial, Common
+- **Resistances:** Necrotic, Radiant
+- **Immunities:** Psychic; Charmed, Frightened
+- **Skills:** Arcana +12, History +12, Perception +8, Religion +12
+- **Senses:** truesight 120 ft.; Passive Perception 18
+- **Languages:** Celestial, Common
 - **CR** 11 (XP 7,200, or 8,400 in lair)
 
 #### Traits
@@ -8007,7 +8007,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 17
 - **Hit Points:** 199 (19d10 + 95)
 - **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8018,11 +8018,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 23 | +6 | +12 |
 | CHA | 18 | +4 | +4 |
 
-- **Resistances**: Necrotic, Radiant
-- **Immunities**: Psychic; Charmed, Frightened
-- **Skills**: Arcana +9, Perception +12, Religion +15
-- **Senses**: truesight 120 ft.; Passive Perception 22
-- **Languages**: Celestial, Common
+- **Resistances:** Necrotic, Radiant
+- **Immunities:** Psychic; Charmed, Frightened
+- **Skills:** Arcana +9, Perception +12, Religion +15
+- **Senses:** truesight 120 ft.; Passive Perception 22
+- **Languages:** Celestial, Common
 - **CR** 17 (XP 18,000, or 20,000 in lair)
 
 #### Traits
@@ -8039,9 +8039,9 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 ***Roar (3/Day).*** The sphinx emits a magical roar. Whenever it roars, the roar has a different effect, as detailed below (the sequence resets when it takes a Long Rest):
 
-- **First Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* The target has the Frightened condition for 1 minute.
-- **Second Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
-- **Third Roar**: *Constitution Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* 44 (8d10) Thunder damage, and the target has the Prone condition. *Success:* Half damage only.
+- **First Roar:** *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* The target has the Frightened condition for 1 minute.
+- **Second Roar:** *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+- **Third Roar:** *Constitution Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:* 44 (8d10) Thunder damage, and the target has the Prone condition. *Success:* Half damage only.
 
 ***Spellcasting.*** The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20):
 
@@ -8061,7 +8061,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 13
 - **Hit Points:** 24 (7d4 + 7)
 - **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8072,10 +8072,10 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 12 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Resistances**: Necrotic, Psychic, Radiant
-- **Skills**: Arcana +4, Religion +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Celestial, Common
+- **Resistances:** Necrotic, Psychic, Radiant
+- **Skills:** Arcana +4, Religion +4, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 11
+- **Languages:** Celestial, Common
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -8095,7 +8095,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Armor Class:** 25
 - **Hit Points:** 697 (34d20 + 340)
 - **Speed:** 60 ft., Burrow 40 ft., Climb 60 ft.
-- **Initiative**: +18 (28)
+- **Initiative:** +18 (28)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8106,10 +8106,10 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 | WIS | 11 | +0 | +9 |
 | CHA | 11 | +0 | +9 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
-- **Skills**: Perception +9
-- **Senses**: blindsight 120 ft.; Passive Perception 19
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
+- **Skills:** Perception +9
+- **Senses:** blindsight 120 ft.; Passive Perception 19
 - **CR** 30 (XP 155,000; PB +9)
 
 #### Traits
@@ -8152,7 +8152,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Armor Class:** 16
 - **Hit Points:** 138 (12d12 + 60)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8163,10 +8163,10 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 | WIS | 16 | +3 | +3 |
 | CHA | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Fire
-- **Resistances**: Bludgeoning, Piercing
-- **Senses**: Passive Perception 13
-- **Languages**: Common, Druidic, Elvish, Sylvan
+- **Vulnerabilities:** Fire
+- **Resistances:** Bludgeoning, Piercing
+- **Senses:** Passive Perception 13
+- **Languages:** Common, Druidic, Elvish, Sylvan
 - **CR** 9 (XP 5,000; PB +4)
 
 #### Traits
@@ -8192,7 +8192,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Armor Class:** 12
 - **Hit Points:** 32 (5d8 + 10)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8204,8 +8204,8 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 | CHA | 11 | +0 | +0 |
 
 - **Gear** Heavy Crossbow, Leather Armor, Mace
-- **Senses**: Passive Perception 10
-- **Languages**: Common
+- **Senses:** Passive Perception 10
+- **Languages:** Common
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -8225,7 +8225,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Armor Class:** 16
 - **Hit Points:** 82 (11d8 + 33)
 - **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8237,8 +8237,8 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 | CHA | 11 | +0 | +2 |
 
 - **Gear** Chain Mail, Heavy Crossbow, Warhammer
-- **Senses**: Passive Perception 10
-- **Languages**: Common plus one other language
+- **Senses:** Passive Perception 10
+- **Languages:** Common plus one other language
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -8262,7 +8262,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Armor Class:** 15
 - **Hit Points:** 94 (9d10 + 45)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8273,9 +8273,9 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 | WIS | 9 | -1 | -1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Giant
+- **Skills:** Perception +5
+- **Senses:** darkvision 60 ft.; Passive Perception 15
+- **Languages:** Giant
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -8301,7 +8301,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Armor Class:** 13
 - **Hit Points:** 14 (4d6)
 - **Speed:** 20 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8312,7 +8312,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 | WIS | 9 | -1 | -1 |
 | CHA | 1 | -5 | -5 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 9
+- **Senses:** darkvision 60 ft.; Passive Perception 9
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -8334,7 +8334,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Armor Class:** 12
 - **Hit Points:** 97 (13d10 + 26)
 - **Speed:** 50 ft.
-- **Initiative**: +8 (18)
+- **Initiative:** +8 (18)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8345,9 +8345,9 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 | WIS | 17 | +3 | +3 |
 | CHA | 16 | +3 | +3 |
 
-- **Immunities**: Poison; Charmed, Paralyzed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Celestial, Elvish, Sylvan; telepathy 120 ft.
+- **Immunities:** Poison; Charmed, Paralyzed, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 13
+- **Languages:** Celestial, Elvish, Sylvan; telepathy 120 ft.
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -8388,7 +8388,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Armor Class:** 16
 - **Hit Points:** 195 (23d8 + 92)
 - **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +8 (18)
+- **Initiative:** +8 (18)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8399,10 +8399,10 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 | WIS | 15 | +2 | +7 |
 | CHA | 18 | +4 | +9 |
 
-- **Resistances**: Necrotic
-- **Skills**: Perception +7, Stealth +9
-- **Senses**: darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common plus two other languages
+- **Resistances:** Necrotic
+- **Skills:** Perception +7, Stealth +9
+- **Senses:** darkvision 120 ft.; Passive Perception 17
+- **Languages:** Common plus two other languages
 - **CR** 13 (XP 10,000, or 11,500 in lair)
 
 #### Traits
@@ -8416,10 +8416,10 @@ While it has 0 Hit Points in mist form, it can't return to its vampire form, and
 
 ***Vampire Weakness.*** The vampire has these weaknesses:
 
-- **Forbiddance**: The vampire can't enter a residence without an invitation from an occupant.
-- **Running Water**: The vampire takes 20 Acid damage if it ends its turn in running water.
-- **Stake to the Heart**: If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition in its resting place, the vampire has the Paralyzed condition until the weapon is removed.
-- **Sunlight**: The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
+- **Forbiddance:** The vampire can't enter a residence without an invitation from an occupant.
+- **Running Water:** The vampire takes 20 Acid damage if it ends its turn in running water.
+- **Stake to the Heart:** If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition in its resting place, the vampire has the Paralyzed condition until the weapon is removed.
+- **Sunlight:** The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
 
 #### Actions
 
@@ -8450,7 +8450,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Armor Class:** 15
 - **Hit Points:** 65 (10d8 + 20)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8461,12 +8461,12 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 | WIS | 10 | +0 | +2 |
 | CHA | 14 | +2 | +2 |
 
-- **Resistances**: Necrotic
-- **Immunities**: Charmed ((except from its vampire master))
-- **Skills**: Perception +4, Persuasion +4, Stealth +7
+- **Resistances:** Necrotic
+- **Immunities:** Charmed ((except from its vampire master))
+- **Skills:** Perception +4, Persuasion +4, Stealth +7
 - **Gear** Dagger x 10
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common plus one other language
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Common plus one other language
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -8490,7 +8490,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Armor Class:** 16
 - **Hit Points:** 90 (12d8 + 36)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8501,10 +8501,10 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 | WIS | 10 | +0 | +3 |
 | CHA | 12 | +1 | +1 |
 
-- **Resistances**: Necrotic
-- **Skills**: Perception +3, Stealth +6
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Common plus one other language
+- **Resistances:** Necrotic
+- **Skills:** Perception +3, Stealth +6
+- **Senses:** darkvision 60 ft.; Passive Perception 13
+- **Languages:** Common plus one other language
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -8513,10 +8513,10 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 
 ***Vampire Weakness.*** The vampire has these weaknesses:
 
-- **Forbiddance**: The vampire can't enter a residence without an invitation from an occupant.
-- **Running Water**: The vampire takes 20 Acid damage if it ends its turn in running water.
-- **Stake to the Heart**: The vampire is destroyed if a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition.
-- **Sunlight**: The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
+- **Forbiddance:** The vampire can't enter a residence without an invitation from an occupant.
+- **Running Water:** The vampire takes 20 Acid damage if it ends its turn in running water.
+- **Stake to the Heart:** The vampire is destroyed if a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition.
+- **Sunlight:** The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
 
 #### Actions
 
@@ -8539,7 +8539,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Armor Class:** 14
 - **Hit Points:** 82 (11d8 + 33)
 - **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8550,12 +8550,12 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 | WIS | 13 | +1 | +1 |
 | CHA | 15 | +2 | +2 |
 
-- **Resistances**: Necrotic
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Skills**: Perception +3, Stealth +4
+- **Resistances:** Necrotic
+- **Immunities:** Poison; Exhaustion, Poisoned
+- **Skills:** Perception +3, Stealth +4
 - **Gear** Studded Leather Armor
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Common plus one other language
+- **Senses:** darkvision 60 ft.; Passive Perception 13
+- **Languages:** Common plus one other language
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -8580,7 +8580,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 19
 - **Hit Points:** 27 (11d4)
 - **Speed:** 5 ft., Fly 50 ft. (hover)
-- **Initiative**: +9 (19)
+- **Initiative:** +9 (19)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8591,10 +8591,10 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 14 | +2 | +2 |
 | CHA | 11 | +0 | +0 |
 
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
-- **Immunities**: Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 120 ft.; Passive Perception 12
-- **Languages**: Common plus one other language
+- **Resistances:** Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
+- **Immunities:** Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses:** darkvision 120 ft.; Passive Perception 12
+- **Languages:** Common plus one other language
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -8622,7 +8622,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 13
 - **Hit Points:** 75 (10d10 + 20)
 - **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8633,10 +8633,10 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Immunities**: Cold
-- **Skills**: Perception +5, Stealth +5
-- **Senses**: Passive Perception 15
-- **Languages**: Common, Giant
+- **Immunities:** Cold
+- **Skills:** Perception +5, Stealth +5
+- **Senses:** Passive Perception 15
+- **Languages:** Common, Giant
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -8656,7 +8656,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 13
 - **Hit Points:** 26 (4d10 + 4)
 - **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8667,9 +8667,9 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 11 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Goblin, Worg
+- **Skills:** Perception +4
+- **Senses:** darkvision 60 ft.; Passive Perception 14
+- **Languages:** Goblin, Worg
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -8683,7 +8683,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 13
 - **Hit Points:** 67 (9d8 + 27)
 - **Speed:** 5 ft., Fly 60 ft. (hover)
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8694,10 +8694,10 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 14 | +2 | +2 |
 | CHA | 15 | +2 | +2 |
 
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Common plus two other languages
+- **Resistances:** Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
+- **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses:** darkvision 60 ft.; Passive Perception 12
+- **Languages:** Common plus two other languages
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -8719,7 +8719,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 14
 - **Hit Points:** 127 (15d10 + 45)
 - **Speed:** 30 ft., Fly 80 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8730,8 +8730,8 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +4
-- **Senses**: darkvision 120 ft.; Passive Perception 14
+- **Skills:** Perception +4
+- **Senses:** darkvision 120 ft.; Passive Perception 14
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
@@ -8751,7 +8751,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 13
 - **Hit Points:** 67 (9d8 + 27)
 - **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8763,8 +8763,8 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | CHA | 9 | -1 | -1 |
 
 - **Gear** Greataxe, Hide Armor
-- **Senses**: Passive Perception 10
-- **Languages**: Common
+- **Senses:** Passive Perception 10
+- **Languages:** Common
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -8782,7 +8782,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 16
 - **Hit Points:** 112 (15d8 + 45)
 - **Speed:** 30 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8793,10 +8793,10 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 12 | +1 | +4 |
 | CHA | 15 | +2 | +2 |
 
-- **Skills**: Athletics +10, Performance +5
+- **Skills:** Athletics +10, Performance +5
 - **Gear** Shield, Spear x 3, Studded Leather Armor
-- **Senses**: Passive Perception 11
-- **Languages**: Common
+- **Senses:** Passive Perception 11
+- **Languages:** Common
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
@@ -8814,7 +8814,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 18
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8825,10 +8825,10 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 11 | +0 | +2 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Frightened
+- **Immunities:** Frightened
 - **Gear** Greatsword, Heavy Crossbow, Plate Armor
-- **Senses**: Passive Perception 10
-- **Languages**: Common plus one other language
+- **Senses:** Passive Perception 10
+- **Languages:** Common plus one other language
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -8846,7 +8846,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 13
 - **Hit Points:** 9 (2d8)
 - **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8858,8 +8858,8 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | CHA | 8 | -1 | -1 |
 
 - **Gear** Chain Shirt, Spear
-- **Senses**: Passive Perception 10
-- **Languages**: Common
+- **Senses:** Passive Perception 10
+- **Languages:** Common
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
@@ -8877,7 +8877,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 17
 - **Hit Points:** 65 (10d8 + 20)
 - **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8888,10 +8888,10 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Athletics +5, Perception +2
+- **Skills:** Athletics +5, Perception +2
 - **Gear** Greatsword, Heavy Crossbow, Splint Armor
-- **Senses**: Passive Perception 12
-- **Languages**: Common plus one other language
+- **Senses:** Passive Perception 12
+- **Languages:** Common plus one other language
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -8911,7 +8911,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 19
 - **Hit Points:** 84 (8d8 + 48)
 - **Speed:** 20 ft., Burrow 20 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8922,10 +8922,10 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 10 | +0 | +0 |
 | CHA | 11 | +0 | +0 |
 
-- **Immunities**: Poison; Paralyzed, Petrified, Poisoned
-- **Skills**: Perception +6, Stealth +6
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 16
-- **Languages**: Primordial (Terran)
+- **Immunities:** Poison; Paralyzed, Petrified, Poisoned
+- **Skills:** Perception +6, Stealth +6
+- **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 16
+- **Languages:** Primordial (Terran)
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -8955,7 +8955,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 8
 - **Hit Points:** 85 (9d10 + 36)
 - **Speed:** 30 ft.
-- **Initiative**: -2 (8)
+- **Initiative:** -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8966,9 +8966,9 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 6 | -2 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Understands Common and Giant but can't speak
+- **Immunities:** Poison; Exhaustion, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 8
+- **Languages:** Understands Common and Giant but can't speak
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -8986,7 +8986,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Armor Class:** 8
 - **Hit Points:** 15 (2d8 + 6)
 - **Speed:** 20 ft.
-- **Initiative**: -2 (8)
+- **Initiative:** -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -8997,9 +8997,9 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 | WIS | 6 | -2 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Understands Common plus one other language but can't speak
+- **Immunities:** Poison; Exhaustion, Poisoned
+- **Senses:** darkvision 60 ft.; Passive Perception 8
+- **Languages:** Understands Common plus one other language but can't speak
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits

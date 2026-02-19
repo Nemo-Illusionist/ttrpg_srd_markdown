@@ -20,8 +20,8 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Athletics +5, Perception +3
-- **Senses**: Passive Perception 13
+- **Skills:** Athletics +5, Perception +3
+- **Senses:** Passive Perception 13
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -50,8 +50,8 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Athletics +9, Perception +4, Survival +4
-- **Senses**: Passive Perception 14
+- **Skills:** Athletics +9, Perception +4, Survival +4
+- **Senses:** Passive Perception 14
 - **CR** 7 (XP 2,900; PB +3)
 
 #### Actions
@@ -86,7 +86,7 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: Passive Perception 11
+- **Senses:** Passive Perception 11
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -117,9 +117,9 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Resistances**: Poison
-- **Skills**: Perception +3
-- **Senses**: darkvision 30 ft.; Passive Perception 13
+- **Resistances:** Poison
+- **Skills:** Perception +3
+- **Senses:** darkvision 30 ft.; Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -144,9 +144,9 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Resistances**: Poison
-- **Skills**: Perception +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Resistances:** Poison
+- **Skills:** Perception +3
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -173,7 +173,7 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 4 | -3 | -3 |
 
-- **Senses**: blindsight 60 ft.; Passive Perception 11
+- **Senses:** blindsight 60 ft.; Passive Perception 11
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -198,7 +198,7 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: blindsight 120 ft.; Passive Perception 11
+- **Senses:** blindsight 120 ft.; Passive Perception 11
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -223,9 +223,9 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 4 | -3 | -3 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- **Senses**: blindsight 60 ft.; Passive Perception 11
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses:** blindsight 60 ft.; Passive Perception 11
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -256,8 +256,8 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
+- **Skills:** Perception +5
+- **Senses:** darkvision 60 ft.; Passive Perception 15
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -284,8 +284,8 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -314,9 +314,9 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Resistances**: Cold
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 15
+- **Resistances:** Cold
+- **Skills:** Perception +5, Stealth +4
+- **Senses:** darkvision 60 ft.; Passive Perception 15
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -345,7 +345,7 @@
 | WIS | 9 | -1 | -1 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: Passive Perception 9
+- **Senses:** Passive Perception 9
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -374,7 +374,7 @@
 | WIS | 7 | -2 | -2 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: Passive Perception 8
+- **Senses:** Passive Perception 8
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -405,7 +405,7 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 10
+- **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -430,8 +430,8 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +3, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3, Stealth +4
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -462,8 +462,8 @@
 | WIS | 8 | -1 | -1 |
 | CHA | 2 | -4 | -4 |
 
-- **Skills**: Stealth +2
-- **Senses**: blindsight 30 ft.; Passive Perception 9
+- **Skills:** Stealth +2
+- **Senses:** blindsight 30 ft.; Passive Perception 9
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -492,8 +492,8 @@
 | WIS | 9 | -1 | -1 |
 | CHA | 3 | -4 | -4 |
 
-- **Skills**: Stealth +3
-- **Senses**: blindsight 30 ft.; Passive Perception 9
+- **Skills:** Stealth +3
+- **Senses:** blindsight 30 ft.; Passive Perception 9
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
@@ -524,8 +524,8 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Stealth +2
-- **Senses**: Passive Perception 10
+- **Skills:** Stealth +2
+- **Senses:** Passive Perception 10
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -554,8 +554,8 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Stealth +5
-- **Senses**: Passive Perception 10
+- **Skills:** Stealth +5
+- **Senses:** Passive Perception 10
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -590,8 +590,8 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
+- **Skills:** Perception +4
+- **Senses:** darkvision 60 ft.; Passive Perception 14
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -622,8 +622,8 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +5
-- **Senses**: Passive Perception 15
+- **Skills:** Perception +5
+- **Senses:** Passive Perception 15
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -650,7 +650,7 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: Passive Perception 11
+- **Senses:** Passive Perception 11
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -677,8 +677,8 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Stealth +5
-- **Senses**: Passive Perception 12
+- **Skills:** Stealth +5
+- **Senses:** Passive Perception 12
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -709,8 +709,8 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +3, Stealth +4
-- **Senses**: Passive Perception 13
+- **Skills:** Perception +3, Stealth +4
+- **Senses:** Passive Perception 13
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -739,8 +739,8 @@
 | WIS | 9 | -1 | -1 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +1
-- **Senses**: Passive Perception 11
+- **Skills:** Perception +1
+- **Senses:** Passive Perception 11
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -769,7 +769,7 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
@@ -796,8 +796,8 @@
 | WIS | 12 | +1 | +4 |
 | CHA | 9 | -1 | -1 |
 
-- **Skills**: Perception +4
-- **Senses**: Passive Perception 14
+- **Skills:** Perception +4
+- **Senses:** Passive Perception 14
 - **CR** 8 (XP 3,900; PB +3)
 
 #### Actions
@@ -828,8 +828,8 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +6
-- **Senses**: Passive Perception 16
+- **Skills:** Perception +6
+- **Senses:** Passive Perception 16
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -854,10 +854,10 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 10 | +0 | +0 |
 
-- **Resistances**: Necrotic, Radiant
-- **Skills**: Perception +6
-- **Senses**: Passive Perception 16
-- **Languages**: Celestial; understands Common and Primordial (Auran) but can't speak them
+- **Resistances:** Necrotic, Radiant
+- **Skills:** Perception +6
+- **Senses:** Passive Perception 16
+- **Languages:** Celestial; understands Common and Primordial (Auran) but can't speak them
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -886,7 +886,7 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
@@ -917,7 +917,7 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
@@ -950,8 +950,8 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +2
-- **Senses**: darkvision 60 ft.; Passive Perception 12
+- **Skills:** Perception +2
+- **Senses:** darkvision 60 ft.; Passive Perception 12
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -976,10 +976,10 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 10 | +0 | +0 |
 
-- **Resistances**: Necrotic, Radiant
-- **Skills**: Perception +4
-- **Senses**: darkvision 90 ft.; Passive Perception 14
-- **Languages**: Celestial; understands Common, Elvish, And Sylvan but can't speak them
+- **Resistances:** Necrotic, Radiant
+- **Skills:** Perception +4
+- **Senses:** darkvision 90 ft.; Passive Perception 14
+- **Languages:** Celestial; understands Common, Elvish, And Sylvan but can't speak them
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -1006,8 +1006,8 @@
 | WIS | 8 | -1 | -1 |
 | CHA | 3 | -4 | -4 |
 
-- **Skills**: Perception +1, Stealth +3
-- **Senses**: darkvision 30 ft.; Passive Perception 11
+- **Skills:** Perception +1, Stealth +3
+- **Senses:** darkvision 30 ft.; Passive Perception 11
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -1038,8 +1038,8 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Skills**: Perception +2, Stealth +4
-- **Senses**: darkvision 30 ft.; Passive Perception 12
+- **Skills:** Perception +2, Stealth +4
+- **Senses:** darkvision 30 ft.; Passive Perception 12
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -1073,7 +1073,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 10
+- **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -1108,7 +1108,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 7 | -2 | -2 |
 | CHA | 3 | -4 | -4 |
 
-- **Senses**: blindsight 30 ft.; Passive Perception 8
+- **Senses:** blindsight 30 ft.; Passive Perception 8
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -1133,8 +1133,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 7 | -2 | -2 |
 | CHA | 3 | -4 | -4 |
 
-- **Resistances**: Fire
-- **Senses**: blindsight 30 ft.; Passive Perception 8
+- **Resistances:** Fire
+- **Senses:** blindsight 30 ft.; Passive Perception 8
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -1163,7 +1163,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -1194,8 +1194,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -1220,8 +1220,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +2
-- **Senses**: darkvision 60 ft.; Passive Perception 12
+- **Skills:** Perception +2
+- **Senses:** darkvision 60 ft.; Passive Perception 12
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -1248,8 +1248,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +3
-- **Senses**: Passive Perception 13
+- **Skills:** Perception +3
+- **Senses:** Passive Perception 13
 - **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
@@ -1282,8 +1282,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 14 | +2 | +2 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +6
-- **Senses**: Passive Perception 16
+- **Skills:** Perception +6
+- **Senses:** Passive Perception 16
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
@@ -1312,8 +1312,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 14 | +2 | +2 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +6
-- **Senses**: Passive Perception 16
+- **Skills:** Perception +6
+- **Senses:** Passive Perception 16
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -1340,7 +1340,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 11 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -1365,7 +1365,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
@@ -1394,7 +1394,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 11 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -1419,7 +1419,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 11 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Senses**: Passive Perception 10
+- **Senses:** Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -1444,7 +1444,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +3 |
 | CHA | 7 | -2 | -2 |
 
-- **Senses**: Passive Perception 11
+- **Senses:** Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
@@ -1471,8 +1471,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -1501,8 +1501,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -1533,8 +1533,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: darkvision 90 ft.; Passive Perception 15
+- **Skills:** Perception +5, Stealth +4
+- **Senses:** darkvision 90 ft.; Passive Perception 15
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -1561,8 +1561,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +3, Stealth +4
-- **Senses**: blindsight 120 ft.; Passive Perception 13
+- **Skills:** Perception +3, Stealth +4
+- **Senses:** blindsight 120 ft.; Passive Perception 13
 - **CR** 3 (XP 700; PB +2)
 
 #### Traits
@@ -1593,8 +1593,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +3, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3, Stealth +4
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -1631,7 +1631,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 10
+- **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -1660,7 +1660,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 8 | -1 | -1 |
 | CHA | 3 | -4 | -4 |
 
-- **Senses**: darkvision 30 ft.; Passive Perception 9
+- **Senses:** darkvision 30 ft.; Passive Perception 9
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -1691,8 +1691,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
+- **Skills:** Perception +5
+- **Senses:** darkvision 60 ft.; Passive Perception 15
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -1719,8 +1719,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 14
+- **Skills:** Perception +4, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 14
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -1749,9 +1749,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +2, Stealth +6
-- **Senses**: darkvision 30 ft.; Passive Perception 12
-- **Languages**: None
+- **Skills:** Perception +2, Stealth +6
+- **Senses:** darkvision 30 ft.; Passive Perception 12
+- **Languages:** None
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -1788,10 +1788,10 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 14 | +2 | +4 |
 | CHA | 10 | +0 | +0 |
 
-- **Resistances**: Necrotic, Radiant
-- **Skills**: Perception +6, Stealth +6
-- **Senses**: darkvision 120 ft.; Passive Perception 16
-- **Languages**: Celestial; understands Common, Elvish, And Sylvan but can't speak them
+- **Resistances:** Necrotic, Radiant
+- **Skills:** Perception +6, Stealth +6
+- **Senses:** darkvision 120 ft.; Passive Perception 16
+- **Languages:** Celestial; understands Common, Elvish, And Sylvan but can't speak them
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -1825,8 +1825,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +5, Stealth +5
-- **Senses**: darkvision 120 ft.; Passive Perception 15
+- **Skills:** Perception +5, Stealth +5
+- **Senses:** darkvision 120 ft.; Passive Perception 15
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -1857,8 +1857,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 14 | +2 | +2 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +4, Stealth +6
-- **Senses**: darkvision 60 ft.; Passive Perception 14
+- **Skills:** Perception +4, Stealth +6
+- **Senses:** darkvision 60 ft.; Passive Perception 14
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -1889,7 +1889,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 7 | -2 | -2 |
 | CHA | 2 | -4 | -4 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 8
+- **Senses:** darkvision 60 ft.; Passive Perception 8
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -1918,9 +1918,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 7 | -2 | -2 |
 | CHA | 2 | -4 | -4 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- **Senses**: darkvision 60 ft.; Passive Perception 8
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses:** darkvision 60 ft.; Passive Perception 8
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -1953,7 +1953,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: Passive Perception 11
+- **Senses:** Passive Perception 11
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -1980,8 +1980,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +2
-- **Senses**: darkvision 60 ft.; Passive Perception 12
+- **Skills:** Perception +2
+- **Senses:** darkvision 60 ft.; Passive Perception 12
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
@@ -2010,8 +2010,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +2
-- **Senses**: darkvision 30 ft.; Passive Perception 12
+- **Skills:** Perception +2
+- **Senses:** darkvision 30 ft.; Passive Perception 12
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -2040,9 +2040,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- **Senses**: darkvision 30 ft.; Passive Perception 10
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses:** darkvision 30 ft.; Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -2073,8 +2073,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +3
-- **Senses**: Passive Perception 13
+- **Skills:** Perception +3
+- **Senses:** Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -2103,10 +2103,10 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- **Skills**: Perception +5
-- **Senses**: Passive Perception 15
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Skills:** Perception +5
+- **Senses:** Passive Perception 15
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -2139,9 +2139,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 7 | -2 | -2 |
 | CHA | 1 | -5 | -5 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- **Senses**: blindsight 30 ft.; Passive Perception 8
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses:** blindsight 30 ft.; Passive Perception 8
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -2174,7 +2174,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 9 | -1 | -1 |
 | CHA | 3 | -4 | -4 |
 
-- **Senses**: blindsight 60 ft.; Passive Perception 9
+- **Senses:** blindsight 60 ft.; Passive Perception 9
 - **CR** 3 (XP 700; PB +2)
 
 #### Actions
@@ -2203,7 +2203,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 8 | -1 | -1 |
 | CHA | 2 | -4 | -4 |
 
-- **Senses**: blindsight 10 ft.; Passive Perception 9
+- **Senses:** blindsight 10 ft.; Passive Perception 9
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -2230,7 +2230,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: Passive Perception 11
+- **Senses:** Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -2263,8 +2263,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 2 | -4 | -4 |
 
-- **Skills**: Perception +2, Stealth +5
-- **Senses**: Passive Perception 12
+- **Skills:** Perception +2, Stealth +5
+- **Senses:** Passive Perception 12
 - **CR** 0 (XP 0)
 
 #### Traits
@@ -2295,8 +2295,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +3
-- **Senses**: blindsight 60 ft.; Passive Perception 13
+- **Skills:** Perception +3
+- **Senses:** blindsight 60 ft.; Passive Perception 13
 - **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
@@ -2327,8 +2327,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +2
-- **Senses**: blindsight 60 ft.; Passive Perception 12
+- **Skills:** Perception +2
+- **Senses:** blindsight 60 ft.; Passive Perception 12
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -2357,8 +2357,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +2
-- **Senses**: blindsight 30 ft.; Passive Perception 12
+- **Skills:** Perception +2
+- **Senses:** blindsight 30 ft.; Passive Perception 12
 - **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
@@ -2391,8 +2391,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Skills**: Perception +2, Stealth +4
-- **Senses**: blindsight 10 ft.; Passive Perception 12
+- **Skills:** Perception +2, Stealth +4
+- **Senses:** blindsight 10 ft.; Passive Perception 12
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -2419,7 +2419,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: blindsight 10 ft.; Passive Perception 11
+- **Senses:** blindsight 10 ft.; Passive Perception 11
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
@@ -2448,8 +2448,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Skills**: Perception +2
-- **Senses**: blindsight 10 ft.; Passive Perception 12
+- **Skills:** Perception +2
+- **Senses:** blindsight 10 ft.; Passive Perception 12
 - **CR** 2 (XP 450; PB +2)
 
 #### Actions
@@ -2478,8 +2478,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Skills**: Perception +2
-- **Senses**: blindsight 10 ft.; Passive Perception 12
+- **Skills:** Perception +2
+- **Senses:** blindsight 10 ft.; Passive Perception 12
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
@@ -2504,9 +2504,9 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- **Senses**: blindsight 10 ft.; Passive Perception 10
+- **Resistances:** Bludgeoning, Piercing, Slashing
+- **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses:** blindsight 10 ft.; Passive Perception 10
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -2535,7 +2535,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 3 | -4 | -4 |
 
-- **Senses**: blindsight 10 ft.; Passive Perception 10
+- **Senses:** blindsight 10 ft.; Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -2562,8 +2562,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 11 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +4, Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 14
+- **Skills:** Perception +4, Stealth +7
+- **Senses:** darkvision 60 ft.; Passive Perception 14
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -2596,8 +2596,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +3, Stealth +7
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3, Stealth +7
+- **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 13
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
@@ -2626,8 +2626,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 10 | +0 | +0 |
 | CHA | 2 | -4 | -4 |
 
-- **Skills**: Stealth +4
-- **Senses**: darkvision 30 ft.; Passive Perception 10
+- **Skills:** Stealth +4
+- **Senses:** darkvision 30 ft.; Passive Perception 10
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -2660,8 +2660,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +5, Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 15
+- **Skills:** Perception +5, Stealth +7
+- **Senses:** darkvision 60 ft.; Passive Perception 15
 - **CR** 2 (XP 450; PB +2)
 
 #### Traits
@@ -2696,8 +2696,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +3, Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Perception +3, Stealth +7
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 1 (XP 200; PB +2)
 
 #### Actions
@@ -2728,10 +2728,10 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Resistances**: Necrotic
-- **Skills**: Perception +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Understands Common but can't speak
+- **Resistances:** Necrotic
+- **Skills:** Perception +3
+- **Senses:** darkvision 60 ft.; Passive Perception 13
+- **Languages:** Understands Common but can't speak
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -2760,8 +2760,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +3
-- **Senses**: Passive Perception 13
+- **Skills:** Perception +3
+- **Senses:** Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
@@ -2792,8 +2792,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Acrobatics +5, Perception +3, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Acrobatics +5, Perception +3, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
@@ -2818,8 +2818,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 3 | -4 | -4 |
 
-- **Skills**: Acrobatics +5, Perception +3, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 13
+- **Skills:** Acrobatics +5, Perception +3, Stealth +5
+- **Senses:** darkvision 60 ft.; Passive Perception 13
 - **CR** 0 (XP 0 or 10; PB +2)
 
 #### Actions
@@ -2846,8 +2846,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 15
+- **Skills:** Perception +5, Stealth +4
+- **Senses:** darkvision 60 ft.; Passive Perception 15
 - **CR** 1 (XP 200; PB +2)
 
 #### Traits
@@ -2876,8 +2876,8 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 15
+- **Skills:** Perception +5, Stealth +4
+- **Senses:** darkvision 60 ft.; Passive Perception 15
 - **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
