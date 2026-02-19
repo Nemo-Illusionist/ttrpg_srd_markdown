@@ -11,14 +11,11 @@
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   14   |   14   |   6    |   12   |   7    |
+|   MOD    |   +3   |   +2   |   +2   |   -2   |   +1   |   -2   |
+|   SAVE   |   +3   |   +2   |   +2   |   -2   |   +1   |   -2   |
 
 - **Skills:** Athletics +5, Perception +3
 - **Senses:** Passive Perception 13
@@ -41,14 +38,11 @@
 - **Speed:** 40 ft., Climb 40 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 14 | +2 | +2 |
-| CON | 18 | +4 | +4 |
-| INT | 5 | -3 | -3 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   14   |   18   |   5    |   12   |   7    |
+|   MOD    |   +6   |   +2   |   +4   |   -3   |   +1   |   -2   |
+|   SAVE   |   +6   |   +2   |   +4   |   -3   |   +1   |   -2   |
 
 - **Skills:** Athletics +9, Perception +4, Survival +4
 - **Senses:** Passive Perception 14
@@ -77,14 +71,11 @@
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 4 | -3 | -3 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   14   |   11   |   4    |   12   |   6    |
+|   MOD    |   -1   |   +2   |   +0   |   -3   |   +1   |   -2   |
+|   SAVE   |   -1   |   +2   |   +0   |   -3   |   +1   |   -2   |
 
 - **Senses:** Passive Perception 11
 - **CR** 0 (XP 0 or 10; PB +2)
@@ -108,14 +99,11 @@
 - **Speed:** 20 ft., Burrow 5 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 11 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   11   |   16   |   2    |   12   |   5    |
+|   MOD    |   +0   |   +0   |   +3   |   -4   |   +1   |   -3   |
+|   SAVE   |   +0   |   +0   |   +3   |   -4   |   +1   |   -3   |
 
 - **Resistances:** Poison
 - **Skills:** Perception +3
@@ -135,14 +123,11 @@
 - **Speed:** 30 ft., Burrow 10 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 10 | +0 | +0 |
-| CON | 17 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   10   |   17   |   2    |   12   |   5    |
+|   MOD    |   +1   |   +0   |   +3   |   -4   |   +1   |   -3   |
+|   SAVE   |   +1   |   +0   |   +3   |   -4   |   +1   |   -3   |
 
 - **Resistances:** Poison
 - **Skills:** Perception +3
@@ -164,14 +149,11 @@
 - **Speed:** 5 ft., Fly 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 2 | -4 | -4 |
-| DEX | 15 | +2 | +2 |
-| CON | 8 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   2    |   15   |   8    |   2    |   12   |   4    |
+|   MOD    |   -4   |   +2   |   -1   |   -4   |   +1   |   -3   |
+|   SAVE   |   -4   |   +2   |   -1   |   -4   |   +1   |   -3   |
 
 - **Senses:** blindsight 60 ft.; Passive Perception 11
 - **CR** 0 (XP 0 or 10; PB +2)
@@ -189,14 +171,11 @@
 - **Speed:** 10 ft., Fly 60 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   16   |   11   |   2    |   12   |   6    |
+|   MOD    |   +2   |   +3   |   +0   |   -4   |   +1   |   -2   |
+|   SAVE   |   +2   |   +3   |   +0   |   -4   |   +1   |   -2   |
 
 - **Senses:** blindsight 120 ft.; Passive Perception 11
 - **CR** 1/4 (XP 50; PB +2)
@@ -214,14 +193,11 @@
 - **Speed:** 5 ft., Fly 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   5    |   15   |   10   |   2    |   12   |   4    |
+|   MOD    |   -3   |   +2   |   +0   |   -4   |   +1   |   -3   |
+|   SAVE   |   -3   |   +2   |   +0   |   -4   |   +1   |   -3   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
@@ -247,14 +223,11 @@
 - **Speed:** 30 ft., Climb 30 ft., Swim 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   12   |   14   |   2    |   12   |   7    |
+|   MOD    |   +2   |   +1   |   +2   |   -4   |   +1   |   -2   |
+|   SAVE   |   +2   |   +1   |   +2   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +5
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -275,14 +248,11 @@
 - **Speed:** 40 ft., Climb 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   12   |   15   |   2    |   13   |   7    |
+|   MOD    |   +3   |   +1   |   +2   |   -4   |   +1   |   -2   |
+|   SAVE   |   +3   |   +1   |   +2   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +3
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -305,14 +275,11 @@
 - **Speed:** 40 ft., Swim 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 14 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   20   |   14   |   16   |   2    |   13   |   7    |
+|   MOD    |   +5   |   +2   |   +3   |   -4   |   +1   |   -2   |
+|   SAVE   |   +5   |   +2   |   +3   |   -4   |   +1   |   -2   |
 
 - **Resistances:** Cold
 - **Skills:** Perception +5, Stealth +4
@@ -336,14 +303,11 @@
 - **Speed:** 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 11 | +0 | +0 |
-| CON | 14 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 9 | -1 | -1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   11   |   14   |   2    |   9    |   5    |
+|   MOD    |   +1   |   +0   |   +2   |   -4   |   -1   |   -3   |
+|   SAVE   |   +1   |   +0   |   +2   |   -4   |   -1   |   -3   |
 
 - **Senses:** Passive Perception 9
 - **CR** 1/4 (XP 50; PB +2)
@@ -365,14 +329,11 @@
 - **Speed:** 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +5 |
-| DEX | 10 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 7 | -2 | -2 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   10   |   16   |   2    |   7    |   5    |
+|   MOD    |   +3   |   +0   |   +3   |   -4   |   -2   |   -3   |
+|   SAVE   |   +5   |   +0   |   +3   |   -4   |   -2   |   -3   |
 
 - **Senses:** Passive Perception 8
 - **CR** 2 (XP 450; PB +2)
@@ -396,14 +357,11 @@
 - **Speed:** 50 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 8 | -1 | -1 |
-| CON | 17 | +3 | +5 |
-| INT | 2 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   8    |   17   |   2    |   11   |   5    |
+|   MOD    |   +2   |   -1   |   +3   |   -4   |   +0   |   -3   |
+|   SAVE   |   +2   |   -1   |   +5   |   -4   |   +0   |   -3   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
@@ -421,14 +379,11 @@
 - **Speed:** 40 ft., Climb 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 15 | +2 | +4 |
-| CON | 10 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   3    |   15   |   10   |   3    |   12   |   7    |
+|   MOD    |   -4   |   +2   |   +0   |   -4   |   +1   |   -2   |
+|   SAVE   |   -4   |   +4   |   +0   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -453,14 +408,11 @@
 - **Speed:** 20 ft., Swim 20 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 11 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| WIS | 8 | -1 | -1 |
-| CHA | 2 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   11   |   12   |   1    |   8    |   2    |
+|   MOD    |   -2   |   +0   |   +1   |   -5   |   -1   |   -4   |
+|   SAVE   |   -2   |   +0   |   +1   |   -5   |   -1   |   -4   |
 
 - **Skills:** Stealth +2
 - **Senses:** blindsight 30 ft.; Passive Perception 9
@@ -483,14 +435,11 @@
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 13 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 9 | -1 | -1 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   13   |   11   |   1    |   9    |   3    |
+|   MOD    |   +1   |   +1   |   +0   |   -5   |   -1   |   -4   |
+|   SAVE   |   +1   |   +1   |   +0   |   -5   |   -1   |   -4   |
 
 - **Skills:** Stealth +3
 - **Senses:** blindsight 30 ft.; Passive Perception 9
@@ -515,14 +464,11 @@
 - **Speed:** 20 ft., Swim 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 10 | +0 | +0 |
-| CON | 13 | +1 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   10   |   13   |   2    |   10   |   5    |
+|   MOD    |   +2   |   +0   |   +1   |   -4   |   +0   |   -3   |
+|   SAVE   |   +2   |   +0   |   +3   |   -4   |   +0   |   -3   |
 
 - **Skills:** Stealth +2
 - **Senses:** Passive Perception 10
@@ -545,14 +491,11 @@
 - **Speed:** 30 ft., Swim 50 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 9 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   9    |   17   |   2    |   10   |   7    |
+|   MOD    |   +5   |   -1   |   +3   |   -4   |   +0   |   -2   |
+|   SAVE   |   +5   |   -1   |   +3   |   -4   |   +0   |   -2   |
 
 - **Skills:** Stealth +5
 - **Senses:** Passive Perception 10
@@ -581,14 +524,11 @@
 - **Speed:** 50 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   16   |   11   |   2    |   14   |   5    |
+|   MOD    |   +0   |   +3   |   +0   |   -4   |   +2   |   -3   |
+|   SAVE   |   +0   |   +3   |   +0   |   -4   |   +2   |   -3   |
 
 - **Skills:** Perception +4
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -613,14 +553,11 @@
 - **Speed:** 60 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 13 | +1 | +1 |
-| CON | 17 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   13   |   17   |   2    |   12   |   5    |
+|   MOD    |   +4   |   +1   |   +3   |   -4   |   +1   |   -3   |
+|   SAVE   |   +4   |   +1   |   +3   |   -4   |   +1   |   -3   |
 
 - **Skills:** Perception +5
 - **Senses:** Passive Perception 15
@@ -641,14 +578,11 @@
 - **Speed:** 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +6 |
-| DEX | 11 | +0 | +0 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   11   |   15   |   2    |   12   |   5    |
+|   MOD    |   +4   |   +0   |   +2   |   -4   |   +1   |   -3   |
+|   SAVE   |   +6   |   +0   |   +2   |   -4   |   +1   |   -3   |
 
 - **Senses:** Passive Perception 11
 - **CR** 3 (XP 700; PB +2)
@@ -668,14 +602,11 @@
 - **Speed:** 20 ft., Swim 80 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 16 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 4 | -3 | -3 |
-| WIS | 14 | +2 | +2 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   16   |   13   |   4    |   14   |   6    |
+|   MOD    |   +4   |   +3   |   +1   |   -3   |   +2   |   -2   |
+|   SAVE   |   +4   |   +3   |   +1   |   -3   |   +2   |   -2   |
 
 - **Skills:** Stealth +5
 - **Senses:** Passive Perception 12
@@ -700,14 +631,11 @@
 - **Speed:** 20 ft., Swim 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   16   |   2    |   12   |   5    |
+|   MOD    |   +4   |   +2   |   +3   |   -4   |   +1   |   -3   |
+|   SAVE   |   +4   |   +2   |   +3   |   -4   |   +1   |   -3   |
 
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** Passive Perception 13
@@ -730,14 +658,11 @@
 - **Speed:** 10 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 9 | -1 | -1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   15   |   10   |   2    |   9    |   5    |
+|   MOD    |   +1   |   +2   |   +0   |   -4   |   -1   |   -3   |
+|   SAVE   |   +1   |   +2   |   +0   |   -4   |   -1   |   -3   |
 
 - **Skills:** Perception +1
 - **Senses:** Passive Perception 11
@@ -760,14 +685,11 @@
 - **Speed:** 50 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 9 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   22   |   9    |   17   |   2    |   11   |   5    |
+|   MOD    |   +6   |   -1   |   +3   |   -4   |   +0   |   -3   |
+|   SAVE   |   +6   |   -1   |   +3   |   -4   |   +0   |   -3   |
 
 - **Senses:** Passive Perception 10
 - **CR** 5 (XP 1,800; PB +3)
@@ -787,14 +709,11 @@
 - **Speed:** 50 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 25 | +7 | +10 |
-| DEX | 10 | +0 | +0 |
-| CON | 19 | +4 | +4 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +4 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   25   |   10   |   19   |   2    |   12   |   9    |
+|   MOD    |   +7   |   +0   |   +4   |   -4   |   +1   |   -1   |
+|   SAVE   |  +10   |   +0   |   +4   |   -4   |   +4   |   -1   |
 
 - **Skills:** Perception +4
 - **Senses:** Passive Perception 14
@@ -819,14 +738,11 @@
 - **Speed:** 10 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   15   |   12   |   2    |   14   |   7    |
+|   MOD    |   -2   |   +2   |   +1   |   -4   |   +2   |   -2   |
+|   SAVE   |   -2   |   +2   |   +1   |   -4   |   +2   |   -2   |
 
 - **Skills:** Perception +6
 - **Senses:** Passive Perception 16
@@ -845,14 +761,11 @@
 - **Speed:** 10 ft., Fly 80 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 8 | -1 | -1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   17   |   13   |   8    |   14   |   10   |
+|   MOD    |   +3   |   +3   |   +1   |   -1   |   +2   |   +0   |
+|   SAVE   |   +3   |   +3   |   +1   |   -1   |   +2   |   +0   |
 
 - **Resistances:** Necrotic, Radiant
 - **Skills:** Perception +6
@@ -877,14 +790,11 @@
 - **Speed:** 40 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 9 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   22   |   9    |   17   |   3    |   11   |   6    |
+|   MOD    |   +6   |   -1   |   +3   |   -4   |   +0   |   -2   |
+|   SAVE   |   +6   |   -1   |   +3   |   -4   |   +0   |   -2   |
 
 - **Senses:** Passive Perception 10
 - **CR** 4 (XP 1,100; PB +2)
@@ -908,14 +818,11 @@
 - **Speed:** 50 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 24 | +7 | +10 |
-| DEX | 9 | -1 | -1 |
-| CON | 21 | +5 | +8 |
-| INT | 3 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   24   |   9    |   21   |   3    |   11   |   6    |
+|   MOD    |   +7   |   -1   |   +5   |   -4   |   +0   |   -2   |
+|   SAVE   |  +10   |   -1   |   +8   |   -4   |   +0   |   -2   |
 
 - **Senses:** Passive Perception 10
 - **CR** 6 (XP 2,300; PB +3)
@@ -941,14 +848,11 @@
 - **Speed:** 50 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 10 | +0 | +0 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   10   |   11   |   2    |   10   |   6    |
+|   MOD    |   +3   |   +0   |   +0   |   -4   |   +0   |   -2   |
+|   SAVE   |   +3   |   +0   |   +0   |   -4   |   +0   |   -2   |
 
 - **Skills:** Perception +2
 - **Senses:** darkvision 60 ft.; Passive Perception 12
@@ -967,14 +871,11 @@
 - **Speed:** 60 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +6 |
-| DEX | 18 | +4 | +6 |
-| CON | 14 | +2 | +2 |
-| INT | 7 | -2 | -2 |
-| WIS | 14 | +2 | +2 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   18   |   14   |   7    |   14   |   10   |
+|   MOD    |   +4   |   +4   |   +2   |   -2   |   +2   |   +0   |
+|   SAVE   |   +6   |   +6   |   +2   |   -2   |   +2   |   +0   |
 
 - **Resistances:** Necrotic, Radiant
 - **Skills:** Perception +4
@@ -997,14 +898,11 @@
 - **Speed:** 20 ft., Swim 20 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 1 | -5 | -5 |
-| DEX | 13 | +1 | +1 |
-| CON | 8 | -1 | -1 |
-| INT | 1 | -5 | -5 |
-| WIS | 8 | -1 | -1 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   1    |   13   |   8    |   1    |   8    |   3    |
+|   MOD    |   -5   |   +1   |   -1   |   -5   |   -1   |   -4   |
+|   SAVE   |   -5   |   +1   |   -1   |   -5   |   -1   |   -4   |
 
 - **Skills:** Perception +1, Stealth +3
 - **Senses:** darkvision 30 ft.; Passive Perception 11
@@ -1029,14 +927,11 @@
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 13 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   13   |   11   |   2    |   10   |   3    |
+|   MOD    |   +1   |   +1   |   +0   |   -4   |   +0   |   -4   |
+|   SAVE   |   +1   |   +1   |   +0   |   -4   |   +0   |   -4   |
 
 - **Skills:** Perception +2, Stealth +4
 - **Senses:** darkvision 30 ft.; Passive Perception 12
@@ -1064,14 +959,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   13   |   13   |   2    |   10   |   3    |
+|   MOD    |   +2   |   +1   |   +1   |   -4   |   +0   |   -4   |
+|   SAVE   |   +2   |   +1   |   +1   |   -4   |   +0   |   -4   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 1 (XP 200; PB +2)
@@ -1099,14 +991,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| WIS | 7 | -2 | -2 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   5    |   14   |   12   |   1    |   7    |   3    |
+|   MOD    |   -3   |   +2   |   +1   |   -5   |   -2   |   -4   |
+|   SAVE   |   -3   |   +2   |   +1   |   -5   |   -2   |   -4   |
 
 - **Senses:** blindsight 30 ft.; Passive Perception 8
 - **CR** 1/4 (XP 50; PB +2)
@@ -1124,14 +1013,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 10 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| WIS | 7 | -2 | -2 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   10   |   12   |   1    |   7    |   3    |
+|   MOD    |   -1   |   +0   |   +1   |   -5   |   -2   |   -4   |
+|   SAVE   |   -1   |   +0   |   +1   |   -5   |   -2   |   -4   |
 
 - **Resistances:** Fire
 - **Senses:** blindsight 30 ft.; Passive Perception 8
@@ -1154,14 +1040,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft., Fly 50 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   14   |   10   |   1    |   10   |   3    |
+|   MOD    |   +0   |   +2   |   +0   |   -5   |   +0   |   -4   |
+|   SAVE   |   +0   |   +2   |   +0   |   -5   |   +0   |   -4   |
 
 - **Senses:** Passive Perception 10
 - **CR** 1/2 (XP 100; PB +2)
@@ -1185,14 +1068,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft., Climb 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +5 |
-| DEX | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   13   |   12   |   3    |   12   |   6    |
+|   MOD    |   +3   |   +1   |   +1   |   -4   |   +1   |   -2   |
+|   SAVE   |   +5   |   +1   |   +1   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +3
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -1211,14 +1091,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft., Climb 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +2 |
-| DEX | 10 | +0 | +0 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   10   |   11   |   2    |   10   |   5    |
+|   MOD    |   +0   |   +0   |   +0   |   -4   |   +0   |   -3   |
+|   SAVE   |   +2   |   +0   |   +0   |   -4   |   +0   |   -3   |
 
 - **Skills:** Perception +2
 - **Senses:** darkvision 60 ft.; Passive Perception 12
@@ -1239,14 +1116,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +7 |
-| DEX | 7 | -2 | -2 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   7    |   15   |   2    |   12   |   4    |
+|   MOD    |   +5   |   -2   |   +2   |   -4   |   +1   |   -3   |
+|   SAVE   |   +7   |   -2   |   +2   |   -4   |   +1   |   -3   |
 
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
@@ -1273,14 +1147,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   14   |   10   |   3    |   14   |   5    |
+|   MOD    |   -2   |   +2   |   +0   |   -4   |   +2   |   -3   |
+|   SAVE   |   -2   |   +2   |   +0   |   -4   |   +2   |   -3   |
 
 - **Skills:** Perception +6
 - **Senses:** Passive Perception 16
@@ -1303,14 +1174,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft., Fly 60 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 16 | +3 | +3 |
-| CON | 8 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   5    |   16   |   8    |   2    |   14   |   6    |
+|   MOD    |   -3   |   +3   |   -1   |   -4   |   +2   |   -2   |
+|   SAVE   |   -3   |   +3   |   -1   |   -4   |   +2   |   -2   |
 
 - **Skills:** Perception +6
 - **Senses:** Passive Perception 16
@@ -1331,14 +1199,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   10   |   15   |   2    |   11   |   7    |
+|   MOD    |   +4   |   +0   |   +2   |   -4   |   +0   |   -2   |
+|   SAVE   |   +4   |   +0   |   +2   |   -4   |   +0   |   -2   |
 
 - **Senses:** Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
@@ -1356,14 +1221,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   10   |   13   |   2    |   10   |   5    |
+|   MOD    |   +2   |   +0   |   +1   |   -4   |   +0   |   -3   |
+|   SAVE   |   +4   |   +0   |   +1   |   -4   |   +0   |   -3   |
 
 - **Senses:** Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
@@ -1385,14 +1247,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   10   |   13   |   2    |   11   |   7    |
+|   MOD    |   +2   |   +0   |   +1   |   -4   |   +0   |   -2   |
+|   SAVE   |   +4   |   +0   |   +1   |   -4   |   +0   |   -2   |
 
 - **Senses:** Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
@@ -1410,14 +1269,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 60 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   13   |   12   |   2    |   11   |   7    |
+|   MOD    |   +3   |   +1   |   +1   |   -4   |   +0   |   -2   |
+|   SAVE   |   +3   |   +1   |   +1   |   -4   |   +0   |   -2   |
 
 - **Senses:** Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
@@ -1435,14 +1291,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 60 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +3 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   12   |   13   |   2    |   12   |   7    |
+|   MOD    |   +4   |   +1   |   +1   |   -4   |   +1   |   -2   |
+|   SAVE   |   +4   |   +1   |   +1   |   -4   |   +3   |   -2   |
 
 - **Senses:** Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
@@ -1462,14 +1315,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 50 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   14   |   14   |   2    |   12   |   7    |
+|   MOD    |   +3   |   +2   |   +2   |   -4   |   +1   |   -2   |
+|   SAVE   |   +3   |   +2   |   +2   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +3
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -1492,14 +1342,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 50 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   13   |   12   |   2    |   12   |   5    |
+|   MOD    |   +0   |   +1   |   +1   |   -4   |   +1   |   -3   |
+|   SAVE   |   +0   |   +1   |   +1   |   -4   |   +1   |   -3   |
 
 - **Skills:** Perception +3
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -1524,14 +1371,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   15   |   11   |   3    |   12   |   6    |
+|   MOD    |   -1   |   +2   |   +0   |   -4   |   +1   |   -2   |
+|   SAVE   |   -1   |   +2   |   +0   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +5, Stealth +4
 - **Senses:** darkvision 90 ft.; Passive Perception 15
@@ -1552,14 +1396,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   14   |   13   |   3    |   12   |   7    |
+|   MOD    |   +4   |   +2   |   +1   |   -4   |   +1   |   -2   |
+|   SAVE   |   +4   |   +2   |   +1   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** blindsight 120 ft.; Passive Perception 13
@@ -1584,14 +1425,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 50 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   15   |   11   |   3    |   12   |   8    |
+|   MOD    |   +3   |   +2   |   +0   |   -4   |   +1   |   -1   |
+|   SAVE   |   +3   |   +2   |   +0   |   -4   |   +1   |   -1   |
 
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -1622,14 +1460,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft., Climb 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   12   |   13   |   2    |   10   |   5    |
+|   MOD    |   +2   |   +1   |   +1   |   -4   |   +0   |   -3   |
+|   SAVE   |   +2   |   +3   |   +1   |   -4   |   +0   |   -3   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
@@ -1651,14 +1486,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 20 ft., Climb 20 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 2 | -4 | -4 |
-| DEX | 11 | +0 | +0 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 8 | -1 | -1 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   2    |   11   |   10   |   1    |   8    |   3    |
+|   MOD    |   -4   |   +0   |   +0   |   -5   |   -1   |   -4   |
+|   SAVE   |   -4   |   +0   |   +0   |   -5   |   -1   |   -4   |
 
 - **Senses:** darkvision 30 ft.; Passive Perception 9
 - **CR** 0 (XP 0 or 10; PB +2)
@@ -1682,14 +1514,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   14   |   12   |   3    |   12   |   7    |
+|   MOD    |   +1   |   +2   |   +1   |   -4   |   +1   |   -2   |
+|   SAVE   |   +1   |   +2   |   +1   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +5
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -1710,14 +1539,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft., Swim 60 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   13   |   13   |   5    |   10   |   4    |
+|   MOD    |   +3   |   +1   |   +1   |   -3   |   +0   |   -3   |
+|   SAVE   |   +3   |   +1   |   +1   |   -3   |   +0   |   -3   |
 
 - **Skills:** Perception +4, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -1740,14 +1566,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 4 | -3 | -3 |
-| DEX | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   4    |   15   |   11   |   3    |   10   |   4    |
+|   MOD    |   -3   |   +2   |   +0   |   -4   |   +0   |   -3   |
+|   SAVE   |   -3   |   +2   |   +0   |   -4   |   +0   |   -3   |
 
 - **Skills:** Perception +2, Stealth +6
 - **Senses:** darkvision 30 ft.; Passive Perception 12
@@ -1779,14 +1602,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +4 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   15   |   12   |   10   |   14   |   10   |
+|   MOD    |   +1   |   +2   |   +1   |   +0   |   +2   |   +0   |
+|   SAVE   |   +1   |   +2   |   +1   |   +0   |   +4   |   +0   |
 
 - **Resistances:** Necrotic, Radiant
 - **Skills:** Perception +6, Stealth +6
@@ -1816,14 +1636,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Fly 60 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 13 | +1 | +1 |
-| CON | 8 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   3    |   13   |   8    |   2    |   12   |   7    |
+|   MOD    |   -4   |   +1   |   -1   |   -4   |   +1   |   -2   |
+|   SAVE   |   -4   |   +1   |   -1   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +5, Stealth +5
 - **Senses:** darkvision 120 ft.; Passive Perception 15
@@ -1848,14 +1665,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 50 ft., Climb 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 16 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   16   |   10   |   3    |   14   |   7    |
+|   MOD    |   +2   |   +3   |   +0   |   -4   |   +2   |   -2   |
+|   SAVE   |   +2   |   +3   |   +0   |   -4   |   +2   |   -2   |
 
 - **Skills:** Perception +4, Stealth +6
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -1880,14 +1694,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 2 | -4 | -4 |
-| DEX | 16 | +3 | +3 |
-| CON | 9 | -1 | -1 |
-| INT | 1 | -5 | -5 |
-| WIS | 7 | -2 | -2 |
-| CHA | 2 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   2    |   16   |   9    |   1    |   7    |   2    |
+|   MOD    |   -4   |   +3   |   -1   |   -5   |   -2   |   -4   |
+|   SAVE   |   -4   |   +3   |   -1   |   -5   |   -2   |   -4   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **CR** 0 (XP 0 or 10; PB +2)
@@ -1909,14 +1720,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 16 | +3 | +3 |
-| CON | 9 | -1 | -1 |
-| INT | 1 | -5 | -5 |
-| WIS | 7 | -2 | -2 |
-| CHA | 2 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   16   |   9    |   1    |   7    |   2    |
+|   MOD    |   +1   |   +3   |   -1   |   -5   |   -2   |   -4   |
+|   SAVE   |   +1   |   +3   |   -1   |   -5   |   -2   |   -4   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
@@ -1944,14 +1752,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 8 | -1 | -1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   8    |   15   |   2    |   12   |   6    |
+|   MOD    |   +5   |   -1   |   +2   |   -4   |   +1   |   -2   |
+|   SAVE   |   +5   |   -1   |   +2   |   -4   |   +1   |   -2   |
 
 - **Senses:** Passive Perception 11
 - **CR** 2 (XP 450; PB +2)
@@ -1971,14 +1776,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 16 | +3 | +5 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   7    |   16   |   11   |   2    |   10   |   4    |
+|   MOD    |   -2   |   +3   |   +0   |   -4   |   +0   |   -3   |
+|   SAVE   |   -2   |   +5   |   +0   |   -4   |   +0   |   -3   |
 
 - **Skills:** Perception +2
 - **Senses:** darkvision 60 ft.; Passive Perception 12
@@ -2001,14 +1803,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 20 ft., Climb 20 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 2 | -4 | -4 |
-| DEX | 11 | +0 | +0 |
-| CON | 9 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   2    |   11   |   9    |   2    |   10   |   4    |
+|   MOD    |   -4   |   +0   |   -1   |   -4   |   +0   |   -3   |
+|   SAVE   |   -4   |   +0   |   -1   |   -4   |   +0   |   -3   |
 
 - **Skills:** Perception +2
 - **Senses:** darkvision 30 ft.; Passive Perception 12
@@ -2031,14 +1830,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 9 | -1 | -1 |
-| DEX | 11 | +0 | +0 |
-| CON | 9 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   9    |   11   |   9    |   2    |   10   |   3    |
+|   MOD    |   -1   |   +0   |   -1   |   -4   |   +0   |   -4   |
+|   SAVE   |   -1   |   +0   |   -1   |   -4   |   +0   |   -4   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
@@ -2064,14 +1860,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft., Fly 50 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 2 | -4 | -4 |
-| DEX | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 5 | -3 | -3 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   2    |   14   |   10   |   5    |   13   |   6    |
+|   MOD    |   -4   |   +2   |   +0   |   -3   |   +1   |   -2   |
+|   SAVE   |   -4   |   +2   |   +0   |   -3   |   +1   |   -2   |
 
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
@@ -2094,14 +1887,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft., Fly 50 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 5 | -3 | -3 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   14   |   12   |   5    |   12   |   6    |
+|   MOD    |   -2   |   +2   |   +1   |   -3   |   +1   |   -2   |
+|   SAVE   |   -2   |   +2   |   +1   |   -3   |   +1   |   -2   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
@@ -2130,14 +1920,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 20 ft., Choose ? ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 13 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 1 | -5 | -5 |
-| WIS | 7 | -2 | -2 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   3    |   13   |   14   |   1    |   7    |   1    |
+|   MOD    |   -4   |   +1   |   +2   |   -5   |   -2   |   -5   |
+|   SAVE   |   -4   |   +1   |   +2   |   -5   |   -2   |   -5   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
@@ -2165,14 +1952,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 1 | -5 | -5 |
-| WIS | 9 | -1 | -1 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   13   |   15   |   1    |   9    |   3    |
+|   MOD    |   +3   |   +1   |   +2   |   -5   |   -1   |   -4   |
+|   SAVE   |   +3   |   +1   |   +2   |   -5   |   -1   |   -4   |
 
 - **Senses:** blindsight 60 ft.; Passive Perception 9
 - **CR** 3 (XP 700; PB +2)
@@ -2194,14 +1978,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 2 | -4 | -4 |
-| DEX | 11 | +0 | +0 |
-| CON | 8 | -1 | -1 |
-| INT | 1 | -5 | -5 |
-| WIS | 8 | -1 | -1 |
-| CHA | 2 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   2    |   11   |   8    |   1    |   8    |   2    |
+|   MOD    |   -4   |   +0   |   -1   |   -5   |   -1   |   -4   |
+|   SAVE   |   -4   |   +0   |   -1   |   -5   |   -1   |   -4   |
 
 - **Senses:** blindsight 10 ft.; Passive Perception 9
 - **CR** 0 (XP 0 or 10; PB +2)
@@ -2221,14 +2002,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   12   |   11   |   2    |   12   |   5    |
+|   MOD    |   +2   |   +1   |   +0   |   -4   |   +1   |   -3   |
+|   SAVE   |   +2   |   +1   |   +0   |   -4   |   +1   |   -3   |
 
 - **Senses:** Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
@@ -2254,14 +2032,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 20 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 1 | -5 | -5 |
-| DEX | 12 | +1 | +1 |
-| CON | 8 | -1 | -1 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 2 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   1    |   12   |   8    |   1    |   10   |   2    |
+|   MOD    |   -5   |   +1   |   -1   |   -5   |   +0   |   -4   |
+|   SAVE   |   -5   |   +1   |   -1   |   -5   |   +0   |   -4   |
 
 - **Skills:** Perception +2, Stealth +5
 - **Senses:** Passive Perception 12
@@ -2286,14 +2061,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 60 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 11 | +0 | +0 |
-| CON | 21 | +5 | +5 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   11   |   21   |   1    |   10   |   5    |
+|   MOD    |   +6   |   +0   |   +5   |   -5   |   +0   |   -3   |
+|   SAVE   |   +6   |   +0   |   +5   |   -5   |   +0   |   -3   |
 
 - **Skills:** Perception +3
 - **Senses:** blindsight 60 ft.; Passive Perception 13
@@ -2318,14 +2090,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   14   |   15   |   1    |   10   |   4    |
+|   MOD    |   +4   |   +2   |   +2   |   -5   |   +0   |   -3   |
+|   SAVE   |   +4   |   +2   |   +2   |   -5   |   +0   |   -3   |
 
 - **Skills:** Perception +2
 - **Senses:** blindsight 60 ft.; Passive Perception 12
@@ -2348,14 +2117,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 5 ft., Swim 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 15 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   15   |   13   |   1    |   10   |   4    |
+|   MOD    |   +2   |   +2   |   +1   |   -5   |   +0   |   -3   |
+|   SAVE   |   +2   |   +2   |   +1   |   -5   |   +0   |   -3   |
 
 - **Skills:** Perception +2
 - **Senses:** blindsight 30 ft.; Passive Perception 12
@@ -2382,14 +2148,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   14   |   12   |   1    |   10   |   3    |
+|   MOD    |   +2   |   +2   |   +1   |   -5   |   +0   |   -4   |
+|   SAVE   |   +2   |   +2   |   +1   |   -5   |   +0   |   -4   |
 
 - **Skills:** Perception +2, Stealth +4
 - **Senses:** blindsight 10 ft.; Passive Perception 12
@@ -2410,14 +2173,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 4 | -3 | -3 |
-| DEX | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   4    |   15   |   11   |   2    |   12   |   5    |
+|   MOD    |   -3   |   +2   |   +0   |   -4   |   +1   |   -3   |
+|   SAVE   |   -3   |   +2   |   +0   |   -4   |   +1   |   -3   |
 
 - **Senses:** blindsight 10 ft.; Passive Perception 11
 - **CR** 1/8 (XP 25; PB +2)
@@ -2439,14 +2199,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   14   |   12   |   1    |   10   |   3    |
+|   MOD    |   +4   |   +2   |   +1   |   -5   |   +0   |   -4   |
+|   SAVE   |   +4   |   +2   |   +1   |   -5   |   +0   |   -4   |
 
 - **Skills:** Perception +2
 - **Senses:** blindsight 10 ft.; Passive Perception 12
@@ -2469,14 +2226,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft., Swim 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 18 | +4 | +4 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   18   |   13   |   2    |   10   |   3    |
+|   MOD    |   +0   |   +4   |   +1   |   -4   |   +0   |   -4   |
+|   SAVE   |   +0   |   +4   |   +1   |   -4   |   +0   |   -4   |
 
 - **Skills:** Perception +2
 - **Senses:** blindsight 10 ft.; Passive Perception 12
@@ -2495,14 +2249,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 18 | +4 | +4 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   18   |   11   |   1    |   10   |   3    |
+|   MOD    |   -1   |   +4   |   +0   |   -5   |   +0   |   -4   |
+|   SAVE   |   -1   |   +4   |   +0   |   -5   |   +0   |   -4   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
@@ -2526,14 +2277,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 2 | -4 | -4 |
-| DEX | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   2    |   15   |   11   |   1    |   10   |   3    |
+|   MOD    |   -4   |   +2   |   +0   |   -5   |   +0   |   -4   |
+|   SAVE   |   -4   |   +2   |   +0   |   -5   |   +0   |   -4   |
 
 - **Senses:** blindsight 10 ft.; Passive Perception 10
 - **CR** 1/8 (XP 25; PB +2)
@@ -2553,14 +2301,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 16 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   16   |   12   |   2    |   11   |   4    |
+|   MOD    |   +2   |   +3   |   +1   |   -4   |   +0   |   -3   |
+|   SAVE   |   +2   |   +3   |   +1   |   -4   |   +0   |   -3   |
 
 - **Skills:** Perception +4, Stealth +7
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -2587,14 +2332,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft., Climb 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 16 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   16   |   13   |   3    |   12   |   4    |
+|   MOD    |   +1   |   +3   |   +1   |   -4   |   +1   |   -3   |
+|   SAVE   |   +1   |   +3   |   +1   |   -4   |   +1   |   -3   |
 
 - **Skills:** Perception +3, Stealth +7
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 13
@@ -2617,14 +2359,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 20 ft., Climb 20 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 2 | -4 | -4 |
-| DEX | 14 | +2 | +2 |
-| CON | 8 | -1 | -1 |
-| INT | 1 | -5 | -5 |
-| WIS | 10 | +0 | +0 |
-| CHA | 2 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   2    |   14   |   8    |   1    |   10   |   2    |
+|   MOD    |   -4   |   +2   |   -1   |   -5   |   +0   |   -4   |
+|   SAVE   |   -4   |   +2   |   -1   |   -5   |   +0   |   -4   |
 
 - **Skills:** Stealth +4
 - **Senses:** darkvision 30 ft.; Passive Perception 10
@@ -2651,14 +2390,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +6 |
-| DEX | 17 | +3 | +5 |
-| CON | 15 | +2 | +2 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   17   |   15   |   3    |   12   |   8    |
+|   MOD    |   +4   |   +3   |   +2   |   -4   |   +1   |   -1   |
+|   SAVE   |   +6   |   +5   |   +2   |   -4   |   +1   |   -1   |
 
 - **Skills:** Perception +5, Stealth +7
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -2687,14 +2423,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 16 | +3 | +3 |
-| CON | 14 | +2 | +2 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   16   |   14   |   3    |   12   |   8    |
+|   MOD    |   +3   |   +3   |   +2   |   -4   |   +1   |   -1   |
+|   SAVE   |   +3   |   +3   |   +2   |   -4   |   +1   |   -1   |
 
 - **Skills:** Perception +3, Stealth +7
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -2719,14 +2452,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft., Fly 60 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 10 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   10   |   16   |   6    |   12   |   7    |
+|   MOD    |   +2   |   +0   |   +3   |   -2   |   +1   |   -2   |
+|   SAVE   |   +2   |   +0   |   +3   |   -2   |   +1   |   -2   |
 
 - **Resistances:** Necrotic
 - **Skills:** Perception +3
@@ -2751,14 +2481,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 10 ft., Fly 50 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 10 | +0 | +0 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   7    |   10   |   13   |   2    |   12   |   4    |
+|   MOD    |   -2   |   +0   |   +1   |   -4   |   +1   |   -3   |
+|   SAVE   |   -2   |   +0   |   +1   |   -4   |   +1   |   -3   |
 
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
@@ -2783,14 +2510,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft., Climb 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 17 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 4 | -3 | -3 |
-| WIS | 12 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   17   |   10   |   4    |   12   |   5    |
+|   MOD    |   +0   |   +3   |   +0   |   -3   |   +1   |   -3   |
+|   SAVE   |   +0   |   +3   |   +0   |   -3   |   +1   |   -3   |
 
 - **Skills:** Acrobatics +5, Perception +3, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -2809,14 +2533,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 16 | +3 | +3 |
-| CON | 8 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   3    |   16   |   8    |   2    |   12   |   3    |
+|   MOD    |   -4   |   +3   |   -1   |   -4   |   +1   |   -4   |
+|   SAVE   |   -4   |   +3   |   -1   |   -4   |   +1   |   -4   |
 
 - **Skills:** Acrobatics +5, Perception +3, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -2837,14 +2558,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 50 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 15 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   15   |   15   |   3    |   12   |   7    |
+|   MOD    |   +3   |   +2   |   +2   |   -4   |   +1   |   -2   |
+|   SAVE   |   +3   |   +2   |   +2   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +5, Stealth +4
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -2867,14 +2585,11 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Speed:** 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   15   |   12   |   3    |   12   |   6    |
+|   MOD    |   +2   |   +2   |   +1   |   -4   |   +1   |   -2   |
+|   SAVE   |   +2   |   +2   |   +1   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +5, Stealth +4
 - **Senses:** darkvision 60 ft.; Passive Perception 15

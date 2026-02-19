@@ -11,14 +11,11 @@
 - **Speed:** 10 ft., Swim 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 9 | -1 | +3 |
-| CON | 15 | +2 | +6 |
-| INT | 18 | +4 | +8 |
-| WIS | 15 | +2 | +6 |
-| CHA | 18 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   9    |   15   |   18   |   15   |   18   |
+|   MOD    |   +5   |   -1   |   +2   |   +4   |   +2   |   +4   |
+|   SAVE   |   +5   |   +3   |   +6   |   +8   |   +6   |   +4   |
 
 - **Skills:** History +12, Perception +10
 - **Senses:** darkvision 120 ft.; Passive Perception 20
@@ -64,14 +61,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 30 ft., Burrow 10 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 11 | +0 | +0 |
-| CON | 14 | +2 | +2 |
-| INT | 1 | -5 | -5 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   11   |   14   |   1    |   13   |   6    |
+|   MOD    |   +3   |   +0   |   +2   |   -5   |   +1   |   -2   |
+|   SAVE   |   +3   |   +0   |   +2   |   -5   |   +1   |   -2   |
 
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 11
 - **CR** 2 (XP 450; PB +2)
@@ -95,14 +89,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 30 ft.
 - **Initiative:** +10 (20)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 18 | +4 | +7 |
-| CON | 14 | +2 | +2 |
-| INT | 16 | +3 | +6 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   18   |   14   |   16   |   11   |   10   |
+|   MOD    |   +0   |   +4   |   +2   |   +3   |   +0   |   +0   |
+|   SAVE   |   +0   |   +7   |   +2   |   +6   |   +0   |   +0   |
 
 - **Resistances:** Poison
 - **Skills:** Acrobatics +7, Perception +6, Stealth +10
@@ -136,14 +127,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 50 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   12   |   12   |   2    |   10   |   5    |
+|   MOD    |   +2   |   +1   |   +1   |   -4   |   +0   |   -3   |
+|   SAVE   |   +2   |   +1   |   +1   |   -4   |   +0   |   -3   |
 
 - **Senses:** Passive Perception 10
 - **CR** 1/4 (XP 50; PB +2)
@@ -161,14 +149,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 15 | +2 | +4 |
-| INT | 12 | +1 | +1 |
-| WIS | 13 | +1 | +1 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   12   |   15   |   12   |   13   |   10   |
+|   MOD    |   +3   |   +1   |   +2   |   +1   |   +1   |   +0   |
+|   SAVE   |   +3   |   +1   |   +4   |   +1   |   +1   |   +0   |
 
 - **Immunities:** Fire, Poison; Poisoned
 - **Senses:** Passive Perception 11
@@ -196,14 +181,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 30 ft., Fly 90 ft. (hover)
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 18 | +4 | +4 |
-| CON | 18 | +4 | +4 |
-| INT | 17 | +3 | +3 |
-| WIS | 20 | +5 | +9 |
-| CHA | 20 | +5 | +9 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   18   |   18   |   17   |   20   |   20   |
+|   MOD    |   +4   |   +4   |   +4   |   +3   |   +5   |   +5   |
+|   SAVE   |   +4   |   +4   |   +4   |   +3   |   +9   |   +9   |
 
 - **Resistances:** Radiant
 - **Immunities:** Charmed, Exhaustion, Frightened
@@ -242,14 +224,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 40 ft., Fly 120 ft. (hover)
 - **Initiative:** +10 (20)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 24 | +7 | +12 |
-| DEX | 20 | +5 | +5 |
-| CON | 24 | +7 | +12 |
-| INT | 19 | +4 | +4 |
-| WIS | 22 | +6 | +11 |
-| CHA | 25 | +7 | +12 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   24   |   20   |   24   |   19   |   22   |   25   |
+|   MOD    |   +7   |   +5   |   +7   |   +4   |   +6   |   +7   |
+|   SAVE   |  +12   |   +5   |  +12   |   +4   |  +11   |  +12   |
 
 - **Resistances:** Radiant
 - **Immunities:** Charmed, Exhaustion, Frightened
@@ -292,14 +271,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 50 ft., Fly 150 ft. (hover)
 - **Initiative:** +20 (30)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 26 | +8 | +8 |
-| DEX | 22 | +6 | +6 |
-| CON | 26 | +8 | +8 |
-| INT | 25 | +7 | +7 |
-| WIS | 25 | +7 | +7 |
-| CHA | 30 | +10 | +10 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   26   |   22   |   26   |   25   |   25   |   30   |
+|   MOD    |   +8   |   +6   |   +8   |   +7   |   +7   |  +10   |
+|   SAVE   |   +8   |   +6   |   +8   |   +7   |   +7   |  +10   |
 
 - **Immunities:** Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
 - **Skills:** Perception +14
@@ -351,14 +327,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 25 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 11 | +0 | +0 |
-| CON | 13 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| WIS | 3 | -4 | -4 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   11   |   13   |   1    |   3    |   1    |
+|   MOD    |   +2   |   +0   |   +1   |   -5   |   -4   |   -5   |
+|   SAVE   |   +2   |   +0   |   +1   |   -5   |   -4   |   -5   |
 
 - **Immunities:** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 60 ft.; Passive Perception 6
@@ -379,14 +352,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 5 ft., Fly 50 ft. (hover)
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 15 | +2 | +4 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 5 | -3 | -3 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   15   |   11   |   1    |   5    |   1    |
+|   MOD    |   +1   |   +2   |   +0   |   -5   |   -3   |   -5   |
+|   SAVE   |   +1   |   +4   |   +0   |   -5   |   -3   |   -5   |
 
 - **Immunities:** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 60 ft.; Passive Perception 7
@@ -405,14 +375,11 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Speed:** 10 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 3 | -4 | -4 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   14   |   10   |   1    |   3    |   1    |
+|   MOD    |   +3   |   +2   |   +0   |   -5   |   -4   |   -5   |
+|   SAVE   |   +3   |   +2   |   +0   |   -5   |   -4   |   -5   |
 
 - **Immunities:** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 60 ft.; Passive Perception 6
@@ -434,14 +401,11 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Speed:** 20 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 8 | -1 | -1 |
-| CON | 11 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   3    |   8    |   11   |   10   |   10   |   6    |
+|   MOD    |   -4   |   -1   |   +0   |   +0   |   +0   |   -2   |
+|   SAVE   |   -4   |   -1   |   +0   |   +0   |   +0   |   -2   |
 
 - **Vulnerabilities:** Fire
 - **Resistances:** Piercing
@@ -462,14 +426,11 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Speed:** 20 ft.
 - **Initiative:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 6 | -2 | -2 |
-| CON | 15 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   6    |   15   |   10   |   10   |   7    |
+|   MOD    |   +4   |   -2   |   +2   |   +0   |   +0   |   -2   |
+|   SAVE   |   +4   |   -2   |   +2   |   +0   |   +0   |   -2   |
 
 - **Vulnerabilities:** Fire
 - **Resistances:** Bludgeoning, Piercing
@@ -492,14 +453,11 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Speed:** 20 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 8 | -1 | -1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 8 | -1 | -1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   8    |   15   |   2    |   8    |   7    |
+|   MOD    |   +3   |   -1   |   +2   |   -4   |   -1   |   -2   |
+|   SAVE   |   +3   |   -1   |   +2   |   -4   |   -1   |   -2   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **CR** 3 (XP 700; PB +2)
@@ -521,14 +479,11 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Speed:** 50 ft., Climb 50 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 16 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 7 | -2 | -2 |
-| WIS | 14 | +2 | +2 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   16   |   18   |   7    |   14   |   12   |
+|   MOD    |   +6   |   +3   |   +4   |   -2   |   +2   |   +1   |
+|   SAVE   |   +6   |   +3   |   +4   |   -2   |   +2   |   +1   |
 
 - **Immunities:** Lightning
 - **Skills:** Perception +6, Stealth +7
@@ -560,14 +515,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 17 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   17   |   12   |   10   |   13   |   11   |
+|   MOD    |   +1   |   +3   |   +1   |   +0   |   +1   |   +0   |
+|   SAVE   |   +1   |   +3   |   +1   |   +0   |   +1   |   +0   |
 
 - **Skills:** Perception +5, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -591,14 +543,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 40 ft., Burrow 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 11 | +0 | +0 |
-| CON | 21 | +5 | +5 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   11   |   21   |   2    |   10   |   5    |
+|   MOD    |   +4   |   +0   |   +5   |   -4   |   +0   |   -3   |
+|   SAVE   |   +4   |   +0   |   +5   |   -4   |   +0   |   -3   |
 
 - **Skills:** Perception +6
 - **Senses:** darkvision 60 ft., tremorsense 120 ft.; Passive Perception 16
@@ -627,14 +576,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   12   |   12   |   10   |   10   |   10   |
+|   MOD    |   +0   |   +1   |   +1   |   +0   |   +0   |   +0   |
+|   SAVE   |   +0   |   +1   |   +1   |   +0   |   +0   |   +0   |
 
 - **Gear** Leather Armor, Light Crossbow, Scimitar
 - **Senses:** Passive Perception 10
@@ -656,14 +602,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +4 |
-| DEX | 16 | +3 | +5 |
-| CON | 14 | +2 | +2 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +2 |
-| CHA | 14 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   16   |   14   |   14   |   11   |   14   |
+|   MOD    |   +2   |   +3   |   +2   |   +2   |   +0   |   +2   |
+|   SAVE   |   +4   |   +5   |   +2   |   +2   |   +2   |   +2   |
 
 - **Skills:** Athletics +4, Deception +4
 - **Gear** Pistol, Scimitar, Studded Leather Armor
@@ -690,14 +633,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +4 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +3 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   14   |   14   |   11   |   12   |   11   |
+|   MOD    |   +3   |   +2   |   +2   |   +0   |   +1   |   +0   |
+|   SAVE   |   +3   |   +2   |   +4   |   +0   |   +3   |   +0   |
 
 - **Skills:** Stealth +6, Survival +3
 - **Gear** Chain Shirt, Javelin x 6, Morningstar
@@ -730,14 +670,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 8 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   14   |   13   |   8    |   11   |   9    |
+|   MOD    |   +2   |   +2   |   +1   |   -1   |   +0   |   -1   |
+|   SAVE   |   +2   |   +2   |   +1   |   -1   |   +0   |   -1   |
 
 - **Skills:** Stealth +6, Survival +2
 - **Gear** Hide Armor, Light Hammer x 3
@@ -766,14 +703,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 50 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 9 | -1 | -1 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   14   |   14   |   9    |   13   |   11   |
+|   MOD    |   +4   |   +2   |   +2   |   -1   |   +1   |   +0   |
+|   SAVE   |   +4   |   +2   |   +2   |   -1   |   +1   |   +0   |
 
 - **Skills:** Athletics +6, Perception +3
 - **Gear** Breastplate, Longbow, Pike
@@ -802,14 +736,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 30 ft., Fly 60 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 11 | +0 | +0 |
-| CON | 19 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   11   |   19   |   3    |   14   |   10   |
+|   MOD    |   +4   |   +0   |   +4   |   -4   |   +2   |   +0   |
+|   SAVE   |   +4   |   +0   |   +4   |   -4   |   +2   |   +0   |
 
 - **Skills:** Perception +8
 - **Senses:** darkvision 60 ft.; Passive Perception 18
@@ -837,14 +768,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| WIS | 11 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   10   |   16   |   5    |   11   |   5    |
+|   MOD    |   +4   |   +0   |   +3   |   -3   |   +0   |   -3   |
+|   SAVE   |   +4   |   +0   |   +3   |   -3   |   +0   |   -3   |
 
 - **Immunities:** Poison; Poisoned
 - **Skills:** Perception +4
@@ -875,14 +803,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Speed:** 10 ft., Fly 40 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 13 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   15   |   12   |   13   |   14   |   7    |
+|   MOD    |   +3   |   +2   |   +1   |   +1   |   +2   |   -2   |
+|   SAVE   |   +3   |   +2   |   +1   |   +1   |   +2   |   -2   |
 
 - **Immunities:** Frightened
 - **Skills:** Stealth +5
@@ -918,14 +843,11 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Speed:** 20 ft., Fly 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   12   |   12   |   2    |   13   |   5    |
+|   MOD    |   -2   |   +1   |   +1   |   -4   |   +1   |   -3   |
+|   SAVE   |   -2   |   +1   |   +1   |   -4   |   +1   |   -3   |
 
 - **Immunities:** Petrified
 - **Senses:** darkvision 60 ft.; Passive Perception 11
@@ -944,14 +866,11 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Speed:** 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 10 | +0 | +0 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   10   |   10   |   10   |   10   |   10   |
+|   MOD    |   +0   |   +0   |   +0   |   +0   |   +0   |   +0   |
+|   SAVE   |   +0   |   +0   |   +0   |   +0   |   +0   |   +0   |
 
 - **Gear** Club
 - **Senses:** Passive Perception 10
@@ -975,14 +894,11 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Speed:** 30 ft., Fly 90 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 20 | +5 | +5 |
-| CON | 17 | +3 | +5 |
-| INT | 18 | +4 | +4 |
-| WIS | 20 | +5 | +7 |
-| CHA | 18 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   20   |   17   |   18   |   20   |   18   |
+|   MOD    |   +3   |   +5   |   +3   |   +4   |   +5   |   +4   |
+|   SAVE   |   +3   |   +5   |   +5   |   +4   |   +7   |   +4   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Psychic, Radiant
@@ -1020,14 +936,11 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +2 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   12   |   10   |   10   |   11   |   10   |
+|   MOD    |   +0   |   +1   |   +0   |   +0   |   +0   |   +0   |
+|   SAVE   |   +0   |   +1   |   +0   |   +0   |   +2   |   +0   |
 
 - **Skills:** Deception +2, Religion +2
 - **Gear** Leather Armor, Sickle
@@ -1048,14 +961,11 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +4 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   14   |   12   |   10   |   14   |   13   |
+|   MOD    |   +0   |   +2   |   +1   |   +0   |   +2   |   +1   |
+|   SAVE   |   +0   |   +2   |   +1   |   +0   |   +4   |   +1   |
 
 - **Skills:** Deception +3, Persuasion +3, Religion +2
 - **Gear** Holy Symbol, Leather Armor
@@ -1088,14 +998,11 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Speed:** 10 ft., Fly 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   12   |   13   |   2    |   10   |   5    |
+|   MOD    |   +3   |   +1   |   +1   |   -4   |   +0   |   -3   |
+|   SAVE   |   +3   |   +1   |   +1   |   -4   |   +0   |   -3   |
 
 - **Skills:** Stealth +3
 - **Senses:** blindsight 60 ft.; Passive Perception 10
@@ -1118,14 +1025,11 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 - **Speed:** 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 3 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   14   |   14   |   3    |   13   |   6    |
+|   MOD    |   +2   |   +2   |   +2   |   -4   |   +1   |   -2   |
+|   SAVE   |   +2   |   +2   |   +2   |   -4   |   +1   |   -2   |
 
 - **Immunities:** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
 - **Skills:** Perception +5, Stealth +4
@@ -1147,14 +1051,11 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 - **Speed:** 30 ft., Fly 90 ft. (hover)
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 15 | +2 | +6 |
-| CON | 22 | +6 | +6 |
-| INT | 15 | +2 | +2 |
-| WIS | 16 | +3 | +7 |
-| CHA | 20 | +5 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   15   |   22   |   15   |   16   |   20   |
+|   MOD    |   +5   |   +2   |   +6   |   +2   |   +3   |   +5   |
+|   SAVE   |   +5   |   +6   |   +6   |   +2   |   +7   |   +5   |
 
 - **Immunities:** Lightning, Thunder
 - **Senses:** darkvision 120 ft.; Passive Perception 13
@@ -1195,14 +1096,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 18 | +4 | +4 |
-| CON | 14 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 14 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   18   |   14   |   11   |   12   |   14   |
+|   MOD    |   +0   |   +4   |   +2   |   +0   |   +1   |   +2   |
+|   SAVE   |   +0   |   +4   |   +2   |   +0   |   +1   |   +2   |
 
 - **Immunities:** Charmed
 - **Skills:** Deception +6, Insight +3
@@ -1235,14 +1133,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 20 ft., Swim 50 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 25 | +7 | +7 |
-| DEX | 10 | +0 | +0 |
-| CON | 20 | +5 | +11 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +7 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   25   |   10   |   20   |   10   |   12   |   12   |
+|   MOD    |   +7   |   +0   |   +5   |   +0   |   +1   |   +1   |
+|   SAVE   |   +7   |   +0   |  +11   |   +0   |   +7   |   +1   |
 
 - **Resistances:** Fire
 - **Senses:** darkvision 120 ft.; Passive Perception 11
@@ -1272,14 +1167,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 19 | +4 | +4 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   19   |   18   |   13   |   16   |   12   |
+|   MOD    |   +3   |   +4   |   +4   |   +1   |   +3   |   +1   |
+|   SAVE   |   +3   |   +4   |   +4   |   +1   |   +3   |   +1   |
 
 - **Skills:** Perception +6, Stealth +10
 - **Senses:** darkvision 120 ft.; Passive Perception 16
@@ -1315,14 +1207,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 14 | +2 | +2 |
-| WIS | 15 | +2 | +2 |
-| CHA | 18 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   12   |   11   |   14   |   15   |   18   |
+|   MOD    |   +0   |   +1   |   +0   |   +2   |   +2   |   +4   |
+|   SAVE   |   +0   |   +1   |   +0   |   +2   |   +2   |   +4   |
 
 - **Skills:** Perception +4, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -1363,14 +1252,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft.
 - **Initiative:** +14 (24)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 26 | +8 | +8 |
-| DEX | 15 | +2 | +2 |
-| CON | 22 | +6 | +12 |
-| INT | 20 | +5 | +5 |
-| WIS | 16 | +3 | +9 |
-| CHA | 22 | +6 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   26   |   15   |   22   |   20   |   16   |   22   |
+|   MOD    |   +8   |   +2   |   +6   |   +5   |   +3   |   +6   |
+|   SAVE   |   +8   |   +2   |  +12   |   +5   |   +9   |   +6   |
 
 - **Resistances:** Cold, Lightning
 - **Immunities:** Fire, Poison; Charmed, Frightened, Poisoned
@@ -1410,14 +1296,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 20 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 11 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 5 | -3 | -3 |
-| WIS | 8 | -1 | -1 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   11   |   12   |   5    |   8    |   3    |
+|   MOD    |   +1   |   +0   |   +1   |   -3   |   -1   |   -4   |
+|   SAVE   |   +1   |   +0   |   +1   |   -3   |   -1   |   -4   |
 
 - **Resistances:** Cold, Fire, Lightning
 - **Immunities:** Poison; Poisoned
@@ -1440,14 +1323,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 20 | +5 | +9 |
-| DEX | 15 | +2 | +2 |
-| CON | 21 | +5 | +9 |
-| INT | 19 | +4 | +4 |
-| WIS | 17 | +3 | +7 |
-| CHA | 16 | +3 | +7 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   20   |   15   |   21   |   19   |   17   |   16   |
+|   MOD    |   +5   |   +2   |   +5   |   +4   |   +3   |   +3   |
+|   SAVE   |   +9   |   +2   |   +9   |   +4   |   +7   |   +7   |
 
 - **Resistances:** Cold, Fire, Lightning
 - **Immunities:** Poison; Poisoned
@@ -1484,14 +1364,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +7 |
-| DEX | 17 | +3 | +3 |
-| CON | 20 | +5 | +8 |
-| INT | 5 | -3 | -3 |
-| WIS | 12 | +1 | +4 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   17   |   20   |   5    |   12   |   13   |
+|   MOD    |   +4   |   +3   |   +5   |   -3   |   +1   |   +1   |
+|   SAVE   |   +7   |   +3   |   +8   |   -3   |   +4   |   +1   |
 
 - **Resistances:** Cold, Fire, Lightning
 - **Immunities:** Poison; Poisoned
@@ -1526,14 +1403,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Climb 40 ft.
 - **Initiative:** +10 (20)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +9 |
-| DEX | 20 | +5 | +5 |
-| CON | 20 | +5 | +10 |
-| INT | 18 | +4 | +4 |
-| WIS | 16 | +3 | +8 |
-| CHA | 20 | +5 | +10 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   20   |   20   |   18   |   16   |   20   |
+|   MOD    |   +4   |   +5   |   +5   |   +4   |   +3   |   +5   |
+|   SAVE   |   +9   |   +5   |  +10   |   +4   |   +8   |  +10   |
 
 - **Resistances:** Cold, Fire, Lightning
 - **Immunities:** Poison; Poisoned
@@ -1571,14 +1445,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 20 ft., Fly 30 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 10 | +0 | +0 |
-| CON | 22 | +6 | +11 |
-| INT | 19 | +4 | +9 |
-| WIS | 12 | +1 | +6 |
-| CHA | 15 | +2 | +7 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   10   |   22   |   19   |   12   |   15   |
+|   MOD    |   +5   |   +0   |   +6   |   +4   |   +1   |   +2   |
+|   SAVE   |   +5   |   +0   |  +11   |   +9   |   +6   |   +7   |
 
 - **Resistances:** Cold, Fire, Lightning
 - **Immunities:** Poison; Frightened, Poisoned
@@ -1613,14 +1484,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 17 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   5    |   17   |   10   |   7    |   10   |   10   |
+|   MOD    |   -3   |   +3   |   +0   |   -2   |   +0   |   +0   |
+|   SAVE   |   -3   |   +3   |   +0   |   -2   |   +0   |   +0   |
 
 - **Resistances:** Cold, Fire, Lightning
 - **Immunities:** Poison; Poisoned
@@ -1654,14 +1522,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 15 | +2 | +5 |
-| CON | 18 | +4 | +4 |
-| INT | 8 | -1 | -1 |
-| WIS | 13 | +1 | +4 |
-| CHA | 8 | -1 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   15   |   18   |   8    |   13   |   8    |
+|   MOD    |   +3   |   +2   |   +4   |   -1   |   +1   |   -1   |
+|   SAVE   |   +3   |   +5   |   +4   |   -1   |   +4   |   +2   |
 
 - **Resistances:** Cold, Fire, Lightning
 - **Immunities:** Poison; Poisoned
@@ -1696,14 +1561,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +6 |
-| DEX | 17 | +3 | +3 |
-| CON | 18 | +4 | +7 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +5 |
-| CHA | 14 | +2 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   17   |   18   |   12   |   14   |   14   |
+|   MOD    |   +3   |   +3   |   +4   |   +1   |   +2   |   +2   |
+|   SAVE   |   +6   |   +3   |   +7   |   +1   |   +5   |   +5   |
 
 - **Resistances:** Cold
 - **Immunities:** Fire, Poison; Poisoned
@@ -1739,14 +1601,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +5 |
-| DEX | 15 | +2 | +2 |
-| CON | 15 | +2 | +4 |
-| INT | 9 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 14 | +2 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   15   |   15   |   9    |   11   |   14   |
+|   MOD    |   +3   |   +2   |   +2   |   -1   |   +0   |   +2   |
+|   SAVE   |   +5   |   +2   |   +4   |   -1   |   +0   |   +4   |
 
 - **Resistances:** Cold
 - **Immunities:** Fire, Poison; Frightened, Poisoned
@@ -1775,14 +1634,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 40 ft.
 - **Initiative:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +8 |
-| DEX | 16 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +5 |
-| WIS | 14 | +2 | +6 |
-| CHA | 16 | +3 | +7 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   16   |   18   |   13   |   14   |   16   |
+|   MOD    |   +4   |   +3   |   +4   |   +1   |   +2   |   +3   |
+|   SAVE   |   +8   |   +3   |   +4   |   +5   |   +6   |   +7   |
 
 - **Resistances:** Cold
 - **Immunities:** Fire, Poison; Poisoned
@@ -1814,14 +1670,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 18 | +4 | +7 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +4 |
-| CHA | 14 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   18   |   11   |   12   |   14   |
+|   MOD    |   +4   |   +2   |   +4   |   +0   |   +1   |   +2   |
+|   SAVE   |   +4   |   +2   |   +7   |   +0   |   +4   |   +2   |
 
 - **Resistances:** Bludgeoning, Cold, Piercing, Slashing
 - **Immunities:** Fire, Poison; Poisoned
@@ -1852,14 +1705,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft.
 - **Initiative:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 16 | +3 | +7 |
-| CON | 18 | +4 | +8 |
-| INT | 14 | +2 | +2 |
-| WIS | 14 | +2 | +2 |
-| CHA | 18 | +4 | +8 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   16   |   18   |   14   |   14   |   18   |
+|   MOD    |   +4   |   +3   |   +4   |   +2   |   +2   |   +4   |
+|   SAVE   |   +4   |   +7   |   +8   |   +2   |   +2   |   +8   |
 
 - **Resistances:** Cold
 - **Immunities:** Fire, Poison; Poisoned
@@ -1893,14 +1743,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft.
 - **Initiative:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 22 | +6 | +10 |
-| DEX | 17 | +3 | +7 |
-| CON | 21 | +5 | +5 |
-| INT | 12 | +1 | +1 |
-| WIS | 16 | +3 | +7 |
-| CHA | 18 | +4 | +8 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   22   |   17   |   21   |   12   |   16   |   18   |
+|   MOD    |   +6   |   +3   |   +5   |   +1   |   +3   |   +4   |
+|   SAVE   |  +10   |   +7   |   +5   |   +1   |   +7   |   +8   |
 
 - **Immunities:** Fire, Poison; Poisoned
 - **Senses:** darkvision 150 ft. (unimpeded by magical darkness); Passive Perception 13
@@ -1932,14 +1779,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft.
 - **Initiative:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 14 | +2 | +7 |
-| CON | 18 | +4 | +9 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +7 |
-| CHA | 18 | +4 | +9 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   14   |   18   |   18   |   15   |   18   |
+|   MOD    |   +5   |   +2   |   +4   |   +4   |   +2   |   +4   |
+|   SAVE   |   +5   |   +7   |   +9   |   +4   |   +7   |   +9   |
 
 - **Immunities:** Cold, Fire, Poison; Poisoned
 - **Skills:** Insight +7, Perception +7, Persuasion +9
@@ -1974,14 +1818,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 20 ft., Fly 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 14 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   17   |   13   |   11   |   12   |   14   |
+|   MOD    |   -2   |   +3   |   +1   |   +0   |   +1   |   +2   |
+|   SAVE   |   -2   |   +3   |   +1   |   +0   |   +1   |   +2   |
 
 - **Resistances:** Cold
 - **Immunities:** Fire, Poison; Poisoned
@@ -2013,14 +1854,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 20 ft.
 - **Initiative:** -3 (7)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 5 | -3 | -3 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 11 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   5    |   11   |   1    |   11   |   3    |
+|   MOD    |   +0   |   -3   |   +0   |   -5   |   +0   |   -4   |
+|   SAVE   |   +0   |   -3   |   +0   |   -5   |   +0   |   -4   |
 
 - **Resistances:** Cold
 - **Immunities:** Fire, Poison; Charmed, Frightened, Poisoned
@@ -2045,14 +1883,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft.
 - **Initiative:** +14 (24)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 26 | +8 | +8 |
-| DEX | 14 | +2 | +8 |
-| CON | 24 | +7 | +7 |
-| INT | 22 | +6 | +6 |
-| WIS | 18 | +4 | +10 |
-| CHA | 24 | +7 | +7 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   26   |   14   |   24   |   22   |   18   |   24   |
+|   MOD    |   +8   |   +2   |   +7   |   +6   |   +4   |   +7   |
+|   SAVE   |   +8   |   +8   |   +7   |   +6   |  +10   |   +7   |
 
 - **Resistances:** Cold
 - **Immunities:** Fire, Poison; Poisoned
@@ -2096,14 +1931,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +4 |
-| CON | 13 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +2 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   14   |   13   |   10   |   11   |   13   |
+|   MOD    |   +2   |   +2   |   +1   |   +0   |   +0   |   +1   |
+|   SAVE   |   +2   |   +4   |   +1   |   +0   |   +2   |   +1   |
 
 - **Immunities:** Acid
 - **Skills:** Perception +4, Stealth +4
@@ -2132,14 +1964,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 14 | +2 | +5 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +3 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   14   |   17   |   12   |   11   |   15   |
+|   MOD    |   +4   |   +2   |   +3   |   +1   |   +0   |   +2   |
+|   SAVE   |   +4   |   +5   |   +3   |   +1   |   +3   |   +2   |
 
 - **Immunities:** Acid
 - **Skills:** Perception +6, Stealth +5
@@ -2168,14 +1997,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 14 | +2 | +7 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +6 |
-| CHA | 19 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   14   |   21   |   14   |   13   |   19   |
+|   MOD    |   +6   |   +2   |   +5   |   +2   |   +1   |   +4   |
+|   SAVE   |   +6   |   +7   |   +5   |   +2   |   +6   |   +4   |
 
 - **Immunities:** Acid
 - **Skills:** Perception +11, Stealth +7
@@ -2219,14 +2045,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 14 | +2 | +9 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +9 |
-| CHA | 22 | +6 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   27   |   14   |   25   |   16   |   15   |   22   |
+|   MOD    |   +8   |   +2   |   +7   |   +3   |   +2   |   +6   |
+|   SAVE   |   +8   |   +9   |   +7   |   +3   |   +9   |   +6   |
 
 - **Immunities:** Acid
 - **Skills:** Perception +16, Stealth +9
@@ -2270,14 +2093,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 10 | +0 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   10   |   15   |   12   |   11   |   15   |
+|   MOD    |   +3   |   +0   |   +2   |   +1   |   +0   |   +2   |
+|   SAVE   |   +3   |   +2   |   +2   |   +1   |   +2   |   +2   |
 
 - **Immunities:** Lightning
 - **Skills:** Perception +4, Stealth +2
@@ -2302,14 +2122,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 10 | +0 | +4 |
-| CON | 19 | +4 | +4 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +5 |
-| CHA | 17 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   10   |   19   |   14   |   13   |   17   |
+|   MOD    |   +5   |   +0   |   +4   |   +2   |   +1   |   +3   |
+|   SAVE   |   +5   |   +4   |   +4   |   +2   |   +5   |   +3   |
 
 - **Immunities:** Lightning
 - **Skills:** Perception +9, Stealth +4
@@ -2334,14 +2151,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 25 | +7 | +7 |
-| DEX | 10 | +0 | +5 |
-| CON | 23 | +6 | +6 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +7 |
-| CHA | 20 | +5 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   25   |   10   |   23   |   16   |   15   |   20   |
+|   MOD    |   +7   |   +0   |   +6   |   +3   |   +2   |   +5   |
+|   SAVE   |   +7   |   +5   |   +6   |   +3   |   +7   |   +5   |
 
 - **Immunities:** Lightning
 - **Skills:** Perception +12, Stealth +5
@@ -2383,14 +2197,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 29 | +9 | +9 |
-| DEX | 10 | +0 | +7 |
-| CON | 27 | +8 | +8 |
-| INT | 18 | +4 | +4 |
-| WIS | 17 | +3 | +10 |
-| CHA | 25 | +7 | +7 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   29   |   10   |   27   |   18   |   17   |   25   |
+|   MOD    |   +9   |   +0   |   +8   |   +4   |   +3   |   +7   |
+|   SAVE   |   +9   |   +7   |   +8   |   +4   |  +10   |   +7   |
 
 - **Immunities:** Lightning
 - **Skills:** Perception +17, Stealth +7
@@ -2432,14 +2243,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 10 | +0 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +2 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   10   |   13   |   10   |   11   |   13   |
+|   MOD    |   +2   |   +0   |   +1   |   +0   |   +0   |   +1   |
+|   SAVE   |   +2   |   +2   |   +1   |   +0   |   +2   |   +1   |
 
 - **Immunities:** Fire
 - **Skills:** Perception +4, Stealth +2
@@ -2464,14 +2272,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +3 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +3 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   10   |   17   |   12   |   11   |   15   |
+|   MOD    |   +4   |   +0   |   +3   |   +1   |   +0   |   +2   |
+|   SAVE   |   +4   |   +3   |   +3   |   +1   |   +3   |   +2   |
 
 - **Immunities:** Fire
 - **Skills:** Perception +6, Persuasion +5, Stealth +3
@@ -2498,14 +2303,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 10 | +0 | +5 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +6 |
-| CHA | 17 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   10   |   21   |   14   |   13   |   17   |
+|   MOD    |   +6   |   +0   |   +5   |   +2   |   +1   |   +3   |
+|   SAVE   |   +6   |   +5   |   +5   |   +2   |   +6   |   +3   |
 
 - **Immunities:** Fire
 - **Skills:** History +7, Perception +11, Persuasion +8, Stealth +5
@@ -2549,14 +2351,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 10 | +0 | +6 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +8 |
-| CHA | 22 | +6 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   27   |   10   |   25   |   16   |   15   |   22   |
+|   MOD    |   +8   |   +0   |   +7   |   +3   |   +2   |   +6   |
+|   SAVE   |   +8   |   +6   |   +7   |   +3   |   +8   |   +6   |
 
 - **Immunities:** Fire
 - **Skills:** History +9, Perception +14, Persuasion +12, Stealth +6
@@ -2600,14 +2399,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 10 | +0 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   10   |   15   |   12   |   11   |   15   |
+|   MOD    |   +3   |   +0   |   +2   |   +1   |   +0   |   +2   |
+|   SAVE   |   +3   |   +2   |   +2   |   +1   |   +2   |   +2   |
 
 - **Immunities:** Lightning
 - **Skills:** Perception +4, Stealth +2
@@ -2638,14 +2434,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 10 | +0 | +3 |
-| CON | 19 | +4 | +4 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +4 |
-| CHA | 17 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   10   |   19   |   14   |   13   |   17   |
+|   MOD    |   +5   |   +0   |   +4   |   +2   |   +1   |   +3   |
+|   SAVE   |   +5   |   +3   |   +4   |   +2   |   +4   |   +3   |
 
 - **Immunities:** Lightning
 - **Skills:** Insight +4, Perception +7, Stealth +3
@@ -2676,14 +2469,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 25 | +7 | +7 |
-| DEX | 10 | +0 | +5 |
-| CON | 23 | +6 | +6 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +7 |
-| CHA | 20 | +5 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   25   |   10   |   23   |   16   |   15   |   20   |
+|   MOD    |   +7   |   +0   |   +6   |   +3   |   +2   |   +5   |
+|   SAVE   |   +7   |   +5   |   +6   |   +3   |   +7   |   +5   |
 
 - **Immunities:** Lightning
 - **Skills:** Insight +7, Perception +12, Stealth +5
@@ -2729,14 +2519,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 29 | +9 | +9 |
-| DEX | 10 | +0 | +7 |
-| CON | 27 | +8 | +8 |
-| INT | 18 | +4 | +4 |
-| WIS | 17 | +3 | +10 |
-| CHA | 25 | +7 | +7 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   29   |   10   |   27   |   18   |   17   |   25   |
+|   MOD    |   +9   |   +0   |   +8   |   +4   |   +3   |   +7   |
+|   SAVE   |   +9   |   +7   |   +8   |   +4   |  +10   |   +7   |
 
 - **Immunities:** Lightning
 - **Skills:** Insight +10, Perception +17, Stealth +7
@@ -2782,14 +2569,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +2 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   12   |   13   |   14   |   11   |   13   |
+|   MOD    |   +2   |   +1   |   +1   |   +2   |   +0   |   +1   |
+|   SAVE   |   +2   |   +3   |   +1   |   +2   |   +2   |   +1   |
 
 - **Immunities:** Acid
 - **Skills:** Perception +4, Stealth +3
@@ -2814,14 +2598,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 12 | +1 | +4 |
-| CON | 17 | +3 | +3 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +4 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   12   |   17   |   16   |   13   |   15   |
+|   MOD    |   +4   |   +1   |   +3   |   +3   |   +1   |   +2   |
+|   SAVE   |   +4   |   +4   |   +3   |   +3   |   +4   |   +2   |
 
 - **Immunities:** Acid
 - **Skills:** Deception +5, Perception +7, Stealth +4
@@ -2848,14 +2629,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 12 | +1 | +6 |
-| CON | 21 | +5 | +5 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +7 |
-| CHA | 18 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   12   |   21   |   18   |   15   |   18   |
+|   MOD    |   +6   |   +1   |   +5   |   +4   |   +2   |   +4   |
+|   SAVE   |   +6   |   +6   |   +5   |   +4   |   +7   |   +4   |
 
 - **Immunities:** Acid
 - **Skills:** Deception +9, Perception +12, Stealth +6
@@ -2899,14 +2677,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 12 | +1 | +8 |
-| CON | 25 | +7 | +7 |
-| INT | 20 | +5 | +5 |
-| WIS | 17 | +3 | +10 |
-| CHA | 22 | +6 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   27   |   12   |   25   |   20   |   17   |   22   |
+|   MOD    |   +8   |   +1   |   +7   |   +5   |   +3   |   +6   |
+|   SAVE   |   +8   |   +8   |   +7   |   +5   |  +10   |   +6   |
 
 - **Immunities:** Acid
 - **Skills:** Deception +13, Perception +17, Stealth +8
@@ -2950,14 +2725,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 14 | +2 | +4 |
-| CON | 17 | +3 | +3 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +2 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   14   |   17   |   14   |   11   |   16   |
+|   MOD    |   +4   |   +2   |   +3   |   +2   |   +0   |   +3   |
+|   SAVE   |   +4   |   +4   |   +3   |   +2   |   +2   |   +3   |
 
 - **Immunities:** Fire
 - **Skills:** Perception +4, Stealth +4
@@ -2988,14 +2760,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 14 | +2 | +6 |
-| CON | 21 | +5 | +5 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +5 |
-| CHA | 20 | +5 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   14   |   21   |   16   |   13   |   20   |
+|   MOD    |   +6   |   +2   |   +5   |   +3   |   +1   |   +5   |
+|   SAVE   |   +6   |   +6   |   +5   |   +3   |   +5   |   +5   |
 
 - **Immunities:** Fire
 - **Skills:** Insight +5, Perception +9, Persuasion +9, Stealth +6
@@ -3026,14 +2795,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 14 | +2 | +8 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +8 |
-| CHA | 24 | +7 | +7 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   27   |   14   |   25   |   16   |   15   |   24   |
+|   MOD    |   +8   |   +2   |   +7   |   +3   |   +2   |   +7   |
+|   SAVE   |   +8   |   +8   |   +7   |   +3   |   +8   |   +7   |
 
 - **Immunities:** Fire
 - **Skills:** Insight +8, Perception +14, Persuasion +13, Stealth +8
@@ -3079,14 +2845,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 30 | +10 | +10 |
-| DEX | 14 | +2 | +9 |
-| CON | 29 | +9 | +9 |
-| INT | 18 | +4 | +4 |
-| WIS | 17 | +3 | +10 |
-| CHA | 28 | +9 | +9 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   30   |   14   |   29   |   18   |   17   |   28   |
+|   MOD    |  +10   |   +2   |   +9   |   +4   |   +3   |   +9   |
+|   SAVE   |  +10   |   +9   |   +9   |   +4   |  +10   |   +9   |
 
 - **Immunities:** Fire
 - **Skills:** Insight +10, Perception +17, Persuasion +16, Stealth +9
@@ -3132,14 +2895,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +2 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   12   |   13   |   14   |   11   |   13   |
+|   MOD    |   +2   |   +1   |   +1   |   +2   |   +0   |   +1   |
+|   SAVE   |   +2   |   +3   |   +1   |   +2   |   +2   |   +1   |
 
 - **Immunities:** Poison; Poisoned
 - **Skills:** Perception +4, Stealth +3
@@ -3168,14 +2928,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 12 | +1 | +4 |
-| CON | 17 | +3 | +3 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +4 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   12   |   17   |   16   |   13   |   15   |
+|   MOD    |   +4   |   +1   |   +3   |   +3   |   +1   |   +2   |
+|   SAVE   |   +4   |   +4   |   +3   |   +3   |   +4   |   +2   |
 
 - **Immunities:** Poison; Poisoned
 - **Skills:** Deception +5, Perception +7, Stealth +4
@@ -3204,14 +2961,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 12 | +1 | +6 |
-| CON | 21 | +5 | +5 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +7 |
-| CHA | 18 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   12   |   21   |   18   |   15   |   18   |
+|   MOD    |   +6   |   +1   |   +5   |   +4   |   +2   |   +4   |
+|   SAVE   |   +6   |   +6   |   +5   |   +4   |   +7   |   +4   |
 
 - **Immunities:** Poison; Poisoned
 - **Skills:** Deception +9, Perception +12, Persuasion +9, Stealth +6
@@ -3255,14 +3009,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 12 | +1 | +8 |
-| CON | 25 | +7 | +7 |
-| INT | 20 | +5 | +5 |
-| WIS | 17 | +3 | +10 |
-| CHA | 22 | +6 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   27   |   12   |   25   |   20   |   17   |   22   |
+|   MOD    |   +8   |   +1   |   +7   |   +5   |   +3   |   +6   |
+|   SAVE   |   +8   |   +8   |   +7   |   +5   |  +10   |   +6   |
 
 - **Immunities:** Poison; Poisoned
 - **Skills:** Deception +13, Perception +17, Persuasion +13, Stealth +8
@@ -3306,14 +3057,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +2 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   10   |   17   |   12   |   11   |   15   |
+|   MOD    |   +4   |   +0   |   +3   |   +1   |   +0   |   +2   |
+|   SAVE   |   +4   |   +2   |   +3   |   +1   |   +2   |   +2   |
 
 - **Immunities:** Fire
 - **Skills:** Perception +4, Stealth +2
@@ -3338,14 +3086,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 10 | +0 | +4 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +4 |
-| CHA | 19 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   10   |   21   |   14   |   11   |   19   |
+|   MOD    |   +6   |   +0   |   +5   |   +2   |   +0   |   +4   |
+|   SAVE   |   +6   |   +4   |   +5   |   +2   |   +4   |   +4   |
 
 - **Immunities:** Fire
 - **Skills:** Perception +8, Stealth +4
@@ -3370,14 +3115,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 10 | +0 | +6 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +7 |
-| CHA | 23 | +6 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   27   |   10   |   25   |   16   |   13   |   23   |
+|   MOD    |   +8   |   +0   |   +7   |   +3   |   +1   |   +6   |
+|   SAVE   |   +8   |   +6   |   +7   |   +3   |   +7   |   +6   |
 
 - **Immunities:** Fire
 - **Skills:** Perception +13, Stealth +6
@@ -3419,14 +3161,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 30 | +10 | +10 |
-| DEX | 10 | +0 | +7 |
-| CON | 29 | +9 | +9 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +9 |
-| CHA | 27 | +8 | +8 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   30   |   10   |   29   |   18   |   15   |   27   |
+|   MOD    |  +10   |   +0   |   +9   |   +4   |   +2   |   +8   |
+|   SAVE   |  +10   |   +7   |   +9   |   +4   |   +9   |   +8   |
 
 - **Immunities:** Fire
 - **Skills:** Perception +16, Stealth +7
@@ -3468,14 +3207,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +2 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   10   |   17   |   12   |   11   |   15   |
+|   MOD    |   +4   |   +0   |   +3   |   +1   |   +0   |   +2   |
+|   SAVE   |   +4   |   +2   |   +3   |   +1   |   +2   |   +2   |
 
 - **Immunities:** Cold
 - **Skills:** Perception +4, Stealth +2
@@ -3502,14 +3238,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 10 | +0 | +4 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +4 |
-| CHA | 19 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   10   |   21   |   14   |   11   |   19   |
+|   MOD    |   +6   |   +0   |   +5   |   +2   |   +0   |   +4   |
+|   SAVE   |   +6   |   +4   |   +5   |   +2   |   +4   |   +4   |
 
 - **Immunities:** Cold
 - **Skills:** History +6, Perception +8, Stealth +4
@@ -3536,14 +3269,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 10 | +0 | +5 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +6 |
-| CHA | 22 | +6 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   27   |   10   |   25   |   16   |   13   |   22   |
+|   MOD    |   +8   |   +0   |   +7   |   +3   |   +1   |   +6   |
+|   SAVE   |   +8   |   +5   |   +7   |   +3   |   +6   |   +6   |
 
 - **Immunities:** Cold
 - **Skills:** History +8, Perception +11, Stealth +5
@@ -3587,14 +3317,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 80 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 30 | +10 | +10 |
-| DEX | 10 | +0 | +7 |
-| CON | 29 | +9 | +9 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +9 |
-| CHA | 26 | +8 | +8 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   30   |   10   |   29   |   18   |   15   |   26   |
+|   MOD    |  +10   |   +0   |   +9   |   +4   |   +2   |   +8   |
+|   SAVE   |  +10   |   +7   |   +9   |   +4   |   +9   |   +8   |
 
 - **Immunities:** Cold
 - **Skills:** History +11, Perception +16, Stealth +7
@@ -3638,14 +3365,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 10 | +0 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +2 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   10   |   14   |   5    |   10   |   11   |
+|   MOD    |   +2   |   +0   |   +2   |   -3   |   +0   |   +0   |
+|   SAVE   |   +2   |   +2   |   +2   |   -3   |   +2   |   +0   |
 
 - **Immunities:** Cold
 - **Skills:** Perception +4, Stealth +2
@@ -3674,14 +3398,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 10 | +0 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 6 | -2 | -2 |
-| WIS | 11 | +0 | +3 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   10   |   18   |   6    |   11   |   12   |
+|   MOD    |   +4   |   +0   |   +4   |   -2   |   +0   |   +1   |
+|   SAVE   |   +4   |   +3   |   +4   |   -2   |   +3   |   +1   |
 
 - **Immunities:** Cold
 - **Skills:** Perception +6, Stealth +3
@@ -3710,14 +3431,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 10 | +0 | +5 |
-| CON | 22 | +6 | +6 |
-| INT | 8 | -1 | -1 |
-| WIS | 12 | +1 | +6 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   22   |   10   |   22   |   8    |   12   |   12   |
+|   MOD    |   +6   |   +0   |   +6   |   -1   |   +1   |   +1   |
+|   SAVE   |   +6   |   +5   |   +6   |   -1   |   +6   |   +1   |
 
 - **Immunities:** Cold
 - **Skills:** Perception +11, Stealth +5
@@ -3756,14 +3474,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 26 | +8 | +8 |
-| DEX | 10 | +0 | +6 |
-| CON | 26 | +8 | +8 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +7 |
-| CHA | 18 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   26   |   10   |   26   |   10   |   13   |   18   |
+|   MOD    |   +8   |   +0   |   +8   |   +0   |   +1   |   +4   |
+|   SAVE   |   +8   |   +6   |   +8   |   +0   |   +7   |   +4   |
 
 - **Immunities:** Cold
 - **Skills:** Perception +13, Stealth +6
@@ -3804,14 +3519,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft., Fly 60 ft. (hover)
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 12 | +1 | +1 |
-| CON | 24 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +6 |
-| CHA | 19 | +4 | +8 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   22   |   12   |   24   |   16   |   15   |   19   |
+|   MOD    |   +6   |   +1   |   +7   |   +3   |   +2   |   +4   |
+|   SAVE   |   +6   |   +1   |   +7   |   +3   |   +6   |   +8   |
 
 - **Immunities:** Fire
 - **Senses:** darkvision 120 ft.; Passive Perception 12
@@ -3848,14 +3560,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 15 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   15   |   13   |   7    |   12   |   8    |
+|   MOD    |   +2   |   +2   |   +1   |   -2   |   +1   |   -1   |
+|   SAVE   |   +2   |   +2   |   +1   |   -2   |   +1   |   -1   |
 
 - **Skills:** Perception +3, Stealth +4, Survival +3
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -3890,14 +3599,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 40 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 8 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   8    |   17   |   6    |   10   |   8    |
+|   MOD    |   +5   |   -1   |   +3   |   -2   |   +0   |   -1   |
+|   SAVE   |   +5   |   -1   |   +3   |   -2   |   +0   |   -1   |
 
 - **Immunities:** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
 - **Skills:** Perception +4
@@ -3925,14 +3631,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 10 ft., Fly 90 ft. (hover)
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 20 | +5 | +5 |
-| CON | 14 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   20   |   14   |   6    |   10   |   6    |
+|   MOD    |   +2   |   +5   |   +2   |   -2   |   +0   |   -2   |
+|   SAVE   |   +2   |   +5   |   +2   |   -2   |   +0   |   -2   |
 
 - **Resistances:** Bludgeoning, Lightning, Piercing, Slashing
 - **Immunities:** Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -3961,14 +3664,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Burrow 30 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 8 | -1 | -1 |
-| CON | 20 | +5 | +5 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   20   |   8    |   20   |   5    |   10   |   5    |
+|   MOD    |   +5   |   -1   |   +5   |   -3   |   +0   |   -3   |
+|   SAVE   |   +5   |   -1   |   +5   |   -3   |   +0   |   -3   |
 
 - **Vulnerabilities:** Thunder
 - **Immunities:** Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
@@ -3999,14 +3699,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 50 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 17 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   17   |   16   |   6    |   10   |   7    |
+|   MOD    |   +0   |   +3   |   +3   |   -2   |   +0   |   -2   |
+|   SAVE   |   +0   |   +3   |   +3   |   -2   |   +0   |   -2   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -4039,14 +3736,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Swim 90 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 18 | +4 | +4 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   14   |   18   |   5    |   10   |   8    |
+|   MOD    |   +4   |   +2   |   +4   |   -3   |   +0   |   -1   |
+|   SAVE   |   +4   |   +2   |   +4   |   -3   |   +0   |   -1   |
 
 - **Resistances:** Acid, Fire
 - **Immunities:** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -4079,14 +3773,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 5 ft.
 - **Initiative:** -5 (5)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 1 | -5 | -5 |
-| DEX | 1 | -5 | -5 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 3 | -4 | -4 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   1    |   1    |   10   |   1    |   3    |   1    |
+|   MOD    |   -5   |   -5   |   +0   |   -5   |   -4   |   -5   |
+|   SAVE   |   -5   |   -5   |   +0   |   -5   |   -4   |   -5   |
 
 - **Immunities:** Blinded, Charmed, Deafened, Frightened
 - **Senses:** blindsight 30 ft.; Passive Perception 6
@@ -4101,14 +3792,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 5 ft.
 - **Initiative:** -5 (5)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 1 | -5 | -5 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 3 | -4 | -4 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   3    |   1    |   10   |   1    |   3    |   1    |
+|   MOD    |   -4   |   -5   |   +0   |   -5   |   -4   |   -5   |
+|   SAVE   |   -4   |   -5   |   +0   |   -5   |   -4   |   -5   |
 
 - **Immunities:** Blinded, Charmed, Deafened, Frightened
 - **Senses:** blindsight 30 ft.; Passive Perception 6
@@ -4131,14 +3819,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 11 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 11 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   11   |   16   |   6    |   11   |   7    |
+|   MOD    |   +2   |   +0   |   +3   |   -2   |   +0   |   -2   |
+|   SAVE   |   +2   |   +0   |   +3   |   -2   |   +0   |   -2   |
 
 - **Immunities:** Poison; Exhaustion, Petrified, Poisoned
 - **Skills:** Stealth +4
@@ -4165,14 +3850,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 17 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +2 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   17   |   10   |   11   |   10   |   8    |
+|   MOD    |   +3   |   +3   |   +0   |   +0   |   +0   |   -1   |
+|   SAVE   |   +3   |   +3   |   +0   |   +0   |   +2   |   -1   |
 
 - **Resistances:** Necrotic
 - **Immunities:** Poison; Charmed, Exhaustion, Poisoned
@@ -4199,14 +3881,11 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Speed:** 5 ft., Fly 40 ft. (hover)
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 13 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 17 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   7    |   13   |   10   |   10   |   12   |   17   |
+|   MOD    |   -2   |   +1   |   +0   |   +0   |   +1   |   +3   |
+|   SAVE   |   -2   |   +1   |   +0   |   +0   |   +1   |   +3   |
 
 - **Resistances:** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
 - **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
@@ -4244,14 +3923,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   15   |   10   |   7    |   10   |   6    |
+|   MOD    |   +1   |   +2   |   +0   |   -2   |   +0   |   -2   |
+|   SAVE   |   +1   |   +2   |   +0   |   -2   |   +0   |   -2   |
 
 - **Immunities:** Poison; Charmed, Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -4275,14 +3951,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 20 ft., Swim 20 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   8    |   16   |   3    |   10   |   6    |
+|   MOD    |   +0   |   -1   |   +3   |   -4   |   +0   |   -2   |
+|   SAVE   |   +0   |   -1   |   +3   |   -4   |   +0   |   -2   |
 
 - **Immunities:** Prone
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -4313,14 +3986,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   12   |   11   |   6    |   10   |   7    |
+|   MOD    |   +2   |   +1   |   +0   |   -2   |   +0   |   -2   |
+|   SAVE   |   +2   |   +1   |   +0   |   -2   |   +0   |   -2   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Gnoll
@@ -4345,14 +4015,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 11 | +0 | +0 |
-| CON | 18 | +4 | +4 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   20   |   11   |   18   |   2    |   12   |   7    |
+|   MOD    |   +5   |   +0   |   +4   |   -4   |   +1   |   -2   |
+|   SAVE   |   +5   |   +0   |   +4   |   -4   |   +1   |   -2   |
 
 - **Immunities:** Exhaustion, Petrified
 - **Skills:** Perception +7
@@ -4378,14 +4045,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   14   |   11   |   3    |   14   |   5    |
+|   MOD    |   +2   |   +2   |   +0   |   -4   |   +2   |   -3   |
+|   SAVE   |   +2   |   +2   |   +0   |   -4   |   +2   |   -3   |
 
 - **Skills:** Stealth +4
 - **Senses:** darkvision 60 ft.; Passive Perception 12
@@ -4408,14 +4072,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft., Fly 80 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   16   |   2    |   13   |   8    |
+|   MOD    |   +4   |   +2   |   +3   |   -4   |   +1   |   -1   |
+|   SAVE   |   +4   |   +2   |   +3   |   -4   |   +1   |   -1   |
 
 - **Skills:** Perception +5
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -4436,14 +4097,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 9 | -1 | -1 |
-| WIS | 8 | -1 | -1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   12   |   12   |   9    |   8    |   6    |
+|   MOD    |   +3   |   +1   |   +1   |   -1   |   -1   |   -2   |
+|   SAVE   |   +3   |   +1   |   +1   |   -1   |   -1   |   -2   |
 
 - **Skills:** Athletics +5, Perception +3, Stealth +5
 - **Senses:** blindsight 30 ft.; Passive Perception 13
@@ -4464,14 +4122,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 40 ft., Fly 20 ft. (hover)
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 10 | +0 | +0 |
-| CON | 22 | +6 | +10 |
-| INT | 12 | +1 | +1 |
-| WIS | 16 | +3 | +7 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   27   |   10   |   22   |   12   |   16   |   16   |
+|   MOD    |   +8   |   +0   |   +6   |   +1   |   +3   |   +3   |
+|   SAVE   |   +8   |   +0   |  +10   |   +1   |   +7   |   +3   |
 
 - **Skills:** Insight +7, Perception +11
 - **Senses:** Passive Perception 21
@@ -4504,14 +4159,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 25 | +7 | +7 |
-| DEX | 9 | -1 | +3 |
-| CON | 23 | +6 | +10 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +2 |
-| CHA | 13 | +1 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   25   |   9    |   23   |   10   |   14   |   13   |
+|   MOD    |   +7   |   -1   |   +6   |   +0   |   +2   |   +1   |
+|   SAVE   |   +7   |   +3   |  +10   |   +0   |   +2   |   +5   |
 
 - **Immunities:** Fire
 - **Skills:** Athletics +11, Perception +6
@@ -4536,14 +4188,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 9 | -1 | -1 |
-| CON | 21 | +5 | +8 |
-| INT | 9 | -1 | -1 |
-| WIS | 10 | +0 | +3 |
-| CHA | 12 | +1 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   9    |   21   |   9    |   10   |   12   |
+|   MOD    |   +6   |   -1   |   +5   |   -1   |   +0   |   +1   |
+|   SAVE   |   +6   |   -1   |   +8   |   -1   |   +3   |   +4   |
 
 - **Immunities:** Cold
 - **Skills:** Athletics +9, Perception +3
@@ -4572,14 +4221,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 8 | -1 | -1 |
-| CON | 19 | +4 | +4 |
-| INT | 5 | -3 | -3 |
-| WIS | 9 | -1 | -1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   21   |   8    |   19   |   5    |   9    |   6    |
+|   MOD    |   +5   |   -1   |   +4   |   -3   |   -1   |   -2   |
+|   SAVE   |   +5   |   -1   |   +4   |   -3   |   -1   |   -2   |
 
 - **Skills:** Perception +2
 - **Senses:** Passive Perception 12
@@ -4603,14 +4249,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 40 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 15 | +2 | +5 |
-| CON | 20 | +5 | +8 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +4 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   15   |   20   |   10   |   12   |   9    |
+|   MOD    |   +6   |   +2   |   +5   |   +0   |   +1   |   -1   |
+|   SAVE   |   +6   |   +5   |   +8   |   +0   |   +4   |   -1   |
 
 - **Skills:** Athletics +12, Perception +4, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -4634,14 +4277,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
 - **Initiative:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 29 | +9 | +14 |
-| DEX | 14 | +2 | +2 |
-| CON | 20 | +5 | +10 |
-| INT | 16 | +3 | +3 |
-| WIS | 20 | +5 | +10 |
-| CHA | 18 | +4 | +9 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   29   |   14   |   20   |   16   |   20   |   18   |
+|   MOD    |   +9   |   +2   |   +5   |   +3   |   +5   |   +4   |
+|   SAVE   |  +14   |   +2   |  +10   |   +3   |  +10   |   +9   |
 
 - **Resistances:** Cold
 - **Immunities:** Lightning, Thunder
@@ -4680,14 +4320,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 8 | -1 | -1 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   15   |   10   |   10   |   8    |   10   |
+|   MOD    |   +0   |   +2   |   +0   |   +0   |   -1   |   +0   |
+|   SAVE   |   +0   |   +2   |   +0   |   +0   |   -1   |   +0   |
 
 - **Skills:** Stealth +6
 - **Gear** Chain Shirt, Scimitar, Shield, Shortbow
@@ -4716,14 +4353,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 8 | -1 | -1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   15   |   10   |   10   |   8    |   8    |
+|   MOD    |   -1   |   +2   |   +0   |   +0   |   -1   |   -1   |
+|   SAVE   |   -1   |   +2   |   +0   |   +0   |   -1   |   -1   |
 
 - **Skills:** Stealth +6
 - **Gear** Dagger x 3
@@ -4748,14 +4382,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 8 | -1 | -1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   15   |   10   |   10   |   8    |   8    |
+|   MOD    |   -1   |   +2   |   +0   |   +0   |   -1   |   -1   |
+|   SAVE   |   -1   |   +2   |   +0   |   +0   |   -1   |   -1   |
 
 - **Skills:** Stealth +6
 - **Gear** Leather Armor, Scimitar, Shield, Shortbow
@@ -4784,14 +4415,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 20 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 9 | -1 | -1 |
-| CON | 18 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| WIS | 8 | -1 | -1 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   20   |   9    |   18   |   3    |   8    |   1    |
+|   MOD    |   +5   |   -1   |   +4   |   -4   |   -1   |   -5   |
+|   SAVE   |   +5   |   -1   |   +4   |   -4   |   -1   |   -5   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Acid, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
@@ -4828,14 +4456,11 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Speed:** 30 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 9 | -1 | -1 |
-| CON | 18 | +4 | +4 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   9    |   18   |   6    |   10   |   5    |
+|   MOD    |   +4   |   -1   |   +4   |   -2   |   +0   |   -3   |
+|   SAVE   |   +4   |   -1   |   +4   |   -2   |   +0   |   -3   |
 
 - **Immunities:** Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -4870,14 +4495,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 30 ft.
 - **Initiative:** +9 (19)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 24 | +7 | +7 |
-| DEX | 9 | -1 | -1 |
-| CON | 20 | +5 | +5 |
-| INT | 3 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   24   |   9    |   20   |   3    |   11   |   1    |
+|   MOD    |   +7   |   -1   |   +5   |   -4   |   +0   |   -5   |
+|   SAVE   |   +7   |   -1   |   +5   |   -4   |   +0   |   -5   |
 
 - **Immunities:** Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
@@ -4911,14 +4533,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 9 | -1 | -1 |
-| CON | 20 | +5 | +5 |
-| INT | 3 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   22   |   9    |   20   |   3    |   11   |   1    |
+|   MOD    |   +6   |   -1   |   +5   |   -4   |   +0   |   -5   |
+|   SAVE   |   +6   |   -1   |   +5   |   -4   |   +0   |   -5   |
 
 - **Immunities:** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
@@ -4954,14 +4573,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   12   |   12   |   10   |   11   |   10   |
+|   MOD    |   +1   |   +1   |   +1   |   +0   |   +0   |   +0   |
+|   SAVE   |   +1   |   +1   |   +1   |   +0   |   +0   |   +0   |
 
 - **Skills:** Perception +2
 - **Gear** Chain Shirt, Shield, Spear
@@ -4982,14 +4598,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   14   |   16   |   12   |   14   |   13   |
+|   MOD    |   +4   |   +2   |   +3   |   +1   |   +2   |   +1   |
+|   SAVE   |   +4   |   +2   |   +3   |   +1   |   +2   |   +1   |
 
 - **Skills:** Athletics +6, Perception +4
 - **Gear** Breastplate, Javelin x 6, Longsword, Shield
@@ -5016,14 +4629,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 40 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 14 | +2 | +5 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| WIS | 15 | +2 | +5 |
-| CHA | 14 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   14   |   16   |   10   |   15   |   14   |
+|   MOD    |   +4   |   +2   |   +3   |   +0   |   +2   |   +2   |
+|   SAVE   |   +4   |   +5   |   +3   |   +0   |   +5   |   +2   |
 
 - **Resistances:** Damage type chosen for the Draconic Origin trait below
 - **Skills:** Athletics +7, Perception +5, Stealth +5
@@ -5056,14 +4666,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 20 ft., Fly 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   13   |   12   |   7    |   10   |   13   |
+|   MOD    |   +1   |   +1   |   +1   |   -2   |   +0   |   +1   |
+|   SAVE   |   +1   |   +1   |   +1   |   -2   |   +0   |   +1   |
 
 - **Senses:** Passive Perception 10
 - **Languages:** Common
@@ -5084,14 +4691,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 50 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   12   |   14   |   6    |   13   |   6    |
+|   MOD    |   +3   |   +1   |   +2   |   -2   |   +1   |   -2   |
+|   SAVE   |   +3   |   +1   |   +2   |   -2   |   +1   |   -2   |
 
 - **Immunities:** Fire
 - **Skills:** Perception +5
@@ -5120,14 +4724,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 40 ft., Fly 60 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   13   |   13   |   2    |   12   |   8    |
+|   MOD    |   +3   |   +1   |   +1   |   -4   |   +1   |   -1   |
+|   SAVE   |   +3   |   +1   |   +1   |   -4   |   +1   |   -1   |
 
 - **Skills:** Perception +5
 - **Senses:** Passive Perception 15
@@ -5152,14 +4753,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 20 ft., Fly 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 4 | -3 | -3 |
-| DEX | 15 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +2 |
-| CHA | 7 | -2 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   4    |   15   |   14   |   10   |   10   |   7    |
+|   MOD    |   -3   |   +2   |   +2   |   +0   |   +0   |   -2   |
+|   SAVE   |   -3   |   +2   |   +2   |   +0   |   +2   |   +0   |
 
 - **Immunities:** Poison; Charmed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -5183,14 +4781,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 40 ft., Swim 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 12 | +1 | +1 |
-| CON | 20 | +5 | +5 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   20   |   12   |   20   |   2    |   10   |   7    |
+|   MOD    |   +5   |   +1   |   +5   |   -4   |   +0   |   -2   |
+|   SAVE   |   +5   |   +1   |   +5   |   -4   |   +0   |   -2   |
 
 - **Immunities:** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
 - **Skills:** Perception +6
@@ -5222,14 +4817,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 30 ft., Swim 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 12 | +1 | +1 |
-| CON | 16 | +3 | +3 |
-| INT | 13 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 14 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   12   |   16   |   13   |   14   |   14   |
+|   MOD    |   +4   |   +1   |   +3   |   +1   |   +2   |   +2   |
+|   SAVE   |   +4   |   +1   |   +3   |   +1   |   +2   |   +2   |
 
 - **Skills:** Arcana +5, Deception +4, Perception +4, Stealth +3
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -5261,14 +4853,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Speed:** 30 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 16 | +3 | +3 |
-| WIS | 14 | +2 | +2 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   16   |   16   |   14   |   16   |
+|   MOD    |   +4   |   +2   |   +3   |   +3   |   +2   |   +3   |
+|   SAVE   |   +4   |   +2   |   +3   |   +3   |   +2   |   +3   |
 
 - **Resistances:** Cold, Fire
 - **Immunities:** Charmed
@@ -5313,14 +4902,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Speed:** 30 ft., Swim 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 12 | +1 | +1 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   13   |   16   |   12   |   12   |   13   |
+|   MOD    |   +3   |   +1   |   +3   |   +1   |   +1   |   +1   |
+|   SAVE   |   +3   |   +1   |   +3   |   +1   |   +1   |   +1   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Common, Giant, Primordial (Aquan)
@@ -5353,14 +4939,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Speed:** 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 12 | +1 | +1 |
-| WIS | 10 | +0 | +0 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   14   |   14   |   12   |   10   |   13   |
+|   MOD    |   +2   |   +2   |   +2   |   +1   |   +0   |   +1   |
+|   SAVE   |   +2   |   +2   |   +2   |   +1   |   +0   |   +1   |
 
 - **Gear** Greatsword, Half Plate Armor, Longbow
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -5388,14 +4971,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   12   |   12   |   10   |   10   |   9    |
+|   MOD    |   +1   |   +1   |   +1   |   +0   |   +0   |   -1   |
+|   SAVE   |   +1   |   +1   |   +1   |   +0   |   +0   |   -1   |
 
 - **Gear** Half Plate Armor, Longbow, Longsword, Shield
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -5423,14 +5003,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Speed:** 30 ft., Fly 60 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 15 | +2 | +2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 20 | +5 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   17   |   13   |   15   |   12   |   20   |
+|   MOD    |   -1   |   +3   |   +1   |   +2   |   +1   |   +5   |
+|   SAVE   |   -1   |   +3   |   +1   |   +2   |   +1   |   +5   |
 
 - **Resistances:** Cold, Fire, Poison, Psychic
 - **Skills:** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
@@ -5466,14 +5043,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Speed:** 50 ft., Fly 50 ft. (hover)
 - **Initiative:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 19 | +4 | +4 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 15 | +2 | +2 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   19   |   14   |   10   |   15   |   11   |
+|   MOD    |   +3   |   +4   |   +2   |   +0   |   +2   |   +0   |
+|   SAVE   |   +3   |   +4   |   +2   |   +0   |   +2   |   +0   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -5507,14 +5081,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 15 | +2 | +2 |
-| CON | 9 | -1 | -1 |
-| INT | 8 | -1 | -1 |
-| WIS | 7 | -2 | -2 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   7    |   15   |   9    |   8    |   7    |   8    |
+|   MOD    |   -2   |   +2   |   -1   |   -1   |   -2   |   -1   |
+|   SAVE   |   -2   |   +2   |   -1   |   -1   |   -2   |   -1   |
 
 - **Gear** Dagger x 3
 - **Senses:** darkvision 60 ft.; Passive Perception 8
@@ -5540,14 +5111,11 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Speed:** 30 ft., Swim 120 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 30 | +10 | +17 |
-| DEX | 11 | +0 | +7 |
-| CON | 26 | +8 | +15 |
-| INT | 22 | +6 | +6 |
-| WIS | 18 | +4 | +11 |
-| CHA | 20 | +5 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   30   |   11   |   26   |   22   |   18   |   20   |
+|   MOD    |  +10   |   +0   |   +8   |   +6   |   +4   |   +5   |
+|   SAVE   |  +17   |   +7   |  +15   |   +6   |  +11   |   +5   |
 
 - **Immunities:** Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
 - **Skills:** History +13, Perception +11
@@ -5593,14 +5161,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 14 | +2 | +2 |
-| WIS | 15 | +2 | +2 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   13   |   15   |   14   |   15   |   16   |
+|   MOD    |   +3   |   +1   |   +2   |   +2   |   +2   |   +3   |
+|   SAVE   |   +3   |   +1   |   +2   |   +2   |   +2   |   +3   |
 
 - **Skills:** Deception +7, Insight +4, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 12
@@ -5633,14 +5198,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 16 | +3 | +10 |
-| CON | 16 | +3 | +10 |
-| INT | 21 | +5 | +12 |
-| WIS | 14 | +2 | +9 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   16   |   16   |   21   |   14   |   16   |
+|   MOD    |   +0   |   +3   |   +3   |   +5   |   +2   |   +3   |
+|   SAVE   |   +0   |  +10   |  +10   |  +12   |   +9   |   +3   |
 
 - **Resistances:** Cold, Lightning
 - **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
@@ -5693,14 +5255,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Alternate ? ft., Climb 30 ft. (bear form only)
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 17 | +3 | +3 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   10   |   17   |   11   |   12   |   12   |
+|   MOD    |   +4   |   +0   |   +3   |   +0   |   +1   |   +1   |
+|   SAVE   |   +4   |   +0   |   +3   |   +0   |   +1   |   +1   |
 
 - **Skills:** Perception +7
 - **Gear** Handaxe x 4
@@ -5731,14 +5290,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Alternate ? ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 10 | +0 | +0 |
-| CON | 15 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   10   |   15   |   10   |   11   |   8    |
+|   MOD    |   +3   |   +0   |   +2   |   +0   |   +0   |   -1   |
+|   SAVE   |   +3   |   +0   |   +2   |   +0   |   +0   |   -1   |
 
 - **Skills:** Perception +2
 - **Gear** Javelin x 6
@@ -5769,14 +5325,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 16 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   16   |   12   |   11   |   10   |   8    |
+|   MOD    |   +0   |   +3   |   +1   |   +0   |   +0   |   -1   |
+|   SAVE   |   +0   |   +3   |   +1   |   +0   |   +0   |   -1   |
 
 - **Skills:** Perception +4, Stealth +5
 - **Gear** Hand Crossbow
@@ -5807,14 +5360,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Alternate ? ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   15   |   16   |   10   |   13   |   11   |
+|   MOD    |   +3   |   +2   |   +3   |   +0   |   +1   |   +0   |
+|   SAVE   |   +3   |   +2   |   +3   |   +0   |   +1   |   +0   |
 
 - **Skills:** Perception +5, Stealth +4
 - **Gear** Longbow
@@ -5847,14 +5397,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Alternate ? ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   14   |   14   |   10   |   11   |   10   |
+|   MOD    |   +3   |   +2   |   +2   |   +0   |   +0   |   +0   |
+|   SAVE   |   +3   |   +2   |   +2   |   +0   |   +0   |   +0   |
 
 - **Skills:** Perception +4, Stealth +4
 - **Gear** Longbow
@@ -5891,14 +5438,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 8 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   7    |   15   |   12   |   8    |   11   |   10   |
+|   MOD    |   -2   |   +2   |   +1   |   -1   |   +0   |   +0   |
+|   SAVE   |   -2   |   +2   |   +1   |   -1   |   +0   |   +0   |
 
 - **Immunities:** Fire
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -5926,14 +5470,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Fly 50 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 16 | +3 | +3 |
-| CON | 17 | +3 | +3 |
-| INT | 7 | -2 | -2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   16   |   17   |   7    |   12   |   8    |
+|   MOD    |   +3   |   +3   |   +3   |   -2   |   +1   |   -1   |
+|   SAVE   |   +3   |   +3   |   +3   |   -2   |   +1   |   -1   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Common
@@ -5956,14 +5497,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 17 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 13 | +1 | +4 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   17   |   16   |   12   |   13   |   15   |
+|   MOD    |   +0   |   +3   |   +3   |   +1   |   +1   |   +2   |
+|   SAVE   |   +0   |   +3   |   +3   |   +1   |   +4   |   +2   |
 
 - **Skills:** Deception +5, Perception +4, Stealth +6
 - **Senses:** darkvision 150 ft.; Passive Perception 14
@@ -5993,14 +5531,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 10 ft., Swim 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| WIS | 14 | +2 | +2 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   13   |   12   |   11   |   14   |   12   |
+|   MOD    |   +0   |   +1   |   +1   |   +0   |   +2   |   +1   |
+|   SAVE   |   +0   |   +1   |   +1   |   +0   |   +2   |   +1   |
 
 - **Senses:** Passive Perception 12
 - **Languages:** Common, Primordial (Aquan)
@@ -6023,14 +5558,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 10 ft., Swim 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 8 | -1 | -1 |
-| WIS | 10 | +0 | +0 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   15   |   8    |   10   |   9    |
+|   MOD    |   +4   |   +2   |   +2   |   -1   |   +0   |   -1   |
+|   SAVE   |   +4   |   +2   |   +2   |   -1   |   +0   |   -1   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Abyssal, Primordial (Aquan)
@@ -6059,14 +5591,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 20 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 5 | -3 | -3 |
-| WIS | 13 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   12   |   15   |   5    |   13   |   8    |
+|   MOD    |   +3   |   +1   |   +2   |   -3   |   +1   |   -1   |
+|   SAVE   |   +3   |   +1   |   +2   |   -3   |   +1   |   -1   |
 
 - **Immunities:** Acid; Prone
 - **Skills:** Stealth +5
@@ -6096,14 +5625,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 11 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 16 | +3 | +3 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   11   |   16   |   6    |   16   |   9    |
+|   MOD    |   +4   |   +0   |   +3   |   -2   |   +3   |   -1   |
+|   SAVE   |   +4   |   +0   |   +3   |   -2   |   +3   |   -1   |
 
 - **Skills:** Perception +7, Survival +7
 - **Senses:** darkvision 60 ft.; Passive Perception 17
@@ -6127,14 +5653,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 20 | +5 | +9 |
-| WIS | 15 | +2 | +6 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   14   |   12   |   20   |   15   |   16   |
+|   MOD    |   +0   |   +2   |   +1   |   +5   |   +2   |   +3   |
+|   SAVE   |   +0   |   +2   |   +1   |   +9   |   +6   |   +3   |
 
 - **Immunities:** Psychic; Charmed ((with Mind Blank))
 - **Skills:** Arcana +13, History +9, Perception +6
@@ -6176,14 +5699,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 12 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   12   |   13   |   12   |   16   |   11   |
+|   MOD    |   +0   |   +1   |   +1   |   +1   |   +3   |   +0   |
+|   SAVE   |   +0   |   +1   |   +1   |   +1   |   +3   |   +0   |
 
 - **Skills:** Medicine +5, Nature +3, Perception +5
 - **Gear** Studded Leather Armor
@@ -6214,14 +5734,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 9 | -1 | -1 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 17 | +3 | +6 |
-| WIS | 12 | +1 | +4 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   9    |   14   |   11   |   17   |   12   |   11   |
+|   MOD    |   -1   |   +2   |   +0   |   +3   |   +1   |   +0   |
+|   SAVE   |   -1   |   +2   |   +0   |   +6   |   +4   |   +0   |
 
 - **Skills:** Arcana +6, History +6, Perception +4
 - **Gear** Wand
@@ -6260,14 +5777,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Fly 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 9 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   5    |   14   |   10   |   9    |   11   |   10   |
+|   MOD    |   -3   |   +2   |   +0   |   -1   |   +0   |   +0   |
+|   SAVE   |   -3   |   +2   |   +0   |   -1   |   +0   |   +0   |
 
 - **Vulnerabilities:** Fire
 - **Immunities:** Poison; Exhaustion, Poisoned
@@ -6300,14 +5814,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Fly 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 13 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 9 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   7    |   13   |   10   |   9    |   11   |   12   |
+|   MOD    |   -2   |   +1   |   +0   |   -1   |   +0   |   +1   |
+|   SAVE   |   -2   |   +1   |   +0   |   -1   |   +0   |   +1   |
 
 - **Vulnerabilities:** Fire
 - **Immunities:** Cold, Poison; Exhaustion, Poisoned
@@ -6340,14 +5851,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Fly 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   12   |   12   |   7    |   10   |   10   |
+|   MOD    |   -1   |   +1   |   +1   |   -2   |   +0   |   +0   |
+|   SAVE   |   -1   |   +1   |   +1   |   -2   |   +0   |   +0   |
 
 - **Vulnerabilities:** Cold
 - **Immunities:** Fire, Poison; Exhaustion, Poisoned
@@ -6375,14 +5883,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Fly 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 11 | +0 | +0 |
-| CON | 10 | +0 | +0 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   5    |   11   |   10   |   11   |   10   |   12   |
+|   MOD    |   -3   |   +0   |   +0   |   +0   |   +0   |   +1   |
+|   SAVE   |   -3   |   +0   |   +0   |   +0   |   +0   |   +1   |
 
 - **Immunities:** Fire, Poison; Exhaustion, Poisoned
 - **Skills:** Stealth +2
@@ -6413,14 +5918,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 20 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 8 | -1 | -1 |
-| CON | 15 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 12 | +1 | +3 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   8    |   15   |   6    |   12   |   12   |
+|   MOD    |   +3   |   -1   |   +2   |   -2   |   +1   |   +1   |
+|   SAVE   |   +3   |   -1   |   +2   |   -2   |   +3   |   +1   |
 
 - **Vulnerabilities:** Fire
 - **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
@@ -6445,14 +5947,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 17 | +3 | +3 |
-| INT | 11 | +0 | +5 |
-| WIS | 19 | +4 | +9 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   10   |   17   |   11   |   19   |   16   |
+|   MOD    |   +4   |   +0   |   +3   |   +0   |   +4   |   +3   |
+|   SAVE   |   +4   |   +0   |   +3   |   +5   |   +9   |   +3   |
 
 - **Vulnerabilities:** Fire
 - **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
@@ -6503,14 +6002,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 60 ft., Fly 90 ft. (hover)
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   16   |   10   |   13   |   15   |
+|   MOD    |   +4   |   +2   |   +3   |   +0   |   +1   |   +2   |
+|   SAVE   |   +4   |   +2   |   +3   |   +0   |   +1   |   +2   |
 
 - **Immunities:** Fire
 - **Senses:** Passive Perception 11
@@ -6538,14 +6034,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   12   |   11   |   12   |   14   |   16   |
+|   MOD    |   +0   |   +1   |   +0   |   +1   |   +2   |   +3   |
+|   SAVE   |   +0   |   +1   |   +0   |   +1   |   +2   |   +3   |
 
 - **Skills:** Deception +5, Insight +4, Persuasion +5
 - **Gear** Breastplate, Rapier
@@ -6568,14 +6061,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 40 ft., Climb 40 ft., Swim 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 18 | +4 | +8 |
-| CON | 16 | +3 | +7 |
-| INT | 16 | +3 | +7 |
-| WIS | 19 | +4 | +8 |
-| CHA | 18 | +4 | +8 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   18   |   16   |   16   |   19   |   18   |
+|   MOD    |   +4   |   +4   |   +3   |   +3   |   +4   |   +4   |
+|   SAVE   |   +4   |   +8   |   +7   |   +7   |   +8   |   +8   |
 
 - **Immunities:** Poison; Charmed, Paralyzed, Poisoned, Restrained
 - **Skills:** Arcana +11, History +11, Religion +11
@@ -6609,14 +6099,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 17 | +3 | +6 |
-| CON | 14 | +2 | +5 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +5 |
-| CHA | 16 | +3 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   17   |   14   |   16   |   15   |   16   |
+|   MOD    |   +4   |   +3   |   +2   |   +3   |   +2   |   +3   |
+|   SAVE   |   +4   |   +6   |   +5   |   +3   |   +5   |   +6   |
 
 - **Immunities:** Poison; Charmed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 12
@@ -6651,14 +6138,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 40 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| WIS | 7 | -2 | -2 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   8    |   16   |   5    |   7    |   7    |
+|   MOD    |   +4   |   -1   |   +3   |   -3   |   -2   |   -2   |
+|   SAVE   |   +4   |   -1   |   +3   |   -3   |   -2   |   -2   |
 
 - **Gear** Greatclub, Javelin x 3
 - **Senses:** darkvision 60 ft.; Passive Perception 8
@@ -6680,14 +6164,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft., Fly 30 ft. (hover)
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 11 | +0 | +3 |
-| CON | 16 | +3 | +6 |
-| INT | 14 | +2 | +2 |
-| WIS | 12 | +1 | +4 |
-| CHA | 15 | +2 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   11   |   16   |   14   |   12   |   15   |
+|   MOD    |   +4   |   +0   |   +3   |   +2   |   +1   |   +2   |
+|   SAVE   |   +4   |   +3   |   +6   |   +2   |   +4   |   +5   |
 
 - **Resistances:** Cold
 - **Skills:** Arcana +5, Deception +8, Perception +4
@@ -6727,14 +6208,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 11 | +0 | +0 |
-| CON | 19 | +4 | +7 |
-| INT | 6 | -2 | -2 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   11   |   19   |   6    |   13   |   6    |
+|   MOD    |   +3   |   +0   |   +4   |   -2   |   +1   |   -2   |
+|   SAVE   |   +3   |   +0   |   +7   |   -2   |   +1   |   -2   |
 
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
@@ -6759,14 +6237,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 40 ft., Climb 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 12 | +1 | +1 |
-| CON | 17 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   20   |   12   |   17   |   3    |   12   |   7    |
+|   MOD    |   +5   |   +1   |   +3   |   -4   |   +1   |   -2   |
+|   SAVE   |   +5   |   +1   |   +3   |   -4   |   +1   |   -2   |
 
 - **Skills:** Perception +5
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -6789,14 +6264,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Speed:** 20 ft., Climb 20 ft.
 - **Initiative:** -3 (7)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 5 | -3 | -3 |
-| CON | 16 | +3 | +3 |
-| INT | 1 | -5 | -5 |
-| WIS | 6 | -2 | -2 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   5    |   16   |   1    |   6    |   1    |
+|   MOD    |   +3   |   -3   |   +3   |   -5   |   -2   |   -5   |
+|   SAVE   |   +3   |   -3   |   +3   |   -5   |   -2   |   -5   |
 
 - **Immunities:** Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
 - **Senses:** blindsight 60 ft.; Passive Perception 8
@@ -6824,14 +6296,11 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 - **Speed:** 15 ft.
 - **Initiative:** -4 (6)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 3 | -4 | -4 |
-| CON | 20 | +5 | +5 |
-| INT | 1 | -5 | -5 |
-| WIS | 6 | -2 | -2 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   3    |   20   |   1    |   6    |   1    |
+|   MOD    |   +2   |   -4   |   +5   |   -5   |   -2   |   -5   |
+|   SAVE   |   +2   |   -4   |   +5   |   -5   |   -2   |   -5   |
 
 - **Immunities:** Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 - **Senses:** blindsight 60 ft.; Passive Perception 8
@@ -6860,14 +6329,11 @@ As an action, a creature within 5 feet of the cube can pull a creature or an obj
 - **Speed:** 10 ft., Climb 10 ft.
 - **Initiative:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 6 | -2 | -2 |
-| CON | 16 | +3 | +3 |
-| INT | 1 | -5 | -5 |
-| WIS | 6 | -2 | -2 |
-| CHA | 2 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   6    |   16   |   1    |   6    |   2    |
+|   MOD    |   +1   |   -2   |   +3   |   -5   |   -2   |   -4   |
+|   SAVE   |   +1   |   -2   |   +3   |   -5   |   -2   |   -4   |
 
 - **Resistances:** Acid, Cold, Fire
 - **Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
@@ -6895,14 +6361,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Speed:** 20 ft., Climb 20 ft.
 - **Initiative:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 6 | -2 | -2 |
-| CON | 14 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 6 | -2 | -2 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   6    |   14   |   2    |   6    |   1    |
+|   MOD    |   +2   |   -2   |   +2   |   -4   |   -2   |   -5   |
+|   SAVE   |   +2   |   -2   |   +2   |   -4   |   -2   |   -5   |
 
 - **Resistances:** Acid
 - **Immunities:** Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
@@ -6930,14 +6393,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Speed:** 60 ft., Fly 90 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +4 |
-| CON | 16 | +3 | +5 |
-| INT | 10 | +0 | +0 |
-| WIS | 15 | +2 | +4 |
-| CHA | 13 | +1 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   16   |   10   |   15   |   13   |
+|   MOD    |   +4   |   +2   |   +3   |   +0   |   +2   |   +1   |
+|   SAVE   |   +4   |   +4   |   +5   |   +0   |   +4   |   +3   |
 
 - **Skills:** Perception +6
 - **Senses:** Passive Perception 16
@@ -6957,14 +6417,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 16 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   16   |   12   |   6    |   10   |   6    |
+|   MOD    |   +2   |   +3   |   +1   |   -2   |   +0   |   -2   |
+|   SAVE   |   +2   |   +3   |   +1   |   -2   |   +0   |   -2   |
 
 - **Skills:** Stealth +7
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -6997,14 +6454,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Speed:** 15 ft., Fly 60 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 15 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   15   |   13   |   10   |   12   |   10   |
+|   MOD    |   -2   |   +2   |   +1   |   +0   |   +1   |   +0   |
+|   SAVE   |   -2   |   +2   |   +1   |   +0   |   +1   |   +0   |
 
 - **Skills:** Perception +5, Stealth +4
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
@@ -7032,14 +6486,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Speed:** 50 ft., Burrow 50 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 28 | +9 | +9 |
-| DEX | 7 | -2 | -2 |
-| CON | 22 | +6 | +11 |
-| INT | 1 | -5 | -5 |
-| WIS | 8 | -1 | +4 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   28   |   7    |   22   |   1    |   8    |   4    |
+|   MOD    |   +9   |   -2   |   +6   |   -5   |   -1   |   -3   |
+|   SAVE   |   +9   |   -2   |  +11   |   -5   |   +4   |   -3   |
 
 - **Senses:** blindsight 30 ft., tremorsense 60 ft.; Passive Perception 9
 - **CR** 15 (XP 13,000; PB +5)
@@ -7072,14 +6523,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Speed:** 30 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 16 | +3 | +5 |
-| CON | 12 | +1 | +1 |
-| INT | 8 | -1 | -1 |
-| WIS | 12 | +1 | +1 |
-| CHA | 14 | +2 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   16   |   12   |   8    |   12   |   14   |
+|   MOD    |   +0   |   +3   |   +1   |   -1   |   +1   |   +2   |
+|   SAVE   |   +0   |   +5   |   +1   |   -1   |   +1   |   +4   |
 
 - **Gear** Dagger x 6, Leather Armor
 - **Senses:** Passive Perception 11
@@ -7103,14 +6551,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Speed:** 30 ft.
 - **Initiative:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +3 |
-| DEX | 18 | +4 | +7 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +5 |
-| CHA | 17 | +3 | +6 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   18   |   14   |   10   |   14   |   17   |
+|   MOD    |   +0   |   +4   |   +2   |   +0   |   +2   |   +3   |
+|   SAVE   |   +3   |   +7   |   +2   |   +0   |   +5   |   +6   |
 
 - **Skills:** Acrobatics +7, Perception +5
 - **Gear** Pistol, Rapier
@@ -7141,14 +6586,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Speed:** 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 10 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 13 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 13 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   10   |   12   |   13   |   16   |   13   |
+|   MOD    |   +3   |   +0   |   +1   |   +1   |   +3   |   +1   |
+|   SAVE   |   +3   |   +0   |   +1   |   +1   |   +3   |   +1   |
 
 - **Skills:** Medicine +7, Perception +5, Religion +5
 - **Gear** Chain Shirt, Holy Symbol, Mace
@@ -7182,14 +6624,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Speed:** 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 10 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +2 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   10   |   12   |   10   |   14   |   11   |
+|   MOD    |   +2   |   +0   |   +1   |   +0   |   +2   |   +0   |
+|   SAVE   |   +2   |   +0   |   +1   |   +0   |   +2   |   +0   |
 
 - **Skills:** Medicine +4, Religion +2
 - **Gear** Chain Shirt, Holy Symbol, Mace
@@ -7222,14 +6661,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Speed:** 40 ft.
 - **Initiative:** +8 (18)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 17 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 20 | +5 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   17   |   18   |   13   |   16   |   20   |
+|   MOD    |   +2   |   +3   |   +4   |   +1   |   +3   |   +5   |
+|   SAVE   |   +2   |   +3   |   +4   |   +1   |   +3   |   +5   |
 
 - **Vulnerabilities:** Piercing
 - **Immunities:** Charmed, Frightened
@@ -7266,14 +6702,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Speed:** 40 ft., Burrow 30 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 24 | +7 | +7 |
-| DEX | 13 | +1 | +1 |
-| CON | 21 | +5 | +5 |
-| INT | 4 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   24   |   13   |   21   |   4    |   10   |   5    |
+|   MOD    |   +7   |   +1   |   +5   |   -3   |   +0   |   -3   |
+|   SAVE   |   +7   |   +1   |   +5   |   -3   |   +0   |   -3   |
 
 - **Immunities:** Cold, Fire
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
@@ -7301,14 +6734,11 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Speed:** 20 ft., Fly 120 ft.
 - **Initiative:** +8 (18)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 28 | +9 | +9 |
-| DEX | 10 | +0 | +4 |
-| CON | 20 | +5 | +5 |
-| INT | 3 | -4 | -4 |
-| WIS | 10 | +0 | +4 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   28   |   10   |   20   |   3    |   10   |   9    |
+|   MOD    |   +9   |   +0   |   +5   |   -4   |   +0   |   -1   |
+|   SAVE   |   +9   |   +4   |   +5   |   -4   |   +4   |   -1   |
 
 - **Skills:** Perception +8
 - **Senses:** Passive Perception 18
@@ -7335,14 +6765,11 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Speed:** 10 ft., Climb 20 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 8 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 7 | -2 | -2 |
-| WIS | 16 | +3 | +3 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   8    |   17   |   7    |   16   |   6    |
+|   MOD    |   +4   |   -1   |   +3   |   -2   |   +3   |   -2   |
+|   SAVE   |   +4   |   -1   |   +3   |   -2   |   +3   |   -2   |
 
 - **Skills:** Perception +6, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 16
@@ -7372,14 +6799,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 40 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   12   |   13   |   2    |   13   |   6    |
+|   MOD    |   +1   |   +1   |   +1   |   -4   |   +1   |   -2   |
+|   SAVE   |   +1   |   +1   |   +1   |   -4   |   +1   |   -2   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **CR** 1/2 (XP 100; PB +2)
@@ -7409,14 +6833,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 30 ft., Swim 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 11 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 12 | +1 | +1 |
-| WIS | 13 | +1 | +1 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   11   |   12   |   12   |   13   |   9    |
+|   MOD    |   +1   |   +0   |   +1   |   +1   |   +1   |   -1   |
+|   SAVE   |   +1   |   +0   |   +1   |   +1   |   +1   |   -1   |
 
 - **Resistances:** Acid, Cold
 - **Skills:** Perception +5
@@ -7451,14 +6872,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   14   |   15   |   11   |   10   |   12   |
+|   MOD    |   +4   |   +2   |   +2   |   +0   |   +0   |   +1   |
+|   SAVE   |   +4   |   +2   |   +2   |   +0   |   +0   |   +1   |
 
 - **Vulnerabilities:** Cold
 - **Immunities:** Fire
@@ -7487,14 +6905,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| WIS | 10 | +0 | +0 |
-| CHA | 14 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   12   |   16   |   11   |   12   |   10   |   14   |
+|   MOD    |   +1   |   +3   |   +0   |   +1   |   +0   |   +2   |
+|   SAVE   |   +1   |   +3   |   +0   |   +1   |   +0   |   +2   |
 
 - **Skills:** Perception +2, Performance +6, Stealth +5
 - **Senses:** Passive Perception 12
@@ -7520,14 +6935,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   11   |   14   |   12   |   11   |   13   |   11   |
+|   MOD    |   +0   |   +2   |   +1   |   +0   |   +1   |   +0   |
+|   SAVE   |   +0   |   +2   |   +1   |   +0   |   +1   |   +0   |
 
 - **Skills:** Nature +4, Perception +5, Stealth +6, Survival +5
 - **Gear** Leather Armor, Longbow, Shortsword
@@ -7552,14 +6964,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 40 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 14 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   14   |   13   |   6    |   10   |   8    |
+|   MOD    |   -2   |   +2   |   +1   |   -2   |   +0   |   -1   |
+|   SAVE   |   -2   |   +2   |   +1   |   -2   |   +0   |   -1   |
 
 - **Vulnerabilities:** Radiant
 - **Resistances:** Acid, Cold, Fire, Lightning, Thunder
@@ -7591,14 +7000,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 30 ft., Swim 20 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   8    |   16   |   5    |   10   |   5    |
+|   MOD    |   +4   |   -1   |   +3   |   -3   |   +0   |   -3   |
+|   SAVE   |   +4   |   -1   |   +3   |   -3   |   +0   |   -3   |
 
 - **Resistances:** Cold, Fire
 - **Immunities:** Lightning; Deafened, Exhaustion
@@ -7627,14 +7033,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 30 ft.
 - **Initiative:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 8 | -1 | -1 |
-| CON | 18 | +4 | +4 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   8    |   18   |   7    |   10   |   3    |
+|   MOD    |   +4   |   -1   |   +4   |   -2   |   +0   |   -4   |
+|   SAVE   |   +4   |   -1   |   +4   |   -2   |   +0   |   -4   |
 
 - **Immunities:** Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 10
@@ -7664,14 +7067,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 30 ft., Fly 50 ft. (hover)
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 1 | -5 | -5 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   1    |   14   |   11   |   10   |   10   |   11   |
+|   MOD    |   -5   |   +2   |   +0   |   +0   |   +0   |   +0   |
+|   SAVE   |   -5   |   +2   |   +0   |   +0   |   +0   |   +0   |
 
 - **Resistances:** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
 - **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -7698,14 +7098,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 10 ft., Fly 40 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 18 | +4 | +4 |
-| CON | 10 | +0 | +0 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   3    |   18   |   10   |   14   |   13   |   11   |
+|   MOD    |   -4   |   +4   |   +0   |   +2   |   +1   |   +0   |
+|   SAVE   |   -4   |   +4   |   +0   |   +2   |   +1   |   +0   |
 
 - **Skills:** Perception +3, Stealth +8
 - **Senses:** Passive Perception 13
@@ -7733,14 +7130,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   15   |   10   |   12   |   14   |   16   |
+|   MOD    |   +0   |   +2   |   +0   |   +1   |   +2   |   +3   |
+|   SAVE   |   +0   |   +2   |   +0   |   +1   |   +2   |   +3   |
 
 - **Skills:** Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of hand +4, Stealth +6
 - **Gear** Hand Crossbow, Shortsword, Thieves' Tools
@@ -7767,14 +7161,11 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Speed:** 10 ft., Fly 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 4 | -3 | -3 |
-| DEX | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 8 | -1 | -1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   4    |   16   |   11   |   2    |   8    |   6    |
+|   MOD    |   -3   |   +3   |   +0   |   -4   |   -1   |   -2   |
+|   SAVE   |   -3   |   +3   |   +0   |   -4   |   -1   |   -2   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **CR** 1/8 (XP 25; PB +2)
@@ -7793,14 +7184,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 30 ft., Fly 60 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 15 | +2 | +2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 20 | +5 | +5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   8    |   17   |   13   |   15   |   12   |   20   |
+|   MOD    |   -1   |   +3   |   +1   |   +2   |   +1   |   +5   |
+|   SAVE   |   -1   |   +3   |   +1   |   +2   |   +1   |   +5   |
 
 - **Resistances:** Cold, Fire, Poison, Psychic
 - **Skills:** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
@@ -7835,14 +7223,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   14   |   14   |   11   |   5    |   10   |   4    |
+|   MOD    |   +2   |   +2   |   +0   |   -3   |   +0   |   -3   |
+|   SAVE   |   +2   |   +2   |   +0   |   -3   |   +0   |   -3   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
@@ -7869,14 +7254,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 40 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 11 | +0 | +0 |
-| CON | 15 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 8 | -1 | -1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   11   |   15   |   6    |   8    |   5    |
+|   MOD    |   +4   |   +0   |   +2   |   -2   |   -1   |   -3   |
+|   SAVE   |   +4   |   +0   |   +2   |   -2   |   -1   |   -3   |
 
 - **Vulnerabilities:** Bludgeoning
 - **Immunities:** Poison; Exhaustion, Poisoned
@@ -7899,14 +7281,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 16 | +3 | +3 |
-| CON | 15 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 8 | -1 | -1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   10   |   16   |   15   |   6    |   8    |   5    |
+|   MOD    |   +0   |   +3   |   +2   |   -2   |   -1   |   -3   |
+|   SAVE   |   +0   |   +3   |   +2   |   -2   |   -1   |   -3   |
 
 - **Vulnerabilities:** Bludgeoning
 - **Immunities:** Poison; Exhaustion, Poisoned
@@ -7930,14 +7309,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 60 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 12 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 8 | -1 | -1 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   12   |   15   |   2    |   8    |   5    |
+|   MOD    |   +4   |   +1   |   +2   |   -4   |   -1   |   -3   |
+|   SAVE   |   +4   |   +1   |   +2   |   -4   |   -1   |   -3   |
 
 - **Vulnerabilities:** Bludgeoning
 - **Immunities:** Poison; Exhaustion, Poisoned
@@ -7959,14 +7335,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 40 ft., Fly 60 ft.
 - **Initiative:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 18 | +4 | +4 |
-| WIS | 18 | +4 | +4 |
-| CHA | 18 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   16   |   18   |   18   |   18   |
+|   MOD    |   +4   |   +2   |   +3   |   +4   |   +4   |   +4   |
+|   SAVE   |   +4   |   +2   |   +3   |   +4   |   +4   |   +4   |
 
 - **Resistances:** Necrotic, Radiant
 - **Immunities:** Psychic; Charmed, Frightened
@@ -8009,14 +7382,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 40 ft., Fly 60 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 10 | +0 | +6 |
-| CON | 20 | +5 | +11 |
-| INT | 16 | +3 | +9 |
-| WIS | 23 | +6 | +12 |
-| CHA | 18 | +4 | +4 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   22   |   10   |   20   |   16   |   23   |   18   |
+|   MOD    |   +6   |   +0   |   +5   |   +3   |   +6   |   +4   |
+|   SAVE   |   +6   |   +6   |  +11   |   +9   |  +12   |   +4   |
 
 - **Resistances:** Necrotic, Radiant
 - **Immunities:** Psychic; Charmed, Frightened
@@ -8063,14 +7433,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 20 ft., Fly 40 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 15 | +2 | +2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   17   |   13   |   15   |   12   |   11   |
+|   MOD    |   -2   |   +3   |   +1   |   +2   |   +1   |   +0   |
+|   SAVE   |   -2   |   +3   |   +1   |   +2   |   +1   |   +0   |
 
 - **Resistances:** Necrotic, Psychic, Radiant
 - **Skills:** Arcana +4, Religion +4, Stealth +5
@@ -8097,14 +7464,11 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Speed:** 60 ft., Burrow 40 ft., Climb 60 ft.
 - **Initiative:** +18 (28)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 30 | +10 | +10 |
-| DEX | 11 | +0 | +9 |
-| CON | 30 | +10 | +10 |
-| INT | 3 | -4 | +5 |
-| WIS | 11 | +0 | +9 |
-| CHA | 11 | +0 | +9 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   30   |   11   |   30   |   3    |   11   |   11   |
+|   MOD    |  +10   |   +0   |  +10   |   -4   |   +0   |   +0   |
+|   SAVE   |  +10   |   +9   |  +10   |   +5   |   +9   |   +9   |
 
 - **Resistances:** Bludgeoning, Piercing, Slashing
 - **Immunities:** Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
@@ -8154,14 +7518,11 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 8 | -1 | -1 |
-| CON | 21 | +5 | +5 |
-| INT | 12 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   23   |   8    |   21   |   12   |   16   |   12   |
+|   MOD    |   +6   |   -1   |   +5   |   +1   |   +3   |   +1   |
+|   SAVE   |   +6   |   -1   |   +5   |   +1   |   +3   |   +1   |
 
 - **Vulnerabilities:** Fire
 - **Resistances:** Bludgeoning, Piercing
@@ -8194,14 +7555,11 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   12   |   14   |   10   |   10   |   11   |
+|   MOD    |   +2   |   +1   |   +2   |   +0   |   +0   |   +0   |
+|   SAVE   |   +2   |   +1   |   +2   |   +0   |   +0   |   +0   |
 
 - **Gear** Heavy Crossbow, Leather Armor, Mace
 - **Senses:** Passive Perception 10
@@ -8227,14 +7585,11 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Speed:** 30 ft.
 - **Initiative:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +5 |
-| DEX | 14 | +2 | +2 |
-| CON | 16 | +3 | +5 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 11 | +0 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   14   |   16   |   11   |   10   |   11   |
+|   MOD    |   +3   |   +2   |   +3   |   +0   |   +0   |   +0   |
+|   SAVE   |   +5   |   +2   |   +5   |   +0   |   +0   |   +2   |
 
 - **Gear** Chain Mail, Heavy Crossbow, Warhammer
 - **Senses:** Passive Perception 10
@@ -8264,14 +7619,11 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 13 | +1 | +1 |
-| CON | 20 | +5 | +5 |
-| INT | 7 | -2 | -2 |
-| WIS | 9 | -1 | -1 |
-| CHA | 7 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   13   |   20   |   7    |   9    |   7    |
+|   MOD    |   +4   |   +1   |   +5   |   -2   |   -1   |   -2   |
+|   SAVE   |   +4   |   +1   |   +5   |   -2   |   -1   |   -2   |
 
 - **Skills:** Perception +5
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -8303,14 +7655,11 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Speed:** 20 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 12 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 9 | -1 | -1 |
-| CHA | 1 | -5 | -5 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   12   |   10   |   1    |   9    |   1    |
+|   MOD    |   +4   |   +1   |   +0   |   -5   |   -1   |   -5   |
+|   SAVE   |   +4   |   +1   |   +0   |   -5   |   -1   |   -5   |
 
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **CR** 1/2 (XP 100; PB +2)
@@ -8336,14 +7685,11 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Speed:** 50 ft.
 - **Initiative:** +8 (18)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| WIS | 17 | +3 | +3 |
-| CHA | 16 | +3 | +3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   14   |   15   |   11   |   17   |   16   |
+|   MOD    |   +4   |   +2   |   +2   |   +0   |   +3   |   +3   |
+|   SAVE   |   +4   |   +2   |   +2   |   +0   |   +3   |   +3   |
 
 - **Immunities:** Poison; Charmed, Paralyzed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -8390,14 +7736,11 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Speed:** 40 ft., Climb 40 ft.
 - **Initiative:** +8 (18)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 18 | +4 | +9 |
-| CON | 18 | +4 | +9 |
-| INT | 17 | +3 | +3 |
-| WIS | 15 | +2 | +7 |
-| CHA | 18 | +4 | +9 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   18   |   18   |   17   |   15   |   18   |
+|   MOD    |   +4   |   +4   |   +4   |   +3   |   +2   |   +4   |
+|   SAVE   |   +4   |   +9   |   +9   |   +3   |   +7   |   +9   |
 
 - **Resistances:** Necrotic
 - **Skills:** Perception +7, Stealth +9
@@ -8452,14 +7795,11 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Speed:** 30 ft., Climb 30 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 16 | +3 | +5 |
-| CON | 15 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +2 |
-| CHA | 14 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   16   |   15   |   10   |   10   |   14   |
+|   MOD    |   +3   |   +3   |   +2   |   +0   |   +0   |   +2   |
+|   SAVE   |   +3   |   +5   |   +2   |   +0   |   +2   |   +2   |
 
 - **Resistances:** Necrotic
 - **Immunities:** Charmed ((except from its vampire master))
@@ -8492,14 +7832,11 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 16 | +3 | +6 |
-| CON | 16 | +3 | +3 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +3 |
-| CHA | 12 | +1 | +1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   16   |   16   |   11   |   10   |   12   |
+|   MOD    |   +3   |   +3   |   +3   |   +0   |   +0   |   +1   |
+|   SAVE   |   +3   |   +6   |   +3   |   +0   |   +3   |   +1   |
 
 - **Resistances:** Necrotic
 - **Skills:** Perception +3, Stealth +6
@@ -8541,14 +7878,11 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Speed:** 30 ft.
 - **Initiative:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   15   |   14   |   16   |   10   |   13   |   15   |
+|   MOD    |   +2   |   +2   |   +3   |   +0   |   +1   |   +2   |
+|   SAVE   |   +2   |   +2   |   +3   |   +0   |   +1   |   +2   |
 
 - **Resistances:** Necrotic
 - **Immunities:** Poison; Exhaustion, Poisoned
@@ -8582,14 +7916,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 5 ft., Fly 50 ft. (hover)
 - **Initiative:** +9 (19)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 1 | -5 | -5 |
-| DEX | 28 | +9 | +9 |
-| CON | 10 | +0 | +0 |
-| INT | 13 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   1    |   28   |   10   |   13   |   14   |   11   |
+|   MOD    |   -5   |   +9   |   +0   |   +1   |   +2   |   +0   |
+|   SAVE   |   -5   |   +9   |   +0   |   +1   |   +2   |   +0   |
 
 - **Resistances:** Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
 - **Immunities:** Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -8624,14 +7955,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 50 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 13 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 7 | -2 | -2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   13   |   14   |   7    |   12   |   8    |
+|   MOD    |   +4   |   +1   |   +2   |   -2   |   +1   |   -1   |
+|   SAVE   |   +4   |   +1   |   +2   |   -2   |   +1   |   -1   |
 
 - **Immunities:** Cold
 - **Skills:** Perception +5, Stealth +5
@@ -8658,14 +7986,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 50 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| WIS | 11 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   13   |   13   |   7    |   11   |   8    |
+|   MOD    |   +3   |   +1   |   +1   |   -2   |   +0   |   -1   |
+|   SAVE   |   +3   |   +1   |   +1   |   -2   |   +0   |   -1   |
 
 - **Skills:** Perception +4
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -8685,14 +8010,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 5 ft., Fly 60 ft. (hover)
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 16 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   6    |   16   |   16   |   12   |   14   |   15   |
+|   MOD    |   -2   |   +3   |   +3   |   +1   |   +2   |   +2   |
+|   SAVE   |   -2   |   +3   |   +3   |   +1   |   +2   |   +2   |
 
 - **Resistances:** Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
 - **Immunities:** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -8721,14 +8043,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 30 ft., Fly 80 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   10   |   16   |   5    |   12   |   6    |
+|   MOD    |   +4   |   +0   |   +3   |   -3   |   +1   |   -2   |
+|   SAVE   |   +4   |   +0   |   +3   |   -3   |   +1   |   -2   |
 
 - **Skills:** Perception +4
 - **Senses:** darkvision 120 ft.; Passive Perception 14
@@ -8753,14 +8072,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 30 ft.
 - **Initiative:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 17 | +3 | +3 |
-| INT | 9 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 9 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   12   |   17   |   9    |   11   |   9    |
+|   MOD    |   +3   |   +1   |   +3   |   -1   |   +0   |   -1   |
+|   SAVE   |   +3   |   +1   |   +3   |   -1   |   +0   |   -1   |
 
 - **Gear** Greataxe, Hide Armor
 - **Senses:** Passive Perception 10
@@ -8784,14 +8100,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 30 ft.
 - **Initiative:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +7 |
-| DEX | 15 | +2 | +5 |
-| CON | 16 | +3 | +6 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +4 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   18   |   15   |   16   |   10   |   12   |   15   |
+|   MOD    |   +4   |   +2   |   +3   |   +0   |   +1   |   +2   |
+|   SAVE   |   +7   |   +5   |   +6   |   +0   |   +4   |   +2   |
 
 - **Skills:** Athletics +10, Performance +5
 - **Gear** Shield, Spear x 3, Studded Leather Armor
@@ -8816,14 +8129,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 11 | +0 | +0 |
-| CON | 14 | +2 | +4 |
-| INT | 11 | +0 | +0 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   11   |   14   |   11   |   11   |   15   |
+|   MOD    |   +3   |   +0   |   +2   |   +0   |   +0   |   +2   |
+|   SAVE   |   +3   |   +0   |   +4   |   +0   |   +2   |   +2   |
 
 - **Immunities:** Frightened
 - **Gear** Greatsword, Heavy Crossbow, Plate Armor
@@ -8848,14 +8158,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 30 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 11 | +0 | +0 |
-| CON | 11 | +0 | +0 |
-| INT | 8 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   11   |   11   |   8    |   11   |   8    |
+|   MOD    |   +1   |   +0   |   +0   |   -1   |   +0   |   -1   |
+|   SAVE   |   +1   |   +0   |   +0   |   -1   |   +0   |   -1   |
 
 - **Gear** Chain Shirt, Spear
 - **Senses:** Passive Perception 10
@@ -8879,14 +8186,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 30 ft.
 - **Initiative:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   16   |   13   |   14   |   10   |   11   |   10   |
+|   MOD    |   +3   |   +1   |   +2   |   +0   |   +0   |   +0   |
+|   SAVE   |   +3   |   +1   |   +2   |   +0   |   +0   |   +0   |
 
 - **Skills:** Athletics +5, Perception +2
 - **Gear** Greatsword, Heavy Crossbow, Splint Armor
@@ -8913,14 +8217,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 20 ft., Burrow 20 ft.
 - **Initiative:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 10 | +0 | +0 |
-| CON | 22 | +6 | +6 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 11 | +0 | +0 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   17   |   10   |   22   |   11   |   10   |   11   |
+|   MOD    |   +3   |   +0   |   +6   |   +0   |   +0   |   +0   |
+|   SAVE   |   +3   |   +0   |   +6   |   +0   |   +0   |   +0   |
 
 - **Immunities:** Poison; Paralyzed, Petrified, Poisoned
 - **Skills:** Perception +6, Stealth +6
@@ -8957,14 +8258,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 30 ft.
 - **Initiative:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 6 | -2 | -2 |
-| CON | 18 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| WIS | 6 | -2 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   19   |   6    |   18   |   3    |   6    |   5    |
+|   MOD    |   +4   |   -2   |   +4   |   -4   |   -2   |   -3   |
+|   SAVE   |   +4   |   -2   |   +4   |   -4   |   +0   |   -3   |
 
 - **Immunities:** Poison; Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 8
@@ -8988,14 +8286,11 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Speed:** 20 ft.
 - **Initiative:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 6 | -2 | -2 |
-| CON | 16 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| WIS | 6 | -2 | +0 |
-| CHA | 5 | -3 | -3 |
+|          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|  SCORE   |   13   |   6    |   16   |   3    |   6    |   5    |
+|   MOD    |   +1   |   -2   |   +3   |   -4   |   -2   |   -3   |
+|   SAVE   |   +1   |   -2   |   +3   |   -4   |   +0   |   -3   |
 
 - **Immunities:** Poison; Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 8
