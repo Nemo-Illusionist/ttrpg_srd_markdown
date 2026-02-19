@@ -17,9 +17,11 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 135 (18d10 + 36)
 - **Speed:** 10 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 9 (-1)   | 15 (+2)  | 18 (+4)  | 15 (+2)  | 18 (+4)  |
+
 - **Saving Throws:** Con +6, Int +8, Wis +6
 - **Skills:** History +12, Perception +10
 - **Senses:** darkvision 120 ft.; Passive Perception 20
@@ -61,9 +63,11 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 10
 - **Hit Points:** 9 (2d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 10 (+0)  | 10 (+0)  | 10 (+0)  | 14 (+2)  | 11 (+0)  |
+
 - **Skills:** Medicine +4, Religion +2
 - **Senses:** Passive Perception 12
 - **Languages:** any one language (usually Common)
@@ -87,9 +91,11 @@ Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 195 (17d12 + 85)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 14 (+2)  | 21 (+5)  | 14 (+2)  | 13 (+1)  | 17 (+3)  |
+
 - **Saving Throws:** Dex +7, Con +10, Wis +6, Cha +8
 - **Skills:** Perception +11, Stealth +7
 - **Damage Immunities:** Acid
@@ -132,9 +138,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 225 (18d12 + 108)
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 25 (+7)  | 10 (+0)  | 23 (+6)  | 16 (+3)  | 15 (+2)  | 19 (+4)  |
+
 - **Saving Throws:** Dex +5, Con +11, Wis +7, Cha +9
 - **Skills:** Perception +12, Stealth +5
 - **Damage Immunities:** Lightning
@@ -175,9 +183,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 172 (15d12 + 75)
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 10 (+0)  | 21 (+5)  | 14 (+2)  | 13 (+1)  | 17 (+3)  |
+
 - **Saving Throws:** Dex +5, Con +10, Wis +6, Cha +8
 - **Skills:** History +7, Perception +11, Persuasion +8, Stealth +5
 - **Damage Immunities:** Fire
@@ -222,9 +232,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 212 (17d12 + 102)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 25 (+7)  | 10 (+0)  | 23 (+6)  | 16 (+3)  | 15 (+2)  | 19 (+4)  |
+
 - **Saving Throws:** Dex +5, Con +11, Wis +7, Cha +9
 - **Skills:** Insight +7, Perception +12, Stealth +5
 - **Damage Immunities:** Lightning
@@ -275,9 +287,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 184 (16d12 + 80)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 12 (+1)  | 21 (+5)  | 18 (+4)  | 15 (+2)  | 17 (+3)  |
+
 - **Saving Throws:** Dex +6, Con +10, Wis +7, Cha +8
 - **Skills:** Deception +8, Perception +12, Stealth +6
 - **Damage Immunities:** Acid
@@ -322,9 +336,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 256 (19d12 + 133)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 27 (+8)  | 14 (+2)  | 25 (+7)  | 16 (+3)  | 15 (+2)  | 24 (+7)  |
+
 - **Saving Throws:** Dex +8, Con +13, Wis +8, Cha +13
 - **Skills:** Insight +8, Perception +14, Persuasion +13, Stealth +8
 - **Damage Immunities:** Fire
@@ -375,9 +391,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 207 (18d12 + 90)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 12 (+1)  | 21 (+5)  | 18 (+4)  | 15 (+2)  | 17 (+3)  |
+
 - **Saving Throws:** Dex +6, Con +10, Wis +7, Cha +8
 - **Skills:** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
 - **Damage Immunities:** Poison
@@ -421,9 +439,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 256 (19d12 + 133)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 27 (+8)  | 10 (+0)  | 25 (+7)  | 16 (+3)  | 13 (+1)  | 21 (+5)  |
+
 - **Saving Throws:** Dex +6, Con +13, Wis +7, Cha +11
 - **Skills:** Perception +13, Stealth +6
 - **Damage Immunities:** Fire
@@ -464,9 +484,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 243 (18d12 + 126)
 - **Speed:** 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 27 (+8)  | 10 (+0)  | 25 (+7)  | 16 (+3)  | 13 (+1)  | 21 (+5)  |
+
 - **Saving Throws:** Dex +5, Con +12, Wis +6, Cha +10
 - **Skills:** Arcana +8, History +8, Perception +11, Stealth +5
 - **Damage Immunities:** Cold
@@ -515,9 +537,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 200 (16d12 + 96)
 - **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 22 (+6)  | 10 (+0)  | 22 (+6)  | 8 (-1)   | 12 (+1)  | 12 (+1)  |
+
 - **Saving Throws:** Dex +5, Con +11, Wis +6, Cha +6
 - **Skills:** Perception +11, Stealth +5
 - **Damage Immunities:** Cold
@@ -560,9 +584,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 15
 - **Hit Points:** 90 (12d10 + 24)
 - **Speed:** 0 ft., Fly 90 ft. (hover)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 20 (+5)  | 14 (+2)  | 6 (-2)   | 10 (+0)  | 6 (-2)   |
+
 - **Damage Resistances:** Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -589,9 +615,11 @@ If the saving throw is successful, the target takes half the Bludgeoning damage 
 - **Armor Class:** 22 (natural armor)
 - **Hit Points:** 367 (21d20 + 147)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 27 (+8)  | 14 (+2)  | 25 (+7)  | 16 (+3)  | 15 (+2)  | 19 (+4)  |
+
 - **Saving Throws:** Dex +9, Con +14, Wis +9, Cha +11
 - **Skills:** Perception +16, Stealth +9
 - **Damage Immunities:** Acid
@@ -634,9 +662,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 22 (natural armor)
 - **Hit Points:** 481 (26d20 + 208)
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 29 (+9)  | 10 (+0)  | 27 (+8)  | 18 (+4)  | 17 (+3)  | 21 (+5)  |
+
 - **Saving Throws:** Dex +7, Con +15, Wis +10, Cha +12
 - **Skills:** Perception +17, Stealth +7
 - **Damage Immunities:** Lightning
@@ -677,9 +707,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 20 (natural armor)
 - **Hit Points:** 297 (17d20 + 119)
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 27 (+8)  | 10 (+0)  | 25 (+7)  | 16 (+3)  | 15 (+2)  | 19 (+4)  |
+
 - **Saving Throws:** Dex +6, Con +13, Wis +8, Cha +10
 - **Skills:** History +9, Perception +14, Persuasion +10, Stealth +6
 - **Damage Immunities:** Fire
@@ -728,9 +760,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 22 (natural armor)
 - **Hit Points:** 444 (24d20 + 192)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 29 (+9)  | 10 (+0)  | 27 (+8)  | 18 (+4)  | 17 (+3)  | 21 (+5)  |
+
 - **Saving Throws:** Dex +7, Con +15, Wis +10, Cha +12
 - **Skills:** Insight +10, Perception +17, Stealth +7
 - **Damage Immunities:** Lightning
@@ -781,9 +815,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 21 (natural armor)
 - **Hit Points:** 350 (20d20 + 140)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 27 (+8)  | 12 (+1)  | 25 (+7)  | 20 (+5)  | 17 (+3)  | 19 (+4)  |
+
 - **Saving Throws:** Dex +8, Con +14, Wis +10, Cha +11
 - **Skills:** Deception +11, Perception +17, Stealth +8
 - **Damage Immunities:** Acid
@@ -832,9 +868,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 22 (natural armor)
 - **Hit Points:** 546 (28d20 + 252)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 30 (+10) | 14 (+2)  | 29 (+9)  | 18 (+4)  | 17 (+3)  | 28 (+9)  |
+
 - **Saving Throws:** Dex +9, Con +16, Wis +10, Cha +16
 - **Skills:** Insight +10, Perception +17, Persuasion +16, Stealth +9
 - **Damage Immunities:** Fire
@@ -885,9 +923,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 21 (natural armor)
 - **Hit Points:** 385 (22d20 + 154)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 27 (+8)  | 12 (+1)  | 25 (+7)  | 20 (+5)  | 17 (+3)  | 19 (+4)  |
+
 - **Saving Throws:** Dex +8, Con +14, Wis +10, Cha +11
 - **Skills:** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
 - **Damage Immunities:** Poison
@@ -929,9 +969,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 22 (natural armor)
 - **Hit Points:** 546 (28d20 + 252)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 30 (+10) | 10 (+0)  | 29 (+9)  | 18 (+4)  | 15 (+2)  | 23 (+6)  |
+
 - **Saving Throws:** Dex +7, Con +16, Wis +9, Cha +13
 - **Skills:** Perception +16, Stealth +7
 - **Damage Immunities:** Fire
@@ -972,9 +1014,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 22 (natural armor)
 - **Hit Points:** 487 (25d20 + 225)
 - **Speed:** 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 30 (+10) | 10 (+0)  | 29 (+9)  | 18 (+4)  | 15 (+2)  | 23 (+6)  |
+
 - **Saving Throws:** Dex +7, Con +16, Wis +9, Cha +13
 - **Skills:** Arcana +11, History +11, Perception +16, Stealth +7
 - **Damage Immunities:** Cold
@@ -1023,9 +1067,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 20 (natural armor)
 - **Hit Points:** 333 (18d20 + 144)
 - **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 26 (+8)  | 10 (+0)  | 26 (+8)  | 10 (+0)  | 13 (+1)  | 14 (+2)  |
+
 - **Saving Throws:** Dex +6, Con +14, Wis +7, Cha +8
 - **Skills:** Perception +13, Stealth +6
 - **Damage Immunities:** Cold
@@ -1068,9 +1114,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 199 (19d10 + 95)
 - **Speed:** 40 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 22 (+6)  | 10 (+0)  | 20 (+5)  | 16 (+3)  | 18 (+4)  | 23 (+6)  |
+
 - **Saving Throws:** Dex +6, Con +11, Int +9, Wis +10
 - **Skills:** Arcana +9, Perception +10, Religion +15
 - **Damage Immunities:** Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -1124,9 +1172,11 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 25 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 11 (+0)  | 13 (+1)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
+
 - **Damage Immunities:** Poison, Psychic
 - **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 6
@@ -1152,9 +1202,11 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 - **Armor Class:** 14 (natural armor), 11 while prone
 - **Hit Points:** 39 (6d10 + 6)
 - **Speed:** 30 ft., Burrow 10 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 11 (+0)  | 13 (+1)  | 1 (-5)   | 13 (+1)  | 6 (-2)   |
+
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
@@ -1172,9 +1224,11 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 - **Armor Class:** 12
 - **Hit Points:** 19 (3d8 + 6)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 14 (+2)  | 14 (+2)  | 6 (-2)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Athletics +5, Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -1195,9 +1249,11 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 - **Armor Class:** 12 (15 with *Mage Armor*)
 - **Hit Points:** 99 (18d8 + 18)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 14 (+2)  | 12 (+1)  | 20 (+5)  | 15 (+2)  | 16 (+3)  |
+
 - **Saving Throws:** Int +9, Wis +6
 - **Skills:** Arcana +13, History +13
 
@@ -1238,9 +1294,11 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 - **Armor Class:** 15 (studded leather)
 - **Hit Points:** 78 (12d8 + 24)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 16 (+3)  | 14 (+2)  | 13 (+1)  | 11 (+0)  | 10 (+0)  |
+
 - **Saving Throws:** Dex +6, Int +4
 - **Skills:** Acrobatics +6, Deception +3, Perception +3, Stealth +9
 - **Damage Resistances:** Poison
@@ -1271,9 +1329,11 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 - **Armor Class:** 9
 - **Hit Points:** 10 (3d6)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 8 (-1)   | 11 (+0)  | 10 (+0)  | 10 (+0)  | 6 (-2)   |
+
 - **Damage Vulnerabilities:** Fire
 - **Damage Resistances:** Piercing
 - **Senses:** Passive Perception 10
@@ -1295,9 +1355,11 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 59 (7d12 + 14)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 6 (-2)   | 15 (+2)  | 10 (+0)  | 10 (+0)  | 7 (-2)   |
+
 - **Damage Vulnerabilities:** Fire
 - **Damage Resistances:** Bludgeoning, Piercing
 - **Senses:** Passive Perception 10
@@ -1319,9 +1381,11 @@ An **awakened tree** is an ordinary tree given sentience and mobility by the *Aw
 - **Armor Class:** 11
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 12 (+1)  | 12 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -1339,9 +1403,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Armor Class:** 17 (natural armor, shield)
 - **Hit Points:** 39 (6d8 + 12)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 12 (+1)  | 15 (+2)  | 12 (+1)  | 13 (+1)  | 10 (+0)  |
+
 - **Saving Throws:** Con +4
 - **Damage Immunities:** Fire, Poison
 - **Condition Immunities:** Poisoned
@@ -1366,9 +1432,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Armor Class:** 12
 - **Hit Points:** 3 (1d6)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 8 (-1)   | 14 (+2)  | 11 (+0)  | 4 (-3)   | 12 (+1)  | 6 (-2)   |
+
 - **Senses:** Passive Perception 11
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -1386,9 +1454,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Armor Class:** 10
 - **Hit Points:** 3 (1d4 + 1)
 - **Speed:** 20 ft., Burrow 5 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 4 (-3)   | 11 (+0)  | 12 (+1)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
+
 - **Senses:** darkvision 30 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -1406,9 +1476,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 262 (21d12 + 126)
 - **Speed:** 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 26 (+8)  | 15 (+2)  | 22 (+6)  | 20 (+5)  | 16 (+3)  | 22 (+6)  |
+
 - **Saving Throws:** Str +14, Con +12, Wis +9, Cha +12
 - **Damage Resistances:** Cold, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Fire, Poison
@@ -1442,9 +1514,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Armor Class:** 12 (leather armor)
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 12 (+1)  | 12 (+1)  | 10 (+0)  | 10 (+0)  | 10 (+0)  |
+
 - **Senses:** Passive Perception 10
 - **Languages:** any one language (usually Common)
 - **Challenge:** 1/8 (25 XP)
@@ -1466,9 +1540,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Armor Class:** 15 (studded leather)
 - **Hit Points:** 65 (10d8 + 20)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 16 (+3)  | 14 (+2)  | 14 (+2)  | 11 (+0)  | 14 (+2)  |
+
 - **Saving Throws:** Str +4, Dex +5, Wis +2
 - **Skills:** Athletics +4, Deception +4
 - **Senses:** Passive Perception 10
@@ -1500,9 +1576,11 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 110 (13d8 + 52)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 17 (+3)  | 18 (+4)  | 12 (+1)  | 14 (+2)  | 14 (+2)  |
+
 - **Saving Throws:** Str +6, Con +7, Wis +5, Cha +5
 - **Skills:** Deception +5, Insight +5, Perception +8
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
@@ -1535,9 +1613,11 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 8 (-1)   | 15 (+2)  | 2 (-4)   | 8 (-1)   | 7 (-2)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** -
 - **Challenge:** 3 (700 XP)
@@ -1559,9 +1639,11 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 - **Armor Class:** 12
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 5 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 15 (+2)  | 8 (-1)   | 2 (-4)   | 12 (+1)  | 4 (-3)   |
+
 - **Senses:** blindsight 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -1581,9 +1663,11 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 15 (+2)  | 15 (+2)  | 9 (-1)   | 11 (+0)  | 11 (+0)  |
+
 - **Saving Throws:** Str +5, Con +4, Wis +2
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
@@ -1613,9 +1697,11 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 168 (16d12 + 64)
 - **Speed:** 50 ft., Climb 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 16 (+3)  | 18 (+4)  | 7 (-2)   | 14 (+2)  | 12 (+1)  |
+
 - **Skills:** Perception +6, Stealth +7
 - **Damage Immunities:** Lightning
 - **Senses:** darkvision 90 ft.; Passive Perception 16
@@ -1643,9 +1729,11 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Armor Class:** 13 (hide armor)
 - **Hit Points:** 67 (9d8 + 27)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 12 (+1)  | 17 (+3)  | 9 (-1)   | 11 (+0)  | 9 (-1)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** any one language (usually Common)
 - **Challenge:** 2 (450 XP)
@@ -1665,9 +1753,11 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 19 (3d8 + 6)
 - **Speed:** 40 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 10 (+0)  | 14 (+2)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -1690,9 +1780,11 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 - **Armor Class:** 7
 - **Hit Points:** 85 (10d10 + 30)
 - **Speed:** 20 ft., Climb 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 5 (-3)   | 16 (+3)  | 1 (-5)   | 6 (-2)   | 1 (-5)   |
+
 - **Damage Immunities:** Acid, Cold, Lightning, Slashing
 - **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 8
@@ -1722,9 +1814,11 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 - **Armor Class:** 13
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 17 (+3)  | 12 (+1)  | 10 (+0)  | 13 (+1)  | 11 (+0)  |
+
 - **Skills:** Perception +3, Stealth +5
 - **Senses:** Passive Perception 13
 - **Languages:** Blink Dog, understands Sylvan but can't speak it
@@ -1747,9 +1841,11 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 - **Armor Class:** 12
 - **Hit Points:** 7 (2d6)
 - **Speed:** 10 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 6 (-2)   | 14 (+2)  | 10 (+0)  | 3 (-4)   | 14 (+2)  | 5 (-3)   |
+
 - **Skills:** Perception +4
 - **Senses:** Passive Perception 14
 - **Languages:** -
@@ -1772,9 +1868,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 11 (+0)  | 12 (+1)  | 2 (-4)   | 9 (-1)   | 5 (-3)   |
+
 - **Senses:** Passive Perception 9
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -1794,9 +1892,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 142 (15d10 + 60)
 - **Speed:** 40 ft., Fly 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 16 (+3)  | 18 (+4)  | 13 (+1)  | 14 (+2)  | 16 (+3)  |
+
 - **Saving Throws:** Int +5, Wis +6, Cha +7
 - **Skills:** Deception +7, Insight +6
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
@@ -1825,9 +1925,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 34 (4d10 + 12)
 - **Speed:** 40 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 10 (+0)  | 16 (+3)  | 2 (-4)   | 13 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -1850,9 +1952,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 16 (hide armor, shield)
 - **Hit Points:** 27 (5d8 + 5)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 14 (+2)  | 13 (+1)  | 8 (-1)   | 11 (+0)  | 9 (-1)   |
+
 - **Skills:** Stealth +6, Survival +2
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Common, Goblin
@@ -1875,9 +1979,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 94 (9d10 + 45)
 - **Speed:** 40 ft., Burrow 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 11 (+0)  | 21 (+5)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
+
 - **Skills:** Perception +6
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 16
 - **Languages:** -
@@ -1898,9 +2004,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 9
 - **Hit Points:** 15 (2d10 + 4)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 8 (-1)   | 14 (+2)  | 2 (-4)   | 8 (-1)   | 5 (-3)   |
+
 - **Senses:** Passive Perception 9
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
@@ -1916,9 +2024,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 12
 - **Hit Points:** 2 (1d4)
 - **Speed:** 40 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 15 (+2)  | 10 (+0)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -1937,9 +2047,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 12
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 14 (+2)  | 14 (+2)  | 9 (-1)   | 13 (+1)  | 11 (+0)  |
+
 - **Skills:** Athletics +6, Perception +3, Survival +3
 - **Senses:** Passive Perception 13
 - **Languages:** Elvish, Sylvan
@@ -1964,9 +2076,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 85 (10d8 + 40)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 15 (+2)  | 18 (+4)  | 11 (+0)  | 12 (+1)  | 14 (+2)  |
+
 - **Saving Throws:** Con +7, Wis +4, Cha +5
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
@@ -2000,9 +2114,11 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 30 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 11 (+0)  | 19 (+4)  | 3 (-4)   | 14 (+2)  | 10 (+0)  |
+
 - **Skills:** Perception +8
 - **Senses:** darkvision 60 ft.; Passive Perception 18
 - **Languages:** understands Draconic but can't speak
@@ -2027,9 +2143,11 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 93 (11d10 + 33)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 10 (+0)  | 16 (+3)  | 5 (-3)   | 11 (+0)  | 5 (-3)   |
+
 - **Skills:** Perception +4
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Poisoned
@@ -2056,9 +2174,11 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 133 (14d10 + 56)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 9 (-1)   | 18 (+4)  | 3 (-4)   | 8 (-1)   | 1 (-5)   |
+
 - **Damage Immunities:** Acid, Poison, Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
 - **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 9
@@ -2090,9 +2210,11 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 78 (12d10 + 12)
 - **Speed:** 10 ft., Fly 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 15 (+2)  | 12 (+1)  | 13 (+1)  | 12 (+1)  | 14 (+2)  |
+
 - **Skills:** Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Deep Speech, Undercommon
@@ -2127,9 +2249,11 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 200 (16d12 + 96)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 27 (+8)  | 10 (+0)  | 22 (+6)  | 12 (+1)  | 16 (+3)  | 16 (+3)  |
+
 - **Saving Throws:** Con +10, Wis +7, Cha +7
 - **Skills:** Insight +7, Perception +7
 - **Senses:** Passive Perception 17
@@ -2161,9 +2285,11 @@ At will: *Detect Magic*, *Fog Cloud*, *Light*
 - **Armor Class:** 11
 - **Hit Points:** 27 (6d6 + 6)
 - **Speed:** 20 ft., Fly 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 6 (-2)   | 12 (+1)  | 12 (+1)  | 2 (-4)   | 13 (+1)  | 5 (-3)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -2179,9 +2305,11 @@ At will: *Detect Magic*, *Fog Cloud*, *Light*
 - **Armor Class:** 10
 - **Hit Points:** 4 (1d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 10 (+0)  | 10 (+0)  | 10 (+0)  | 10 (+0)  | 10 (+0)  |
+
 - **Senses:** Passive Perception 10
 - **Languages:** any one language (usually Common)
 - **Challenge:** 0 (10 XP)
@@ -2199,9 +2327,11 @@ At will: *Detect Magic*, *Fog Cloud*, *Light*
 - **Armor Class:** 12
 - **Hit Points:** 13 (2d10 + 2)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 14 (+2)  | 12 (+1)  | 1 (-5)   | 10 (+0)  | 3 (-4)   |
+
 - **Senses:** blindsight 10 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -2219,9 +2349,11 @@ At will: *Detect Magic*, *Fog Cloud*, *Light*
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 97 (13d8 + 39)
 - **Speed:** 30 ft., Fly 90 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 20 (+5)  | 17 (+3)  | 18 (+4)  | 20 (+5)  | 18 (+4)  |
+
 - **Saving Throws:** Con +5, Wis +7, Cha +6
 - **Damage Resistances:** Radiant
 - **Damage Immunities:** Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -2258,9 +2390,11 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 2 (1d4)
 - **Speed:** 20 ft., Swim 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 11 (+0)  | 10 (+0)  | 1 (-5)   | 8 (-1)   | 2 (-4)   |
+
 - **Skills:** Stealth +2
 - **Senses:** blindsight 30 ft.; Passive Perception 9
 - **Languages:** -
@@ -2279,9 +2413,11 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 20 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 10 (+0)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
+
 - **Skills:** Stealth +2
 - **Senses:** Passive Perception 10
 - **Languages:** -
@@ -2300,9 +2436,11 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 - **Armor Class:** 13 (leather armor)
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 14 (+2)  | 12 (+1)  | 10 (+0)  | 13 (+1)  | 14 (+2)  |
+
 - **Skills:** Deception +4, Persuasion +4, Religion +2
 - **Senses:** Passive Perception 11
 - **Languages:** any one language (usually Common)
@@ -2331,9 +2469,11 @@ Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
 - **Armor Class:** 12 (leather armor)
 - **Hit Points:** 9 (2d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 12 (+1)  | 10 (+0)  | 10 (+0)  | 11 (+0)  | 10 (+0)  |
+
 - **Skills:** Deception +2, Religion +2
 - **Senses:** Passive Perception 10
 - **Languages:** any one language (usually Common)
@@ -2354,9 +2494,11 @@ Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
 - **Armor Class:** 11
 - **Hit Points:** 22 (5d6 + 5)
 - **Speed:** 10 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 12 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
+
 - **Skills:** Stealth +3
 - **Senses:** blindsight 60 ft.; Passive Perception 10
 - **Languages:** -
@@ -2383,9 +2525,11 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 - **Armor Class:** 12
 - **Hit Points:** 39 (6d8 + 12)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 14 (+2)  | 14 (+2)  | 3 (-4)   | 13 (+1)  | 6 (-2)   |
+
 - **Skills:** Perception +5, Stealth +4
 - **Senses:** darkvision 120 ft.; Passive Perception 15
 - **Languages:** -
@@ -2408,9 +2552,11 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 - **Armor Class:** 13
 - **Hit Points:** 4 (1d8)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 16 (+3)  | 11 (+0)  | 2 (-4)   | 14 (+2)  | 5 (-3)   |
+
 - **Senses:** Passive Perception 12
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -2426,9 +2572,11 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 136 (16d8 + 64)
 - **Speed:** 30 ft., Fly 90 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 18 (+4)  | 18 (+4)  | 17 (+3)  | 20 (+5)  | 20 (+5)  |
+
 - **Saving Throws:** Wis +9, Cha +9
 - **Skills:** Insight +9, Perception +9
 - **Damage Resistances:** Radiant; Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -2466,9 +2614,11 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 37 (5d10 + 10)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 15 (+2)  | 15 (+2)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -2489,9 +2639,11 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 161 (14d10 + 84)
 - **Speed:** 30 ft., Fly 90 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 15 (+2)  | 22 (+6)  | 15 (+2)  | 16 (+3)  | 20 (+5)  |
+
 - **Saving Throws:** Dex +6, Wis +7, Cha +9
 - **Damage Immunities:** Lightning, Thunder
 - **Senses:** darkvision 120 ft.; Passive Perception 13
@@ -2525,9 +2677,11 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 - **Armor Class:** 14
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 18 (+4)  | 14 (+2)  | 11 (+0)  | 12 (+1)  | 14 (+2)  |
+
 - **Skills:** Deception +6, Insight +3
 - **Condition Immunities:** Charmed
 - **Senses:** darkvision 60 ft.; Passive Perception 11
@@ -2555,9 +2709,11 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 - **Armor Class:** 10
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 10 (+0)  | 12 (+1)  | 2 (-4)   | 11 (+0)  | 7 (-2)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -2573,9 +2729,11 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 - **Armor Class:** 20 (natural armor)
 - **Hit Points:** 341 (22d20 + 110)
 - **Speed:** 20 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 25 (+7)  | 10 (+0)  | 20 (+5)  | 10 (+0)  | 12 (+1)  | 12 (+1)  |
+
 - **Saving Throws:** Dex +6, Con +11, Wis +7
 - **Damage Resistances:** Fire
 - **Senses:** darkvision 120 ft.; Passive Perception 11
@@ -2603,9 +2761,11 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 18 (4d6 + 4)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 11 (+0)  | 12 (+1)  | 5 (-3)   | 8 (-1)   | 3 (-4)   |
+
 - **Damage Resistances:** Cold, Fire, Lightning
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Poisoned
@@ -2630,9 +2790,11 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 123 (13d10 + 52)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 16 (+3)  | 18 (+4)  | 13 (+1)  | 14 (+2)  | 12 (+1)  |
+
 - **Skills:** Perception +5, Stealth +9
 - **Senses:** darkvision 120 ft.; Passive Perception 15
 - **Languages:** Elvish, Undercommon
@@ -2669,9 +2831,11 @@ At will: *Dancing Lights*
 - **Armor Class:** 11 (16 with *Barkskin*)
 - **Hit Points:** 27 (5d8 + 5)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 12 (+1)  | 13 (+1)  | 12 (+1)  | 15 (+2)  | 11 (+0)  |
+
 - **Skills:** Medicine +4, Nature +3, Perception +4
 - **Senses:** Passive Perception 14
 - **Languages:** Druidic plus any two languages
@@ -2696,9 +2860,11 @@ Cantrips (at will): *Druidcraft*, *Produce Flame*, *Shillelagh*
 - **Armor Class:** 11 (16 with *Barkskin*)
 - **Hit Points:** 22 (5d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 12 (+1)  | 11 (+0)  | 14 (+2)  | 15 (+2)  | 18 (+4)  |
+
 - **Skills:** Perception +4, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Elvish, Sylvan
@@ -2735,9 +2901,11 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Armor Class:** 16 (scale mail, shield)
 - **Hit Points:** 26 (4d8 + 8)
 - **Speed:** 25 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 11 (+0)  | 14 (+2)  | 11 (+0)  | 10 (+0)  | 9 (-1)   |
+
 - **Damage Resistances:** Poison
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** Dwarvish, Undercommon
@@ -2764,9 +2932,11 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Armor Class:** 12
 - **Hit Points:** 17 (5d6)
 - **Speed:** 30 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 5 (-3)   | 14 (+2)  | 10 (+0)  | 9 (-1)   | 11 (+0)  | 10 (+0)  |
+
 - **Skills:** Perception +2, Stealth +4
 - **Damage Vulnerabilities:** Fire
 - **Damage Immunities:** Poison
@@ -2792,9 +2962,11 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Armor Class:** 12
 - **Hit Points:** 3 (1d6)
 - **Speed:** 10 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 6 (-2)   | 15 (+2)  | 10 (+0)  | 2 (-4)   | 14 (+2)  | 7 (-2)   |
+
 - **Skills:** Perception +4
 - **Senses:** Passive Perception 14
 - **Languages:** -
@@ -2813,9 +2985,11 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 126 (12d10 + 60)
 - **Speed:** 30 ft., Burrow 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 8 (-1)   | 20 (+5)  | 5 (-3)   | 10 (+0)  | 5 (-3)   |
+
 - **Damage Vulnerabilities:** Thunder
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
@@ -2841,9 +3015,11 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 200 (16d10 + 112)
 - **Speed:** 40 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 22 (+6)  | 12 (+1)  | 24 (+7)  | 16 (+3)  | 15 (+2)  | 16 (+3)  |
+
 - **Saving Throws:** Int +7, Wis +6, Cha +7
 - **Damage Immunities:** Fire
 - **Senses:** darkvision 120 ft.; Passive Perception 12
@@ -2875,9 +3051,11 @@ At will: *Detect Magic*
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 76 (8d12 + 24)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 22 (+6)  | 9 (-1)   | 17 (+3)  | 3 (-4)   | 11 (+0)  | 6 (-2)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 4 (1,100 XP)
@@ -2897,9 +3075,11 @@ At will: *Detect Magic*
 - **Armor Class:** 15 (chain shirt)
 - **Hit Points:** 13 (3d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 11 (+0)  | 12 (+1)  |
+
 - **Skills:** Perception +2, Stealth +4
 - **Senses:** darkvision 120 ft.; Passive Perception 12
 - **Languages:** Elvish, Undercommon
@@ -2928,9 +3108,11 @@ At will: *Dancing Lights*
 - **Armor Class:** 10
 - **Hit Points:** 13 (2d10 + 2)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 10 (+0)  | 12 (+1)  | 2 (-4)   | 10 (+0)  | 6 (-2)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -2950,9 +3132,11 @@ At will: *Dancing Lights*
 - **Armor Class:** 18 (plate)
 - **Hit Points:** 153 (18d8 + 72)
 - **Speed:** 30 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 16 (+3)  | 18 (+4)  | 14 (+2)  | 14 (+2)  | 18 (+4)  |
+
 - **Saving Throws:** Dex +7, Con +8, Wis +6, Cha +8
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
@@ -2984,9 +3168,11 @@ At will: *Dancing Lights*
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 44 (8d8 + 8)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 15 (+2)  | 13 (+1)  | 7 (-2)   | 12 (+1)  | 8 (-1)   |
+
 - **Skills:** Perception +3, Stealth +4, Survival +3
 - **Senses:** darkvision 60 ft.; Passive Perception 13
 - **Languages:** -
@@ -3015,9 +3201,11 @@ At will: *Dancing Lights*
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 85 (10d10 + 30)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 8 (-1)   | 17 (+3)  | 6 (-2)   | 10 (+0)  | 8 (-1)   |
+
 - **Skills:** Perception +4
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Giant, Orc
@@ -3042,9 +3230,11 @@ At will: *Dancing Lights*
 - **Armor Class:** 13
 - **Hit Points:** 102 (12d10 + 36)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 17 (+3)  | 16 (+3)  | 6 (-2)   | 10 (+0)  | 7 (-2)   |
+
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Fire, Poison
 - **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -3071,9 +3261,11 @@ At will: *Dancing Lights*
 - **Armor Class:** 18 (plate)
 - **Hit Points:** 162 (13d12 + 78)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 25 (+7)  | 9 (-1)   | 23 (+6)  | 10 (+0)  | 14 (+2)  | 13 (+1)  |
+
 - **Saving Throws:** Dex +3, Con +10, Cha +5
 - **Skills:** Athletics +11, Perception +6
 - **Damage Immunities:** Fire
@@ -3096,9 +3288,11 @@ At will: *Dancing Lights*
 - **Armor Class:** 9
 - **Hit Points:** 93 (11d8 + 44)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 9 (-1)   | 18 (+4)  | 6 (-2)   | 10 (+0)  | 5 (-3)   |
+
 - **Damage Immunities:** Lightning, Poison; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
 - **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -3132,9 +3326,11 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Armor Class:** 14
 - **Hit Points:** 5 (2d4)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 4 (-3)   | 18 (+4)  | 11 (+0)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
+
 - **Senses:** blindsight 10 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
@@ -3154,9 +3350,11 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 17 (5d6)
 - **Speed:** 0 ft., Fly 50 ft. (hover)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 15 (+2)  | 11 (+0)  | 1 (-5)   | 5 (-3)   | 1 (-5)   |
+
 - **Saving Throws:** Dex +4
 - **Damage Immunities:** Poison, Psychic
 - **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
@@ -3179,9 +3377,11 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 - **Armor Class:** 11
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 20 ft., Swim 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 1 (-5)   | 13 (+1)  | 8 (-1)   | 1 (-5)   | 8 (-1)   | 3 (-4)   |
+
 - **Skills:** Perception +1, Stealth +3
 - **Senses:** darkvision 30 ft.; Passive Perception 11
 - **Languages:** -
@@ -3200,9 +3400,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 - **Armor Class:** 15 (patchwork armor)
 - **Hit Points:** 138 (12d12 + 60)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 9 (-1)   | 21 (+5)  | 9 (-1)   | 10 (+0)  | 12 (+1)  |
+
 - **Saving Throws:** Con +8, Wis +3, Cha +4
 - **Skills:** Athletics +9, Perception +3
 - **Damage Immunities:** Cold
@@ -3225,9 +3427,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 52 (7d8 + 21)
 - **Speed:** 30 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 11 (+0)  | 16 (+3)  | 6 (-2)   | 11 (+0)  | 7 (-2)   |
+
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Exhaustion, Petrified, Poisoned
@@ -3252,9 +3456,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 - **Armor Class:** 6
 - **Hit Points:** 84 (8d10 + 40)
 - **Speed:** 15 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 3 (-4)   | 20 (+5)  | 1 (-5)   | 6 (-2)   | 1 (-5)   |
+
 - **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 8
 - **Languages:** -
@@ -3289,9 +3495,11 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 - **Armor Class:** 13
 - **Hit Points:** 36 (8d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 17 (+3)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 8 (-1)   |
+
 - **Damage Resistances:** Necrotic
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Charmed, Exhaustion, Poisoned
@@ -3316,9 +3524,11 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 - **Armor Class:** 11
 - **Hit Points:** 45 (10d8)
 - **Speed:** 0 ft., Fly 40 ft. (hover)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 7 (-2)   | 13 (+1)  | 10 (+0)  | 10 (+0)  | 12 (+1)  | 17 (+3)  |
+
 - **Damage Resistances:** Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Cold, Necrotic, Poison
 - **Condition Immunities:** Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
@@ -3349,9 +3559,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 12
 - **Hit Points:** 22 (5d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 15 (+2)  | 10 (+0)  | 7 (-2)   | 10 (+0)  | 6 (-2)   |
+
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Charmed, Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -3371,9 +3583,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 12
 - **Hit Points:** 157 (15d12 + 60)
 - **Speed:** 40 ft., Climb 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 14 (+2)  | 18 (+4)  | 7 (-2)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Athletics +9, Perception +4
 - **Senses:** Passive Perception 14
 - **Languages:** -
@@ -3394,9 +3608,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 10
 - **Hit Points:** 13 (2d8 + 4)
 - **Speed:** 30 ft., Burrow 10 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 10 (+0)  | 15 (+2)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
+
 - **Senses:** darkvision 30 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -3418,9 +3634,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 13
 - **Hit Points:** 22 (4d10)
 - **Speed:** 10 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 16 (+3)  | 11 (+0)  | 2 (-4)   | 12 (+1)  | 6 (-2)   |
+
 - **Senses:** blindsight 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -3440,9 +3658,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 42 (5d10 + 15)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 10 (+0)  | 16 (+3)  | 2 (-4)   | 7 (-2)   | 5 (-3)   |
+
 - **Senses:** Passive Perception 8
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
@@ -3462,9 +3682,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 4 (1d6 + 1)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 5 (-3)   | 14 (+2)  | 12 (+1)  | 1 (-5)   | 7 (-2)   | 3 (-4)   |
+
 - **Senses:** blindsight 30 ft.; Passive Perception 8
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -3480,9 +3702,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 12
 - **Hit Points:** 60 (8d12 + 8)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 14 (+2)  | 12 (+1)  | 1 (-5)   | 10 (+0)  | 3 (-4)   |
+
 - **Skills:** Perception +2
 - **Senses:** blindsight 10 ft.; Passive Perception 12
 - **Languages:** -
@@ -3501,9 +3725,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 13 (3d8)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 15 (+2)  | 11 (+0)  | 1 (-5)   | 9 (-1)   | 3 (-4)   |
+
 - **Skills:** Stealth +4
 - **Senses:** blindsight 30 ft.; Passive Perception 9
 - **Languages:** -
@@ -3522,9 +3748,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 85 (9d12 + 27)
 - **Speed:** 30 ft., Swim 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 9 (-1)   | 17 (+3)  | 2 (-4)   | 10 (+0)  | 7 (-2)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
@@ -3546,9 +3774,11 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Armor Class:** 13
 - **Hit Points:** 26 (4d10 + 4)
 - **Speed:** 10 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 17 (+3)  | 13 (+1)  | 8 (-1)   | 14 (+2)  | 10 (+0)  |
+
 - **Skills:** Perception +4
 - **Senses:** Passive Perception 14
 - **Languages:** Giant Eagle, understands Common and Auran but can't speak them
@@ -3573,9 +3803,11 @@ A **giant eagle** is a noble creature that speaks its own language and understan
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 42 (5d12 + 10)
 - **Speed:** 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 16 (+3)  | 14 (+2)  | 7 (-2)   | 14 (+2)  | 10 (+0)  |
+
 - **Skills:** Perception +4
 - **Senses:** Passive Perception 14
 - **Languages:** Giant Elk, understands Common, Elvish, and Sylvan but can't speak them
@@ -3598,9 +3830,11 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 4 (1d6 + 1)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 8 (-1)   | 10 (+0)  | 12 (+1)  | 1 (-5)   | 7 (-2)   | 3 (-4)   |
+
 - **Senses:** blindsight 30 ft.; Passive Perception 8
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -3620,9 +3854,11 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 - **Armor Class:** 11
 - **Hit Points:** 18 (4d8)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 13 (+1)  | 11 (+0)  | 2 (-4)   | 10 (+0)  | 3 (-4)   |
+
 - **Skills:** Perception +2, Stealth +3
 - **Senses:** darkvision 30 ft.; Passive Perception 12
 - **Languages:** -
@@ -3647,9 +3883,11 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 11 (+0)  | 12 (+1)  | 3 (-4)   | 12 (+1)  | 6 (-2)   |
+
 - **Senses:** Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -3669,9 +3907,11 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 - **Armor Class:** 12
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 14 (+2)  | 14 (+2)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -3690,9 +3930,11 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 12 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
+
 - **Senses:** darkvision 30 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -3710,9 +3952,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Armor Class:** 11
 - **Hit Points:** 52 (8d10 + 8)
 - **Speed:** 10 ft., Swim 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 13 (+1)  | 13 (+1)  | 4 (-3)   | 10 (+0)  | 4 (-3)   |
+
 - **Skills:** Perception +4, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** -
@@ -3737,9 +3981,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Armor Class:** 12
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 5 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 15 (+2)  | 12 (+1)  | 8 (-1)   | 13 (+1)  | 10 (+0)  |
+
 - **Skills:** Perception +5, Stealth +4
 - **Senses:** darkvision 120 ft.; Passive Perception 15
 - **Languages:** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them
@@ -3762,9 +4008,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Armor Class:** 14
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 18 (+4)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 3 (-4)   |
+
 - **Skills:** Perception +2
 - **Senses:** blindsight 10 ft.; Passive Perception 12
 - **Languages:** -
@@ -3781,9 +4029,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Armor Class:** 12
 - **Hit Points:** 7 (2d6)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 7 (-2)   | 15 (+2)  | 11 (+0)  | 2 (-4)   | 10 (+0)  | 4 (-3)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
@@ -3809,9 +4059,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 52 (7d10 + 14)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 13 (+1)  | 15 (+2)  | 1 (-5)   | 9 (-1)   | 3 (-4)   |
+
 - **Senses:** blindsight 60 ft.; Passive Perception 9
 - **Languages:** -
 - **Challenge:** 3 (700 XP)
@@ -3831,9 +4083,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 16 (3d10)
 - **Speed:** 0 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 15 (+2)  | 11 (+0)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
+
 - **Senses:** Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -3855,9 +4109,11 @@ Like their smaller kin, **giant sea horses** are shy, colorful fish with elongat
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 126 (11d12 + 55)
 - **Speed:** 0 ft., Swim 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 11 (+0)  | 21 (+5)  | 1 (-5)   | 10 (+0)  | 5 (-3)   |
+
 - **Skills:** Perception +3
 - **Senses:** blindsight 60 ft.; Passive Perception 13
 - **Languages:** -
@@ -3880,9 +4136,11 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 26 (4d10 + 4)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 16 (+3)  | 12 (+1)  | 2 (-4)   | 11 (+0)  | 4 (-3)   |
+
 - **Skills:** Stealth +7
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
@@ -3909,9 +4167,11 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 - **Armor Class:** 11
 - **Hit Points:** 39 (6d10 + 6)
 - **Speed:** 20 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 13 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 3 (-4)   |
+
 - **Senses:** darkvision 30 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
@@ -3935,9 +4195,11 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 - **Armor Class:** 10
 - **Hit Points:** 22 (3d10 + 6)
 - **Speed:** 10 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 10 (+0)  | 15 (+2)  | 6 (-2)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** understands Common but can't speak
@@ -3964,9 +4226,11 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 - **Armor Class:** 12
 - **Hit Points:** 13 (3d8)
 - **Speed:** 10 ft., Fly 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 14 (+2)  | 10 (+0)  | 1 (-5)   | 10 (+0)  | 3 (-4)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -3982,9 +4246,11 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 - **Armor Class:** 13
 - **Hit Points:** 9 (2d8)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 16 (+3)  | 10 (+0)  | 4 (-3)   | 12 (+1)  | 5 (-3)   |
+
 - **Skills:** Perception +3, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 13
 - **Languages:** -
@@ -4003,9 +4269,11 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 - **Armor Class:** 13
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft., Climb 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 16 (+3)  | 13 (+1)  | 3 (-4)   | 12 (+1)  | 4 (-3)   |
+
 - **Skills:** Perception +3, Stealth +7
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 13
 - **Languages:** -
@@ -4030,9 +4298,11 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 - **Armor Class:** 9
 - **Hit Points:** 67 (9d8 + 27)
 - **Speed:** 10 ft., Swim 10 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 8 (-1)   | 16 (+3)  | 3 (-4)   | 10 (+0)  | 6 (-2)   |
+
 - **Condition Immunities:** Prone
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
@@ -4057,9 +4327,11 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 157 (15d10 + 75)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 15 (+2)  | 21 (+5)  | 19 (+4)  | 17 (+3)  | 16 (+3)  |
+
 - **Saving Throws:** Str +9, Con +9, Wis +7, Cha +7
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
@@ -4091,9 +4363,11 @@ At will: *Darkness*, *Detect Magic*, *Dispel Magic*
 - **Armor Class:** 16 (studded leather, shield)
 - **Hit Points:** 112 (15d8 + 45)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 15 (+2)  | 16 (+3)  | 10 (+0)  | 12 (+1)  | 15 (+2)  |
+
 - **Saving Throws:** Str +7, Dex +5, Con +6
 - **Skills:** Athletics +10, Intimidation +5
 - **Senses:** Passive Perception 11
@@ -4125,9 +4399,11 @@ At will: *Darkness*, *Detect Magic*, *Dispel Magic*
 - **Armor Class:** 15 (hide armor, shield)
 - **Hit Points:** 22 (5d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 12 (+1)  | 11 (+0)  | 6 (-2)   | 10 (+0)  | 7 (-2)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Gnoll
 - **Challenge:** 1/2 (100 XP)
@@ -4149,9 +4425,11 @@ At will: *Darkness*, *Detect Magic*, *Dispel Magic*
 - **Armor Class:** 15 (chain shirt)
 - **Hit Points:** 16 (3d6 + 6)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 14 (+2)  | 14 (+2)  | 12 (+1)  | 10 (+0)  | 9 (-1)   |
+
 - **Skills:** Investigation +3, Perception +2, Stealth +4
 - **Senses:** darkvision 120 ft.; Passive Perception 12
 - **Languages:** Gnomish, Terran, Undercommon
@@ -4180,9 +4458,11 @@ At will: *Nondetection* (self only)
 - **Armor Class:** 10
 - **Hit Points:** 4 (1d8)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 10 (+0)  | 11 (+0)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -4202,9 +4482,11 @@ At will: *Nondetection* (self only)
 - **Armor Class:** 15 (leather armor, shield)
 - **Hit Points:** 7 (2d6)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 8 (-1)   | 14 (+2)  | 10 (+0)  | 10 (+0)  | 8 (-1)   | 8 (-1)   |
+
 - **Skills:** Stealth +6
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** Common, Goblin
@@ -4225,9 +4507,11 @@ At will: *Nondetection* (self only)
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 11 (+0)  | 18 (+4)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +4
 - **Condition Immunities:** Petrified
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -4251,9 +4535,11 @@ At will: *Nondetection* (self only)
 - **Armor Class:** 8
 - **Hit Points:** 22 (3d8 + 9)
 - **Speed:** 10 ft., Climb 10 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 6 (-2)   | 16 (+3)  | 1 (-5)   | 6 (-2)   | 2 (-4)   |
+
 - **Skills:** Stealth +2
 - **Damage Resistances:** Acid, Cold, Fire
 - **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
@@ -4280,9 +4566,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 82 (11d8 + 33)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 12 (+1)  | 16 (+3)  | 13 (+1)  | 14 (+2)  | 14 (+2)  |
+
 - **Skills:** Arcana +3, Deception +4, Perception +4, Stealth +3
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Common, Draconic, Sylvan
@@ -4313,9 +4601,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 27 (6d8)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 14 (+2)  | 11 (+0)  | 3 (-4)   | 14 (+2)  | 5 (-3)   |
+
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** -
@@ -4338,9 +4628,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Armor Class:** 12
 - **Hit Points:** 59 (7d10 + 21)
 - **Speed:** 30 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 15 (+2)  | 16 (+3)  | 2 (-4)   | 13 (+1)  | 8 (-1)   |
+
 - **Skills:** Perception +5
 - **Senses:** darkvision 60 ft.; Passive Perception 15
 - **Languages:** -
@@ -4363,9 +4655,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Armor Class:** 11
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 12 (+1)  | 12 (+1)  | 9 (-1)   | 8 (-1)   | 6 (-2)   |
+
 - **Skills:** Athletics +5, Perception +3, Stealth +3
 - **Condition Immunities:** Blinded
 - **Senses:** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius); Passive Perception 13
@@ -4389,9 +4683,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Armor Class:** 16 (chain shirt, shield)
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 12 (+1)  | 12 (+1)  | 10 (+0)  | 11 (+0)  | 10 (+0)  |
+
 - **Skills:** Perception +2
 - **Senses:** Passive Perception 12
 - **Languages:** any one language (usually Common)
@@ -4410,9 +4706,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 127 (15d10 + 45)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 18 (+4)  | 16 (+3)  | 16 (+3)  | 19 (+4)  | 18 (+4)  |
+
 - **Saving Throws:** Dex +6, Con +5, Wis +5, Cha +6
 - **Saving Throws:** Dex +8, Con +7, Int +7, Wis +8, Cha +8
 - **Damage Immunities:** Poison
@@ -4446,9 +4744,11 @@ Cantrips (at will): *Mending*, *Sacred Flame*, *Thaumaturgy*
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 136 (16d10 + 48)
 - **Speed:** 40 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 15 (+2)  | 16 (+3)  | 18 (+4)  | 18 (+4)  | 18 (+4)  |
+
 - **Skills:** Arcana +12, History +12, Perception +8, Religion +8
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Psychic
@@ -4525,9 +4825,11 @@ Table: 115 - Monsters: Half-Dragon Template (Size)
 - **Armor Class:** 18 (plate)
 - **Hit Points:** 65 (10d8 + 20)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 13 (+1)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 10 (+0)  |
+
 - **Skills:** Athletics +5, Perception +2
 - **Damage Resistances:** Fire
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 12
@@ -4553,9 +4855,11 @@ Table: 115 - Monsters: Half-Dragon Template (Size)
 - **Armor Class:** 11
 - **Hit Points:** 38 (7d8 + 7)
 - **Speed:** 20 ft., Fly 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 13 (+1)  | 12 (+1)  | 7 (-2)   | 10 (+0)  | 13 (+1)  |
+
 - **Senses:** Passive Perception 10
 - **Languages:** Common
 - **Challenge:** 1 (200 XP)
@@ -4581,9 +4885,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 13
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 10 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 5 (-3)   | 16 (+3)  | 8 (-1)   | 2 (-4)   | 14 (+2)  | 6 (-2)   |
+
 - **Skills:** Perception +4
 - **Senses:** Passive Perception 14
 - **Languages:** -
@@ -4602,9 +4908,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 45 (7d8 + 14)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 12 (+1)  | 14 (+2)  | 6 (-2)   | 13 (+1)  | 6 (-2)   |
+
 - **Skills:** Perception +5
 - **Damage Immunities:** Fire
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -4628,9 +4936,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 136 (13d10 + 65)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 17 (+3)  | 20 (+5)  | 5 (-3)   | 12 (+1)  | 13 (+1)  |
+
 - **Saving Throws:** Str +7, Con +8, Wis +4
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
@@ -4658,9 +4968,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 105 (10d12 + 40)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 8 (-1)   | 19 (+4)  | 5 (-3)   | 9 (-1)   | 6 (-2)   |
+
 - **Skills:** Perception +2
 - **Senses:** Passive Perception 12
 - **Languages:** Giant
@@ -4681,9 +4993,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 11
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 40 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 13 (+1)  | 13 (+1)  | 2 (-4)   | 12 (+1)  | 8 (-1)   |
+
 - **Skills:** Perception +5
 - **Senses:** Passive Perception 15
 - **Languages:** -
@@ -4706,9 +5020,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 18 (chain mail, shield)
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 12 (+1)  | 12 (+1)  | 10 (+0)  | 10 (+0)  | 9 (-1)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Common, Goblin
 - **Challenge:** 1/2 (100 XP)
@@ -4728,9 +5044,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 5 (2d4)
 - **Speed:** 20 ft., Fly 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 4 (-3)   | 15 (+2)  | 11 (+0)  | 10 (+0)  | 10 (+0)  | 7 (-2)   |
+
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Charmed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -4750,9 +5068,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 148 (17d10 + 55)
 - **Speed:** 20 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 22 (+6)  | 17 (+3)  | 21 (+5)  | 12 (+1)  | 16 (+3)  | 17 (+3)  |
+
 - **Saving Throws:** Str +10, Dex +7, Wis +7, Cha +7
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Damage Immunities:** Fire, Poison
@@ -4782,9 +5102,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 0 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 13 (+1)  | 15 (+2)  | 1 (-5)   | 10 (+0)  | 4 (-3)   |
+
 - **Skills:** Perception +2
 - **Senses:** blindsight 30 ft.; Passive Perception 12
 - **Languages:** -
@@ -4807,9 +5129,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 172 (15d12 + 75)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 12 (+1)  | 20 (+5)  | 2 (-4)   | 10 (+0)  | 7 (-2)   |
+
 - **Skills:** Perception +6
 - **Senses:** darkvision 60 ft.; Passive Perception 16
 - **Languages:** -
@@ -4840,9 +5164,11 @@ At the end of its turn, it grows two heads for each of its heads that died since
 - **Armor Class:** 11
 - **Hit Points:** 5 (1d8 + 1)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 13 (+1)  | 12 (+1)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -4861,9 +5187,11 @@ At the end of its turn, it grows two heads for each of its heads that died since
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 180 (19d10 + 76)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 14 (+2)  | 18 (+4)  | 18 (+4)  | 15 (+2)  | 18 (+4)  |
+
 - **Saving Throws:** Dex +7, Con +9, Wis +7, Cha +9
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Cold, Fire, Poison
@@ -4899,9 +5227,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 11
 - **Hit Points:** 21 (6d6)
 - **Speed:** 30 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 7 (-2)   | 13 (+1)  | 10 (+0)  | 9 (-1)   | 11 (+0)  | 12 (+1)  |
+
 - **Skills:** Perception +2, Stealth +3
 - **Damage Vulnerabilities:** Bludgeoning, Fire
 - **Damage Immunities:** Cold, Poison
@@ -4929,9 +5259,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 13
 - **Hit Points:** 10 (3d4 + 3)
 - **Speed:** 20 ft., Fly 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 6 (-2)   | 17 (+3)  | 13 (+1)  | 11 (+0)  | 12 (+1)  | 14 (+2)  |
+
 - **Skills:** Deception +4, Insight +3, Persuasion +4, Stealth +5
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Damage Immunities:** Fire, Poison
@@ -4959,9 +5291,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 14
 - **Hit Points:** 104 (16d8 + 32)
 - **Speed:** 50 ft., Fly 50 ft. (hover)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 19 (+4)  | 14 (+2)  | 10 (+0)  | 15 (+2)  | 11 (+0)  |
+
 - **Skills:** Perception +8, Stealth +10
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
@@ -4987,9 +5321,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 20 (natural armor)
 - **Hit Points:** 210 (20d10 + 100)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 24 (+7)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
+
 - **Damage Immunities:** Fire, Poison, Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
 - **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
@@ -5021,9 +5357,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 12
 - **Hit Points:** 3 (1d6)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 8 (-1)   | 15 (+2)  | 11 (+0)  | 3 (-4)   | 12 (+1)  | 6 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -5044,9 +5382,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 90 (12d12 + 12)
 - **Speed:** 0 ft., Swim 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 10 (+0)  | 13 (+1)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** blindsight 120 ft.; Passive Perception 13
 - **Languages:** -
@@ -5069,9 +5409,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 18 (plate)
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 11 (+0)  | 14 (+2)  | 11 (+0)  | 11 (+0)  | 15 (+2)  |
+
 - **Saving Throws:** Con +4, Wis +2
 - **Senses:** Passive Perception 10
 - **Languages:** any one language (usually Common)
@@ -5102,9 +5444,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 12
 - **Hit Points:** 5 (2d6 - 2)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 7 (-2)   | 15 (+2)  | 9 (-1)   | 8 (-1)   | 7 (-2)   | 8 (-1)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** Common, Draconic
 - **Challenge:** 1/8 (25 XP)
@@ -5126,9 +5470,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 472 (27d20 + 189)
 - **Speed:** 20 ft., Swim 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 30 (+10) | 11 (+0)  | 25 (+7)  | 22 (+6)  | 18 (+4)  | 20 (+5)  |
+
 - **Saving Throws:** Str +17, Dex +7, Con +14, Int +13, Wis +11
 - **Damage Immunities:** Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Condition Immunities:** Frightened, Paralyzed
@@ -5173,9 +5519,11 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 97 (13d10 + 26)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 13 (+1)  | 15 (+2)  | 14 (+2)  | 15 (+2)  | 16 (+3)  |
+
 - **Skills:** Deception +7, Insight +4, Stealth +3
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** Abyssal, Common
@@ -5206,9 +5554,11 @@ At will: *Disguise Self* (any humanoid form), *Major Image*
 - **Armor Class:** 7
 - **Hit Points:** 13 (3d8)
 - **Speed:** 15 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 5 (-3)   | 11 (+0)  | 1 (-5)   | 11 (+0)  | 3 (-4)   |
+
 - **Damage Resistances:** Cold
 - **Damage Immunities:** Fire, Poison
 - **Condition Immunities:** Charmed, Frightened, Poisoned
@@ -5231,9 +5581,11 @@ At will: *Disguise Self* (any humanoid form), *Major Image*
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 135 (18d8 + 54)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 16 (+3)  | 16 (+3)  | 20 (+5)  | 14 (+2)  | 16 (+3)  |
+
 - **Saving Throws:** Con +10, Int +12, Wis +9
 - **Skills:** Arcana +19, History +12, Insight +9, Perception +9
 - **Damage Resistances:** Cold, Lightning, Necrotic
@@ -5285,9 +5637,11 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Armor Class:** 12
 - **Hit Points:** 26 (4d10 + 4)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 15 (+2)  | 13 (+1)  | 3 (-4)   | 12 (+1)  | 8 (-1)   |
+
 - **Skills:** Perception +3, Stealth +6
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -5314,9 +5668,11 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Armor Class:** 10
 - **Hit Points:** 2 (1d4)
 - **Speed:** 20 ft., Climb 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 11 (+0)  | 10 (+0)  | 1 (-5)   | 8 (-1)   | 3 (-4)   |
+
 - **Senses:** darkvision 30 ft.; Passive Perception 9
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -5332,9 +5688,11 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Armor Class:** 15 (natural armor, shield)
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 10 (+0)  | 13 (+1)  | 7 (-2)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3, Stealth +4, Survival +5
 - **Senses:** Passive Perception 13
 - **Languages:** Draconic
@@ -5361,9 +5719,11 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Armor Class:** 12 (15 with *Mage Armor*)
 - **Hit Points:** 40 (9d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 9 (-1)   | 14 (+2)  | 11 (+0)  | 17 (+3)  | 12 (+1)  | 11 (+0)  |
+
 - **Saving Throws:** Int +6, Wis +4
 - **Skills:** Arcana +6, History +6
 - **Senses:** Passive Perception 11
@@ -5392,9 +5752,11 @@ Cantrips (at will): *Fire Bolt*, *Light*, *Mage Hand*, *Prestidigitation*
 - **Armor Class:** 11
 - **Hit Points:** 22 (5d6 + 5)
 - **Speed:** 30 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 8 (-1)   | 12 (+1)  | 12 (+1)  | 7 (-2)   | 10 (+0)  | 10 (+0)  |
+
 - **Skills:** Stealth +3
 - **Damage Vulnerabilities:** Cold
 - **Damage Immunities:** Fire, Poison
@@ -5422,9 +5784,11 @@ Cantrips (at will): *Fire Bolt*, *Light*, *Mage Hand*, *Prestidigitation*
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 9 (2d6 + 2)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 7 (-2)   | 15 (+2)  | 12 (+1)  | 8 (-1)   | 11 (+0)  | 10 (+0)  |
+
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Fire
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -5446,9 +5810,11 @@ Cantrips (at will): *Fire Bolt*, *Light*, *Mage Hand*, *Prestidigitation*
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 126 (11d12 + 55)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 24 (+7)  | 9 (-1)   | 21 (+5)  | 3 (-4)   | 11 (+0)  | 6 (-2)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 6 (2,300 XP)
@@ -5470,9 +5836,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 68 (8d10 + 24)
 - **Speed:** 30 ft., Fly 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 16 (+3)  | 17 (+3)  | 7 (-2)   | 12 (+1)  | 8 (-1)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Common
 - **Challenge:** 3 (700 XP)
@@ -5496,9 +5864,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 189 (18d10 + 90)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 20 (+5)  | 20 (+5)  | 18 (+4)  | 16 (+3)  | 20 (+5)  |
+
 - **Saving Throws:** Str +9, Con +10, Wis +8, Cha +10
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
@@ -5534,9 +5904,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Armor Class:** 12
 - **Hit Points:** 5 (1d8 + 1)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 14 (+2)  | 12 (+1)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -5557,9 +5929,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 127 (17d8 + 51)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 15 (+2)  | 16 (+3)  | 12 (+1)  | 13 (+1)  | 15 (+2)  |
+
 - **Skills:** Deception +5, Insight +4, Perception +4, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Common
@@ -5588,9 +5962,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Armor Class:** 11
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 10 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 13 (+1)  | 12 (+1)  | 11 (+0)  | 11 (+0)  | 12 (+1)  |
+
 - **Skills:** Perception +2
 - **Senses:** Passive Perception 12
 - **Languages:** Aquan, Common
@@ -5609,9 +5985,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 10 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 10 (+0)  | 15 (+2)  | 8 (-1)   | 10 (+0)  | 9 (-1)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Abyssal, Aquan
 - **Challenge:** 2 (450 XP)
@@ -5635,9 +6013,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 15 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 12 (+1)  | 15 (+2)  | 5 (-3)   | 13 (+1)  | 8 (-1)   |
+
 - **Skills:** Stealth +5
 - **Damage Immunities:** Acid
 - **Condition Immunities:** Prone
@@ -5666,9 +6046,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 67 (9d10 + 18)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 11 (+0)  | 15 (+2)  | 6 (-2)   | 8 (-1)   | 5 (-3)   |
+
 - **Damage Vulnerabilities:** Bludgeoning
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Exhaustion, Poisoned
@@ -5691,9 +6073,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 76 (9d10 + 27)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 11 (+0)  | 16 (+3)  | 6 (-2)   | 16 (+3)  | 9 (-1)   |
+
 - **Skills:** Perception +7
 - **Senses:** darkvision 60 ft.; Passive Perception 17
 - **Languages:** Abyssal
@@ -5718,9 +6102,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Armor Class:** 10
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 10 (+0)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
@@ -5740,9 +6126,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 97 (13d8 + 39)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 10 (+0)  | 17 (+3)  | 11 (+0)  | 18 (+4)  | 16 (+3)  |
+
 - **Saving Throws:** Con +8, Int +5, Wis +9, Cha +8
 - **Skills:** History +5, Religion +5
 - **Damage Vulnerabilities:** Fire
@@ -5795,9 +6183,11 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 8 (-1)   | 15 (+2)  | 6 (-2)   | 10 (+0)  | 12 (+1)  |
+
 - **Saving Throws:** Wis +2
 - **Damage Vulnerabilities:** Fire
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -5822,9 +6212,11 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 184 (16d10 + 96)
 - **Speed:** 20 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 10 (+0)  | 22 (+6)  | 19 (+4)  | 12 (+1)  | 15 (+2)  |
+
 - **Saving Throws:** Con +11, Int +9, Wis +6, Cha +7
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
@@ -5854,9 +6246,11 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 112 (15d8 + 45)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 15 (+2)  | 16 (+3)  | 16 (+3)  | 14 (+2)  | 16 (+3)  |
+
 - **Skills:** Deception +7, Insight +6, Perception +6, Stealth +6
 - **Damage Resistances:** Cold, Fire; Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Condition Immunities:** Charmed
@@ -5889,9 +6283,11 @@ At will: *Detect Magic*, *Magic Missile*
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 68 (8d10 + 24)
 - **Speed:** 60 ft., Fly 90 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 15 (+2)  | 16 (+3)  | 10 (+0)  | 13 (+1)  | 15 (+2)  |
+
 - **Damage Immunities:** Fire
 - **Senses:** Passive Perception 11
 - **Languages:** understands Abyssal, Common, and Infernal but can't speak
@@ -5914,9 +6310,11 @@ At will: *Detect Magic*, *Magic Missile*
 - **Armor Class:** 15 (breastplate)
 - **Hit Points:** 9 (2d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 12 (+1)  | 11 (+0)  | 12 (+1)  | 14 (+2)  | 16 (+3)  |
+
 - **Skills:** Deception +5, Insight +4, Persuasion +5
 - **Senses:** Passive Perception 12
 - **Languages:** any two languages
@@ -5941,9 +6339,11 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Armor Class:** 8
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 10 ft., Climb 10 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 6 (-2)   | 14 (+2)  | 2 (-4)   | 6 (-2)   | 1 (-5)   |
+
 - **Damage Resistances:** Acid
 - **Damage Immunities:** Lightning, Slashing
 - **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
@@ -5970,9 +6370,11 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Armor Class:** 12
 - **Hit Points:** 3 (1d6)
 - **Speed:** 5 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 4 (-3)   | 15 (+2)  | 11 (+0)  | 3 (-4)   | 10 (+0)  | 4 (-3)   |
+
 - **Skills:** Perception +2, Stealth +4
 - **Senses:** darkvision 30 ft.; Passive Perception 12
 - **Languages:** -
@@ -5997,9 +6399,11 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Armor Class:** 8
 - **Hit Points:** 85 (9d10 + 36)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 6 (-2)   | 18 (+4)  | 3 (-4)   | 6 (-2)   | 5 (-3)   |
+
 - **Saving Throws:** Wis +0
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Poisoned
@@ -6020,9 +6424,11 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Armor Class:** 11 (hide armor)
 - **Hit Points:** 59 (7d10 + 21)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 8 (-1)   | 16 (+3)  | 5 (-3)   | 7 (-2)   | 7 (-2)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** Common, Giant
 - **Challenge:** 2 (450 XP)
@@ -6040,9 +6446,11 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Armor Class:** 16 (chain mail)
 - **Hit Points:** 110 (13d10 + 39)
 - **Speed:** 30 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 11 (+0)  | 16 (+3)  | 14 (+2)  | 12 (+1)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +3, Con +6, Wis +4, Cha +5
 - **Skills:** Arcana +5, Deception +8, Perception +4
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -6076,9 +6484,11 @@ At will: *Darkness*, *Invisibility*
 - **Armor Class:** 13 (hide armor)
 - **Hit Points:** 15 (2d8 + 6)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 12 (+1)  | 16 (+3)  | 7 (-2)   | 11 (+0)  | 10 (+0)  |
+
 - **Skills:** Intimidation +2
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Common, Orc
@@ -6099,9 +6509,11 @@ At will: *Darkness*, *Invisibility*
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 11 (+0)  | 19 (+4)  | 6 (-2)   | 13 (+1)  | 6 (-2)   |
+
 - **Saving Throws:** Con +7
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Otyugh
@@ -6126,9 +6538,11 @@ At will: *Darkness*, *Invisibility*
 - **Armor Class:** 11
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 5 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 13 (+1)  | 8 (-1)   | 2 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3, Stealth +3
 - **Senses:** darkvision 120 ft.; Passive Perception 13
 - **Languages:** -
@@ -6149,9 +6563,11 @@ At will: *Darkness*, *Invisibility*
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 59 (7d10 + 21)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 12 (+1)  | 17 (+3)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** darkvision 60 ft.; Passive Perception 13
 - **Languages:** -
@@ -6174,9 +6590,11 @@ At will: *Darkness*, *Invisibility*
 - **Armor Class:** 12
 - **Hit Points:** 13 (3d8)
 - **Speed:** 50 ft., Climb 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 15 (+2)  | 10 (+0)  | 3 (-4)   | 14 (+2)  | 7 (-2)   |
+
 - **Skills:** Perception +4, Stealth +6
 - **Senses:** Passive Perception 14
 - **Languages:** -
@@ -6199,9 +6617,11 @@ At will: *Darkness*, *Invisibility*
 - **Armor Class:** 12
 - **Hit Points:** 59 (7d10 + 21)
 - **Speed:** 60 ft., Fly 90 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 15 (+2)  | 16 (+3)  | 10 (+0)  | 15 (+2)  | 13 (+1)  |
+
 - **Saving Throws:** Dex +4, Wis +4, Cha +3
 - **Skills:** Perception +6
 - **Senses:** Passive Perception 16
@@ -6219,9 +6639,11 @@ At will: *Darkness*, *Invisibility*
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 32 (5d10 + 5)
 - **Speed:** 30 ft., Climb 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 15 (+2)  | 12 (+1)  | 6 (-2)   | 10 (+0)  | 6 (-2)   |
+
 - **Skills:** Stealth +6
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
@@ -6246,9 +6668,11 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 300 (24d10 + 168)
 - **Speed:** 30 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 26 (+8)  | 14 (+2)  | 24 (+7)  | 22 (+6)  | 18 (+4)  | 24 (+7)  |
+
 - **Saving Throws:** Dex +8, Con +13, Wis +10
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
@@ -6288,9 +6712,11 @@ At will: *Detect Magic*, *Fireball*
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 200 (16d10 + 112)
 - **Speed:** 40 ft., Fly 120 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 24 (+7)  | 20 (+5)  | 24 (+7)  | 19 (+4)  | 22 (+6)  | 25 (+7)  |
+
 - **Saving Throws:** Con +12, Wis +11, Cha +12
 - **Skills:** Perception +11
 - **Damage Resistances:** Radiant; Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -6328,9 +6754,11 @@ At will: *Detect Evil and Good*, *Invisibility* (self only)
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 68 (8d10 + 24)
 - **Speed:** 20 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 15 (+2)  | 16 (+3)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
+
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -6349,9 +6777,11 @@ At will: *Detect Evil and Good*, *Invisibility* (self only)
 - **Armor Class:** 13
 - **Hit Points:** 2 (1d4)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 16 (+3)  | 11 (+0)  | 1 (-5)   | 10 (+0)  | 3 (-4)   |
+
 - **Senses:** blindsight 10 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
@@ -6367,9 +6797,11 @@ At will: *Detect Evil and Good*, *Invisibility* (self only)
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 42 (5d10 + 15)
 - **Speed:** 40 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 10 (+0)  | 16 (+3)  | 2 (-4)   | 13 (+1)  | 7 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -6392,9 +6824,11 @@ At will: *Detect Evil and Good*, *Invisibility* (self only)
 - **Armor Class:** 10
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 10 (+0)  | 13 (+1)  | 2 (-4)   | 11 (+0)  | 7 (-2)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
@@ -6410,9 +6844,11 @@ At will: *Detect Evil and Good*, *Invisibility* (self only)
 - **Armor Class:** 13 (chain shirt)
 - **Hit Points:** 27 (5d8 + 5)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 10 (+0)  | 12 (+1)  | 13 (+1)  | 16 (+3)  | 13 (+1)  |
+
 - **Skills:** Medicine +7, Persuasion +3, Religion +5
 - **Senses:** Passive Perception 13
 - **Languages:** any two languages
@@ -6442,9 +6878,11 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 7 (2d4 + 2)
 - **Speed:** 15 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 6 (-2)   | 15 (+2)  | 13 (+1)  | 10 (+0)  | 12 (+1)  | 10 (+0)  |
+
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 13
 - **Languages:** understands Common and Draconic but can't speak
@@ -6469,9 +6907,11 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 247 (15d20 + 90)
 - **Speed:** 50 ft., Burrow 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 28 (+9)  | 7 (-2)   | 22 (+6)  | 1 (-5)   | 8 (-1)   | 4 (-3)   |
+
 - **Saving Throws:** Con +11, Wis +4
 - **Senses:** blindsight 30 ft., tremorsense 60 ft.; Passive Perception 9
 - **Languages:** -
@@ -6496,9 +6936,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Armor Class:** 13
 - **Hit Points:** 7 (3d4)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 5 (-3)   | 17 (+3)  | 10 (+0)  | 7 (-2)   | 10 (+0)  | 10 (+0)  |
+
 - **Skills:** Stealth +5
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
@@ -6526,9 +6968,11 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Armor Class:** 13
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 0 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 16 (+3)  | 9 (-1)   | 1 (-5)   | 7 (-2)   | 2 (-4)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -6550,9 +6994,11 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 110 (13d8 + 52)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 17 (+3)  | 18 (+4)  | 13 (+1)  | 16 (+3)  | 20 (+5)  |
+
 - **Skills:** Deception +10, Insight +8
 - **Damage Vulnerabilities:** Piercing from magic weapons wielded by good creatures
 - **Damage Immunities:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -6583,9 +7029,11 @@ At will: *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
 - **Armor Class:** 10
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 11 (+0)  | 9 (-1)   | 2 (-4)   | 10 (+0)  | 4 (-3)   |
+
 - **Senses:** darkvision 30 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -6603,9 +7051,11 @@ At will: *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
 - **Armor Class:** 12
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 10 ft., Fly 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 14 (+2)  | 8 (-1)   | 2 (-4)   | 12 (+1)  | 6 (-2)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -6624,9 +7074,11 @@ At will: *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 0 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 13 (+1)  | 13 (+1)  | 1 (-5)   | 10 (+0)  | 4 (-3)   |
+
 - **Skills:** Perception +2
 - **Senses:** blindsight 30 ft.; Passive Perception 12
 - **Languages:** -
@@ -6649,9 +7101,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 195 (17d12 + 85)
 - **Speed:** 30 ft., Burrow 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 24 (+7)  | 13 (+1)  | 21 (+5)  | 4 (-3)   | 10 (+0)  | 5 (-3)   |
+
 - **Damage Immunities:** Cold, Fire
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
 - **Languages:** -
@@ -6674,9 +7128,11 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 8 (-1)   | 15 (+2)  | 2 (-4)   | 12 (+1)  | 6 (-2)   |
+
 - **Senses:** Passive Perception 11
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
@@ -6694,9 +7150,11 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Armor Class:** 10
 - **Hit Points:** 13 (2d10 + 2)
 - **Speed:** 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 10 (+0)  | 12 (+1)  | 2 (-4)   | 11 (+0)  | 7 (-2)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -6712,9 +7170,11 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 248 (16d20 + 80)
 - **Speed:** 20 ft., Fly 120 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 28 (+9)  | 10 (+0)  | 20 (+5)  | 3 (-4)   | 10 (+0)  | 9 (-1)   |
+
 - **Saving Throws:** Dex +4, Con +9, Wis +4, Cha +3
 - **Skills:** Perception +4
 - **Senses:** Passive Perception 14
@@ -6738,9 +7198,11 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Armor Class:** 20 (natural armor)
 - **Hit Points:** 93 (11d10 + 33)
 - **Speed:** 10 ft., Climb 10 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 8 (-1)   | 17 (+3)  | 7 (-2)   | 16 (+3)  | 6 (-2)   |
+
 - **Skills:** Perception +6, Stealth +5
 - **Senses:** darkvision 60 ft.; Passive Perception 16
 - **Languages:** -
@@ -6769,9 +7231,11 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Armor Class:** 12
 - **Hit Points:** 33 (6d10)
 - **Speed:** 10 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 14 (+2)  | 10 (+0)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
+
 - **Damage Immunities:** Poison, Psychic
 - **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 6
@@ -6795,9 +7259,11 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 27 (5d8 + 5)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 12 (+1)  | 13 (+1)  | 2 (-4)   | 13 (+1)  | 6 (-2)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -6821,9 +7287,11 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Armor Class:** 12
 - **Hit Points:** 52 (7d10 + 14)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 14 (+2)  | 15 (+2)  | 3 (-4)   | 12 (+1)  | 8 (-1)   |
+
 - **Skills:** Perception +3, Stealth +6
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -6846,9 +7314,11 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 30 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 11 (+0)  | 12 (+1)  | 12 (+1)  | 13 (+1)  | 9 (-1)   |
+
 - **Skills:** Perception +5
 - **Senses:** darkvision 120 ft.; Passive Perception 15
 - **Languages:** Sahuagin
@@ -6877,9 +7347,11 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 90 (12d10 + 24)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 14 (+2)  | 15 (+2)  | 11 (+0)  | 10 (+0)  | 12 (+1)  |
+
 - **Damage Vulnerabilities:** Cold
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Fire
@@ -6908,9 +7380,11 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Armor Class:** 14 (leather armor)
 - **Hit Points:** 31 (7d8)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 16 (+3)  | 11 (+0)  | 12 (+1)  | 10 (+0)  | 14 (+2)  |
+
 - **Skills:** Perception +2, Performance +6, Stealth +5
 
 **Sense**s Passive Perception 12
@@ -6935,9 +7409,11 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Armor Class:** 11 (natural armor)
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 10 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 11 (+0)  | 8 (-1)   | 1 (-5)   | 8 (-1)   | 2 (-4)   |
+
 - **Senses:** blindsight 10 ft.; Passive Perception 9
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -6953,9 +7429,11 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Armor Class:** 13 (leather armor)
 - **Hit Points:** 16 (3d8 + 3)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 14 (+2)  | 12 (+1)  | 11 (+0)  | 13 (+1)  | 11 (+0)  |
+
 - **Skills:** Nature +4, Perception +5, Stealth +6, Survival +5
 - **Senses:** Passive Perception 15
 - **Languages:** any one language (usually Common)
@@ -6980,9 +7458,11 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 52 (7d8 + 21)
 - **Speed:** 30 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 13 (+1)  | 16 (+3)  | 12 (+1)  | 12 (+1)  | 13 (+1)  |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Aquan, Common, Giant
 - **Challenge:** 2 (450 XP)
@@ -7010,9 +7490,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Armor Class:** 11
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 0 ft., Swim 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 1 (-5)   | 12 (+1)  | 8 (-1)   | 1 (-5)   | 10 (+0)  | 2 (-4)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 0 (0 XP)
@@ -7026,9 +7508,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Armor Class:** 12
 - **Hit Points:** 16 (3d8 + 3)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 6 (-2)   | 14 (+2)  | 13 (+1)  | 6 (-2)   | 10 (+0)  | 8 (-1)   |
+
 - **Skills:** Stealth +4 (+6 in dim light or darkness)
 - **Damage Vulnerabilities:** Radiant
 - **Damage Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -7057,9 +7541,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 136 (16d10 + 48)
 - **Speed:** 20 ft., Swim 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 8 (-1)   | 16 (+3)  | 5 (-3)   | 10 (+0)  | 5 (-3)   |
+
 - **Skills:** Stealth +2
 - **Damage Resistances:** Cold, Fire
 - **Damage Immunities:** Lightning
@@ -7085,9 +7571,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 142 (15d10 + 60)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 8 (-1)   | 18 (+4)  | 7 (-2)   | 10 (+0)  | 3 (-4)   |
+
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 10
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
@@ -7117,9 +7605,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Armor Class:** 5
 - **Hit Points:** 13 (3d8)
 - **Speed:** 0 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 1 (-5)   | 1 (-5)   | 10 (+0)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
+
 - **Condition Immunities:** Blinded, Deafened, Frightened
 - **Senses:** blindsight 30 ft. (blind beyond this radius); Passive Perception 6
 - **Languages:** -
@@ -7138,9 +7628,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Armor Class:** 13 (armor scraps)
 - **Hit Points:** 13 (2d8 + 4)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 14 (+2)  | 15 (+2)  | 6 (-2)   | 8 (-1)   | 5 (-3)   |
+
 - **Damage Vulnerabilities:** Bludgeoning
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Exhaustion, Poisoned
@@ -7161,9 +7653,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Armor Class:** 21 (natural armor)
 - **Hit Points:** 243 (18d10 + 144)
 - **Speed:** 50 ft., Fly 150 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 26 (+8)  | 22 (+6)  | 26 (+8)  | 25 (+7)  | 25 (+7)  | 30 (+10) |
+
 - **Saving Throws:** Int +14, Wis +14, Cha +17
 - **Skills:** Perception +14
 - **Damage Resistances:** Radiant; Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -7216,9 +7710,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Armor Class:** 12
 - **Hit Points:** 22 (5d8)
 - **Speed:** 0 ft., Fly 50 ft. (hover)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 1 (-5)   | 14 (+2)  | 11 (+0)  | 10 (+0)  | 10 (+0)  | 11 (+0)  |
+
 - **Damage Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Necrotic, Poison
 - **Condition Immunities:** Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -7241,9 +7737,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Armor Class:** 12
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 20 ft., Climb 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 2 (-4)   | 14 (+2)  | 8 (-1)   | 1 (-5)   | 10 (+0)  | 2 (-4)   |
+
 - **Skills:** Stealth +4
 - **Senses:** darkvision 30 ft.; Passive Perception 10
 - **Languages:** -
@@ -7266,9 +7764,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 75 (10d10 + 20)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 17 (+3)  | 14 (+2)  | 16 (+3)  | 15 (+2)  | 16 (+3)  |
+
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Charmed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 12
@@ -7297,9 +7797,11 @@ Cantrips (at will): *Mage Hand*, *Minor Illusion*, *Ray of Frost*
 - **Armor Class:** 15 (leather armor)
 - **Hit Points:** 2 (1d4)
 - **Speed:** 10 ft., Fly 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 18 (+4)  | 10 (+0)  | 14 (+2)  | 13 (+1)  | 11 (+0)  |
+
 - **Skills:** Perception +3, Stealth +8
 - **Senses:** Passive Perception 13
 - **Languages:** Common, Elvish, Sylvan
@@ -7322,9 +7824,11 @@ Cantrips (at will): *Mage Hand*, *Minor Illusion*, *Ray of Frost*
 - **Armor Class:** 12
 - **Hit Points:** 27 (6d8)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 15 (+2)  | 10 (+0)  | 12 (+1)  | 14 (+2)  | 16 (+3)  |
+
 - **Skills:** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
 - **Senses:** Passive Perception 16
 - **Languages:** any two languages
@@ -7351,9 +7855,11 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 - **Armor Class:** 10
 - **Hit Points:** 21 (6d6)
 - **Speed:** 30 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 5 (-3)   | 11 (+0)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 12 (+1)  |
+
 - **Damage Immunities:** Fire, Poison
 - **Condition Immunities:** Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
@@ -7377,9 +7883,11 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 2 (1d4)
 - **Speed:** 10 ft., Fly 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 4 (-3)   | 16 (+3)  | 11 (+0)  | 2 (-4)   | 8 (-1)   | 6 (-2)   |
+
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
@@ -7397,9 +7905,11 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 126 (11d12 + 55)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 15 (+2)  | 20 (+5)  | 10 (+0)  | 12 (+1)  | 9 (-1)   |
+
 - **Saving Throws:** Dex +5, Con +8, Wis +4
 - **Skills:** Athletics +12, Perception +4
 - **Senses:** darkvision 60 ft.; Passive Perception 14
@@ -7427,9 +7937,11 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 178 (17d10 + 85)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 22 (+6)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
+
 - **Damage Immunities:** Poison, Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
 - **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
@@ -7457,9 +7969,11 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 - **Armor Class:** 16 (scale mail)
 - **Hit Points:** 230 (20d12 + 100)
 - **Speed:** 50 ft., Swim 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 29 (+9)  | 14 (+2)  | 20 (+5)  | 16 (+3)  | 18 (+4)  | 18 (+4)  |
+
 - **Saving Throws:** Str +14, Con +10, Wis +9, Cha +9
 - **Skills:** Arcana +8, Athletics +14, History +8, Perception +9
 - **Damage Resistances:** Cold
@@ -7493,9 +8007,11 @@ At will: *Detect Magic*, *Feather Fall*, *Levitate*, *Light*
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 66 (12d8 + 12)
 - **Speed:** 30 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 8 (-1)   | 17 (+3)  | 13 (+1)  | 15 (+2)  | 12 (+1)  | 20 (+5)  |
+
 - **Skills:** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
 - **Damage Resistances:** Cold, Fire, Lightning, Poison; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -7527,9 +8043,11 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Armor Class:** 12
 - **Hit Points:** 22 (5d8)
 - **Speed:** 0 ft., Fly 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 5 (-3)   | 15 (+2)  | 10 (+0)  | 2 (-4)   | 12 (+1)  | 4 (-3)   |
+
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
 - **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** blindsight 60 ft.; Passive Perception 11
@@ -7553,9 +8071,11 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Armor Class:** 12 (natural armor)
 - **Hit Points:** 22 (5d8)
 - **Speed:** 20 ft., Climb 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 13 (+1)  | 10 (+0)  | 1 (-5)   | 7 (-2)   | 1 (-5)   |
+
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
 - **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** blindsight 10 ft.; Passive Perception 8
@@ -7593,9 +8113,11 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Armor Class:** 14
 - **Hit Points:** 36 (8d8)
 - **Speed:** 30 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 8 (-1)   | 18 (+4)  | 11 (+0)  | 1 (-5)   | 10 (+0)  | 3 (-4)   |
+
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
 - **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** blindsight 10 ft.; Passive Perception 10
@@ -7615,9 +8137,11 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Armor Class:** 13
 - **Hit Points:** 28 (8d8 - 8)
 - **Speed:** 0 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 16 (+3)  | 9 (-1)   | 1 (-5)   | 7 (-2)   | 2 (-4)   |
+
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
 - **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** darkvision 60 ft.; Passive Perception 8
@@ -7641,9 +8165,11 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Armor Class:** 10
 - **Hit Points:** 24 (7d8 - 7)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 9 (-1)   | 11 (+0)  | 9 (-1)   | 2 (-4)   | 10 (+0)  | 3 (-4)   |
+
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
 - **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** darkvision 30 ft.; Passive Perception 10
@@ -7665,9 +8191,11 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Armor Class:** 12
 - **Hit Points:** 24 (7d8 - 7)
 - **Speed:** 10 ft., Fly 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 6 (-2)   | 14 (+2)  | 8 (-1)   | 3 (-4)   | 12 (+1)  | 6 (-2)   |
+
 - **Skills:** Perception +5
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
 - **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
@@ -7688,9 +8216,11 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Armor Class:** 25 (natural armor)
 - **Hit Points:** 676 (33d20 + 330)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 30 (+10) | 11 (+0)  | 30 (+10) | 3 (-4)   | 11 (+0)  | 11 (+0)  |
+
 - **Saving Throws:** Int +5, Wis +9, Cha +9
 - **Damage Immunities:** Fire, Poison; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Condition Immunities:** Charmed, Frightened, Paralyzed, Poisoned
@@ -7741,9 +8271,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Armor Class:** 11 (leather armor)
 - **Hit Points:** 32 (5d8 + 10)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 11 (+0)  | 14 (+2)  | 10 (+0)  | 10 (+0)  | 11 (+0)  |
+
 - **Skills:** Intimidation +2
 - **Senses:** Passive Perception 10
 - **Languages:** any one language (usually Common)
@@ -7768,9 +8300,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Armor Class:** 12
 - **Hit Points:** 37 (5d10 + 10)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 15 (+2)  | 14 (+2)  | 3 (-4)   | 12 (+1)  | 8 (-1)   |
+
 - **Skills:** Perception +3, Stealth +6
 - **Senses:** darkvision 60 ft.; Passive Perception 13
 - **Languages:** -
@@ -7793,9 +8327,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 138 (12d12 + 60)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 8 (-1)   | 21 (+5)  | 12 (+1)  | 16 (+3)  | 12 (+1)  |
+
 - **Damage Resistances:** Bludgeoning, Piercing
 - **Damage Vulnerabilities:** Fire
 - **Senses:** Passive Perception 13
@@ -7823,9 +8359,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Armor Class:** 12 (hide armor)
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 11 (+0)  | 12 (+1)  | 8 (-1)   | 11 (+0)  | 8 (-1)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** any one language
 - **Challenge:** 1/8 (25 XP)
@@ -7845,9 +8383,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 95 (10d12 + 30)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 22 (+6)  | 9 (-1)   | 17 (+3)  | 2 (-4)   | 11 (+0)  | 5 (-3)   |
+
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
@@ -7869,9 +8409,11 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 84 (8d10 + 40)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 13 (+1)  | 20 (+5)  | 7 (-2)   | 9 (-1)   | 7 (-2)   |
+
 - **Skills:** Perception +2
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** Giant
@@ -7896,9 +8438,11 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 136 (13d12 + 52)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 25 (+7)  | 10 (+0)  | 19 (+4)  | 2 (-4)   | 12 (+1)  | 9 (-1)   |
+
 - **Skills:** Perception +4
 - **Senses:** Passive Perception 14
 - **Languages:** -
@@ -7919,9 +8463,11 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 - **Armor Class:** 12
 - **Hit Points:** 67 (9d10 + 18)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 14 (+2)  | 15 (+2)  | 11 (+0)  | 17 (+3)  | 16 (+3)  |
+
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Charmed, Paralyzed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 13
@@ -7969,9 +8515,11 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 82 (11d8 + 33)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 16 (+3)  | 16 (+3)  | 11 (+0)  | 10 (+0)  | 12 (+1)  |
+
 - **Saving Throws:** Dex +6, Wis +3
 - **Skills:** Perception +3, Stealth +6
 - **Damage Resistances:** Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -7985,13 +8533,13 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ***Vampire Weaknesses.*** The vampire has the following flaws:
 
-*Forbiddance*. The vampire can't enter a residence without an invitation from one of the occupants.
+- **Forbiddance:** The vampire can't enter a residence without an invitation from one of the occupants.
 
-*Harmed by Running Water*. The vampire takes 20 Acid damage when it ends its turn in running water.
+- **Harmed by Running Water:** The vampire takes 20 Acid damage when it ends its turn in running water.
 
-*Stake to the Heart*. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.
+- **Stake to the Heart:** The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.
 
-*Sunlight Hypersensitivity*. The vampire takes 20 Radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+- **Sunlight Hypersensitivity:** The vampire takes 20 Radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
 #### Actions
 
@@ -8008,9 +8556,11 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 144 (17d8 + 68)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 18 (+4)  | 18 (+4)  | 17 (+3)  | 15 (+2)  | 18 (+4)  |
+
 - **Saving Throws:** Dex +9, Wis +7, Cha +9
 - **Skills:** Perception +7, Stealth +9
 - **Damage Resistances:** Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
@@ -8036,13 +8586,13 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 
 ***Vampire Weaknesses.*** The vampire has the following flaws:
 
-*Forbiddance*. The vampire can't enter a residence without an invitation from one of the occupants.
+- **Forbiddance:** The vampire can't enter a residence without an invitation from one of the occupants.
 
-*Harmed by Running Water*. The vampire takes 20 Acid damage if it ends its turn in running water.
+- **Harmed by Running Water:** The vampire takes 20 Acid damage if it ends its turn in running water.
 
-*Stake to the Heart*. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.
+- **Stake to the Heart:** If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.
 
-*Sunlight Hypersensitivity*. The vampire takes 20 Radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+- **Sunlight Hypersensitivity:** The vampire takes 20 Radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
 #### Actions
 
@@ -8075,9 +8625,11 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 17 (splint)
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 13 (+1)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 10 (+0)  |
+
 - **Skills:** Athletics +5, Perception +2
 - **Senses:** Passive Perception 12
 - **Languages:** any one language (usually Common)
@@ -8102,9 +8654,11 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 5
 - **Hit Points:** 18 (4d8)
 - **Speed:** 5 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 1 (-5)   | 10 (+0)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
+
 - **Condition Immunities:** Blinded, Deafened, Frightened
 - **Senses:** blindsight 30 ft. (blind beyond this radius); Passive Perception 6
 - **Languages:** -
@@ -8125,9 +8679,11 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 15 (natural armor)
 - **Hit Points:** 104 (11d10 + 44)
 - **Speed:** 40 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 15 (+2)  | 18 (+4)  | 8 (-1)   | 13 (+1)  | 8 (-1)   |
+
 - **Saving Throws:** Dex +5, Wis +4, Cha +2
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
@@ -8157,9 +8713,11 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 10
 - **Hit Points:** 5 (1d8 + 1)
 - **Speed:** 10 ft., Fly 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 7 (-2)   | 10 (+0)  | 13 (+1)  | 2 (-4)   | 12 (+1)  | 4 (-3)   |
+
 - **Skills:** Perception +3
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -8180,9 +8738,11 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 11
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 12 (+1)  | 13 (+1)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
+
 - **Senses:** Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -8200,9 +8760,11 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 13 (barding scraps)
 - **Hit Points:** 22 (3d10 + 6)
 - **Speed:** 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 12 (+1)  | 15 (+2)  | 2 (-4)   | 8 (-1)   | 5 (-3)   |
+
 - **Damage Vulnerabilities:** Bludgeoning
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Exhaustion, Poisoned
@@ -8221,9 +8783,11 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Armor Class:** 14 (natural armor)
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 30 ft., Swim 90 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 14 (+2)  | 18 (+4)  | 5 (-3)   | 10 (+0)  | 8 (-1)   |
+
 - **Damage Resistances:** Acid; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -8252,9 +8816,11 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Armor Class:** 13
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 16 (+3)  | 8 (-1)   | 2 (-4)   | 12 (+1)  | 3 (-4)   |
+
 - **Skills:** Perception +3, Stealth +5
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -8273,9 +8839,11 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Armor Class:** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
 - **Hit Points:** 135 (18d8 + 54)
 - **Speed:** 30 ft. (40 ft., Climb 30 ft. in bear or hybrid form)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 10 (+0)  | 17 (+3)  | 11 (+0)  | 12 (+1)  | 12 (+1)  |
+
 - **Skills:** Perception +7
 - **Damage Immunities:** Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Senses:** Passive Perception 17
@@ -8303,9 +8871,11 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Armor Class:** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
 - **Hit Points:** 78 (12d8 + 24)
 - **Speed:** 30 ft. (40 ft. in boar form)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 10 (+0)  | 15 (+2)  | 10 (+0)  | 11 (+0)  | 8 (-1)   |
+
 - **Skills:** Perception +2
 - **Damage Immunities:** Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Senses:** Passive Perception 12
@@ -8333,9 +8903,11 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Armor Class:** 12
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 15 (+2)  | 12 (+1)  | 11 (+0)  | 10 (+0)  | 8 (-1)   |
+
 - **Skills:** Perception +2, Stealth +4
 - **Damage Immunities:** Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Senses:** darkvision 60 ft. (rat form only); Passive Perception 12
@@ -8363,9 +8935,11 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Armor Class:** 12
 - **Hit Points:** 120 (16d8 + 48)
 - **Speed:** 30 ft. (40 ft. in tiger form)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 15 (+2)  | 16 (+3)  | 10 (+0)  | 13 (+1)  | 11 (+0)  |
+
 - **Skills:** Perception +5, Stealth +4
 - **Damage Immunities:** Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Senses:** darkvision 60 ft.; Passive Perception 15
@@ -8397,9 +8971,11 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Armor Class:** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
 - **Hit Points:** 58 (9d8 + 18)
 - **Speed:** 30 ft. (40 ft. in wolf form)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 13 (+1)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 10 (+0)  |
+
 - **Skills:** Perception +4, Stealth +3
 - **Damage Immunities:** Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Senses:** Passive Perception 14
@@ -8427,9 +9003,11 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Armor Class:** 14 (studded leather)
 - **Hit Points:** 45 (6d8 + 18)
 - **Speed:** 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 14 (+2)  | 16 (+3)  | 10 (+0)  | 13 (+1)  | 15 (+2)  |
+
 - **Skills:** Perception +3, Stealth +4
 - **Damage Resistances:** Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Poison
@@ -8459,9 +9037,11 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 - **Armor Class:** 19
 - **Hit Points:** 22 (9d4)
 - **Speed:** 0 ft., Fly 50 ft. (hover)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 1 (-5)   | 28 (+9)  | 10 (+0)  | 13 (+1)  | 14 (+2)  | 11 (+0)  |
+
 - **Damage Immunities:** Lightning, Poison
 - **Damage Resistances:** Acid, Cold, Fire, Necrotic, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Poisoned, Prone, Restrained, Unconscious
@@ -8490,9 +9070,11 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 75 (10d10 + 20)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 13 (+1)  | 14 (+2)  | 7 (-2)   | 12 (+1)  | 8 (-1)   |
+
 - **Skills:** Perception +5, Stealth +3
 - **Damage Immunities:** Cold
 - **Senses:** Passive Perception 15
@@ -8520,9 +9102,11 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 12 (+1)  | 15 (+2)  | 12 (+1)  | 3 (-4)   | 12 (+1)  | 6 (-2)   |
+
 - **Skills:** Perception +3, Stealth +4
 - **Senses:** Passive Perception 13
 - **Languages:** -
@@ -8543,9 +9127,11 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 26 (4d10 + 4)
 - **Speed:** 50 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 13 (+1)  | 13 (+1)  | 7 (-2)   | 11 (+0)  | 8 (-1)   |
+
 - **Skills:** Perception +4
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Goblin, Worg
@@ -8566,9 +9152,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 13
 - **Hit Points:** 67 (9d8 + 27)
 - **Speed:** 0 ft., Fly 60 ft. (hover)
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 6 (-2)   | 16 (+3)  | 16 (+3)  | 12 (+1)  | 14 (+2)  | 15 (+2)  |
+
 - **Damage Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Necrotic, Poison
 - **Condition Immunities:** Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
@@ -8593,9 +9181,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 14 (+2)  | 13 (+1)  | 10 (+0)  | 11 (+0)  | 13 (+1)  |
+
 - **Saving Throws:** Dex +4, Con +3, Wis +2, Cha +3
 - **Skills:** Perception +4, Stealth +4
 - **Damage Immunities:** Acid
@@ -8618,9 +9208,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 10 (+0)  | 15 (+2)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +2, Con +4, Wis +2, Cha +4
 - **Skills:** Perception +4, Stealth +2
 - **Damage Immunities:** Lightning
@@ -8641,9 +9233,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 16 (3d8 + 3)
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 10 (+0)  | 13 (+1)  | 10 (+0)  | 11 (+0)  | 13 (+1)  |
+
 - **Saving Throws:** Dex +2, Con +3, Wis +2, Cha +3
 - **Skills:** Perception +4, Stealth +2
 - **Damage Immunities:** Fire
@@ -8668,9 +9262,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 32 (5d8 + 10)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 10 (+0)  | 15 (+2)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +2, Con +4, Wis +2, Cha +4
 - **Skills:** Perception +4, Stealth +2
 - **Damage Immunities:** Lightning
@@ -8697,9 +9293,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 12 (+1)  | 13 (+1)  | 14 (+2)  | 11 (+0)  | 13 (+1)  |
+
 - **Saving Throws:** Dex +3, Con +3, Wis +2, Cha +3
 - **Skills:** Perception +4, Stealth +3
 - **Damage Immunities:** Acid
@@ -8724,9 +9322,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 60 (8d8 + 24)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 14 (+2)  | 17 (+3)  | 14 (+2)  | 11 (+0)  | 16 (+3)  |
+
 - **Saving Throws:** Dex +4, Con +5, Wis +2, Cha +5
 - **Skills:** Perception +4, Stealth +4
 - **Damage Immunities:** Fire
@@ -8753,9 +9353,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 38 (7d8 + 7)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 15 (+2)  | 12 (+1)  | 13 (+1)  | 14 (+2)  | 11 (+0)  | 13 (+1)  |
+
 - **Saving Throws:** Dex +3, Con +3, Wis +2, Cha +3
 - **Skills:** Perception +4, Stealth +3
 - **Damage Immunities:** Poison
@@ -8779,9 +9381,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 75 (10d8 + 30)
 - **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 10 (+0)  | 17 (+3)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +2, Con +5, Wis +2, Cha +4
 - **Skills:** Perception +4, Stealth +2
 - **Damage Immunities:** Fire
@@ -8802,9 +9406,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 45 (6d8 + 18)
 - **Speed:** 30 ft., Fly 60 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 10 (+0)  | 17 (+3)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +2, Con +5, Wis +2, Cha +4
 - **Skills:** Perception +4, Stealth +2
 - **Damage Immunities:** Cold
@@ -8829,9 +9435,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 16 (natural armor)
 - **Hit Points:** 32 (5d8 + 10)
 - **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 10 (+0)  | 14 (+2)  | 5 (-3)   | 10 (+0)  | 11 (+0)  |
+
 - **Saving Throws:** Dex +2, Con +4, Wis +2, Cha +2
 - **Skills:** Perception +4, Stealth +2
 - **Damage Immunities:** Cold
@@ -8852,9 +9460,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 13 (natural armor)
 - **Hit Points:** 110 (13d10 + 39)
 - **Speed:** 20 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 10 (+0)  | 16 (+3)  | 5 (-3)   | 12 (+1)  | 6 (-2)   |
+
 - **Skills:** Perception +4
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** -
@@ -8877,9 +9487,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 19 (natural armor)
 - **Hit Points:** 73 (7d8 + 42)
 - **Speed:** 20 ft., Burrow 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 10 (+0)  | 22 (+6)  | 11 (+0)  | 10 (+0)  | 11 (+0)  |
+
 - **Skills:** Perception +6, Stealth +3
 - **Damage Resistances:** Piercing and Slashing from nonmagical attacks that aren't adamantine
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 16
@@ -8907,9 +9519,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 127 (15d10 + 45)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 14 (+2)  | 17 (+3)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +5, Con +6, Wis +3, Cha +5
 - **Skills:** Perception +6, Stealth +5
 - **Damage Immunities:** Acid
@@ -8936,9 +9550,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 152 (16d10 + 64)
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 10 (+0)  | 19 (+4)  | 14 (+2)  | 13 (+1)  | 17 (+3)  |
+
 - **Saving Throws:** Dex +4, Con +8, Wis +5, Cha +7
 - **Skills:** Perception +9, Stealth +4
 - **Damage Immunities:** Lightning
@@ -8963,9 +9579,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 110 (13d10 + 39)
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 10 (+0)  | 17 (+3)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +3, Con +6, Wis +3, Cha +5
 - **Skills:** Perception +6, Persuasion +5, Stealth +3
 - **Damage Immunities:** Fire
@@ -8994,9 +9612,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 142 (15d10 + 60)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 21 (+5)  | 10 (+0)  | 19 (+4)  | 14 (+2)  | 13 (+1)  | 17 (+3)  |
+
 - **Saving Throws:** Dex +3, Con +7, Wis +4, Cha +6
 - **Skills:** Insight +4, Perception +7, Stealth +3
 - **Damage Immunities:** Lightning
@@ -9027,9 +9647,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 119 (14d10 + 42)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 12 (+1)  | 17 (+3)  | 16 (+3)  | 13 (+1)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +4, Con +6, Wis +4, Cha +5
 - **Skills:** Deception +5, Perception +7, Stealth +4
 - **Damage Immunities:** Acid
@@ -9058,9 +9680,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 178 (17d10 + 85)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 14 (+2)  | 21 (+5)  | 16 (+3)  | 13 (+1)  | 20 (+5)  |
+
 - **Saving Throws:** Dex +6, Con +9, Wis +5, Cha +9
 - **Skills:** Insight +5, Perception +9, Persuasion +9, Stealth +6
 - **Damage Immunities:** Fire
@@ -9091,9 +9715,11 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 136 (16d10 + 48)
 - **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 12 (+1)  | 17 (+3)  | 16 (+3)  | 13 (+1)  | 15 (+2)  |
+
 - **Saving Throws:** Dex +4, Con +6, Wis +4, Cha +5
 - **Skills:** Deception +5, Perception +7, Stealth +4
 - **Damage Immunities:** Poison
@@ -9121,9 +9747,11 @@ Large dragon, chaotic evil
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 178 (17d10 + 85)
 - **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 10 (+0)  | 21 (+5)  | 14 (+2)  | 11 (+0)  | 19 (+4)  |
+
 - **Saving Throws:** Dex +4, Con +9, Wis +4, Cha +8
 - **Skills:** Perception +8, Stealth +4
 - **Damage Immunities:** Fire
@@ -9148,9 +9776,11 @@ Large dragon, chaotic evil
 - **Armor Class:** 18 (natural armor)
 - **Hit Points:** 168 (16d10 + 80)
 - **Speed:** 40 ft., Fly 80 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 23 (+6)  | 10 (+0)  | 21 (+5)  | 14 (+2)  | 11 (+0)  | 19 (+4)  |
+
 - **Saving Throws:** Dex +4, Con +9, Wis +4, Cha +8
 - **Skills:** Arcana +6, History +6, Perception +8, Stealth +4
 - **Damage Immunities:** Cold
@@ -9179,9 +9809,11 @@ Large dragon, chaotic evil
 - **Armor Class:** 17 (natural armor)
 - **Hit Points:** 133 (14d10 + 56)
 - **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 10 (+0)  | 18 (+4)  | 6 (-2)   | 11 (+0)  | 12 (+1)  |
+
 - **Saving Throws:** Dex +3, Con +7, Wis +3, Cha +4
 - **Skills:** Perception +6, Stealth +3
 - **Damage Immunities:** Cold
@@ -9208,9 +9840,11 @@ Large dragon, chaotic evil
 - **Armor Class:** 8
 - **Hit Points:** 22 (3d8 + 9)
 - **Speed:** 20 ft.
+
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 6 (-2)   | 16 (+3)  | 3 (-4)   | 6 (-2)   | 5 (-3)   |
+
 - **Saving Throws:** Wis +0
 - **Damage Immunities:** Poison
 - **Condition Immunities:** Poisoned
