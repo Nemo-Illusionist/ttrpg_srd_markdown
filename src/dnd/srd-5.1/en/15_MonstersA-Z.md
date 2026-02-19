@@ -36,7 +36,7 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 ***Multiattack.*** The aboleth makes three tentacle attacks.
 
-***Tentacle.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) Bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by *heal* or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) Acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+***Tentacle.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) Bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by *Heal* or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) Acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
 
 ***Tail.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft. one target. *Hit:* 15 (3d6 + 5) Bludgeoning damage.
 
@@ -71,8 +71,8 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 ***Spellcasting.*** The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
-Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
-1st level (3 slots): *bless*, *cure wounds*, *sanctuary*
+Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
+1st level (3 slots): *Bless*, *Cure Wounds*, *Sanctuary*
 
 #### Actions
 
@@ -381,7 +381,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Saving Throws:** Dex +6, Con +10, Wis +7, Cha +8
 - **Skills:** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
 - **Languages:** Common, Draconic
 - **Challenge:** 15 (13,000 XP)
@@ -565,7 +565,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 | 14 (+2)  | 20 (+5)  | 14 (+2)  | 6 (-2)   | 10 (+0)  | 6 (-2)   |
 - **Damage Resistances:** Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Auran
 - **Challenge:** 5 (1,800 XP)
@@ -891,7 +891,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Saving Throws:** Dex +8, Con +14, Wis +10, Cha +11
 - **Skills:** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
 - **Languages:** Common, Draconic
 - **Challenge:** 22 (41,000 XP)
@@ -1074,7 +1074,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Saving Throws:** Dex +6, Con +11, Int +9, Wis +10
 - **Skills:** Arcana +9, Perception +10, Religion +15
 - **Damage Immunities:** Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Condition Immunities:** charmed, frightened
+- **Condition Immunities:** Charmed, Frightened
 - **Senses:** truesight 120 ft.; Passive Perception 20
 - **Languages:** Common, Sphinx
 - **Challenge:** 17 (18,000 XP)
@@ -1085,13 +1085,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
-Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
-1st level (4 slots): *command*, *detect evil and good*, *detect magic*
-2nd level (3 slots): *lesser restoration*, *zone of truth*
-3rd level (3 slots): *dispel magic*, *tongues*
-4th level (3 slots): *banishment*, *freedom of movement*
-5th level (2 slots): *flame strike*, *greater restoration*
-6th level (1 slot): *heroes' feast*
+Cantrips (at will): *Sacred Flame*, *Spare the Dying*, *Thaumaturgy*
+1st level (4 slots): *Command*, *Detect Evil and Good*, *Detect Magic*
+2nd level (3 slots): *Lesser Restoration*, *Zone of Truth*
+3rd level (3 slots): *Dispel Magic*, *Tongues*
+4th level (3 slots): *Banishment*, *Freedom of Movement*
+5th level (2 slots): *Flame Strike*, *Greater Restoration*
+6th level (1 slot): *Heroes' Feast*
 
 #### Actions
 
@@ -1128,12 +1128,12 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 11 (+0)  | 13 (+1)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
 - **Damage Immunities:** Poison, Psychic
-- **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 6
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
 
-***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the armor must succeed on a
+***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an *Antimagic Field*. If targeted by *Dispel Magic*, the armor must succeed on a
 
 Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 
@@ -1192,7 +1192,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 *Medium Humanoid (Any Race), Any Alignment*
 
-- **Armor Class:** 12 (15 with *mage armor*)
+- **Armor Class:** 12 (15 with *Mage Armor*)
 - **Hit Points:** 99 (18d8 + 18)
 - **Speed:** 30 ft.
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
@@ -1201,7 +1201,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 - **Saving Throws:** Int +9, Wis +6
 - **Skills:** Arcana +13, History +13
 
-**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from *stoneskin*)
+**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from *Stoneskin*)
 
 - **Senses:** Passive Perception 12
 - **Languages:** any six languages
@@ -1209,18 +1209,18 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 ***Magic Resistance.*** The archmage has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast *disguise self* and *invisibility* at will and has the following wizard spells prepared:
+***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast *Disguise Self* and *Invisibility* at will and has the following wizard spells prepared:
 
-Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
-1st level (4 slots): *detect magic*, *identify*, *mage armor*, *magic missile*
-2nd level (3 slots): *detect thoughts*, *mirror image*, *misty step*
-3rd level (3 slots): *counterspell*, *fly*, *lightning bolt*
-4th level (3 slots): *banishment*, *fire shield*, *stoneskin*
-5th level (3 slots): *cone of cold*, *scrying*, *wall of force*
-6th level (1 slot): *globe of invulnerability*
-7th level (1 slot): *teleport*
+Cantrips (at will): *Fire Bolt*, *Light*, *Mage Hand*, *Prestidigitation*, *Shocking Grasp*
+1st level (4 slots): *Detect Magic*, *Identify*, *Mage Armor*, *Magic Missile*
+2nd level (3 slots): *Detect Thoughts*, *Mirror Image*, *Misty Step*
+3rd level (3 slots): *Counterspell*, *Fly*, *Lightning Bolt*
+4th level (3 slots): *Banishment*, *Fire Shield*, *Stoneskin*
+5th level (3 slots): *Cone of Cold*, *Scrying*, *Wall of Force*
+6th level (1 slot): *Globe of Invulnerability*
+7th level (1 slot): *Teleport*
 8th level (1 slot): *mind blank**
-9th level (1 slot): *time stop*
+9th level (1 slot): *Time Stop*
 \* The archmage casts these spells on itself before combat.
 
 #### Actions
@@ -1286,7 +1286,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 ***Rake.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 - 1) Slashing damage.
 
-An **awakened shrub** is an ordinary shrub given sentience and mobility by the *awaken* spell or similar magic.
+An **awakened shrub** is an ordinary shrub given sentience and mobility by the *Awaken* spell or similar magic.
 
 ### Awakened Tree
 
@@ -1310,7 +1310,7 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 
 ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) Bludgeoning damage.
 
-An **awakened tree** is an ordinary tree given sentience and mobility by the *awaken* spell or similar magic.
+An **awakened tree** is an ordinary tree given sentience and mobility by the *Awaken* spell or similar magic.
 
 ### Axe Beak
 
@@ -1344,7 +1344,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 | 17 (+3)  | 12 (+1)  | 15 (+2)  | 12 (+1)  | 13 (+1)  | 10 (+0)  |
 - **Saving Throws:** Con +4
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** Passive Perception 11
 - **Languages:** Ignan
 - **Challenge:** 2 (450 XP)
@@ -1412,7 +1412,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Saving Throws:** Str +14, Con +12, Wis +9, Cha +12
 - **Damage Resistances:** Cold, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** truesight 120 ft.; Passive Perception 13
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 19 (22,000 XP)
@@ -1507,7 +1507,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 - **Skills:** Deception +5, Insight +5, Perception +8
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 18
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 5 (1,800 XP)
@@ -1542,7 +1542,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 - **Languages:** -
 - **Challenge:** 3 (700 XP)
 
-***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the *greater restoration* spell or other magic.
+***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the *Greater Restoration* spell or other magic.
 
 A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.
 
@@ -1587,7 +1587,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 - **Saving Throws:** Str +5, Con +4, Wis +2
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 3 (700 XP)
@@ -1694,7 +1694,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 5 (-3)   | 16 (+3)  | 1 (-5)   | 6 (-2)   | 1 (-5)   |
 - **Damage Immunities:** Acid, Cold, Lightning, Slashing
-- **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 8
 - **Languages:** -
 - **Challenge:** 4 (1,100 XP)
@@ -1801,7 +1801,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Skills:** Deception +7, Insight +6
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 12
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 9 (5,000 XP)
@@ -1970,7 +1970,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Saving Throws:** Con +7, Wis +4, Cha +5
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 8 (3,900 XP)
@@ -2032,14 +2032,14 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 | 19 (+4)  | 10 (+0)  | 16 (+3)  | 5 (-3)   | 11 (+0)  | 5 (-3)   |
 - **Skills:** Perception +4
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** understands Deep Speech but can't speak
 - **Challenge:** 4 (1,100 XP)
 
 ***Amphibious.*** The chuul can breathe air and water.
 
-***Sense Magic.*** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the *detect magic* spell but isn't itself magical.
+***Sense Magic.*** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the *Detect Magic* spell but isn't itself magical.
 
 #### Actions
 
@@ -2060,7 +2060,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 9 (-1)   | 18 (+4)  | 3 (-4)   | 8 (-1)   | 1 (-5)   |
 - **Damage Immunities:** Acid, Poison, Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 9 (5,000 XP)
@@ -2079,7 +2079,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 
 ***Multiattack.*** The golem makes two slam attacks.
 
-***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) Bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the *greater restoration* spell or other magic.
+***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) Bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the *Greater Restoration* spell or other magic.
 
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 
@@ -2140,11 +2140,11 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material Components
 
-At will: *detect magic*, *fog cloud*, *light*
+At will: *Detect Magic*, *Fog Cloud*, *Light*
 
-3/day each: *feather fall*, *fly*, *misty step*, *telekinesis*
+3/day each: *Feather Fall*, *Fly*, *Misty Step*, *Telekinesis*
 
-1/day each: *control weather*, *gaseous form*
+1/day each: *Control Weather*, *Gaseous Form*
 
 #### Actions
 
@@ -2231,11 +2231,11 @@ At will: *detect magic*, *fog cloud*, *light*
 
 ***Innate Spellcasting.*** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal Components
 
-At will: *detect evil and good*, *detect magic*, *detect thoughts*
+At will: *Detect Evil and Good*, *Detect Magic*, *Detect Thoughts*
 
-3/day each: *bless*, *create food and water*, *cure wounds*, *lesser restoration*, *protection from poison*, *sanctuary*, *shield*
+3/day each: *Bless*, *Create Food and Water*, *Cure Wounds*, *Lesser Restoration*, *Protection From Poison*, *Sanctuary*, *Shield*
 
-1/day each: *dream*, *greater restoration*, *scrying*
+1/day each: *Dream*, *Greater Restoration*, *Scrying*
 
 ***Magic Weapons.*** The couatl's weapon attacks are magical.
 
@@ -2312,9 +2312,9 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ***Spellcasting.*** The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
-Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
-1st level (4 slots): *command*, *inflict wounds*, *shield of faith*
-2nd level (3 slots): *hold person*, *spiritual weapon*
+Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
+1st level (4 slots): *Command*, *Inflict Wounds*, *Shield of Faith*
+2nd level (3 slots): *Hold Person*, *Spiritual Weapon*
 
 #### Actions
 
@@ -2432,7 +2432,7 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 - **Saving Throws:** Wis +9, Cha +9
 - **Skills:** Insight +9, Perception +9
 - **Damage Resistances:** Radiant; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Condition Immunities:** charmed, exhaustion, frightened
+- **Condition Immunities:** Charmed, Exhaustion, Frightened
 - **Senses:** darkvision 120 ft.; Passive Perception 19
 - **Languages:** all, telepathy 120 ft.
 - **Challenge:** 10 (5,900 XP)
@@ -2441,9 +2441,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 ***Innate Spellcasting.*** The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal Components
 
-At will: *detect evil and good*
+At will: *Detect Evil and Good*
 
-1/day each: *commune*, *raise dead*
+1/day each: *Commune*, *Raise Dead*
 
 ***Magic Resistance.*** The deva has advantage on saving throws against spells and other magical effects.
 
@@ -2502,11 +2502,11 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 
 ***Innate Spellcasting.*** The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material Components
 
-At will: *detect evil and good*, *detect magic*, *thunderwave*
+At will: *Detect Evil and Good*, *Detect Magic*, *Thunderwave*
 
-3/day each: *create food and water* (can create wine instead of water), *tongues*, *wind walk*
+3/day each: *Create Food and Water* (can create wine instead of water), *Tongues*, *Wind Walk*
 
-1/day each: *conjure elemental* (air elemental only), *creation*, *gaseous form*, *invisibility*, *major image*, *plane shift*
+1/day each: *Conjure Elemental* (air elemental only), *Creation*, *Gaseous Form*, *Invisibility*, *Major Image*, *Plane Shift*
 
 #### Actions
 
@@ -2529,7 +2529,7 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 11 (+0)  | 18 (+4)  | 14 (+2)  | 11 (+0)  | 12 (+1)  | 14 (+2)  |
 - **Skills:** Deception +6, Insight +3
-- **Condition Immunities:** charmed
+- **Condition Immunities:** Charmed
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Common
 - **Challenge:** 3 (700 XP)
@@ -2608,7 +2608,7 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 | 11 (+0)  | 11 (+0)  | 12 (+1)  | 5 (-3)   | 8 (-1)   | 3 (-4)   |
 - **Damage Resistances:** Cold, Fire, Lightning
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
 - **Challenge:** 1/4 (50 XP)
@@ -2642,9 +2642,9 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 
 ***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material Components
 
-At will: *dancing lights*
+At will: *Dancing Lights*
 
-1/day each: *darkness*, *faerie fire*
+1/day each: *Darkness*, *Faerie Fire*
 
 ***Spider Climb.*** The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -2666,7 +2666,7 @@ At will: *dancing lights*
 
 *Medium Humanoid (Any Race), Any Alignment*
 
-- **Armor Class:** 11 (16 with *barkskin*)
+- **Armor Class:** 11 (16 with *Barkskin*)
 - **Hit Points:** 27 (5d8 + 5)
 - **Speed:** 30 ft.
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
@@ -2679,13 +2679,13 @@ At will: *dancing lights*
 
 ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
-1st level (4 slots): *entangle*, *longstrider*, *speak with animals*, *thunderwave*
-2nd level (3 slots): *animal messenger*, *barkskin*
+Cantrips (at will): *Druidcraft*, *Produce Flame*, *Shillelagh*
+1st level (4 slots): *Entangle*, *Longstrider*, *Speak with Animals*, *Thunderwave*
+2nd level (3 slots): *Animal Messenger*, *Barkskin*
 
 #### Actions
 
-***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 3 (1d6) Bludgeoning damage, 4 (1d8) Bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) Bludgeoning damage with *shillelagh*.
+***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *Shillelagh*), reach 5 ft., one target. *Hit:* 3 (1d6) Bludgeoning damage, 4 (1d8) Bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) Bludgeoning damage with *Shillelagh*.
 
 **Druids** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
@@ -2693,7 +2693,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 *Medium Fey, Neutral*
 
-- **Armor Class:** 11 (16 with *barkskin*)
+- **Armor Class:** 11 (16 with *Barkskin*)
 - **Hit Points:** 22 (5d8)
 - **Speed:** 30 ft.
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
@@ -2706,11 +2706,11 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 ***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material Components
 
-At will: *druidcraft*
+At will: *Druidcraft*
 
-3/day each: *entangle*, *goodberry*
+3/day each: *Entangle*, *Goodberry*
 
-1/day each: *barkskin*, *pass without trace*, *shillelagh*
+1/day each: *Barkskin*, *Pass Without Trace*, *Shillelagh*
 
 ***Magic Resistance.*** The dryad has advantage on saving throws against spells and other magical effects.
 
@@ -2720,7 +2720,7 @@ At will: *druidcraft*
 
 #### Actions
 
-***Club.*** *Melee Weapon Attack:* +2 to hit (+6 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) Bludgeoning damage, or 8 (1d8 + 4) Bludgeoning damage with *shillelagh*.
+***Club.*** *Melee Weapon Attack:* +2 to hit (+6 to hit with *Shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) Bludgeoning damage, or 8 (1d8 + 4) Bludgeoning damage with *Shillelagh*.
 
 ***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 
@@ -2777,7 +2777,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 ***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast *sleep*, requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast *Sleep*, requiring no material components. Its innate spellcasting ability is Charisma.
 
 #### Actions
 
@@ -2819,7 +2819,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Damage Vulnerabilities:** Thunder
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, paralyzed, petrified, poisoned, unconscious
+- **Condition Immunities:** Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
 - **Languages:** Terran
 - **Challenge:** 5 (1,800 XP)
@@ -2854,11 +2854,11 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 ***Innate Spellcasting.*** The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material Components
 
-At will: *detect magic*
+At will: *Detect Magic*
 
-3/day each: *enlarge/reduce*, *tongues*
+3/day each: *Enlarge/reduce*, *Tongues*
 
-1/day each: *conjure elemental* (fire elemental only), *gaseous form*, *invisibility*, *major image*, *plane shift*, *wall of fire*
+1/day each: *Conjure Elemental* (fire elemental only), *Gaseous Form*, *Invisibility*, *Major Image*, *Plane Shift*, *Wall of Fire*
 
 #### Actions
 
@@ -2909,9 +2909,9 @@ At will: *detect magic*
 
 ***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material Components
 
-At will: *dancing lights*
+At will: *Dancing Lights*
 
-1/day each: *darkness*, *faerie fire*
+1/day each: *Darkness*, *Faerie Fire*
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
@@ -2956,7 +2956,7 @@ At will: *dancing lights*
 - **Saving Throws:** Dex +7, Con +8, Wis +6, Cha +8
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** truesight 120 ft.; Passive Perception 12
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 12 (8,400 XP)
@@ -2971,7 +2971,7 @@ At will: *dancing lights*
 
 ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) Slashing damage, or 9 (1d10 + 4) Slashing damage if used with two hands, plus 13 (3d8) Poison damage.
 
-***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8 + 3) Piercing damage plus 13 (3d8) Poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the *lesser restoration* spell or similar magic.
+***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8 + 3) Piercing damage plus 13 (3d8) Poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the *Lesser Restoration* spell or similar magic.
 
 #### Reactions
 
@@ -3047,7 +3047,7 @@ At will: *dancing lights*
 | 10 (+0)  | 17 (+3)  | 16 (+3)  | 6 (-2)   | 10 (+0)  | 7 (-2)   |
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Ignan
 - **Challenge:** 5 (1,800 XP)
@@ -3100,7 +3100,7 @@ At will: *dancing lights*
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 19 (+4)  | 9 (-1)   | 18 (+4)  | 6 (-2)   | 10 (+0)  | 5 (-3)   |
 - **Damage Immunities:** Lightning, Poison; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 5 (1,800 XP)
@@ -3159,12 +3159,12 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 | 12 (+1)  | 15 (+2)  | 11 (+0)  | 1 (-5)   | 5 (-3)   | 1 (-5)   |
 - **Saving Throws:** Dex +4
 - **Damage Immunities:** Poison, Psychic
-- **Condition Immunities:** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+- **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 7
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
-***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an *Antimagic Field*. If targeted by *Dispel Magic*, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 
 ***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 
@@ -3230,7 +3230,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 15 (+2)  | 11 (+0)  | 16 (+3)  | 6 (-2)   | 11 (+0)  | 7 (-2)   |
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, petrified, poisoned
+- **Condition Immunities:** Exhaustion, Petrified, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Terran
 - **Challenge:** 2 (450 XP)
@@ -3255,7 +3255,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 14 (+2)  | 3 (-4)   | 20 (+5)  | 1 (-5)   | 6 (-2)   | 1 (-5)   |
-- **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 8
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
@@ -3294,7 +3294,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 | 16 (+3)  | 17 (+3)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 8 (-1)   |
 - **Damage Resistances:** Necrotic
 - **Damage Immunities:** Poison
-- **Condition Immunities:** charmed, exhaustion, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Common
 - **Challenge:** 2 (450 XP)
@@ -3321,7 +3321,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 | 7 (-2)   | 13 (+1)  | 10 (+0)  | 10 (+0)  | 12 (+1)  | 17 (+3)  |
 - **Damage Resistances:** Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Cold, Necrotic, Poison
-- **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** any languages it knew in life
 - **Challenge:** 4 (1,100 XP)
@@ -3336,11 +3336,11 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 ***Etherealness.*** The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
 
-***Horrifying Visage.*** Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a *greater restoration* spell, but only within 24 hours of it occurring.
+***Horrifying Visage.*** Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a *Greater Restoration* spell, but only within 24 hours of it occurring.
 
 ***Possession (Recharge 6).*** One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
 
-The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the *dispel evil and good* spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
+The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the *Dispel Evil and Good* spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
 
 ### Ghoul
 
@@ -3353,7 +3353,7 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 15 (+2)  | 10 (+0)  | 7 (-2)   | 10 (+0)  | 6 (-2)   |
 - **Damage Immunities:** Poison
-- **Condition Immunities:** charmed, exhaustion, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Common
 - **Challenge:** 1 (200 XP)
@@ -4033,7 +4033,7 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 (+0)  | 8 (-1)   | 16 (+3)  | 3 (-4)   | 10 (+0)  | 6 (-2)   |
-- **Condition Immunities:** prone
+- **Condition Immunities:** Prone
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
@@ -4063,16 +4063,16 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 - **Saving Throws:** Str +9, Con +9, Wis +7, Cha +7
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** truesight 120 ft.; Passive Perception 13
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 9 (5,000 XP)
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material Components
 
-At will: *darkness*, *detect magic*, *dispel magic*
+At will: *Darkness*, *Detect Magic*, *Dispel Magic*
 
-1/day each: *confusion*, *fly*, *power word stun*
+1/day each: *Confusion*, *Fly*, *Power Word Stun*
 
 ***Magic Resistance.*** The glabrezu has advantage on saving throws against spells and other magical effects.
 
@@ -4163,9 +4163,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Innate Spellcasting.*** The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material Components
 
-At will: *nondetection* (self only)
+At will: *Nondetection* (self only)
 
-1/day each: *blindness/deafness*, *blur*, *disguise self*
+1/day each: *Blindness/deafness*, *Blur*, *Disguise Self*
 
 #### Actions
 
@@ -4229,7 +4229,7 @@ At will: *nondetection* (self only)
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 20 (+5)  | 11 (+0)  | 18 (+4)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
 - **Skills:** Perception +4
-- **Condition Immunities:** petrified
+- **Condition Immunities:** Petrified
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
@@ -4242,7 +4242,7 @@ At will: *nondetection* (self only)
 
 ***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) Bludgeoning damage.
 
-***Petrifying Breath (Recharge 5-6).*** The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the *greater restoration* spell or other magic.
+***Petrifying Breath (Recharge 5-6).*** The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the *Greater Restoration* spell or other magic.
 
 ### Gray Ooze
 
@@ -4256,7 +4256,7 @@ At will: *nondetection* (self only)
 | 12 (+1)  | 6 (-2)   | 16 (+3)  | 1 (-5)   | 6 (-2)   | 2 (-4)   |
 - **Skills:** Stealth +2
 - **Damage Resistances:** Acid, Cold, Fire
-- **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 8
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -4292,7 +4292,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material Components
 
-At will: *dancing lights*, *minor illusion*, *vicious mockery*
+At will: *Dancing Lights*, *Minor Illusion*, *Vicious Mockery*
 
 ***Mimicry.*** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
@@ -4367,7 +4367,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 16 (+3)  | 12 (+1)  | 12 (+1)  | 9 (-1)   | 8 (-1)   | 6 (-2)   |
 - **Skills:** Athletics +5, Perception +3, Stealth +3
-- **Condition Immunities:** blinded
+- **Condition Immunities:** Blinded
 - **Senses:** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius); Passive Perception 13
 - **Languages:** Undercommon
 - **Challenge:** 1/4 (50 XP)
@@ -4416,22 +4416,22 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Saving Throws:** Dex +6, Con +5, Wis +5, Cha +6
 - **Saving Throws:** Dex +8, Con +7, Int +7, Wis +8, Cha +8
 - **Damage Immunities:** Poison
-- **Condition Immunities:** charmed, poisoned
+- **Condition Immunities:** Charmed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Celestial, Common
 - **Challenge:** 10 (5,900 XP)
 
-***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *wish* spell can prevent this trait from functioning.
+***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *Wish* spell can prevent this trait from functioning.
 
 ***Spellcasting.*** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
-1st level (4 slots): *command*, *cure wounds*, *shield of faith*
-2nd level (3 slots): *calm emotions*, *hold person*
-3rd level (3 slots): *bestow curse*, *clairvoyance*
-4th level (3 slots): *banishment*, *freedom of movement*
-5th level (2 slots): *flame strike*, *geas*
-6th level (1 slot): *true seeing*
+Cantrips (at will): *Mending*, *Sacred Flame*, *Thaumaturgy*
+1st level (4 slots): *Command*, *Cure Wounds*, *Shield of Faith*
+2nd level (3 slots): *Calm Emotions*, *Hold Person*
+3rd level (3 slots): *Bestow Curse*, *Clairvoyance*
+4th level (3 slots): *Banishment*, *Freedom of Movement*
+5th level (2 slots): *Flame Strike*, *Geas*
+6th level (1 slot): *True Seeing*
 
 #### Actions
 
@@ -4452,7 +4452,7 @@ Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
 - **Skills:** Arcana +12, History +12, Perception +8, Religion +8
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Psychic
-- **Condition Immunities:** charmed, frightened
+- **Condition Immunities:** Charmed, Frightened
 - **Senses:** truesight 120 ft.; Passive Perception 18
 - **Languages:** Common, Sphinx
 - **Challenge:** 11 (7,200 XP)
@@ -4463,12 +4463,12 @@ Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
 
 ***Spellcasting.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
-Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*
-1st level (4 slots): *detect magic*, *identify*, *shield*
-2nd level (3 slots): *darkness*, *locate object*, *suggestion*
-3rd level (3 slots): *dispel magic*, *remove curse*, *tongues*
-4th level (3 slots): *banishment*, *greater invisibility*
-5th level (1 slot): *legend lore*
+Cantrips (at will): *Mage Hand*, *Minor Illusion*, *Prestidigitation*
+1st level (4 slots): *Detect Magic*, *Identify*, *Shield*
+2nd level (3 slots): *Darkness*, *Locate Object*, *Suggestion*
+3rd level (3 slots): *Dispel Magic*, *Remove Curse*, *Tongues*
+4th level (3 slots): *Banishment*, *Greater Invisibility*
+5th level (1 slot): *Legend Lore*
 
 #### Actions
 
@@ -4634,7 +4634,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Saving Throws:** Str +7, Con +8, Wis +4
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 8 (3,900 XP)
@@ -4732,7 +4732,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 4 (-3)   | 15 (+2)  | 11 (+0)  | 10 (+0)  | 10 (+0)  | 7 (-2)   |
 - **Damage Immunities:** Poison
-- **Condition Immunities:** charmed, poisoned
+- **Condition Immunities:** Charmed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 0 (10 XP)
@@ -4756,7 +4756,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Saving Throws:** Str +10, Dex +7, Wis +7, Cha +7
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 13
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 11 (7,200 XP)
@@ -4867,7 +4867,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 - **Saving Throws:** Dex +7, Con +9, Wis +7, Cha +9
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Cold, Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 12
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 14 (11,500 XP)
@@ -4905,7 +4905,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Skills:** Perception +2, Stealth +3
 - **Damage Vulnerabilities:** Bludgeoning, Fire
 - **Damage Immunities:** Cold, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** Aquan, Auran
 - **Challenge:** 1/2 (100 XP)
@@ -4914,7 +4914,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast *fog cloud*, requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast *Fog Cloud*, requiring no material components. Its innate spellcasting ability is Charisma.
 
 #### Actions
 
@@ -4935,7 +4935,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Skills:** Deception +4, Insight +3, Persuasion +4, Stealth +5
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Infernal, Common
 - **Challenge:** 1 (200 XP)
@@ -4965,7 +4965,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Skills:** Perception +8, Stealth +10
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
 - **Senses:** darkvision 60 ft.; Passive Perception 18
 - **Languages:** Auran, understands Common but doesn't speak it
 - **Challenge:** 6 (2,300 XP)
@@ -4991,7 +4991,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 24 (+7)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
 - **Damage Immunities:** Fire, Poison, Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 16 (15,000 XP)
@@ -5131,7 +5131,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 | 30 (+10) | 11 (+0)  | 25 (+7)  | 22 (+6)  | 18 (+4)  | 20 (+5)  |
 - **Saving Throws:** Str +17, Dex +7, Con +14, Int +13, Wis +11
 - **Damage Immunities:** Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Condition Immunities:** frightened, paralyzed
+- **Condition Immunities:** Frightened, Paralyzed
 - **Senses:** truesight 120 ft.; Passive Perception 14
 - **Languages:** understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.
 - **Challenge:** 23 (50,000 XP)
@@ -5183,11 +5183,11 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 ***Innate Spellcasting.*** The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
-At will: *disguise self* (any humanoid form), *major image*
+At will: *Disguise Self* (any humanoid form), *Major Image*
 
-3/day each: *charm person*, *mirror image*, *scrying*, *suggestion*
+3/day each: *Charm Person*, *Mirror Image*, *Scrying*, *Suggestion*
 
-1/day: *geas*
+1/day: *Geas*
 
 #### Actions
 
@@ -5211,14 +5211,14 @@ At will: *disguise self* (any humanoid form), *major image*
 | 10 (+0)  | 5 (-3)   | 11 (+0)  | 1 (-5)   | 11 (+0)  | 3 (-4)   |
 - **Damage Resistances:** Cold
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** charmed, frightened, poisoned
+- **Condition Immunities:** Charmed, Frightened, Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** understands Infernal but can't speak
 - **Challenge:** 0 (10 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
 
-***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *bless* spell cast on that creature or its remains are sprinkled with holy water.
+***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *Bless* spell cast on that creature or its remains are sprinkled with holy water.
 
 #### Actions
 
@@ -5238,7 +5238,7 @@ At will: *disguise self* (any humanoid form), *major image*
 - **Skills:** Arcana +19, History +12, Insight +9, Perception +9
 - **Damage Resistances:** Cold, Lightning, Necrotic
 - **Damage Immunities:** Poison; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 - **Senses:** truesight 120 ft.; Passive Perception 19
 - **Languages:** Common plus up to five other languages
 - **Challenge:** 21 (33,000 XP)
@@ -5249,16 +5249,16 @@ At will: *disguise self* (any humanoid form), *major image*
 
 ***Spellcasting.*** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
-Cantrips (at will): *mage hand*, *prestidigitation*, *ray of frost*
-1st level (4 slots): *detect magic*, *magic missile*, *shield*, *thunderwave*
-2nd level (3 slots): *acid arrow*, *detect thoughts*, *invisibility*, *mirror image*
-3rd level (3 slots): *animate dead*, *counterspell*, *dispel magic*, *fireball*
-4th level (3 slots): *blight*, *dimension door*
-5th level (3 slots): *cloudkill*, *scrying*
-6th level (1 slot): *disintegrate*, *globe of invulnerability*
-7th level (1 slot): *finger of death*, *plane shift*
-8th level (1 slot): *dominate monster*, *power word stun*
-9th level (1 slot): *power word kill*
+Cantrips (at will): *Mage Hand*, *Prestidigitation*, *Ray of Frost*
+1st level (4 slots): *Detect Magic*, *Magic Missile*, *Shield*, *Thunderwave*
+2nd level (3 slots): *Acid Arrow*, *Detect Thoughts*, *Invisibility*, *Mirror Image*
+3rd level (3 slots): *Animate Dead*, *Counterspell*, *Dispel Magic*, *Fireball*
+4th level (3 slots): *Blight*, *Dimension Door*
+5th level (3 slots): *Cloudkill*, *Scrying*
+6th level (1 slot): *Disintegrate*, *Globe of Invulnerability*
+7th level (1 slot): *Finger of Death*, *Plane Shift*
+8th level (1 slot): *Dominate Monster*, *Power Word Stun*
+9th level (1 slot): *Power Word Kill*
 
 ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 
@@ -5358,7 +5358,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 *Medium Humanoid (Any Race), Any Alignment*
 
-- **Armor Class:** 12 (15 with *mage armor*)
+- **Armor Class:** 12 (15 with *Mage Armor*)
 - **Hit Points:** 40 (9d8)
 - **Speed:** 30 ft.
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
@@ -5372,12 +5372,12 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 ***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
-1st level (4 slots): *detect magic*, *mage armor*, *magic missile*, *shield*
-2nd level (3 slots): *misty step*, *suggestion*
-3rd level (3 slots): *counterspell*, *fireball*, *fly*
-4th level (3 slots): *greater invisibility*, *ice storm*
-5th level (1 slot): *cone of cold*
+Cantrips (at will): *Fire Bolt*, *Light*, *Mage Hand*, *Prestidigitation*
+1st level (4 slots): *Detect Magic*, *Mage Armor*, *Magic Missile*, *Shield*
+2nd level (3 slots): *Misty Step*, *Suggestion*
+3rd level (3 slots): *Counterspell*, *Fireball*, *Fly*
+4th level (3 slots): *Greater Invisibility*, *Ice Storm*
+5th level (1 slot): *Cone of Cold*
 
 #### Actions
 
@@ -5398,7 +5398,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
 - **Skills:** Stealth +3
 - **Damage Vulnerabilities:** Cold
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Ignan, Terran
 - **Challenge:** 1/2 (100 XP)
@@ -5407,7 +5407,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast *heat metal* (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast *Heat Metal* (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 
 #### Actions
 
@@ -5502,7 +5502,7 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Saving Throws:** Str +9, Con +10, Wis +8, Cha +10
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** truesight 120 ft.; Passive Perception 13
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 16 (15,000 XP)
@@ -5565,7 +5565,7 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Languages:** Common
 - **Challenge:** 6 (2,300 XP)
 
-***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the *greater restoration* spell or other magic.
+***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the *Greater Restoration* spell or other magic.
 
 Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
 
@@ -5640,7 +5640,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 | 17 (+3)  | 12 (+1)  | 15 (+2)  | 5 (-3)   | 13 (+1)  | 8 (-1)   |
 - **Skills:** Stealth +5
 - **Damage Immunities:** Acid
-- **Condition Immunities:** prone
+- **Condition Immunities:** Prone
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
@@ -5671,7 +5671,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 | 18 (+4)  | 11 (+0)  | 15 (+2)  | 6 (-2)   | 8 (-1)   | 5 (-3)   |
 - **Damage Vulnerabilities:** Bludgeoning
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, poisoned
+- **Condition Immunities:** Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** understands Abyssal but can't speak
 - **Challenge:** 2 (450 XP)
@@ -5747,7 +5747,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Skills:** History +5, Religion +5
 - **Damage Vulnerabilities:** Fire
 - **Damage Immunities:** Necrotic, Poison; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** the languages it knew in life
 - **Challenge:** 15 (13,000 XP)
@@ -5758,19 +5758,19 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Spellcasting.*** The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 
-Cantrips (at will): *sacred flame*, *thaumaturgy*
-1st level (4 slots): *command*, *guiding bolt*, *shield of faith*
-2nd level (3 slots): *hold person*, *silence*, *spiritual weapon*
-3rd level (3 slots): *animate dead*, *dispel magic*
-4th level (3 slots): *divination*, *guardian of faith*
-5th level (2 slots): *contagion*, *insect plague*
-6th level (1 slot): *harm*
+Cantrips (at will): *Sacred Flame*, *Thaumaturgy*
+1st level (4 slots): *Command*, *Guiding Bolt*, *Shield of Faith*
+2nd level (3 slots): *Hold Person*, *Silence*, *Spiritual Weapon*
+3rd level (3 slots): *Animate Dead*, *Dispel Magic*
+4th level (3 slots): *Divination*, *Guardian of Faith*
+5th level (2 slots): *Contagion*, *Insect Plague*
+6th level (1 slot): *Harm*
 
 #### Actions
 
 ***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-***Rotting Fist.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (3d6 + 4) Bludgeoning damage plus 21 (6d6) Necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
+***Rotting Fist.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (3d6 + 4) Bludgeoning damage plus 21 (6d6) Necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *Remove Curse* spell or other magic.
 
 ***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
@@ -5802,7 +5802,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Damage Vulnerabilities:** Fire
 - **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Necrotic, Poison
-- **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** the languages it knew in life
 - **Challenge:** 3 (700 XP)
@@ -5811,7 +5811,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-***Rotting Fist.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
+***Rotting Fist.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *Remove Curse* spell or other magic.
 
 ***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
@@ -5828,7 +5828,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Saving Throws:** Con +11, Int +9, Wis +6, Cha +7
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** truesight 120 ft.; Passive Perception 11
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 13 (10,000 XP)
@@ -5859,16 +5859,16 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | 18 (+4)  | 15 (+2)  | 16 (+3)  | 16 (+3)  | 14 (+2)  | 16 (+3)  |
 - **Skills:** Deception +7, Insight +6, Perception +6, Stealth +6
 - **Damage Resistances:** Cold, Fire; Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with silvered weapons
-- **Condition Immunities:** charmed
+- **Condition Immunities:** Charmed
 - **Senses:** darkvision 120 ft.; Passive Perception 16
 - **Languages:** Abyssal, Common, Infernal, Primordial
 - **Challenge:** 5 (1,800 XP)
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material Components
 
-At will: *detect magic*, *magic missile*
+At will: *Detect Magic*, *Magic Missile*
 
-2/day each: *plane shift* (self only), *ray of enfeeblement*, *sleep*
+2/day each: *Plane Shift* (self only), *Ray of Enfeeblement*, *Sleep*
 
 ***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
 
@@ -5878,9 +5878,9 @@ At will: *detect magic*, *magic missile*
 
 ***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 
-***Etherealness.*** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a *heartstone* in her possession.
+***Etherealness.*** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a *Heartstone* in her possession.
 
-***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A *protection from evil and good* spell cast on the target prevents this contact, as does a *magic circle*. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's *soul bag*. The reduction to the target's hit point maximum lasts until removed by the *greater restoration* spell or similar magic.
+***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A *Protection From Evil and Good* spell cast on the target prevents this contact, as does a *Magic Circle*. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's *Soul Bag*. The reduction to the target's hit point maximum lasts until removed by the *Greater Restoration* spell or similar magic.
 
 ### Nightmare
 
@@ -5946,7 +5946,7 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 | 15 (+2)  | 6 (-2)   | 14 (+2)  | 2 (-4)   | 6 (-2)   | 1 (-5)   |
 - **Damage Resistances:** Acid
 - **Damage Immunities:** Lightning, Slashing
-- **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Condition Immunities:** Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 8
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
@@ -6002,7 +6002,7 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 | 19 (+4)  | 6 (-2)   | 18 (+4)  | 3 (-4)   | 6 (-2)   | 5 (-3)   |
 - **Saving Throws:** Wis +0
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** understands Common and Giant but can't speak
 - **Challenge:** 2 (450 XP)
@@ -6051,9 +6051,9 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 
 ***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material Components
 
-At will: *darkness*, *invisibility*
+At will: *Darkness*, *Invisibility*
 
-1/day each: *charm person*, *cone of cold*, *gaseous form*, *sleep*
+1/day each: *Charm Person*, *Cone of Cold*, *Gaseous Form*, *Sleep*
 
 ***Magic Weapons.*** The oni's weapon attacks are magical.
 
@@ -6252,7 +6252,7 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 - **Saving Throws:** Dex +8, Con +13, Wis +10
 - **Damage Resistances:** Cold; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** truesight 120 ft.; Passive Perception 14
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 20 (25,000 XP)
@@ -6265,9 +6265,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 ***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material Components
 
-At will: *detect magic*, *fireball*
+At will: *Detect Magic*, *Fireball*
 
-3/day each: *hold monster*, *wall of fire*
+3/day each: *Hold Monster*, *Wall of Fire*
 
 #### Actions
 
@@ -6294,7 +6294,7 @@ At will: *detect magic*, *fireball*
 - **Saving Throws:** Con +12, Wis +11, Cha +12
 - **Skills:** Perception +11
 - **Damage Resistances:** Radiant; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Condition Immunities:** charmed, exhaustion, frightened
+- **Condition Immunities:** Charmed, Exhaustion, Frightened
 - **Senses:** truesight 120 ft.; Passive Perception 21
 - **Languages:** all, telepathy 120 ft.
 - **Challenge:** 16 (15,000 XP)
@@ -6305,11 +6305,11 @@ At will: *detect magic*, *fireball*
 
 ***Innate Spellcasting.*** The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material Components
 
-At will: *detect evil and good*, *invisibility* (self only)
+At will: *Detect Evil and Good*, *Invisibility* (self only)
 
-3/day each: *blade barrier*, *dispel evil and good*, *flame strike*, *raise dead*
+3/day each: *Blade Barrier*, *Dispel Evil and Good*, *Flame Strike*, *Raise Dead*
 
-1/day each: *commune*, *control weather*, *insect plague*
+1/day each: *Commune*, *Control Weather*, *Insect Plague*
 
 ***Magic Resistance.*** The planetar has advantage on saving throws against spells and other magical effects.
 
@@ -6422,10 +6422,10 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
-1st level (4 slots): *cure wounds*, *guiding bolt*, *sanctuary*
-2nd level (3 slots): *lesser restoration*, *spiritual weapon*
-3rd level (2 slots): *dispel magic*, *spirit guardians*
+Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
+1st level (4 slots): *Cure Wounds*, *Guiding Bolt*, *Sanctuary*
+2nd level (3 slots): *Lesser Restoration*, *Spiritual Weapon*
+3rd level (2 slots): *Dispel Magic*, *Spirit Guardians*
 
 #### Actions
 
@@ -6502,7 +6502,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Skills:** Stealth +5
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** Abyssal, Common
 - **Challenge:** 1 (200 XP)
@@ -6564,17 +6564,17 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 ***Innate Spellcasting.*** The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material Components
 
-At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
+At will: *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
 
-3/day each: *charm person*, *detect magic*, *invisibility*, *major image*, *suggestion*
+3/day each: *Charm Person*, *Detect Magic*, *Invisibility*, *Major Image*, *Suggestion*
 
-1/day each: *dominate person*, *fly*, *plane shift*, *true seeing*
+1/day each: *Dominate Person*, *Fly*, *Plane Shift*, *True Seeing*
 
 #### Actions
 
 ***Multiattack.*** The rakshasa makes two claw attacks.
 
-***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) Slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a *remove curse* spell or similar magic.
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) Slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a *Remove Curse* spell or similar magic.
 
 ### Rat
 
@@ -6773,12 +6773,12 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 17 (+3)  | 14 (+2)  | 10 (+0)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
 - **Damage Immunities:** Poison, Psychic
-- **Condition Immunities:** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+- **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 6
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
 
-***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an *Antimagic Field*. If targeted by *Dispel Magic*, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 
 ***Damage Transfer.*** While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
 
@@ -7033,7 +7033,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Damage Vulnerabilities:** Radiant
 - **Damage Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Necrotic, Poison
-- **Condition Immunities:** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Condition Immunities:** Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -7063,7 +7063,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Skills:** Stealth +2
 - **Damage Resistances:** Cold, Fire
 - **Damage Immunities:** Lightning
-- **Condition Immunities:** blinded, deafened, exhaustion
+- **Condition Immunities:** Blinded, Deafened, Exhaustion
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 10
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
@@ -7090,7 +7090,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 | 18 (+4)  | 8 (-1)   | 18 (+4)  | 7 (-2)   | 10 (+0)  | 3 (-4)   |
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 10
 - **Damage Immunities:** Poison
-- **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 - **Languages:** understands commands given in any language but can't speak
 - **Challenge:** 7 (2,900 XP)
 
@@ -7120,7 +7120,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 1 (-5)   | 1 (-5)   | 10 (+0)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
-- **Condition Immunities:** blinded, deafened, frightened
+- **Condition Immunities:** Blinded, Deafened, Frightened
 - **Senses:** blindsight 30 ft. (blind beyond this radius); Passive Perception 6
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
@@ -7143,7 +7143,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 | 10 (+0)  | 14 (+2)  | 15 (+2)  | 6 (-2)   | 8 (-1)   | 5 (-3)   |
 - **Damage Vulnerabilities:** Bludgeoning
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, poisoned
+- **Condition Immunities:** Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** understands all languages it knew in life but can't speak
 - **Challenge:** 1/4 (50 XP)
@@ -7168,7 +7168,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Skills:** Perception +14
 - **Damage Resistances:** Radiant; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Necrotic, Poison
-- **Condition Immunities:** charmed, exhaustion, frightened, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Poisoned
 - **Senses:** truesight 120 ft.; Passive Perception 24
 - **Languages:** all, telepathy 120 ft.
 - **Challenge:** 21 (33,000 XP)
@@ -7179,11 +7179,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 ***Innate Spellcasting.*** The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material Components
 
-At will: *detect evil and good*, *invisibility* (self only)
+At will: *Detect Evil and Good*, *Invisibility* (self only)
 
-3/day each: *blade barrier*, *dispel evil and good*, *resurrection*
+3/day each: *Blade Barrier*, *Dispel Evil and Good*, *Resurrection*
 
-1/day each: *commune*, *control weather*
+1/day each: *Commune*, *Control Weather*
 
 ***Magic Resistance.*** The solar has advantage on saving throws against spells and other magical effects.
 
@@ -7207,7 +7207,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 ***Searing Burst (Costs 2 Actions).*** The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) Fire damage plus 14 (4d6) Radiant damage on a failed save, or half as much damage on a successful one.
 
-***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the *lesser restoration* spell removes the blindness.
+***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the *Lesser Restoration* spell removes the blindness.
 
 ### Specter
 
@@ -7221,7 +7221,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | 1 (-5)   | 14 (+2)  | 11 (+0)  | 10 (+0)  | 10 (+0)  | 11 (+0)  |
 - **Damage Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Necrotic, Poison
-- **Condition Immunities:** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Condition Immunities:** Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** understands all languages it knew in life but can't speak
 - **Challenge:** 1 (200 XP)
@@ -7270,21 +7270,21 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 17 (+3)  | 14 (+2)  | 16 (+3)  | 15 (+2)  | 16 (+3)  |
 - **Damage Immunities:** Poison
-- **Condition Immunities:** charmed, poisoned
+- **Condition Immunities:** Charmed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** Abyssal, Common
 - **Challenge:** 8 (3,900 XP)
 
-***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *wish* spell can prevent this trait from functioning.
+***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *Wish* spell can prevent this trait from functioning.
 
 ***Spellcasting.*** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 
-Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
-1st level (4 slots): *charm person*, *detect magic*, *sleep*
-2nd level (3 slots): *detect thoughts*, *hold person*
-3rd level (3 slots): *lightning bolt*, *water breathing*
-4th level (3 slots): *blight*, *dimension door*
-5th level (2 slots): *dominate person*
+Cantrips (at will): *Mage Hand*, *Minor Illusion*, *Ray of Frost*
+1st level (4 slots): *Charm Person*, *Detect Magic*, *Sleep*
+2nd level (3 slots): *Detect Thoughts*, *Hold Person*
+3rd level (3 slots): *Lightning Bolt*, *Water Breathing*
+4th level (3 slots): *Blight*, *Dimension Door*
+5th level (2 slots): *Dominate Person*
 
 #### Actions
 
@@ -7355,14 +7355,14 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 5 (-3)   | 11 (+0)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 12 (+1)  |
 - **Damage Immunities:** Fire, Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Aquan, Ignan
 - **Challenge:** 1/4 (50 XP)
 
 ***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) Fire damage.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast *blur*, requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast *Blur*, requiring no material components. Its innate spellcasting ability is Charisma.
 
 #### Actions
 
@@ -7431,7 +7431,7 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 22 (+6)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
 - **Damage Immunities:** Poison, Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 10 (5,900 XP)
@@ -7472,9 +7472,9 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components
 
-At will: *detect magic*, *feather fall*, *levitate*, *light*
+At will: *Detect Magic*, *Feather Fall*, *Levitate*, *Light*
 
-3/day each: *control weather*, *water breathing*
+3/day each: *Control Weather*, *Water Breathing*
 
 #### Actions
 
@@ -7531,7 +7531,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 5 (-3)   | 15 (+2)  | 10 (+0)  | 2 (-4)   | 12 (+1)  | 4 (-3)   |
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
-- **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** blindsight 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -7557,7 +7557,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 13 (+1)  | 10 (+0)  | 1 (-5)   | 7 (-2)   | 1 (-5)   |
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
-- **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** blindsight 10 ft.; Passive Perception 8
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -7597,7 +7597,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 8 (-1)   | 18 (+4)  | 11 (+0)  | 1 (-5)   | 10 (+0)  | 3 (-4)   |
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
-- **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** blindsight 10 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
@@ -7619,7 +7619,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 13 (+1)  | 16 (+3)  | 9 (-1)   | 1 (-5)   | 7 (-2)   | 2 (-4)   |
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
-- **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
@@ -7645,7 +7645,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 9 (-1)   | 11 (+0)  | 9 (-1)   | 2 (-4)   | 10 (+0)  | 3 (-4)   |
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
-- **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** darkvision 30 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -7670,7 +7670,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 | 6 (-2)   | 14 (+2)  | 8 (-1)   | 3 (-4)   | 12 (+1)  | 6 (-2)   |
 - **Skills:** Perception +5
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing
-- **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 - **Senses:** Passive Perception 15
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -7693,7 +7693,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 | 30 (+10) | 11 (+0)  | 30 (+10) | 3 (-4)   | 11 (+0)  | 11 (+0)  |
 - **Saving Throws:** Int +5, Wis +9, Cha +9
 - **Damage Immunities:** Fire, Poison; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Condition Immunities:** charmed, frightened, paralyzed, poisoned
+- **Condition Immunities:** Charmed, Frightened, Paralyzed, Poisoned
 - **Senses:** blindsight 120 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 30 (155,000 XP)
@@ -7702,7 +7702,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 
 ***Magic Resistance.*** The tarrasque has advantage on saving throws against spells and other magical effects.
 
-***Reflective Carapace.*** Any time the tarrasque is targeted by a *magic missile* spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
+***Reflective Carapace.*** Any time the tarrasque is targeted by a *Magic Missile* spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
 
 ***Siege Monster.*** The tarrasque deals double damage to objects and structures.
 
@@ -7923,7 +7923,7 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 18 (+4)  | 14 (+2)  | 15 (+2)  | 11 (+0)  | 17 (+3)  | 16 (+3)  |
 - **Damage Immunities:** Poison
-- **Condition Immunities:** charmed, paralyzed, poisoned
+- **Condition Immunities:** Charmed, Paralyzed, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 13
 - **Languages:** Celestial, Elvish, Sylvan, telepathy 60 ft.
 - **Challenge:** 5 (1,800 XP)
@@ -7932,9 +7932,9 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 ***Innate Spellcasting.*** The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no Components
 
-At will: *detect evil and good*, *druidcraft*, *pass without trace*
+At will: *Detect Evil and Good*, *Druidcraft*, *Pass Without Trace*
 
-1/day each: *calm emotions*, *dispel evil and good*, *entangle*
+1/day each: *Calm Emotions*, *Dispel Evil and Good*, *Entangle*
 
 ***Magic Resistance.*** The unicorn has advantage on saving throws against spells and other magical effects.
 
@@ -8105,7 +8105,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 3 (-4)   | 1 (-5)   | 10 (+0)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
-- **Condition Immunities:** blinded, deafened, frightened
+- **Condition Immunities:** Blinded, Deafened, Frightened
 - **Senses:** blindsight 30 ft. (blind beyond this radius); Passive Perception 6
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
@@ -8131,7 +8131,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Saving Throws:** Dex +5, Wis +4, Cha +2
 - **Damage Resistances:** Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 6 (2,300 XP)
@@ -8205,7 +8205,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 | 18 (+4)  | 12 (+1)  | 15 (+2)  | 2 (-4)   | 8 (-1)   | 5 (-3)   |
 - **Damage Vulnerabilities:** Bludgeoning
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, poisoned
+- **Condition Immunities:** Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
@@ -8226,7 +8226,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 | 18 (+4)  | 14 (+2)  | 18 (+4)  | 5 (-3)   | 10 (+0)  | 8 (-1)   |
 - **Damage Resistances:** Acid; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Aquan
 - **Challenge:** 5 (1,800 XP)
@@ -8433,7 +8433,7 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Skills:** Perception +3, Stealth +4
 - **Damage Resistances:** Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Poison
-- **Condition Immunities:** exhaustion, poisoned
+- **Condition Immunities:** Exhaustion, Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 13
 - **Languages:** the languages it knew in life
 - **Challenge:** 3 (700 XP)
@@ -8464,7 +8464,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 | 1 (-5)   | 28 (+9)  | 10 (+0)  | 13 (+1)  | 14 (+2)  | 11 (+0)  |
 - **Damage Immunities:** Lightning, Poison
 - **Damage Resistances:** Acid, Cold, Fire, Necrotic, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Condition Immunities:** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+- **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Poisoned, Prone, Restrained, Unconscious
 - **Senses:** darkvision 120 ft.; Passive Perception 12
 - **Languages:** the languages it knew in life
 - **Challenge:** 2 (450 XP)
@@ -8571,7 +8571,7 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 | 6 (-2)   | 16 (+3)  | 16 (+3)  | 12 (+1)  | 14 (+2)  | 15 (+2)  |
 - **Damage Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities:** Necrotic, Poison
-- **Condition Immunities:** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Condition Immunities:** Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** the languages it knew in life
 - **Challenge:** 5 (1,800 XP)
@@ -8759,7 +8759,7 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Saving Throws:** Dex +3, Con +3, Wis +2, Cha +3
 - **Skills:** Perception +4, Stealth +3
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
 - **Languages:** Draconic
 - **Challenge:** 2 (450 XP)
@@ -9097,7 +9097,7 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Saving Throws:** Dex +4, Con +6, Wis +4, Cha +5
 - **Skills:** Deception +5, Perception +7, Stealth +4
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
 - **Languages:** Common, Draconic
 - **Challenge:** 8 (3,900 XP)
@@ -9213,7 +9213,7 @@ Large dragon, chaotic evil
 | 13 (+1)  | 6 (-2)   | 16 (+3)  | 3 (-4)   | 6 (-2)   | 5 (-3)   |
 - **Saving Throws:** Wis +0
 - **Damage Immunities:** Poison
-- **Condition Immunities:** poisoned
+- **Condition Immunities:** Poisoned
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** understands the languages it knew in life but can't speak
 - **Challenge:** 1/4 (50 XP)
