@@ -28,6 +28,8 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 - **Languages:** Deep Speech, telepathy 120 ft.
 - **Challenge:** 10 (5,900 XP)
 
+#### Traits
+
 ***Amphibious.*** The aboleth can breathe air and water.
 
 ***Mucous Cloud.*** While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.
@@ -73,6 +75,8 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 - **Languages:** any one language (usually Common)
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Spellcasting.*** The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
 Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
@@ -102,6 +106,8 @@ Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
 - **Languages:** Common, Draconic
 - **Challenge:** 14 (11,500 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -150,6 +156,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 16 (15,000 XP)
 
+#### Traits
+
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
@@ -194,6 +202,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
 - **Languages:** Common, Draconic
 - **Challenge:** 13 (10,000 XP)
+
+#### Traits
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
@@ -243,6 +253,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
 - **Languages:** Common, Draconic
 - **Challenge:** 15 (13,000 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -299,6 +311,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 14 (11,500 XP)
 
+#### Traits
+
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
@@ -347,6 +361,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
 - **Languages:** Common, Draconic
 - **Challenge:** 17 (18,000 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -404,6 +420,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 15 (13,000 XP)
 
+#### Traits
+
 ***Amphibious.*** The dragon can breathe air and water.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
@@ -451,6 +469,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 17 (18,000 XP)
 
+#### Traits
+
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
@@ -495,6 +515,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
 - **Languages:** Common, Draconic
 - **Challenge:** 16 (15,000 XP)
+
+#### Traits
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
@@ -549,6 +571,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 13 (10,000 XP)
 
+#### Traits
+
 ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
@@ -596,6 +620,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Auran
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Air Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
 #### Actions
@@ -626,6 +652,8 @@ If the saving throw is successful, the target takes half the Bludgeoning damage 
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
 - **Languages:** Common, Draconic
 - **Challenge:** 21 (33,000 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -674,6 +702,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 23 (50,000 XP)
 
+#### Traits
+
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
@@ -718,6 +748,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
 - **Languages:** Common, Draconic
 - **Challenge:** 20 (25,000 XP)
+
+#### Traits
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
@@ -771,6 +803,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
 - **Languages:** Common, Draconic
 - **Challenge:** 22 (41,000 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -827,6 +861,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 21 (33,000 XP)
 
+#### Traits
+
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
@@ -879,6 +915,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
 - **Languages:** Common, Draconic
 - **Challenge:** 24 (62,000 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -936,6 +974,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 22 (41,000 XP)
 
+#### Traits
+
 ***Amphibious.*** The dragon can breathe air and water.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
@@ -981,6 +1021,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 24 (62,000 XP)
 
+#### Traits
+
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
@@ -1025,6 +1067,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
 - **Languages:** Common, Draconic
 - **Challenge:** 23 (50,000 XP)
+
+#### Traits
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
@@ -1079,6 +1123,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Common, Draconic
 - **Challenge:** 20 (25,000 XP)
 
+#### Traits
+
 ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
@@ -1126,6 +1172,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** truesight 120 ft.; Passive Perception 20
 - **Languages:** Common, Sphinx
 - **Challenge:** 17 (18,000 XP)
+
+#### Traits
 
 ***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 
@@ -1182,6 +1230,8 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 6
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an *Antimagic Field*. If targeted by *Dispel Magic*, the armor must succeed on a
 
@@ -1263,6 +1313,8 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 - **Languages:** any six languages
 - **Challenge:** 12 (8,400 XP)
 
+#### Traits
+
 ***Magic Resistance.*** The archmage has advantage on saving throws against spells and other magical effects.
 
 ***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast *Disguise Self* and *Invisibility* at will and has the following wizard spells prepared:
@@ -1306,6 +1358,8 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 - **Languages:** Thieves' cant plus any two languages
 - **Challenge:** 8 (3,900 XP)
 
+#### Traits
+
 ***Assassinate.*** During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
 
 ***Evasion.*** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
@@ -1340,6 +1394,8 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 - **Languages:** one language known by its creator
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***False Appearance.*** While the shrub remains motionless, it is indistinguishable from a normal shrub.
 
 #### Actions
@@ -1365,6 +1421,8 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 - **Senses:** Passive Perception 10
 - **Languages:** one language known by its creator
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.
 
@@ -1415,6 +1473,8 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Languages:** Ignan
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) Fire damage.
 
 ***Heated Weapons.*** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) Fire damage (included in the attack).
@@ -1441,6 +1501,8 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 #### Actions
@@ -1462,6 +1524,8 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Senses:** darkvision 30 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
+
+#### Traits
 
 ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -1488,6 +1552,8 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 - **Senses:** truesight 120 ft.; Passive Perception 13
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 19 (22,000 XP)
+
+#### Traits
 
 ***Death Throes.*** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) Fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.
 
@@ -1590,6 +1656,8 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Barbed Hide.*** At the start of each of its turns, the barbed devil deals 5 (1d10) Piercing damage to any creature grappling it.
 
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
@@ -1622,6 +1690,8 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 - **Languages:** -
 - **Challenge:** 3 (700 XP)
 
+#### Traits
+
 ***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the *Greater Restoration* spell or other magic.
 
 A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.
@@ -1647,6 +1717,8 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 - **Senses:** blindsight 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
+
+#### Traits
 
 ***Echolocation.*** The bat can't use its blindsight while deafened.
 
@@ -1675,6 +1747,8 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 
@@ -1738,6 +1812,8 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Languages:** any one language (usually Common)
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Reckless.*** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
 #### Actions
@@ -1762,6 +1838,8 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 - **Senses:** Passive Perception 13
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -1790,6 +1868,8 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 8
 - **Languages:** -
 - **Challenge:** 4 (1,100 XP)
+
+#### Traits
 
 ***Amorphous.*** The pudding can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -1824,6 +1904,8 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 - **Languages:** Blink Dog, understands Sylvan but can't speak it
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Keen Hearing and Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 #### Actions
@@ -1851,6 +1933,8 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
 ***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -1876,6 +1960,8 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Senses:** Passive Perception 9
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Charge.*** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) Slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
@@ -1906,6 +1992,8 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 9 (5,000 XP)
 
+#### Traits
+
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
@@ -1935,6 +2023,8 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
 #### Actions
@@ -1962,6 +2052,8 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Languages:** Common, Goblin
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Brute.*** A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).
 
 ***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
@@ -1988,6 +2080,8 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 16
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Standing Leap.*** The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
@@ -2034,6 +2128,8 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Keen Smell.*** The cat has advantage on Wisdom (Perception) checks that rely on smell.
 
 #### Actions
@@ -2056,6 +2152,8 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Senses:** Passive Perception 13
 - **Languages:** Elvish, Sylvan
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Charge.*** If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) Piercing damage.
 
@@ -2088,6 +2186,8 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 8 (3,900 XP)
+
+#### Traits
 
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 
@@ -2155,6 +2255,8 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 - **Languages:** understands Deep Speech but can't speak
 - **Challenge:** 4 (1,100 XP)
 
+#### Traits
+
 ***Amphibious.*** The chuul can breathe air and water.
 
 ***Sense Magic.*** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the *Detect Magic* spell but isn't itself magical.
@@ -2184,6 +2286,8 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 9 (5,000 XP)
+
+#### Traits
 
 ***Acid Absorption.*** Whenever the golem is subjected to Acid damage, it takes no damage and instead regains a number of hit points equal to the Acid damage dealt.
 
@@ -2219,6 +2323,8 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to Pierci
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Deep Speech, Undercommon
 - **Challenge:** 8 (3,900 XP)
+
+#### Traits
 
 ***Damage Transfer.*** While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half.
 
@@ -2259,6 +2365,8 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 - **Senses:** Passive Perception 17
 - **Languages:** Common, Giant
 - **Challenge:** 9 (5,000 XP)
+
+#### Traits
 
 ***Keen Smell.*** The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -2361,6 +2469,8 @@ At will: *Detect Magic*, *Fog Cloud*, *Light*
 - **Languages:** all, telepathy 120 ft.
 - **Challenge:** 4 (1,100 XP)
 
+#### Traits
+
 ***Innate Spellcasting.*** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal Components
 
 At will: *Detect Evil and Good*, *Detect Magic*, *Detect Thoughts*
@@ -2400,6 +2510,8 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Amphibious.*** The crab can breathe air and water.
 
 #### Actions
@@ -2423,6 +2535,8 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Hold Breath.*** The crocodile can hold its breath for 15 minutes.
 
 #### Actions
@@ -2445,6 +2559,8 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 - **Senses:** Passive Perception 11
 - **Languages:** any one language (usually Common)
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Dark Devotion.*** The fanatic has advantage on saving throws against being charmed or frightened.
 
@@ -2479,6 +2595,8 @@ Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
 - **Languages:** any one language (usually Common)
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Dark Devotion.*** The cultist has advantage on saving throws against being charmed or frightened.
 
 #### Actions
@@ -2503,6 +2621,8 @@ Cantrips (at will): *Light*, *Sacred Flame*, *Thaumaturgy*
 - **Senses:** blindsight 60 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Echolocation.*** The darkmantle can't use its blindsight while deafened.
 
@@ -2534,6 +2654,8 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 - **Senses:** darkvision 120 ft.; Passive Perception 15
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Two-Headed.*** The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 
@@ -2585,6 +2707,8 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 - **Languages:** all, telepathy 120 ft.
 - **Challenge:** 10 (5,900 XP)
 
+#### Traits
+
 ***Angelic Weapons.*** The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 Radiant damage (included in the attack).
 
 ***Innate Spellcasting.*** The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal Components
@@ -2624,6 +2748,8 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -2649,6 +2775,8 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 - **Senses:** darkvision 120 ft.; Passive Perception 13
 - **Languages:** Auran
 - **Challenge:** 11 (7,200 XP)
+
+#### Traits
 
 ***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 
@@ -2687,6 +2815,8 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Common
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Shapechanger.*** The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -2739,6 +2869,8 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Aquan, Draconic
 - **Challenge:** 17 (18,000 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon turtle can breathe air and water.
 
@@ -2800,6 +2932,8 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 - **Languages:** Elvish, Undercommon
 - **Challenge:** 6 (2,300 XP)
 
+#### Traits
+
 ***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
 
 ***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material Components
@@ -2841,6 +2975,8 @@ At will: *Dancing Lights*
 - **Languages:** Druidic plus any two languages
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
 Cantrips (at will): *Druidcraft*, *Produce Flame*, *Shillelagh*
@@ -2869,6 +3005,8 @@ Cantrips (at will): *Druidcraft*, *Produce Flame*, *Shillelagh*
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Elvish, Sylvan
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material Components
 
@@ -2911,6 +3049,8 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Languages:** Dwarvish, Undercommon
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
@@ -2945,6 +3085,8 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Languages:** Auran, Terran
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast *Sleep*, requiring no material components. Its innate spellcasting ability is Charisma.
@@ -2972,6 +3114,8 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
 #### Actions
@@ -2997,6 +3141,8 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Senses:** darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
 - **Languages:** Terran
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
 
@@ -3025,6 +3171,8 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 - **Senses:** darkvision 120 ft.; Passive Perception 12
 - **Languages:** Ignan
 - **Challenge:** 11 (7,200 XP)
+
+#### Traits
 
 ***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 
@@ -3060,6 +3208,8 @@ At will: *Detect Magic*
 - **Languages:** -
 - **Challenge:** 4 (1,100 XP)
 
+#### Traits
+
 ***Trampling Charge.*** If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
 
 #### Actions
@@ -3084,6 +3234,8 @@ At will: *Detect Magic*
 - **Senses:** darkvision 120 ft.; Passive Perception 12
 - **Languages:** Elvish, Undercommon
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
@@ -3117,6 +3269,8 @@ At will: *Dancing Lights*
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 #### Actions
@@ -3144,6 +3298,8 @@ At will: *Dancing Lights*
 - **Senses:** truesight 120 ft.; Passive Perception 12
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 12 (8,400 XP)
+
+#### Traits
 
 ***Hellish Weapons.*** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) Poison damage on a hit (included in the attacks).
 
@@ -3178,6 +3334,8 @@ At will: *Dancing Lights*
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Spider Climb.*** The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 ***Web Sense.*** While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.
@@ -3211,6 +3369,8 @@ At will: *Dancing Lights*
 - **Languages:** Giant, Orc
 - **Challenge:** 4 (1,100 XP)
 
+#### Traits
+
 ***Two Heads.*** The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
 
 ***Wakeful.*** When one of the ettin's heads is asleep, its other head is awake.
@@ -3241,6 +3401,8 @@ At will: *Dancing Lights*
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Ignan
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) Fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) Fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) Fire damage at the start of each of its turns.
 
@@ -3299,6 +3461,8 @@ At will: *Dancing Lights*
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Berserk.*** Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 
 The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.
@@ -3335,6 +3499,8 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Flyby.*** The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 #### Actions
@@ -3362,6 +3528,8 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an *Antimagic Field*. If targeted by *Dispel Magic*, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 
 ***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
@@ -3386,6 +3554,8 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 - **Senses:** darkvision 30 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 0 (0 XP)
+
+#### Traits
 
 ***Amphibious.*** The frog can breathe air and water.
 
@@ -3439,6 +3609,8 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 - **Languages:** Terran
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
 #### Actions
@@ -3465,6 +3637,8 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 - **Senses:** blindsight 60 ft. (blind beyond this radius); Passive Perception 8
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Ooze Cube.*** The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.
 
@@ -3507,6 +3681,8 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 - **Languages:** Common
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Stench.*** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
 
 ***Turning Defiance.*** The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
@@ -3535,6 +3711,8 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** any languages it knew in life
 - **Challenge:** 4 (1,100 XP)
+
+#### Traits
 
 ***Ethereal Sight.*** The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
 
@@ -3617,6 +3795,8 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
 #### Actions
@@ -3643,6 +3823,8 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Echolocation.*** The bat can't use its blindsight while deafened.
 
 ***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
@@ -3666,6 +3848,8 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Senses:** Passive Perception 8
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Charge.*** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) Slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
@@ -3735,6 +3919,8 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Amphibious.*** The crab can breathe air and water.
 
 #### Actions
@@ -3756,6 +3942,8 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Hold Breath.*** The crocodile can hold its breath for 30 minutes.
 
@@ -3783,6 +3971,8 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 - **Senses:** Passive Perception 14
 - **Languages:** Giant Eagle, understands Common and Auran but can't speak them
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
@@ -3813,6 +4003,8 @@ A **giant eagle** is a noble creature that speaks its own language and understan
 - **Languages:** Giant Elk, understands Common, Elvish, and Sylvan but can't speak them
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
 #### Actions
@@ -3839,6 +4031,8 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
 #### Actions
@@ -3863,6 +4057,8 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 - **Senses:** darkvision 30 ft.; Passive Perception 12
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Amphibious.*** The frog can breathe air and water.
 
@@ -3892,6 +4088,8 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Charge.*** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) Bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 ***Sure-Footed.*** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
@@ -3916,6 +4114,8 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 - **Senses:** Passive Perception 13
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Rampage.*** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 
@@ -3962,6 +4162,8 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Hold Breath.*** While out of water, the octopus can hold its breath for 1 hour.
 
 ***Underwater Camouflage.*** The octopus has advantage on Dexterity (Stealth) checks made while underwater.
@@ -3990,6 +4192,8 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Senses:** darkvision 120 ft.; Passive Perception 15
 - **Languages:** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
@@ -4037,6 +4241,8 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
+
+#### Traits
 
 ***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -4092,6 +4298,8 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Charge.*** If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) Bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 ***Water Breathing.*** The sea horse can breathe only underwater.
@@ -4119,6 +4327,8 @@ Like their smaller kin, **giant sea horses** are shy, colorful fish with elongat
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 ***Water Breathing.*** The shark can breathe only underwater.
@@ -4145,6 +4355,8 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -4176,6 +4388,8 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Amphibious.*** The toad can breathe air and water.
 
 ***Standing Leap.*** The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
@@ -4204,6 +4418,8 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 - **Senses:** Passive Perception 13
 - **Languages:** understands Common but can't speak
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
@@ -4256,6 +4472,8 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 #### Actions
@@ -4278,6 +4496,8 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 13
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -4307,6 +4527,8 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Aberrant Ground.*** The ground in a 10-foot radius around the mouther is dough-like difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
 
@@ -4339,6 +4561,8 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 - **Senses:** truesight 120 ft.; Passive Perception 13
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 9 (5,000 XP)
+
+#### Traits
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material Components
 
@@ -4374,6 +4598,8 @@ At will: *Darkness*, *Detect Magic*, *Dispel Magic*
 - **Languages:** any one language (usually Common)
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Brave.*** The gladiator has advantage on saving throws against being frightened.
 
 ***Brute.*** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
@@ -4408,6 +4634,8 @@ At will: *Darkness*, *Detect Magic*, *Dispel Magic*
 - **Languages:** Gnoll
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
 #### Actions
@@ -4434,6 +4662,8 @@ At will: *Darkness*, *Detect Magic*, *Dispel Magic*
 - **Senses:** darkvision 120 ft.; Passive Perception 12
 - **Languages:** Gnomish, Terran, Undercommon
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Stone Camouflage.*** The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
@@ -4467,6 +4697,8 @@ At will: *Nondetection* (self only)
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Charge.*** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) Bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.
 
 ***Sure-Footed.*** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
@@ -4491,6 +4723,8 @@ At will: *Nondetection* (self only)
 - **Senses:** darkvision 60 ft.; Passive Perception 9
 - **Languages:** Common, Goblin
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
@@ -4517,6 +4751,8 @@ At will: *Nondetection* (self only)
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Trampling Charge.*** If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
 
@@ -4547,6 +4783,8 @@ At will: *Nondetection* (self only)
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
 
 ***Corrode Metal.*** Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
@@ -4575,6 +4813,8 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Common, Draconic, Sylvan
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Amphibious.*** The hag can breathe air and water.
 
@@ -4611,6 +4851,8 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Stone Camouflage.*** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
 #### Actions
@@ -4637,6 +4879,8 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Senses:** darkvision 60 ft.; Passive Perception 15
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Keen Sight.*** The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
@@ -4665,6 +4909,8 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Senses:** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius); Passive Perception 13
 - **Languages:** Undercommon
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Blind Senses.*** The grimlock can't use its blindsight while deafened and unable to smell.
 
@@ -4719,6 +4965,8 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Languages:** Celestial, Common
 - **Challenge:** 10 (5,900 XP)
 
+#### Traits
+
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *Wish* spell can prevent this trait from functioning.
 
 ***Spellcasting.*** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
@@ -4756,6 +5004,8 @@ Cantrips (at will): *Mending*, *Sacred Flame*, *Thaumaturgy*
 - **Senses:** truesight 120 ft.; Passive Perception 18
 - **Languages:** Common, Sphinx
 - **Challenge:** 11 (7,200 XP)
+
+#### Traits
 
 ***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 
@@ -4895,6 +5145,8 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
 #### Actions
@@ -4918,6 +5170,8 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Senses:** darkvision 60 ft.; Passive Perception 15
 - **Languages:** understands Infernal but can't speak it
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
@@ -4948,6 +5202,8 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 8 (3,900 XP)
+
+#### Traits
 
 ***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects.
 
@@ -5003,6 +5259,8 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Keen Sight.*** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
 #### Actions
@@ -5028,6 +5286,8 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Common, Goblin
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
@@ -5055,6 +5315,8 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
 
 #### Actions
@@ -5080,6 +5342,8 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Senses:** darkvision 120 ft.; Passive Perception 13
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 11 (7,200 XP)
+
+#### Traits
 
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 
@@ -5112,6 +5376,8 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 ***Water Breathing.*** The shark can breathe only underwater.
@@ -5138,6 +5404,8 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 - **Senses:** darkvision 60 ft.; Passive Perception 16
 - **Languages:** -
 - **Challenge:** 8 (3,900 XP)
+
+#### Traits
 
 ***Hold Breath.*** The hydra can hold its breath for 1 hour.
 
@@ -5174,6 +5442,8 @@ At the end of its turn, it grows two heads for each of its heads that died since
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 #### Actions
@@ -5199,6 +5469,8 @@ At the end of its turn, it grows two heads for each of its heads that died since
 - **Senses:** blindsight 60 ft., darkvision 120 ft.; Passive Perception 12
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 14 (11,500 XP)
+
+#### Traits
 
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 
@@ -5240,6 +5512,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Languages:** Aquan, Auran
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) Slashing damage on a failed save, or half as much damage on a successful one.
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
@@ -5271,6 +5545,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Infernal, Common
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -5304,6 +5580,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Languages:** Auran, understands Common but doesn't speak it
 - **Challenge:** 6 (2,300 XP)
 
+#### Traits
+
 ***Invisibility.*** The stalker is invisible.
 
 ***Faultless Tracker.*** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
@@ -5331,6 +5609,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 16 (15,000 XP)
+
+#### Traits
 
 ***Fire Absorption.*** Whenever the golem is subjected to Fire damage, it takes no damage and instead regains a number of hit points equal to the Fire damage dealt.
 
@@ -5367,6 +5647,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Keen Hearing and Smell.*** The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 ***Pack Tactics.*** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -5391,6 +5673,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Senses:** blindsight 120 ft.; Passive Perception 13
 - **Languages:** -
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Echolocation.*** The whale can't use its blindsight while deafened.
 
@@ -5418,6 +5702,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Senses:** Passive Perception 10
 - **Languages:** any one language (usually Common)
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Brave.*** The knight has advantage on saving throws against being frightened.
 
@@ -5453,6 +5739,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Languages:** Common, Draconic
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -5481,6 +5769,8 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 - **Senses:** truesight 120 ft.; Passive Perception 14
 - **Languages:** understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.
 - **Challenge:** 23 (50,000 XP)
+
+#### Traits
 
 ***Amphibious.*** The kraken can breathe air and water.
 
@@ -5529,6 +5819,8 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 - **Languages:** Abyssal, Common
 - **Challenge:** 4 (1,100 XP)
 
+#### Traits
+
 ***Innate Spellcasting.*** The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
 At will: *Disguise Self* (any humanoid form), *Major Image*
@@ -5566,6 +5858,8 @@ At will: *Disguise Self* (any humanoid form), *Major Image*
 - **Languages:** understands Infernal but can't speak
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
 
 ***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *Bless* spell cast on that creature or its remains are sprinkled with holy water.
@@ -5594,6 +5888,8 @@ At will: *Disguise Self* (any humanoid form), *Major Image*
 - **Senses:** truesight 120 ft.; Passive Perception 19
 - **Languages:** Common plus up to five other languages
 - **Challenge:** 21 (33,000 XP)
+
+#### Traits
 
 ***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead.
 
@@ -5647,6 +5943,8 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell.
 
 ***Pack Tactics.*** The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -5698,6 +5996,8 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Languages:** Draconic
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 
 #### Actions
@@ -5729,6 +6029,8 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Senses:** Passive Perception 11
 - **Languages:** any four languages
 - **Challenge:** 6 (2,300 XP)
+
+#### Traits
 
 ***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
@@ -5765,6 +6067,8 @@ Cantrips (at will): *Fire Bolt*, *Light*, *Mage Hand*, *Prestidigitation*
 - **Languages:** Ignan, Terran
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) Fire damage on a failed save, or half as much damage on a successful one.
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
@@ -5795,6 +6099,8 @@ Cantrips (at will): *Fire Bolt*, *Light*, *Mage Hand*, *Prestidigitation*
 - **Languages:** Ignan
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Death Burst.*** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) Fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.
 
 ***Ignited Illumination.*** As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
@@ -5818,6 +6124,8 @@ Cantrips (at will): *Fire Bolt*, *Light*, *Mage Hand*, *Prestidigitation*
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 6 (2,300 XP)
+
+#### Traits
 
 ***Trampling Charge.*** If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 
@@ -5844,6 +6152,8 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Common
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Tail Spike Regrowth.*** The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
 
@@ -5876,6 +6186,8 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Senses:** truesight 120 ft.; Passive Perception 13
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 16 (15,000 XP)
+
+#### Traits
 
 ***Magic Resistance.*** The marilith has advantage on saving throws against spells and other magical effects.
 
@@ -5914,6 +6226,8 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Keen Hearing and Smell.*** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 #### Actions
@@ -5938,6 +6252,8 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Common
 - **Challenge:** 6 (2,300 XP)
+
+#### Traits
 
 ***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the *Greater Restoration* spell or other magic.
 
@@ -5972,6 +6288,8 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Languages:** Aquan, Common
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Amphibious.*** The merfolk can breathe air and water.
 
 #### Actions
@@ -5993,6 +6311,8 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Abyssal, Aquan
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Amphibious.*** The merrow can breathe air and water.
 
@@ -6024,6 +6344,8 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Shapechanger.*** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -6058,6 +6380,8 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Languages:** understands Abyssal but can't speak
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Charge.*** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) Piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
 #### Actions
@@ -6082,6 +6406,8 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Senses:** darkvision 60 ft.; Passive Perception 17
 - **Languages:** Abyssal
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Charge.*** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) Piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
@@ -6111,6 +6437,8 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Languages:** -
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Beast of Burden.*** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
 
 ***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
@@ -6139,6 +6467,8 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** the languages it knew in life
 - **Challenge:** 15 (13,000 XP)
+
+#### Traits
 
 ***Magic Resistance.*** The mummy lord has advantage on saving throws against spells and other magical effects.
 
@@ -6225,6 +6555,8 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 13 (10,000 XP)
 
+#### Traits
+
 ***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.
 
 #### Actions
@@ -6257,6 +6589,8 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Senses:** darkvision 120 ft.; Passive Perception 16
 - **Languages:** Abyssal, Common, Infernal, Primordial
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material Components
 
@@ -6292,6 +6626,8 @@ At will: *Detect Magic*, *Magic Missile*
 - **Senses:** Passive Perception 11
 - **Languages:** understands Abyssal, Common, and Infernal but can't speak
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Confer Fire Resistance.*** The nightmare can grant resistance to Fire damage to anyone riding it.
 
@@ -6351,6 +6687,8 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing.
 
 ***Spider Climb.*** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -6379,6 +6717,8 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Senses:** darkvision 30 ft.; Passive Perception 12
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
+
+#### Traits
 
 ***Hold Breath.*** While out of water, the octopus can hold its breath for 30 minutes.
 
@@ -6410,6 +6750,8 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** understands Common and Giant but can't speak
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
@@ -6457,6 +6799,8 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 - **Languages:** Common, Giant
 - **Challenge:** 7 (2,900 XP)
 
+#### Traits
+
 ***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material Components
 
 At will: *Darkness*, *Invisibility*
@@ -6494,6 +6838,8 @@ At will: *Darkness*, *Invisibility*
 - **Languages:** Common, Orc
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
 #### Actions
@@ -6518,6 +6864,8 @@ At will: *Darkness*, *Invisibility*
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Otyugh
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Limited Telepathy.*** The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
 
@@ -6548,6 +6896,8 @@ At will: *Darkness*, *Invisibility*
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 ***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
@@ -6572,6 +6922,8 @@ At will: *Darkness*, *Invisibility*
 - **Senses:** darkvision 60 ft.; Passive Perception 13
 - **Languages:** -
 - **Challenge:** 3 (700 XP)
+
+#### Traits
 
 ***Keen Sight and Smell.*** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
@@ -6599,6 +6951,8 @@ At will: *Darkness*, *Invisibility*
 - **Senses:** Passive Perception 14
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Keen Smell.*** The panther has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -6649,6 +7003,8 @@ At will: *Darkness*, *Invisibility*
 - **Languages:** -
 - **Challenge:** 3 (700 XP)
 
+#### Traits
+
 ***Ethereal Jaunt.*** As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
 
 ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -6680,6 +7036,8 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 - **Senses:** truesight 120 ft.; Passive Perception 14
 - **Languages:** Infernal, telepathy 120 ft.
 - **Challenge:** 20 (25,000 XP)
+
+#### Traits
 
 ***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
 
@@ -6725,6 +7083,8 @@ At will: *Detect Magic*, *Fireball*
 - **Languages:** all, telepathy 120 ft.
 - **Challenge:** 16 (15,000 XP)
 
+#### Traits
+
 ***Angelic Weapons.*** The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 Radiant damage (included in the attack).
 
 ***Divine Awareness.*** The planetar knows if it hears a lie.
@@ -6763,6 +7123,8 @@ At will: *Detect Evil and Good*, *Invisibility* (self only)
 - **Senses:** Passive Perception 13
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Hold Breath.*** The plesiosaurus can hold its breath for 1 hour.
 
@@ -6806,6 +7168,8 @@ At will: *Detect Evil and Good*, *Invisibility* (self only)
 - **Senses:** Passive Perception 13
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -6854,6 +7218,8 @@ At will: *Detect Evil and Good*, *Invisibility* (self only)
 - **Languages:** any two languages
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Divine Eminence.*** As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) Radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
@@ -6888,6 +7254,8 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 - **Languages:** understands Common and Draconic but can't speak
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Keen Senses.*** The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
 
 ***Magic Resistance.*** The pseudodragon has advantage on saving throws against spells and other magical effects.
@@ -6916,6 +7284,8 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 - **Senses:** blindsight 30 ft., tremorsense 60 ft.; Passive Perception 9
 - **Languages:** -
 - **Challenge:** 15 (13,000 XP)
+
+#### Traits
 
 ***Tunneler.*** The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot diameter tunnel in its wake.
 
@@ -6949,6 +7319,8 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Languages:** Abyssal, Common
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Shapechanger.*** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 ***Magic Resistance.*** The quasit has advantage on saving throws against spells and other magical effects.
@@ -6976,6 +7348,8 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
+
+#### Traits
 
 ***Blood Frenzy.*** The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
@@ -7005,6 +7379,8 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 - **Senses:** darkvision 60 ft.; Passive Perception 13
 - **Languages:** Common, Infernal
 - **Challenge:** 13 (10,000 XP)
+
+#### Traits
 
 ***Limited Magic Immunity.*** The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
 
@@ -7038,6 +7414,8 @@ At will: *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
 #### Actions
@@ -7061,6 +7439,8 @@ At will: *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Mimicry.*** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
 #### Actions
@@ -7083,6 +7463,8 @@ At will: *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
 - **Senses:** blindsight 30 ft.; Passive Perception 12
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
@@ -7111,6 +7493,8 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 - **Languages:** -
 - **Challenge:** 11 (7,200 XP)
 
+#### Traits
+
 ***Heated Body.*** A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) Fire damage.
 
 #### Actions
@@ -7136,6 +7520,8 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Senses:** Passive Perception 11
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Charge.*** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) Bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
@@ -7181,6 +7567,8 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Languages:** -
 - **Challenge:** 11 (7,200 XP)
 
+#### Traits
+
 ***Keen Sight.*** The roc has advantage on Wisdom (Perception) checks that rely on sight.
 
 #### Actions
@@ -7207,6 +7595,8 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Senses:** darkvision 60 ft.; Passive Perception 16
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***False Appearance.*** While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.
 
@@ -7242,6 +7632,8 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an *Antimagic Field*. If targeted by *Dispel Magic*, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 
 ***Damage Transfer.*** While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
@@ -7267,6 +7659,8 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Iron Scent.*** The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
 
@@ -7297,6 +7691,8 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell.
 
 ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
@@ -7323,6 +7719,8 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Senses:** darkvision 120 ft.; Passive Perception 15
 - **Languages:** Sahuagin
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
@@ -7361,6 +7759,8 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Languages:** Ignan
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Heated Body.*** A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) Fire damage.
 
 ***Heated Weapons.*** Any metal melee weapon the salamander wields deals an extra 3 (1d6) Fire damage on a hit (included in the attack).
@@ -7391,6 +7791,8 @@ If the object touched is either metal armor or a metal shield being worn or carr
 
 - **Languages:** Common, Elvish, Sylvan
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.
 
@@ -7439,6 +7841,8 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Languages:** any one language (usually Common)
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
 #### Actions
@@ -7466,6 +7870,8 @@ If the object touched is either metal armor or a metal shield being worn or carr
 - **Senses:** darkvision 60 ft.; Passive Perception 11
 - **Languages:** Aquan, Common, Giant
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Amphibious.*** The hag can breathe air and water.
 
@@ -7499,6 +7905,8 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Languages:** -
 - **Challenge:** 0 (0 XP)
 
+#### Traits
+
 ***Water Breathing.*** The sea horse can breathe only underwater.
 
 ### Shadow
@@ -7521,6 +7929,8 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Amorphous.*** The shadow can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -7554,6 +7964,8 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Lightning Absorption.*** Whenever the shambling mound is subjected to Lightning damage, it takes no damage and regains a number of hit points equal to the Lightning damage dealt.
 
 #### Actions
@@ -7581,6 +7993,8 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 - **Languages:** understands commands given in any language but can't speak
 - **Challenge:** 7 (2,900 XP)
+
+#### Traits
 
 ***Bound.*** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
 
@@ -7614,6 +8028,8 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Senses:** blindsight 30 ft. (blind beyond this radius); Passive Perception 6
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
+
+#### Traits
 
 ***False Appearance.*** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 
@@ -7666,6 +8082,8 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 - **Senses:** truesight 120 ft.; Passive Perception 24
 - **Languages:** all, telepathy 120 ft.
 - **Challenge:** 21 (33,000 XP)
+
+#### Traits
 
 ***Angelic Weapons.*** The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 Radiant damage (included in the attack).
 
@@ -7722,6 +8140,8 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Languages:** understands all languages it knew in life but can't speak
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
 
 ***Sunlight Sensitivity.*** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
@@ -7746,6 +8166,8 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Senses:** darkvision 30 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
+
+#### Traits
 
 ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -7774,6 +8196,8 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** Abyssal, Common
 - **Challenge:** 8 (3,900 XP)
+
+#### Traits
 
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *Wish* spell can prevent this trait from functioning.
 
@@ -7834,6 +8258,8 @@ Cantrips (at will): *Mage Hand*, *Minor Illusion*, *Ray of Frost*
 - **Languages:** any two languages
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
 
 ***Sneak Attack (1/Turn).*** The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
@@ -7865,6 +8291,8 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 - **Senses:** darkvision 60 ft.; Passive Perception 10
 - **Languages:** Aquan, Ignan
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) Fire damage.
 
@@ -7916,6 +8344,8 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 - **Languages:** Giant
 - **Challenge:** 7 (2,900 XP)
 
+#### Traits
+
 ***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
 #### Actions
@@ -7947,6 +8377,8 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 - **Senses:** darkvision 120 ft.; Passive Perception 10
 - **Languages:** understands the languages of its creator but can't speak
 - **Challenge:** 10 (5,900 XP)
+
+#### Traits
 
 ***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
 
@@ -7981,6 +8413,8 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 - **Senses:** Passive Perception 19
 - **Languages:** Common, Giant
 - **Challenge:** 13 (10,000 XP)
+
+#### Traits
 
 ***Amphibious.*** The giant can breathe air and water.
 
@@ -8018,6 +8452,8 @@ At will: *Detect Magic*, *Feather Fall*, *Levitate*, *Light*
 - **Languages:** Abyssal, Common, Infernal, telepathy 60 ft.
 - **Challenge:** 4 (1,100 XP)
 
+#### Traits
+
 ***Telepathic Bond.*** The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
 
 ***Shapechanger.*** The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
@@ -8054,6 +8490,8 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Echolocation.*** The swarm can't use its blindsight while deafened.
 
 ***Keen Hearing.*** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
@@ -8081,6 +8519,8 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Senses:** blindsight 10 ft.; Passive Perception 8
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 
@@ -8124,6 +8564,8 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Languages:** -
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
 
 #### Actions
@@ -8147,6 +8589,8 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
+
+#### Traits
 
 ***Blood Frenzy.*** The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
@@ -8176,6 +8620,8 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Keen Smell.*** The swarm has advantage on Wisdom (Perception) checks that rely on smell.
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
@@ -8203,6 +8649,8 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 
 #### Actions
@@ -8227,6 +8675,8 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) Psychic damag
 - **Senses:** blindsight 120 ft.; Passive Perception 10
 - **Languages:** -
 - **Challenge:** 30 (155,000 XP)
+
+#### Traits
 
 ***Legendary Resistance (3/Day).*** If the tarrasque fails a saving throw, it can choose to succeed instead.
 
@@ -8281,6 +8731,8 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages:** any one language (usually Common)
 - **Challenge:** 1/2 (100 XP)
 
+#### Traits
+
 ***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 #### Actions
@@ -8310,6 +8762,8 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages:** -
 - **Challenge:** 1 (200 XP)
 
+#### Traits
+
 ***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell.
 
 ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
@@ -8337,6 +8791,8 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Senses:** Passive Perception 13
 - **Languages:** Common, Druidic, Elvish, Sylvan
 - **Challenge:** 9 (5,000 XP)
+
+#### Traits
 
 ***False Appearance.*** While the treant remains motionless, it is indistinguishable from a normal tree.
 
@@ -8368,6 +8824,8 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages:** any one language
 - **Challenge:** 1/8 (25 XP)
 
+#### Traits
+
 ***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 #### Actions
@@ -8391,6 +8849,8 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Senses:** Passive Perception 10
 - **Languages:** -
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Trampling Charge.*** If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone.
 
@@ -8418,6 +8878,8 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** Giant
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -8474,6 +8936,8 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 - **Languages:** Celestial, Elvish, Sylvan, telepathy 60 ft.
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Charge.*** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) Piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
 ***Innate Spellcasting.*** The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no Components
@@ -8527,6 +8991,8 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Languages:** the languages it knew in life
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Regeneration.*** The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes Radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
 
 ***Spider Climb.*** The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -8567,6 +9033,8 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Senses:** darkvision 120 ft.; Passive Perception 17
 - **Languages:** the languages it knew in life
 - **Challenge:** 13 (10,000 XP)
+
+#### Traits
 
 ***Shapechanger.*** If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
 
@@ -8664,6 +9132,8 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***False Appearance.*** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
 #### Actions
@@ -8691,6 +9161,8 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Senses:** darkvision 120 ft.; Passive Perception 11
 - **Languages:** Abyssal, telepathy 120 ft.
 - **Challenge:** 6 (2,300 XP)
+
+#### Traits
 
 ***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.
 
@@ -8723,6 +9195,8 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
 ***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -8746,6 +9220,8 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Senses:** Passive Perception 11
 - **Languages:** -
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Trampling Charge.*** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 
@@ -8795,6 +9271,8 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Languages:** Aquan
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
 ***Freeze.*** If the elemental takes Cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
@@ -8826,6 +9304,8 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Languages:** -
 - **Challenge:** 0 (10 XP)
 
+#### Traits
+
 ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 #### Actions
@@ -8849,6 +9329,8 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Senses:** Passive Perception 17
 - **Languages:** Common (can't speak in bear form)
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Shapechanger.*** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -8882,6 +9364,8 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Languages:** Common (can't speak in boar form)
 - **Challenge:** 4 (1,100 XP)
 
+#### Traits
+
 ***Shapechanger.*** The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 ***Charge (Boar or Hybrid Form Only).*** If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) Slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
@@ -8914,6 +9398,8 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Languages:** Common (can't speak in rat form)
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Shapechanger.*** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 ***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
@@ -8945,6 +9431,8 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Senses:** darkvision 60 ft.; Passive Perception 15
 - **Languages:** Common (can't speak in tiger form)
 - **Challenge:** 4 (1,100 XP)
+
+#### Traits
 
 ***Shapechanger.*** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -8982,6 +9470,8 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Languages:** Common (can't speak in wolf form)
 - **Challenge:** 3 (700 XP)
 
+#### Traits
+
 ***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 ***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -9016,6 +9506,8 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 - **Languages:** the languages it knew in life
 - **Challenge:** 3 (700 XP)
 
+#### Traits
+
 ***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 #### Actions
@@ -9049,6 +9541,8 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 - **Languages:** the languages it knew in life
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.
 
 ***Ephemeral.*** The will-o'-wisp can't wear or carry anything.
@@ -9081,6 +9575,8 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 - **Languages:** Common, Giant, Winter Wolf
 - **Challenge:** 3 (700 XP)
 
+#### Traits
+
 ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -9112,6 +9608,8 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 - **Languages:** -
 - **Challenge:** 1/4 (50 XP)
 
+#### Traits
+
 ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 ***Pack Tactics.*** The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -9136,6 +9634,8 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 - **Senses:** darkvision 60 ft.; Passive Perception 14
 - **Languages:** Goblin, Worg
 - **Challenge:** 1/2 (100 XP)
+
+#### Traits
 
 ***Keen Hearing and Smell.*** The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
@@ -9163,6 +9663,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Senses:** darkvision 60 ft.; Passive Perception 12
 - **Languages:** the languages it knew in life
 - **Challenge:** 5 (1,800 XP)
+
+#### Traits
 
 ***Incorporeal Movement.*** The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
 
@@ -9192,6 +9694,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
 - **Languages:** Draconic
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -9274,6 +9778,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Languages:** Draconic
 - **Challenge:** 2 (450 XP)
 
+#### Traits
+
 ***Amphibious.*** The dragon can breathe air and water.
 
 #### Actions
@@ -9334,6 +9840,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Languages:** Draconic
 - **Challenge:** 3 (700 XP)
 
+#### Traits
+
 ***Amphibious.*** The dragon can breathe air and water.
 
 #### Actions
@@ -9365,6 +9873,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Senses:** blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
 - **Languages:** Draconic
 - **Challenge:** 2 (450 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -9498,6 +10008,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Languages:** Terran
 - **Challenge:** 5 (1,800 XP)
 
+#### Traits
+
 ***Earth Glide.*** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
 
 ***Stone Camouflage.*** The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
@@ -9530,6 +10042,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
 - **Languages:** Common, Draconic
 - **Challenge:** 7 (2,900 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -9624,6 +10138,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Languages:** Common, Draconic
 - **Challenge:** 8 (3,900 XP)
 
+#### Traits
+
 ***Amphibious.*** The dragon can breathe air and water.
 
 #### Actions
@@ -9692,6 +10208,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Languages:** Common, Draconic
 - **Challenge:** 10 (5,900 XP)
 
+#### Traits
+
 ***Amphibious.*** The dragon can breathe air and water.
 
 #### Actions
@@ -9727,6 +10245,8 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 - **Senses:** blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
 - **Languages:** Common, Draconic
 - **Challenge:** 8 (3,900 XP)
+
+#### Traits
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -9821,6 +10341,8 @@ Large dragon, chaotic evil
 - **Languages:** Common, Draconic
 - **Challenge:** 6 (2,300 XP)
 
+#### Traits
+
 ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
 #### Actions
@@ -9851,6 +10373,8 @@ Large dragon, chaotic evil
 - **Senses:** darkvision 60 ft.; Passive Perception 8
 - **Languages:** understands the languages it knew in life but can't speak
 - **Challenge:** 1/4 (50 XP)
+
+#### Traits
 
 ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
