@@ -3,7 +3,7 @@
 Table: Core Barbarian Traits
 
 |                               |                                                                                     |
-|-------------------------------|-------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d12 per Barbarian level                                                            |
 | Hit Points at 1st Level       | 12 + your Constitution modifier                                                    |
 | Hit Points at Higher Levels   | 1d12 (or 7) + your Constitution modifier per Barbarian level after 1st              |
@@ -24,7 +24,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Barbarian Features
 
 | Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
-|-------|-------------------|-------------------------------|-----------|-------------|
+|---|---|---|---|---|
 | 1     | +2                | Rage, Unarmored Defense       | 2         | +2          |
 | 2     | +2                | Reckless Attack, Danger Sense | 2         | +2          |
 | 3     | +2                | Primal Path                   | 3         | +2          |

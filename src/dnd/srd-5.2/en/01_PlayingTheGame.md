@@ -25,7 +25,7 @@ All creatures — characters and monsters—have six abilities that measure phys
 Table: Ability Descriptions
 
 | Ability      | Score Measures …                    |
-|--------------|-------------------------------------|
+|---|---|
 | Strength     | Physical might                      |
 | Dexterity    | Agility, reflexes, and balance      |
 | Constitution | Health and stamina                  |
@@ -40,7 +40,7 @@ Each ability has a score from 1 to 20, although some monsters have a score as hi
 Table: Ability Scores
 
 | Score | Meaning                                      |
-|-------|----------------------------------------------|
+|---|---|
 | 1     | This is the lowest a score can normally go. If an effect reduces a score to 0, that effect explains what happens. |
 | 2–9   | This represents a weak capability.           |
 | 10–11 | This represents the human average.           |
@@ -59,7 +59,7 @@ Each ability has a modifier that you apply whenever you make a D20 Test with tha
 Table: Ability Modifiers
 
 | Score | Modifier |
-|-------|----------|
+|---|---|
 | 1     | −5       |
 | 2–3   | −4       |
 | 4–5   | −3       |
@@ -101,7 +101,7 @@ An ability check is named for the ability modifier it uses: a Strength check, an
 Table: Ability Check Examples
 
 | Ability      | Make a Check To …                                          |
-|--------------|------------------------------------------------------------|
+|---|---|
 | Strength     | Lift, push, pull, or break something                       |
 | Dexterity    | Move nimbly, quickly, or quietly                           |
 | Constitution | Push your body beyond normal limits                        |
@@ -120,7 +120,7 @@ The Difficulty Class of an ability check represents the task’s difficulty. The
 Table: Typical Difficulty Classes
 
 | Task Difficulty   | DC |
-|-------------------|----|
+|---|---|
 | Very easy         | 5  |
 | Easy              | 10 |
 | Medium            | 15 |
@@ -141,7 +141,7 @@ Saving throws are named for the ability modifiers they use: a Constitution savin
 Table: Saving Throw Examples
 
 | Ability      | Make a Save To …               |
-|--------------|--------------------------------|
+|---|---|
 | Strength     | Physically resist direct force |
 | Dexterity    | Dodge out of harm’s way        |
 | Constitution | Endure a toxic hazard          |
@@ -168,7 +168,7 @@ The Attack Roll Abilities table shows which ability modifier to use for differen
 Table: Attack Roll Abilities
 
 | Ability      | Attack Type                                                                                                       |
-|--------------|-------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Strength     | Melee attack with a weapon or an Unarmed Strike (see “Rules Glossary”)                                            |
 | Dexterity    | Ranged attack with a weapon                                                                                       |
 | Varies       | Spell attack (the ability used is determined by the spellcaster’s spellcasting feature, as explained in “Spells”) |
@@ -238,7 +238,7 @@ This bonus is applied to a D20 Test when the creature has proficiency in a skill
 Table: Proficiency Bonus
 
 | Level or CR | Bonus |
-|-------------|-------|
+|---|---|
 | Up to 4     | +2    |
 | 5–8         | +3    |
 | 9–12        | +4    |
@@ -263,7 +263,7 @@ If a creature is proficient in a skill, the creature applies its Proficiency Bon
 Table: Skills
 
 | Skill           | Ability      | Example Uses                                                              |
-|-----------------|--------------|---------------------------------------------------------------------------|
+|---|---|---|
 | Acrobatics      | Dexterity    | Stay on your feet in a tricky situation, or perform an acrobatic stunt.   |
 | Animal Handling | Wisdom       | Calm or train an animal, or get an animal to behave in a certain way.     |
 | Arcana          | Intelligence | Recall lore about spells, magic items, and the planes of existence.       |
@@ -312,7 +312,7 @@ When you do something other than moving or communicating, you typically take an 
 Table: Actions
 
 | Action    | Summary |
-|-----------|-----------------------------------------------------------------------------------|
+|---|---|
 | Attack    | Attack with a weapon or an Unarmed Strike.                                        |
 | Dash      | For the rest of the turn, give yourself extra movement equal to your Speed.       |
 | Disengage | Your movement doesn’t provoke Opportunity Attacks for the rest of the turn.       |
@@ -471,7 +471,7 @@ While traveling outside combat, a group can move at a Fast, Normal, or Slow pace
 Table: Travel Pace - Distance Traveled Per …
 
 | Pace   | Minute   | Hour    | Day      |
-|--------|----------|---------|----------|
+|---|---|---|---|
 | Fast   | 400 feet | 4 miles | 30 miles |
 | Normal | 300 feet | 3 miles | 24 miles |
 | Slow   | 200 feet | 2 miles | 18 miles |
@@ -585,7 +585,7 @@ A character’s size is determined by species, and a monster’s size is specifi
 Table: Creature Size and Space
 
 | Size       | Space (Feet)  | Space (Squares)     |
-|------------|---------------|---------------------|
+|---|---|---|
 | Tiny       | 2½ by 2½ feet | 4 per square        |
 | Small      | 5 by 5 feet   | 1 square            |
 | Medium     | 5 by 5 feet   | 1 square            |
@@ -627,7 +627,7 @@ A target can benefit from cover only when an attack or other effect originates o
 Table: Cover
 
 | Degree         | Benefit to Target                          | Offered By … |
-|----------------|--------------------------------------------|--------------|
+|---|---|---|
 | Half           | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
 | Three Quarters | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
 | Total          | Can’t be targeted directly                 | An object that covers the whole target |

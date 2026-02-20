@@ -3,7 +3,7 @@
 Table: Core Paladin Traits
 
 |                               |                                                                                     |
-|-------------------------------|-------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d10 per Paladin level                                                              |
 | Hit Points at 1st Level       | 10 + your Constitution modifier                                                    |
 | Hit Points at Higher Levels   | 1d10 (or 6) + your Constitution modifier per Paladin level after 1st                |
@@ -25,7 +25,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Paladin Features
 
 | Level | Proficiency Bonus | Features                                   | 1   | 2   | 3   | 4   | 5   |
-|-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
+|---|---|---|---|---|---|---|---|
 | 1     | +2                | Divine Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
 | 2     | +2                | Fighting Style, Spellcasting, Divine Smite | 2   | -   | -   | -   | -   |
 | 3     | +2                | Divine Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
@@ -194,7 +194,7 @@ You gain oath spells at the paladin levels listed.
 Table: Oath of Devotion Spells
 
 | Level | Paladin Spells                           |
-|-------|------------------------------------------|
+|---|---|
 | 3     | protection from evil and good, sanctuary |
 | 5     | lesser restoration, zone of truth        |
 | 9     | beacon of hope, dispel magic             |

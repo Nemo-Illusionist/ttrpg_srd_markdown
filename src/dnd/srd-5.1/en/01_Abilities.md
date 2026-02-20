@@ -24,7 +24,7 @@ Each ability also has a modifier, derived from the score and ranging from -5 (fo
 Table: Ability Scores and Modifiers
 
 | Score | Modifier |
-|-------|----------|
+|---|---|
 | 1     | -5       |
 | 2-3   | -4       |
 | 4-5   | -3       |
@@ -81,7 +81,7 @@ The more difficult a task, the higher its DC. The Typical Difficulty Classes tab
 Table: Difficulty Classes
 
 | Task Difficulty   | DC |
-|-------------------|----|
+|---|---|
 | Very easy         | 5  |
 | Easy              | 10 |
 | Medium            | 15 |
@@ -110,7 +110,7 @@ The skills related to each ability score are shown in the following list. (No sk
 Table: Related Skills
 
 | Strength  | Dexterity       | Intelligence  | Wisdom          | Charisma     |
-|-----------|-----------------|---------------|-----------------|--------------|
+|---|---|---|---|---|
 | Athletics | Acrobatics      | Arcana        | Animal Handling | Deception    |
 |           | Sleight of Hand | History       | Insight         | Intimidation |
 |           | Stealth         | Investigation | Medicine        | Performance  |

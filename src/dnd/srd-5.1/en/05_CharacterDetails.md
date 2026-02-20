@@ -91,7 +91,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 Table: Suggested Acolyte Characteristics
 
 | d8     | Personality Trait                                                                                                          |
-|--------|----------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 1      | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example.                          |
 | 2      | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.              |
 | 3      | I see omens in every event and action. The gods try to speak to us, we just need to listen                                 |
@@ -149,7 +149,7 @@ Some of these languages are actually families of languages with many dialects. F
 Table: Standard Languages
 
 | Language | Typical Speakers | Script   |
-|----------|------------------|----------|
+|---|---|---|
 | Common   | Humans           | Common   |
 | Dwarvish | Dwarves          | Dwarvish |
 | Elvish   | Elves            | Elvish   |
@@ -162,7 +162,7 @@ Table: Standard Languages
 Table: Exotic Languages
 
 | Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
+|---|---|---|
 | Abyssal     | Demons              | Infernal  |
 | Celestial   | Celestials          | Celestial |
 | Draconic    | Dragons, dragonborn | Draconic  |
@@ -187,7 +187,7 @@ The Character Advancement table summarizes the XP you need to advance in levels 
 Table: Character Advancement
 
 | Experience Points Required | Level | Prof. Bonus |
-| :------------------------- | ----- | ----------- |
+|:---|---|---|
 | 0                          | 1     | +2          |
 | 300                        | 2     | +2          |
 | 900                        | 3     | +2          |

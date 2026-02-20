@@ -1,7 +1,7 @@
 ## Magic Items
 
 | Item | Type | Rarity | Attunement |
-|------|------|--------|------------|
+|---|---|---|---|
 | Adamantine Armor | Armor (medium or heavy, but not hide) | Uncommon |  |
 | Ammunition, +1, +2, or +3 | Weapon (any ammunition) | Uncommon (+1), rare (+2), or very rare (+3) |  |
 | Amulet of Health | Wondrous item | Rare | Yes |

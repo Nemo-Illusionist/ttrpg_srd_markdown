@@ -9,7 +9,7 @@ Reference terms for D&D SRD 5.2.
 ### Abbreviations
 
 | Abbr. | Full Term |
-|-------|-----------|
+|---|---|
 | AC | Armor Class |
 | C | Concentration |
 | CE | Chaotic Evil |
@@ -49,7 +49,7 @@ Reference terms for D&D SRD 5.2.
 ### Abilities
 
 | Ability | Abbreviation |
-|---------|-------------|
+|---|---|
 | Strength | Str |
 | Dexterity | Dex |
 | Constitution | Con |
@@ -62,7 +62,7 @@ Reference terms for D&D SRD 5.2.
 ### Tests and Rolls
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | D20 Test | Roll a d20 and add modifiers |
 | Ability Check | Test using an ability score |
 | Saving Throw | Resist an effect |
@@ -81,7 +81,7 @@ Reference terms for D&D SRD 5.2.
 ### Combat Actions
 
 | Action | Description |
-|--------|-------------|
+|---|---|
 | Attack | Make an attack |
 | Dash | Double movement |
 | Disengage | Avoid opportunity attacks |
@@ -100,7 +100,7 @@ Reference terms for D&D SRD 5.2.
 ### Combat
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Initiative | Determines turn order |
 | Turn | One creature's actions in a round |
 | Round | All creatures act once |
@@ -119,7 +119,7 @@ Reference terms for D&D SRD 5.2.
 ### Health and Damage
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Hit Points (HP) | Measure of vitality |
 | Hit Dice | Dice used to regain HP |
 | Temporary Hit Points | Buffer that absorbs damage |
@@ -136,7 +136,7 @@ Reference terms for D&D SRD 5.2.
 ### Damage Types
 
 | Type |
-|------|
+|---|
 | Acid |
 | Bludgeoning |
 | Cold |
@@ -156,7 +156,7 @@ Reference terms for D&D SRD 5.2.
 ### Conditions
 
 | Condition | Effect |
-|-----------|--------|
+|---|---|
 | Blinded | Cannot see |
 | Charmed | Cannot attack the charmer |
 | Deafened | Cannot hear |
@@ -178,7 +178,7 @@ Reference terms for D&D SRD 5.2.
 ### Magic
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Spell | Magical effect |
 | Cantrip | Level 0 spell |
 | Spell Slot | Resource to cast spells |
@@ -202,7 +202,7 @@ Reference terms for D&D SRD 5.2.
 ### Schools of Magic
 
 | School |
-|--------|
+|---|
 | Abjuration |
 | Conjuration |
 | Divination |
@@ -217,7 +217,7 @@ Reference terms for D&D SRD 5.2.
 ### Classes
 
 | Class |
-|-------|
+|---|
 | Barbarian |
 | Bard |
 | Cleric |
@@ -236,7 +236,7 @@ Reference terms for D&D SRD 5.2.
 ### Creature Types
 
 | Type |
-|------|
+|---|
 | Aberration |
 | Beast |
 | Celestial |
@@ -257,7 +257,7 @@ Reference terms for D&D SRD 5.2.
 ### Sizes
 
 | Size | Space |
-|------|-------|
+|---|---|
 | Tiny | 2.5 x 2.5 ft. |
 | Small | 5 x 5 ft. |
 | Medium | 5 x 5 ft. |
@@ -270,7 +270,7 @@ Reference terms for D&D SRD 5.2.
 ### Senses
 
 | Sense |
-|-------|
+|---|
 | Blindsight |
 | Darkvision |
 | Tremorsense |
@@ -281,7 +281,7 @@ Reference terms for D&D SRD 5.2.
 ### Speeds
 
 | Speed Type |
-|------------|
+|---|
 | Walking |
 | Burrow |
 | Climb |
@@ -293,7 +293,7 @@ Reference terms for D&D SRD 5.2.
 ### Skills
 
 | Skill | Ability |
-|-------|---------|
+|---|---|
 | Acrobatics | Dexterity |
 | Animal Handling | Wisdom |
 | Arcana | Intelligence |

@@ -3,7 +3,7 @@
 Table: Core Monk Traits
 
 |                               |                                                                                  |
-|-------------------------------|----------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d8 per Monk level                                                               |
 | Hit Points at 1st Level       | 8 + your Constitution modifier                                                  |
 | Hit Points at Higher Levels   | 1d8 (or 5) + your Constitution modifier per Monk level after 1st                |
@@ -24,7 +24,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Monk Features
 
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
-|-------|-------------------|--------------|-----------|--------------------|--------------------------------------------------|
+|---|---|---|---|---|---|
 | 1     | +2                | 1d4          | -         | -                  | Unarmored Defense, Martial Arts                  |
 | 2     | +2                | 1d4          | 2         | +10 ft.            | Ki, Unarmored Movement                           |
 | 3     | +2                | 1d4          | 3         | +10 ft.            | Monastic Tradition, Deflect Missiles             |

@@ -12,7 +12,7 @@
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   21   |   9    |   15   |   18   |   15   |   18   |
 |   MOD    |   +5   |   -1   |   +2   |   +4   |   +2   |   +4   |
 |   SAVE   |   +5   |   +3   |   +6   |   +8   |   +6   |   +4   |
@@ -62,7 +62,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   11   |   14   |   1    |   13   |   6    |
 |   MOD    |   +3   |   +0   |   +2   |   -5   |   +1   |   -2   |
 |   SAVE   |   +3   |   +0   |   +2   |   -5   |   +1   |   -2   |
@@ -90,7 +90,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +10 (20)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   11   |   18   |   14   |   16   |   11   |   10   |
 |   MOD    |   +0   |   +4   |   +2   |   +3   |   +0   |   +0   |
 |   SAVE   |   +0   |   +7   |   +2   |   +6   |   +0   |   +0   |
@@ -128,7 +128,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   12   |   12   |   2    |   10   |   5    |
 |   MOD    |   +2   |   +1   |   +1   |   -4   |   +0   |   -3   |
 |   SAVE   |   +2   |   +1   |   +1   |   -4   |   +0   |   -3   |
@@ -150,7 +150,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   12   |   15   |   12   |   13   |   10   |
 |   MOD    |   +3   |   +1   |   +2   |   +1   |   +1   |   +0   |
 |   SAVE   |   +3   |   +1   |   +4   |   +1   |   +1   |   +0   |
@@ -182,7 +182,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   18   |   18   |   17   |   20   |   20   |
 |   MOD    |   +4   |   +4   |   +4   |   +3   |   +5   |   +5   |
 |   SAVE   |   +4   |   +4   |   +4   |   +3   |   +9   |   +9   |
@@ -225,7 +225,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +10 (20)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   24   |   20   |   24   |   19   |   22   |   25   |
 |   MOD    |   +7   |   +5   |   +7   |   +4   |   +6   |   +7   |
 |   SAVE   |  +12   |   +5   |  +12   |   +4   |  +11   |  +12   |
@@ -272,7 +272,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +20 (30)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   26   |   22   |   26   |   25   |   25   |   30   |
 |   MOD    |   +8   |   +6   |   +8   |   +7   |   +7   |  +10   |
 |   SAVE   |   +8   |   +6   |   +8   |   +7   |   +7   |  +10   |
@@ -328,7 +328,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   11   |   13   |   1    |   3    |   1    |
 |   MOD    |   +2   |   +0   |   +1   |   -5   |   -4   |   -5   |
 |   SAVE   |   +2   |   +0   |   +1   |   -5   |   -4   |   -5   |
@@ -353,7 +353,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   12   |   15   |   11   |   1    |   5    |   1    |
 |   MOD    |   +1   |   +2   |   +0   |   -5   |   -3   |   -5   |
 |   SAVE   |   +1   |   +4   |   +0   |   -5   |   -3   |   -5   |
@@ -376,7 +376,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   14   |   10   |   1    |   3    |   1    |
 |   MOD    |   +3   |   +2   |   +0   |   -5   |   -4   |   -5   |
 |   SAVE   |   +3   |   +2   |   +0   |   -5   |   -4   |   -5   |
@@ -402,7 +402,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   3    |   8    |   11   |   10   |   10   |   6    |
 |   MOD    |   -4   |   -1   |   +0   |   +0   |   +0   |   -2   |
 |   SAVE   |   -4   |   -1   |   +0   |   +0   |   +0   |   -2   |
@@ -427,7 +427,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Initiative:** -2 (8)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   6    |   15   |   10   |   10   |   7    |
 |   MOD    |   +4   |   -2   |   +2   |   +0   |   +0   |   -2   |
 |   SAVE   |   +4   |   -2   |   +2   |   +0   |   +0   |   -2   |
@@ -454,7 +454,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   8    |   15   |   2    |   8    |   7    |
 |   MOD    |   +3   |   -1   |   +2   |   -4   |   -1   |   -2   |
 |   SAVE   |   +3   |   -1   |   +2   |   -4   |   -1   |   -2   |
@@ -480,7 +480,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   16   |   18   |   7    |   14   |   12   |
 |   MOD    |   +6   |   +3   |   +4   |   -2   |   +2   |   +1   |
 |   SAVE   |   +6   |   +3   |   +4   |   -2   |   +2   |   +1   |
@@ -516,7 +516,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   12   |   17   |   12   |   10   |   13   |   11   |
 |   MOD    |   +1   |   +3   |   +1   |   +0   |   +1   |   +0   |
 |   SAVE   |   +1   |   +3   |   +1   |   +0   |   +1   |   +0   |
@@ -544,7 +544,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   11   |   21   |   2    |   10   |   5    |
 |   MOD    |   +4   |   +0   |   +5   |   -4   |   +0   |   -3   |
 |   SAVE   |   +4   |   +0   |   +5   |   -4   |   +0   |   -3   |
@@ -577,7 +577,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   11   |   12   |   12   |   10   |   10   |   10   |
 |   MOD    |   +0   |   +1   |   +1   |   +0   |   +0   |   +0   |
 |   SAVE   |   +0   |   +1   |   +1   |   +0   |   +0   |   +0   |
@@ -603,7 +603,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   16   |   14   |   14   |   11   |   14   |
 |   MOD    |   +2   |   +3   |   +2   |   +2   |   +0   |   +2   |
 |   SAVE   |   +4   |   +5   |   +2   |   +2   |   +2   |   +2   |
@@ -634,7 +634,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   14   |   14   |   11   |   12   |   11   |
 |   MOD    |   +3   |   +2   |   +2   |   +0   |   +1   |   +0   |
 |   SAVE   |   +3   |   +2   |   +4   |   +0   |   +3   |   +0   |
@@ -671,7 +671,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   14   |   13   |   8    |   11   |   9    |
 |   MOD    |   +2   |   +2   |   +1   |   -1   |   +0   |   -1   |
 |   SAVE   |   +2   |   +2   |   +1   |   -1   |   +0   |   -1   |
@@ -704,7 +704,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   14   |   14   |   9    |   13   |   11   |
 |   MOD    |   +4   |   +2   |   +2   |   -1   |   +1   |   +0   |
 |   SAVE   |   +4   |   +2   |   +2   |   -1   |   +1   |   +0   |
@@ -737,7 +737,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   11   |   19   |   3    |   14   |   10   |
 |   MOD    |   +4   |   +0   |   +4   |   -4   |   +2   |   +0   |
 |   SAVE   |   +4   |   +0   |   +4   |   -4   |   +2   |   +0   |
@@ -769,7 +769,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   10   |   16   |   5    |   11   |   5    |
 |   MOD    |   +4   |   +0   |   +3   |   -3   |   +0   |   -3   |
 |   SAVE   |   +4   |   +0   |   +3   |   -3   |   +0   |   -3   |
@@ -804,7 +804,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   15   |   12   |   13   |   14   |   7    |
 |   MOD    |   +3   |   +2   |   +1   |   +1   |   +2   |   -2   |
 |   SAVE   |   +3   |   +2   |   +1   |   +1   |   +2   |   -2   |
@@ -844,7 +844,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   6    |   12   |   12   |   2    |   13   |   5    |
 |   MOD    |   -2   |   +1   |   +1   |   -4   |   +1   |   -3   |
 |   SAVE   |   -2   |   +1   |   +1   |   -4   |   +1   |   -3   |
@@ -867,7 +867,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   10   |   10   |   10   |   10   |   10   |
 |   MOD    |   +0   |   +0   |   +0   |   +0   |   +0   |   +0   |
 |   SAVE   |   +0   |   +0   |   +0   |   +0   |   +0   |   +0   |
@@ -895,7 +895,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   20   |   17   |   18   |   20   |   18   |
 |   MOD    |   +3   |   +5   |   +3   |   +4   |   +5   |   +4   |
 |   SAVE   |   +3   |   +5   |   +5   |   +4   |   +7   |   +4   |
@@ -937,7 +937,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   11   |   12   |   10   |   10   |   11   |   10   |
 |   MOD    |   +0   |   +1   |   +0   |   +0   |   +0   |   +0   |
 |   SAVE   |   +0   |   +1   |   +0   |   +0   |   +2   |   +0   |
@@ -962,7 +962,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   11   |   14   |   12   |   10   |   14   |   13   |
 |   MOD    |   +0   |   +2   |   +1   |   +0   |   +2   |   +1   |
 |   SAVE   |   +0   |   +2   |   +1   |   +0   |   +4   |   +1   |
@@ -999,7 +999,7 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   12   |   13   |   2    |   10   |   5    |
 |   MOD    |   +3   |   +1   |   +1   |   -4   |   +0   |   -3   |
 |   SAVE   |   +3   |   +1   |   +1   |   -4   |   +0   |   -3   |
@@ -1026,7 +1026,7 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   14   |   14   |   3    |   13   |   6    |
 |   MOD    |   +2   |   +2   |   +2   |   -4   |   +1   |   -2   |
 |   SAVE   |   +2   |   +2   |   +2   |   -4   |   +1   |   -2   |
@@ -1052,7 +1052,7 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   21   |   15   |   22   |   15   |   16   |   20   |
 |   MOD    |   +5   |   +2   |   +6   |   +2   |   +3   |   +5   |
 |   SAVE   |   +5   |   +6   |   +6   |   +2   |   +7   |   +5   |
@@ -1097,7 +1097,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   11   |   18   |   14   |   11   |   12   |   14   |
 |   MOD    |   +0   |   +4   |   +2   |   +0   |   +1   |   +2   |
 |   SAVE   |   +0   |   +4   |   +2   |   +0   |   +1   |   +2   |
@@ -1134,7 +1134,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   25   |   10   |   20   |   10   |   12   |   12   |
 |   MOD    |   +7   |   +0   |   +5   |   +0   |   +1   |   +1   |
 |   SAVE   |   +7   |   +0   |  +11   |   +0   |   +7   |   +1   |
@@ -1168,7 +1168,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   19   |   18   |   13   |   16   |   12   |
 |   MOD    |   +3   |   +4   |   +4   |   +1   |   +3   |   +1   |
 |   SAVE   |   +3   |   +4   |   +4   |   +1   |   +3   |   +1   |
@@ -1208,7 +1208,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   12   |   11   |   14   |   15   |   18   |
 |   MOD    |   +0   |   +1   |   +0   |   +2   |   +2   |   +4   |
 |   SAVE   |   +0   |   +1   |   +0   |   +2   |   +2   |   +4   |
@@ -1253,7 +1253,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +14 (24)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   26   |   15   |   22   |   20   |   16   |   22   |
 |   MOD    |   +8   |   +2   |   +6   |   +5   |   +3   |   +6   |
 |   SAVE   |   +8   |   +2   |  +12   |   +5   |   +9   |   +6   |
@@ -1297,7 +1297,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   12   |   11   |   12   |   5    |   8    |   3    |
 |   MOD    |   +1   |   +0   |   +1   |   -3   |   -1   |   -4   |
 |   SAVE   |   +1   |   +0   |   +1   |   -3   |   -1   |   -4   |
@@ -1324,7 +1324,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   20   |   15   |   21   |   19   |   17   |   16   |
 |   MOD    |   +5   |   +2   |   +5   |   +4   |   +3   |   +3   |
 |   SAVE   |   +9   |   +2   |   +9   |   +4   |   +7   |   +7   |
@@ -1365,7 +1365,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   17   |   20   |   5    |   12   |   13   |
 |   MOD    |   +4   |   +3   |   +5   |   -3   |   +1   |   +1   |
 |   SAVE   |   +7   |   +3   |   +8   |   -3   |   +4   |   +1   |
@@ -1404,7 +1404,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +10 (20)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   20   |   20   |   18   |   16   |   20   |
 |   MOD    |   +4   |   +5   |   +5   |   +4   |   +3   |   +5   |
 |   SAVE   |   +9   |   +5   |  +10   |   +4   |   +8   |  +10   |
@@ -1446,7 +1446,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   21   |   10   |   22   |   19   |   12   |   15   |
 |   MOD    |   +5   |   +0   |   +6   |   +4   |   +1   |   +2   |
 |   SAVE   |   +5   |   +0   |  +11   |   +9   |   +6   |   +7   |
@@ -1485,7 +1485,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   5    |   17   |   10   |   7    |   10   |   10   |
 |   MOD    |   -3   |   +3   |   +0   |   -2   |   +0   |   +0   |
 |   SAVE   |   -3   |   +3   |   +0   |   -2   |   +0   |   +0   |
@@ -1523,7 +1523,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   15   |   18   |   8    |   13   |   8    |
 |   MOD    |   +3   |   +2   |   +4   |   -1   |   +1   |   -1   |
 |   SAVE   |   +3   |   +5   |   +4   |   -1   |   +4   |   +2   |
@@ -1562,7 +1562,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   17   |   18   |   12   |   14   |   14   |
 |   MOD    |   +3   |   +3   |   +4   |   +1   |   +2   |   +2   |
 |   SAVE   |   +6   |   +3   |   +7   |   +1   |   +5   |   +5   |
@@ -1602,7 +1602,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   15   |   15   |   9    |   11   |   14   |
 |   MOD    |   +3   |   +2   |   +2   |   -1   |   +0   |   +2   |
 |   SAVE   |   +5   |   +2   |   +4   |   -1   |   +0   |   +4   |
@@ -1635,7 +1635,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +7 (17)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   16   |   18   |   13   |   14   |   16   |
 |   MOD    |   +4   |   +3   |   +4   |   +1   |   +2   |   +3   |
 |   SAVE   |   +8   |   +3   |   +4   |   +5   |   +6   |   +7   |
@@ -1671,7 +1671,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   15   |   18   |   11   |   12   |   14   |
 |   MOD    |   +4   |   +2   |   +4   |   +0   |   +1   |   +2   |
 |   SAVE   |   +4   |   +2   |   +7   |   +0   |   +4   |   +2   |
@@ -1706,7 +1706,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +7 (17)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   16   |   18   |   14   |   14   |   18   |
 |   MOD    |   +4   |   +3   |   +4   |   +2   |   +2   |   +4   |
 |   SAVE   |   +4   |   +7   |   +8   |   +2   |   +2   |   +8   |
@@ -1744,7 +1744,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +7 (17)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   22   |   17   |   21   |   12   |   16   |   18   |
 |   MOD    |   +6   |   +3   |   +5   |   +1   |   +3   |   +4   |
 |   SAVE   |  +10   |   +7   |   +5   |   +1   |   +7   |   +8   |
@@ -1780,7 +1780,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +7 (17)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   21   |   14   |   18   |   18   |   15   |   18   |
 |   MOD    |   +5   |   +2   |   +4   |   +4   |   +2   |   +4   |
 |   SAVE   |   +5   |   +7   |   +9   |   +4   |   +7   |   +9   |
@@ -1819,7 +1819,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   6    |   17   |   13   |   11   |   12   |   14   |
 |   MOD    |   -2   |   +3   |   +1   |   +0   |   +1   |   +2   |
 |   SAVE   |   -2   |   +3   |   +1   |   +0   |   +1   |   +2   |
@@ -1855,7 +1855,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** -3 (7)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   5    |   11   |   1    |   11   |   3    |
 |   MOD    |   +0   |   -3   |   +0   |   -5   |   +0   |   -4   |
 |   SAVE   |   +0   |   -3   |   +0   |   -5   |   +0   |   -4   |
@@ -1884,7 +1884,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +14 (24)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   26   |   14   |   24   |   22   |   18   |   24   |
 |   MOD    |   +8   |   +2   |   +7   |   +6   |   +4   |   +7   |
 |   SAVE   |   +8   |   +8   |   +7   |   +6   |  +10   |   +7   |
@@ -1932,7 +1932,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   14   |   13   |   10   |   11   |   13   |
 |   MOD    |   +2   |   +2   |   +1   |   +0   |   +0   |   +1   |
 |   SAVE   |   +2   |   +4   |   +1   |   +0   |   +2   |   +1   |
@@ -1965,7 +1965,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   14   |   17   |   12   |   11   |   15   |
 |   MOD    |   +4   |   +2   |   +3   |   +1   |   +0   |   +2   |
 |   SAVE   |   +4   |   +5   |   +3   |   +1   |   +3   |   +2   |
@@ -1998,7 +1998,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   14   |   21   |   14   |   13   |   19   |
 |   MOD    |   +6   |   +2   |   +5   |   +2   |   +1   |   +4   |
 |   SAVE   |   +6   |   +7   |   +5   |   +2   |   +6   |   +4   |
@@ -2046,7 +2046,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   27   |   14   |   25   |   16   |   15   |   22   |
 |   MOD    |   +8   |   +2   |   +7   |   +3   |   +2   |   +6   |
 |   SAVE   |   +8   |   +9   |   +7   |   +3   |   +9   |   +6   |
@@ -2094,7 +2094,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   10   |   15   |   12   |   11   |   15   |
 |   MOD    |   +3   |   +0   |   +2   |   +1   |   +0   |   +2   |
 |   SAVE   |   +3   |   +2   |   +2   |   +1   |   +2   |   +2   |
@@ -2123,7 +2123,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   21   |   10   |   19   |   14   |   13   |   17   |
 |   MOD    |   +5   |   +0   |   +4   |   +2   |   +1   |   +3   |
 |   SAVE   |   +5   |   +4   |   +4   |   +2   |   +5   |   +3   |
@@ -2152,7 +2152,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   25   |   10   |   23   |   16   |   15   |   20   |
 |   MOD    |   +7   |   +0   |   +6   |   +3   |   +2   |   +5   |
 |   SAVE   |   +7   |   +5   |   +6   |   +3   |   +7   |   +5   |
@@ -2198,7 +2198,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   29   |   10   |   27   |   18   |   17   |   25   |
 |   MOD    |   +9   |   +0   |   +8   |   +4   |   +3   |   +7   |
 |   SAVE   |   +9   |   +7   |   +8   |   +4   |  +10   |   +7   |
@@ -2244,7 +2244,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   10   |   13   |   10   |   11   |   13   |
 |   MOD    |   +2   |   +0   |   +1   |   +0   |   +0   |   +1   |
 |   SAVE   |   +2   |   +2   |   +1   |   +0   |   +2   |   +1   |
@@ -2273,7 +2273,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   10   |   17   |   12   |   11   |   15   |
 |   MOD    |   +4   |   +0   |   +3   |   +1   |   +0   |   +2   |
 |   SAVE   |   +4   |   +3   |   +3   |   +1   |   +3   |   +2   |
@@ -2304,7 +2304,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   10   |   21   |   14   |   13   |   17   |
 |   MOD    |   +6   |   +0   |   +5   |   +2   |   +1   |   +3   |
 |   SAVE   |   +6   |   +5   |   +5   |   +2   |   +6   |   +3   |
@@ -2352,7 +2352,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   27   |   10   |   25   |   16   |   15   |   22   |
 |   MOD    |   +8   |   +0   |   +7   |   +3   |   +2   |   +6   |
 |   SAVE   |   +8   |   +6   |   +7   |   +3   |   +8   |   +6   |
@@ -2400,7 +2400,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   10   |   15   |   12   |   11   |   15   |
 |   MOD    |   +3   |   +0   |   +2   |   +1   |   +0   |   +2   |
 |   SAVE   |   +3   |   +2   |   +2   |   +1   |   +2   |   +2   |
@@ -2435,7 +2435,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   21   |   10   |   19   |   14   |   13   |   17   |
 |   MOD    |   +5   |   +0   |   +4   |   +2   |   +1   |   +3   |
 |   SAVE   |   +5   |   +3   |   +4   |   +2   |   +4   |   +3   |
@@ -2470,7 +2470,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   25   |   10   |   23   |   16   |   15   |   20   |
 |   MOD    |   +7   |   +0   |   +6   |   +3   |   +2   |   +5   |
 |   SAVE   |   +7   |   +5   |   +6   |   +3   |   +7   |   +5   |
@@ -2520,7 +2520,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   29   |   10   |   27   |   18   |   17   |   25   |
 |   MOD    |   +9   |   +0   |   +8   |   +4   |   +3   |   +7   |
 |   SAVE   |   +9   |   +7   |   +8   |   +4   |  +10   |   +7   |
@@ -2570,7 +2570,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   12   |   13   |   14   |   11   |   13   |
 |   MOD    |   +2   |   +1   |   +1   |   +2   |   +0   |   +1   |
 |   SAVE   |   +2   |   +3   |   +1   |   +2   |   +2   |   +1   |
@@ -2599,7 +2599,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   12   |   17   |   16   |   13   |   15   |
 |   MOD    |   +4   |   +1   |   +3   |   +3   |   +1   |   +2   |
 |   SAVE   |   +4   |   +4   |   +3   |   +3   |   +4   |   +2   |
@@ -2630,7 +2630,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   12   |   21   |   18   |   15   |   18   |
 |   MOD    |   +6   |   +1   |   +5   |   +4   |   +2   |   +4   |
 |   SAVE   |   +6   |   +6   |   +5   |   +4   |   +7   |   +4   |
@@ -2678,7 +2678,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   27   |   12   |   25   |   20   |   17   |   22   |
 |   MOD    |   +8   |   +1   |   +7   |   +5   |   +3   |   +6   |
 |   SAVE   |   +8   |   +8   |   +7   |   +5   |  +10   |   +6   |
@@ -2726,7 +2726,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   14   |   17   |   14   |   11   |   16   |
 |   MOD    |   +4   |   +2   |   +3   |   +2   |   +0   |   +3   |
 |   SAVE   |   +4   |   +4   |   +3   |   +2   |   +2   |   +3   |
@@ -2761,7 +2761,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   14   |   21   |   16   |   13   |   20   |
 |   MOD    |   +6   |   +2   |   +5   |   +3   |   +1   |   +5   |
 |   SAVE   |   +6   |   +6   |   +5   |   +3   |   +5   |   +5   |
@@ -2796,7 +2796,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   27   |   14   |   25   |   16   |   15   |   24   |
 |   MOD    |   +8   |   +2   |   +7   |   +3   |   +2   |   +7   |
 |   SAVE   |   +8   |   +8   |   +7   |   +3   |   +8   |   +7   |
@@ -2846,7 +2846,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   30   |   14   |   29   |   18   |   17   |   28   |
 |   MOD    |  +10   |   +2   |   +9   |   +4   |   +3   |   +9   |
 |   SAVE   |  +10   |   +9   |   +9   |   +4   |  +10   |   +9   |
@@ -2896,7 +2896,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   12   |   13   |   14   |   11   |   13   |
 |   MOD    |   +2   |   +1   |   +1   |   +2   |   +0   |   +1   |
 |   SAVE   |   +2   |   +3   |   +1   |   +2   |   +2   |   +1   |
@@ -2929,7 +2929,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   12   |   17   |   16   |   13   |   15   |
 |   MOD    |   +4   |   +1   |   +3   |   +3   |   +1   |   +2   |
 |   SAVE   |   +4   |   +4   |   +3   |   +3   |   +4   |   +2   |
@@ -2962,7 +2962,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   12   |   21   |   18   |   15   |   18   |
 |   MOD    |   +6   |   +1   |   +5   |   +4   |   +2   |   +4   |
 |   SAVE   |   +6   |   +6   |   +5   |   +4   |   +7   |   +4   |
@@ -3010,7 +3010,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   27   |   12   |   25   |   20   |   17   |   22   |
 |   MOD    |   +8   |   +1   |   +7   |   +5   |   +3   |   +6   |
 |   SAVE   |   +8   |   +8   |   +7   |   +5   |  +10   |   +6   |
@@ -3058,7 +3058,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   10   |   17   |   12   |   11   |   15   |
 |   MOD    |   +4   |   +0   |   +3   |   +1   |   +0   |   +2   |
 |   SAVE   |   +4   |   +2   |   +3   |   +1   |   +2   |   +2   |
@@ -3087,7 +3087,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   10   |   21   |   14   |   11   |   19   |
 |   MOD    |   +6   |   +0   |   +5   |   +2   |   +0   |   +4   |
 |   SAVE   |   +6   |   +4   |   +5   |   +2   |   +4   |   +4   |
@@ -3116,7 +3116,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   27   |   10   |   25   |   16   |   13   |   23   |
 |   MOD    |   +8   |   +0   |   +7   |   +3   |   +1   |   +6   |
 |   SAVE   |   +8   |   +6   |   +7   |   +3   |   +7   |   +6   |
@@ -3162,7 +3162,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   30   |   10   |   29   |   18   |   15   |   27   |
 |   MOD    |  +10   |   +0   |   +9   |   +4   |   +2   |   +8   |
 |   SAVE   |  +10   |   +7   |   +9   |   +4   |   +9   |   +8   |
@@ -3208,7 +3208,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   10   |   17   |   12   |   11   |   15   |
 |   MOD    |   +4   |   +0   |   +3   |   +1   |   +0   |   +2   |
 |   SAVE   |   +4   |   +2   |   +3   |   +1   |   +2   |   +2   |
@@ -3239,7 +3239,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   10   |   21   |   14   |   11   |   19   |
 |   MOD    |   +6   |   +0   |   +5   |   +2   |   +0   |   +4   |
 |   SAVE   |   +6   |   +4   |   +5   |   +2   |   +4   |   +4   |
@@ -3270,7 +3270,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   27   |   10   |   25   |   16   |   13   |   22   |
 |   MOD    |   +8   |   +0   |   +7   |   +3   |   +1   |   +6   |
 |   SAVE   |   +8   |   +5   |   +7   |   +3   |   +6   |   +6   |
@@ -3318,7 +3318,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   30   |   10   |   29   |   18   |   15   |   26   |
 |   MOD    |  +10   |   +0   |   +9   |   +4   |   +2   |   +8   |
 |   SAVE   |  +10   |   +7   |   +9   |   +4   |   +9   |   +8   |
@@ -3366,7 +3366,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   10   |   14   |   5    |   10   |   11   |
 |   MOD    |   +2   |   +0   |   +2   |   -3   |   +0   |   +0   |
 |   SAVE   |   +2   |   +2   |   +2   |   -3   |   +2   |   +0   |
@@ -3399,7 +3399,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   10   |   18   |   6    |   11   |   12   |
 |   MOD    |   +4   |   +0   |   +4   |   -2   |   +0   |   +1   |
 |   SAVE   |   +4   |   +3   |   +4   |   -2   |   +3   |   +1   |
@@ -3432,7 +3432,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   22   |   10   |   22   |   8    |   12   |   12   |
 |   MOD    |   +6   |   +0   |   +6   |   -1   |   +1   |   +1   |
 |   SAVE   |   +6   |   +5   |   +6   |   -1   |   +6   |   +1   |
@@ -3475,7 +3475,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   26   |   10   |   26   |   10   |   13   |   18   |
 |   MOD    |   +8   |   +0   |   +8   |   +0   |   +1   |   +4   |
 |   SAVE   |   +8   |   +6   |   +8   |   +0   |   +7   |   +4   |
@@ -3520,7 +3520,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   22   |   12   |   24   |   16   |   15   |   19   |
 |   MOD    |   +6   |   +1   |   +7   |   +3   |   +2   |   +4   |
 |   SAVE   |   +6   |   +1   |   +7   |   +3   |   +6   |   +8   |
@@ -3561,7 +3561,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   15   |   13   |   7    |   12   |   8    |
 |   MOD    |   +2   |   +2   |   +1   |   -2   |   +1   |   -1   |
 |   SAVE   |   +2   |   +2   |   +1   |   -2   |   +1   |   -1   |
@@ -3600,7 +3600,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   21   |   8    |   17   |   6    |   10   |   8    |
 |   MOD    |   +5   |   -1   |   +3   |   -2   |   +0   |   -1   |
 |   SAVE   |   +5   |   -1   |   +3   |   -2   |   +0   |   -1   |
@@ -3632,7 +3632,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   20   |   14   |   6    |   10   |   6    |
 |   MOD    |   +2   |   +5   |   +2   |   -2   |   +0   |   -2   |
 |   SAVE   |   +2   |   +5   |   +2   |   -2   |   +0   |   -2   |
@@ -3665,7 +3665,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   20   |   8    |   20   |   5    |   10   |   5    |
 |   MOD    |   +5   |   -1   |   +5   |   -3   |   +0   |   -3   |
 |   SAVE   |   +5   |   -1   |   +5   |   -3   |   +0   |   -3   |
@@ -3700,7 +3700,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   17   |   16   |   6    |   10   |   7    |
 |   MOD    |   +0   |   +3   |   +3   |   -2   |   +0   |   -2   |
 |   SAVE   |   +0   |   +3   |   +3   |   -2   |   +0   |   -2   |
@@ -3737,7 +3737,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   14   |   18   |   5    |   10   |   8    |
 |   MOD    |   +4   |   +2   |   +4   |   -3   |   +0   |   -1   |
 |   SAVE   |   +4   |   +2   |   +4   |   -3   |   +0   |   -1   |
@@ -3774,7 +3774,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** -5 (5)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   1    |   1    |   10   |   1    |   3    |   1    |
 |   MOD    |   -5   |   -5   |   +0   |   -5   |   -4   |   -5   |
 |   SAVE   |   -5   |   -5   |   +0   |   -5   |   -4   |   -5   |
@@ -3793,7 +3793,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** -5 (5)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   3    |   1    |   10   |   1    |   3    |   1    |
 |   MOD    |   -4   |   -5   |   +0   |   -5   |   -4   |   -5   |
 |   SAVE   |   -4   |   -5   |   +0   |   -5   |   -4   |   -5   |
@@ -3820,7 +3820,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   11   |   16   |   6    |   11   |   7    |
 |   MOD    |   +2   |   +0   |   +3   |   -2   |   +0   |   -2   |
 |   SAVE   |   +2   |   +0   |   +3   |   -2   |   +0   |   -2   |
@@ -3851,7 +3851,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   17   |   10   |   11   |   10   |   8    |
 |   MOD    |   +3   |   +3   |   +0   |   +0   |   +0   |   -1   |
 |   SAVE   |   +3   |   +3   |   +0   |   +0   |   +2   |   -1   |
@@ -3882,7 +3882,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   7    |   13   |   10   |   10   |   12   |   17   |
 |   MOD    |   -2   |   +1   |   +0   |   +0   |   +1   |   +3   |
 |   SAVE   |   -2   |   +1   |   +0   |   +0   |   +1   |   +3   |
@@ -3924,7 +3924,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   13   |   15   |   10   |   7    |   10   |   6    |
 |   MOD    |   +1   |   +2   |   +0   |   -2   |   +0   |   -2   |
 |   SAVE   |   +1   |   +2   |   +0   |   -2   |   +0   |   -2   |
@@ -3952,7 +3952,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   8    |   16   |   3    |   10   |   6    |
 |   MOD    |   +0   |   -1   |   +3   |   -4   |   +0   |   -2   |
 |   SAVE   |   +0   |   -1   |   +3   |   -4   |   +0   |   -2   |
@@ -3987,7 +3987,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   12   |   11   |   6    |   10   |   7    |
 |   MOD    |   +2   |   +1   |   +0   |   -2   |   +0   |   -2   |
 |   SAVE   |   +2   |   +1   |   +0   |   -2   |   +0   |   -2   |
@@ -4016,7 +4016,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   20   |   11   |   18   |   2    |   12   |   7    |
 |   MOD    |   +5   |   +0   |   +4   |   -4   |   +1   |   -2   |
 |   SAVE   |   +5   |   +0   |   +4   |   -4   |   +1   |   -2   |
@@ -4046,7 +4046,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   14   |   11   |   3    |   14   |   5    |
 |   MOD    |   +2   |   +2   |   +0   |   -4   |   +2   |   -3   |
 |   SAVE   |   +2   |   +2   |   +0   |   -4   |   +2   |   -3   |
@@ -4073,7 +4073,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   15   |   16   |   2    |   13   |   8    |
 |   MOD    |   +4   |   +2   |   +3   |   -4   |   +1   |   -1   |
 |   SAVE   |   +4   |   +2   |   +3   |   -4   |   +1   |   -1   |
@@ -4098,7 +4098,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   12   |   12   |   9    |   8    |   6    |
 |   MOD    |   +3   |   +1   |   +1   |   -1   |   -1   |   -2   |
 |   SAVE   |   +3   |   +1   |   +1   |   -1   |   -1   |   -2   |
@@ -4123,7 +4123,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   27   |   10   |   22   |   12   |   16   |   16   |
 |   MOD    |   +8   |   +0   |   +6   |   +1   |   +3   |   +3   |
 |   SAVE   |   +8   |   +0   |  +10   |   +1   |   +7   |   +3   |
@@ -4160,7 +4160,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   25   |   9    |   23   |   10   |   14   |   13   |
 |   MOD    |   +7   |   -1   |   +6   |   +0   |   +2   |   +1   |
 |   SAVE   |   +7   |   +3   |  +10   |   +0   |   +2   |   +5   |
@@ -4189,7 +4189,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   9    |   21   |   9    |   10   |   12   |
 |   MOD    |   +6   |   -1   |   +5   |   -1   |   +0   |   +1   |
 |   SAVE   |   +6   |   -1   |   +8   |   -1   |   +3   |   +4   |
@@ -4222,7 +4222,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   21   |   8    |   19   |   5    |   9    |   6    |
 |   MOD    |   +5   |   -1   |   +4   |   -3   |   -1   |   -2   |
 |   SAVE   |   +5   |   -1   |   +4   |   -3   |   -1   |   -2   |
@@ -4250,7 +4250,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   15   |   20   |   10   |   12   |   9    |
 |   MOD    |   +6   |   +2   |   +5   |   +0   |   +1   |   -1   |
 |   SAVE   |   +6   |   +5   |   +8   |   +0   |   +4   |   -1   |
@@ -4278,7 +4278,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +7 (17)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   29   |   14   |   20   |   16   |   20   |   18   |
 |   MOD    |   +9   |   +2   |   +5   |   +3   |   +5   |   +4   |
 |   SAVE   |  +14   |   +2   |  +10   |   +3   |  +10   |   +9   |
@@ -4321,7 +4321,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   15   |   10   |   10   |   8    |   10   |
 |   MOD    |   +0   |   +2   |   +0   |   +0   |   -1   |   +0   |
 |   SAVE   |   +0   |   +2   |   +0   |   +0   |   -1   |   +0   |
@@ -4354,7 +4354,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   8    |   15   |   10   |   10   |   8    |   8    |
 |   MOD    |   -1   |   +2   |   +0   |   +0   |   -1   |   -1   |
 |   SAVE   |   -1   |   +2   |   +0   |   +0   |   -1   |   -1   |
@@ -4383,7 +4383,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   8    |   15   |   10   |   10   |   8    |   8    |
 |   MOD    |   -1   |   +2   |   +0   |   +0   |   -1   |   -1   |
 |   SAVE   |   -1   |   +2   |   +0   |   +0   |   -1   |   -1   |
@@ -4416,7 +4416,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   20   |   9    |   18   |   3    |   8    |   1    |
 |   MOD    |   +5   |   -1   |   +4   |   -4   |   -1   |   -5   |
 |   SAVE   |   +5   |   -1   |   +4   |   -4   |   -1   |   -5   |
@@ -4457,7 +4457,7 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   9    |   18   |   6    |   10   |   5    |
 |   MOD    |   +4   |   -1   |   +4   |   -2   |   +0   |   -3   |
 |   SAVE   |   +4   |   -1   |   +4   |   -2   |   +0   |   -3   |
@@ -4496,7 +4496,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +9 (19)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   24   |   9    |   20   |   3    |   11   |   1    |
 |   MOD    |   +7   |   -1   |   +5   |   -4   |   +0   |   -5   |
 |   SAVE   |   +7   |   -1   |   +5   |   -4   |   +0   |   -5   |
@@ -4534,7 +4534,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   22   |   9    |   20   |   3    |   11   |   1    |
 |   MOD    |   +6   |   -1   |   +5   |   -4   |   +0   |   -5   |
 |   SAVE   |   +6   |   -1   |   +5   |   -4   |   +0   |   -5   |
@@ -4574,7 +4574,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   13   |   12   |   12   |   10   |   11   |   10   |
 |   MOD    |   +1   |   +1   |   +1   |   +0   |   +0   |   +0   |
 |   SAVE   |   +1   |   +1   |   +1   |   +0   |   +0   |   +0   |
@@ -4599,7 +4599,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   14   |   16   |   12   |   14   |   13   |
 |   MOD    |   +4   |   +2   |   +3   |   +1   |   +2   |   +1   |
 |   SAVE   |   +4   |   +2   |   +3   |   +1   |   +2   |   +1   |
@@ -4630,7 +4630,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   14   |   16   |   10   |   15   |   14   |
 |   MOD    |   +4   |   +2   |   +3   |   +0   |   +2   |   +2   |
 |   SAVE   |   +4   |   +5   |   +3   |   +0   |   +5   |   +2   |
@@ -4667,7 +4667,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   12   |   13   |   12   |   7    |   10   |   13   |
 |   MOD    |   +1   |   +1   |   +1   |   -2   |   +0   |   +1   |
 |   SAVE   |   +1   |   +1   |   +1   |   -2   |   +0   |   +1   |
@@ -4692,7 +4692,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   12   |   14   |   6    |   13   |   6    |
 |   MOD    |   +3   |   +1   |   +2   |   -2   |   +1   |   -2   |
 |   SAVE   |   +3   |   +1   |   +2   |   -2   |   +1   |   -2   |
@@ -4725,7 +4725,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   13   |   13   |   2    |   12   |   8    |
 |   MOD    |   +3   |   +1   |   +1   |   -4   |   +1   |   -1   |
 |   SAVE   |   +3   |   +1   |   +1   |   -4   |   +1   |   -1   |
@@ -4754,7 +4754,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   4    |   15   |   14   |   10   |   10   |   7    |
 |   MOD    |   -3   |   +2   |   +2   |   +0   |   +0   |   -2   |
 |   SAVE   |   -3   |   +2   |   +2   |   +0   |   +2   |   +0   |
@@ -4782,7 +4782,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   20   |   12   |   20   |   2    |   10   |   7    |
 |   MOD    |   +5   |   +1   |   +5   |   -4   |   +0   |   -2   |
 |   SAVE   |   +5   |   +1   |   +5   |   -4   |   +0   |   -2   |
@@ -4818,7 +4818,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   12   |   16   |   13   |   14   |   14   |
 |   MOD    |   +4   |   +1   |   +3   |   +1   |   +2   |   +2   |
 |   SAVE   |   +4   |   +1   |   +3   |   +1   |   +2   |   +2   |
@@ -4854,7 +4854,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   15   |   16   |   16   |   14   |   16   |
 |   MOD    |   +4   |   +2   |   +3   |   +3   |   +2   |   +3   |
 |   SAVE   |   +4   |   +2   |   +3   |   +3   |   +2   |   +3   |
@@ -4903,7 +4903,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   13   |   16   |   12   |   12   |   13   |
 |   MOD    |   +3   |   +1   |   +3   |   +1   |   +1   |   +1   |
 |   SAVE   |   +3   |   +1   |   +3   |   +1   |   +1   |   +1   |
@@ -4940,7 +4940,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   14   |   14   |   12   |   10   |   13   |
 |   MOD    |   +2   |   +2   |   +2   |   +1   |   +0   |   +1   |
 |   SAVE   |   +2   |   +2   |   +2   |   +1   |   +0   |   +1   |
@@ -4972,7 +4972,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   13   |   12   |   12   |   10   |   10   |   9    |
 |   MOD    |   +1   |   +1   |   +1   |   +0   |   +0   |   -1   |
 |   SAVE   |   +1   |   +1   |   +1   |   +0   |   +0   |   -1   |
@@ -5004,7 +5004,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   8    |   17   |   13   |   15   |   12   |   20   |
 |   MOD    |   -1   |   +3   |   +1   |   +2   |   +1   |   +5   |
 |   SAVE   |   -1   |   +3   |   +1   |   +2   |   +1   |   +5   |
@@ -5044,7 +5044,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Initiative:** +7 (17)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   19   |   14   |   10   |   15   |   11   |
 |   MOD    |   +3   |   +4   |   +2   |   +0   |   +2   |   +0   |
 |   SAVE   |   +3   |   +4   |   +2   |   +0   |   +2   |   +0   |
@@ -5082,7 +5082,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   7    |   15   |   9    |   8    |   7    |   8    |
 |   MOD    |   -2   |   +2   |   -1   |   -1   |   -2   |   -1   |
 |   SAVE   |   -2   |   +2   |   -1   |   -1   |   -2   |   -1   |
@@ -5112,7 +5112,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   30   |   11   |   26   |   22   |   18   |   20   |
 |   MOD    |  +10   |   +0   |   +8   |   +6   |   +4   |   +5   |
 |   SAVE   |  +17   |   +7   |  +15   |   +6   |  +11   |   +5   |
@@ -5162,7 +5162,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   13   |   15   |   14   |   15   |   16   |
 |   MOD    |   +3   |   +1   |   +2   |   +2   |   +2   |   +3   |
 |   SAVE   |   +3   |   +1   |   +2   |   +2   |   +2   |   +3   |
@@ -5199,7 +5199,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +7 (17)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   11   |   16   |   16   |   21   |   14   |   16   |
 |   MOD    |   +0   |   +3   |   +3   |   +5   |   +2   |   +3   |
 |   SAVE   |   +0   |  +10   |  +10   |  +12   |   +9   |   +3   |
@@ -5256,7 +5256,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   10   |   17   |   11   |   12   |   12   |
 |   MOD    |   +4   |   +0   |   +3   |   +0   |   +1   |   +1   |
 |   SAVE   |   +4   |   +0   |   +3   |   +0   |   +1   |   +1   |
@@ -5291,7 +5291,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   10   |   15   |   10   |   11   |   8    |
 |   MOD    |   +3   |   +0   |   +2   |   +0   |   +0   |   -1   |
 |   SAVE   |   +3   |   +0   |   +2   |   +0   |   +0   |   -1   |
@@ -5326,7 +5326,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   16   |   12   |   11   |   10   |   8    |
 |   MOD    |   +0   |   +3   |   +1   |   +0   |   +0   |   -1   |
 |   SAVE   |   +0   |   +3   |   +1   |   +0   |   +0   |   -1   |
@@ -5361,7 +5361,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   15   |   16   |   10   |   13   |   11   |
 |   MOD    |   +3   |   +2   |   +3   |   +0   |   +1   |   +0   |
 |   SAVE   |   +3   |   +2   |   +3   |   +0   |   +1   |   +0   |
@@ -5398,7 +5398,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   14   |   14   |   10   |   11   |   10   |
 |   MOD    |   +3   |   +2   |   +2   |   +0   |   +0   |   +0   |
 |   SAVE   |   +3   |   +2   |   +2   |   +0   |   +0   |   +0   |
@@ -5439,7 +5439,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   7    |   15   |   12   |   8    |   11   |   10   |
 |   MOD    |   -2   |   +2   |   +1   |   -1   |   +0   |   +0   |
 |   SAVE   |   -2   |   +2   |   +1   |   -1   |   +0   |   +0   |
@@ -5471,7 +5471,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   16   |   17   |   7    |   12   |   8    |
 |   MOD    |   +3   |   +3   |   +3   |   -2   |   +1   |   -1   |
 |   SAVE   |   +3   |   +3   |   +3   |   -2   |   +1   |   -1   |
@@ -5498,7 +5498,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   17   |   16   |   12   |   13   |   15   |
 |   MOD    |   +0   |   +3   |   +3   |   +1   |   +1   |   +2   |
 |   SAVE   |   +0   |   +3   |   +3   |   +1   |   +4   |   +2   |
@@ -5532,7 +5532,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   13   |   12   |   11   |   14   |   12   |
 |   MOD    |   +0   |   +1   |   +1   |   +0   |   +2   |   +1   |
 |   SAVE   |   +0   |   +1   |   +1   |   +0   |   +2   |   +1   |
@@ -5559,7 +5559,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   15   |   15   |   8    |   10   |   9    |
 |   MOD    |   +4   |   +2   |   +2   |   -1   |   +0   |   -1   |
 |   SAVE   |   +4   |   +2   |   +2   |   -1   |   +0   |   -1   |
@@ -5592,7 +5592,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   12   |   15   |   5    |   13   |   8    |
 |   MOD    |   +3   |   +1   |   +2   |   -3   |   +1   |   -1   |
 |   SAVE   |   +3   |   +1   |   +2   |   -3   |   +1   |   -1   |
@@ -5626,7 +5626,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   11   |   16   |   6    |   16   |   9    |
 |   MOD    |   +4   |   +0   |   +3   |   -2   |   +3   |   -1   |
 |   SAVE   |   +4   |   +0   |   +3   |   -2   |   +3   |   -1   |
@@ -5654,7 +5654,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   14   |   12   |   20   |   15   |   16   |
 |   MOD    |   +0   |   +2   |   +1   |   +5   |   +2   |   +3   |
 |   SAVE   |   +0   |   +2   |   +1   |   +9   |   +6   |   +3   |
@@ -5700,7 +5700,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   12   |   13   |   12   |   16   |   11   |
 |   MOD    |   +0   |   +1   |   +1   |   +1   |   +3   |   +0   |
 |   SAVE   |   +0   |   +1   |   +1   |   +1   |   +3   |   +0   |
@@ -5735,7 +5735,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   9    |   14   |   11   |   17   |   12   |   11   |
 |   MOD    |   -1   |   +2   |   +0   |   +3   |   +1   |   +0   |
 |   SAVE   |   -1   |   +2   |   +0   |   +6   |   +4   |   +0   |
@@ -5778,7 +5778,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   5    |   14   |   10   |   9    |   11   |   10   |
 |   MOD    |   -3   |   +2   |   +0   |   -1   |   +0   |   +0   |
 |   SAVE   |   -3   |   +2   |   +0   |   -1   |   +0   |   +0   |
@@ -5815,7 +5815,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   7    |   13   |   10   |   9    |   11   |   12   |
 |   MOD    |   -2   |   +1   |   +0   |   -1   |   +0   |   +1   |
 |   SAVE   |   -2   |   +1   |   +0   |   -1   |   +0   |   +1   |
@@ -5852,7 +5852,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   8    |   12   |   12   |   7    |   10   |   10   |
 |   MOD    |   -1   |   +1   |   +1   |   -2   |   +0   |   +0   |
 |   SAVE   |   -1   |   +1   |   +1   |   -2   |   +0   |   +0   |
@@ -5884,7 +5884,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   5    |   11   |   10   |   11   |   10   |   12   |
 |   MOD    |   -3   |   +0   |   +0   |   +0   |   +0   |   +1   |
 |   SAVE   |   -3   |   +0   |   +0   |   +0   |   +0   |   +1   |
@@ -5919,7 +5919,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   8    |   15   |   6    |   12   |   12   |
 |   MOD    |   +3   |   -1   |   +2   |   -2   |   +1   |   +1   |
 |   SAVE   |   +3   |   -1   |   +2   |   -2   |   +3   |   +1   |
@@ -5948,7 +5948,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   10   |   17   |   11   |   19   |   16   |
 |   MOD    |   +4   |   +0   |   +3   |   +0   |   +4   |   +3   |
 |   SAVE   |   +4   |   +0   |   +3   |   +5   |   +9   |   +3   |
@@ -6003,7 +6003,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   15   |   16   |   10   |   13   |   15   |
 |   MOD    |   +4   |   +2   |   +3   |   +0   |   +1   |   +2   |
 |   SAVE   |   +4   |   +2   |   +3   |   +0   |   +1   |   +2   |
@@ -6035,7 +6035,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   11   |   12   |   11   |   12   |   14   |   16   |
 |   MOD    |   +0   |   +1   |   +0   |   +1   |   +2   |   +3   |
 |   SAVE   |   +0   |   +1   |   +0   |   +1   |   +2   |   +3   |
@@ -6062,7 +6062,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   18   |   16   |   16   |   19   |   18   |
 |   MOD    |   +4   |   +4   |   +3   |   +3   |   +4   |   +4   |
 |   SAVE   |   +4   |   +8   |   +7   |   +7   |   +8   |   +8   |
@@ -6100,7 +6100,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   17   |   14   |   16   |   15   |   16   |
 |   MOD    |   +4   |   +3   |   +2   |   +3   |   +2   |   +3   |
 |   SAVE   |   +4   |   +6   |   +5   |   +3   |   +5   |   +6   |
@@ -6139,7 +6139,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   8    |   16   |   5    |   7    |   7    |
 |   MOD    |   +4   |   -1   |   +3   |   -3   |   -2   |   -2   |
 |   SAVE   |   +4   |   -1   |   +3   |   -3   |   -2   |   -2   |
@@ -6165,7 +6165,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   11   |   16   |   14   |   12   |   15   |
 |   MOD    |   +4   |   +0   |   +3   |   +2   |   +1   |   +2   |
 |   SAVE   |   +4   |   +3   |   +6   |   +2   |   +4   |   +5   |
@@ -6209,7 +6209,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   11   |   19   |   6    |   13   |   6    |
 |   MOD    |   +3   |   +0   |   +4   |   -2   |   +1   |   -2   |
 |   SAVE   |   +3   |   +0   |   +7   |   -2   |   +1   |   -2   |
@@ -6238,7 +6238,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   20   |   12   |   17   |   3    |   12   |   7    |
 |   MOD    |   +5   |   +1   |   +3   |   -4   |   +1   |   -2   |
 |   SAVE   |   +5   |   +1   |   +3   |   -4   |   +1   |   -2   |
@@ -6265,7 +6265,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 - **Initiative:** -3 (7)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   5    |   16   |   1    |   6    |   1    |
 |   MOD    |   +3   |   -3   |   +3   |   -5   |   -2   |   -5   |
 |   SAVE   |   +3   |   -3   |   +3   |   -5   |   -2   |   -5   |
@@ -6297,7 +6297,7 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 - **Initiative:** -4 (6)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   3    |   20   |   1    |   6    |   1    |
 |   MOD    |   +2   |   -4   |   +5   |   -5   |   -2   |   -5   |
 |   SAVE   |   +2   |   -4   |   +5   |   -5   |   -2   |   -5   |
@@ -6330,7 +6330,7 @@ As an action, a creature within 5 feet of the cube can pull a creature or an obj
 - **Initiative:** -2 (8)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   12   |   6    |   16   |   1    |   6    |   2    |
 |   MOD    |   +1   |   -2   |   +3   |   -5   |   -2   |   -4   |
 |   SAVE   |   +1   |   -2   |   +3   |   -5   |   -2   |   -4   |
@@ -6362,7 +6362,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Initiative:** -2 (8)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   6    |   14   |   2    |   6    |   1    |
 |   MOD    |   +2   |   -2   |   +2   |   -4   |   -2   |   -5   |
 |   SAVE   |   +2   |   -2   |   +2   |   -4   |   -2   |   -5   |
@@ -6394,7 +6394,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   15   |   16   |   10   |   15   |   13   |
 |   MOD    |   +4   |   +2   |   +3   |   +0   |   +2   |   +1   |
 |   SAVE   |   +4   |   +4   |   +5   |   +0   |   +4   |   +3   |
@@ -6418,7 +6418,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   16   |   12   |   6    |   10   |   6    |
 |   MOD    |   +2   |   +3   |   +1   |   -2   |   +0   |   -2   |
 |   SAVE   |   +2   |   +3   |   +1   |   -2   |   +0   |   -2   |
@@ -6455,7 +6455,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   6    |   15   |   13   |   10   |   12   |   10   |
 |   MOD    |   -2   |   +2   |   +1   |   +0   |   +1   |   +0   |
 |   SAVE   |   -2   |   +2   |   +1   |   +0   |   +1   |   +0   |
@@ -6487,7 +6487,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   28   |   7    |   22   |   1    |   8    |   4    |
 |   MOD    |   +9   |   -2   |   +6   |   -5   |   -1   |   -3   |
 |   SAVE   |   +9   |   -2   |  +11   |   -5   |   +4   |   -3   |
@@ -6524,7 +6524,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   16   |   12   |   8    |   12   |   14   |
 |   MOD    |   +0   |   +3   |   +1   |   -1   |   +1   |   +2   |
 |   SAVE   |   +0   |   +5   |   +1   |   -1   |   +1   |   +4   |
@@ -6552,7 +6552,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Initiative:** +7 (17)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   18   |   14   |   10   |   14   |   17   |
 |   MOD    |   +0   |   +4   |   +2   |   +0   |   +2   |   +3   |
 |   SAVE   |   +3   |   +7   |   +2   |   +0   |   +5   |   +6   |
@@ -6587,7 +6587,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   10   |   12   |   13   |   16   |   13   |
 |   MOD    |   +3   |   +0   |   +1   |   +1   |   +3   |   +1   |
 |   SAVE   |   +3   |   +0   |   +1   |   +1   |   +3   |   +1   |
@@ -6625,7 +6625,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   10   |   12   |   10   |   14   |   11   |
 |   MOD    |   +2   |   +0   |   +1   |   +0   |   +2   |   +0   |
 |   SAVE   |   +2   |   +0   |   +1   |   +0   |   +2   |   +0   |
@@ -6662,7 +6662,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Initiative:** +8 (18)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   17   |   18   |   13   |   16   |   20   |
 |   MOD    |   +2   |   +3   |   +4   |   +1   |   +3   |   +5   |
 |   SAVE   |   +2   |   +3   |   +4   |   +1   |   +3   |   +5   |
@@ -6703,7 +6703,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   24   |   13   |   21   |   4    |   10   |   5    |
 |   MOD    |   +7   |   +1   |   +5   |   -3   |   +0   |   -3   |
 |   SAVE   |   +7   |   +1   |   +5   |   -3   |   +0   |   -3   |
@@ -6735,7 +6735,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Initiative:** +8 (18)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   28   |   10   |   20   |   3    |   10   |   9    |
 |   MOD    |   +9   |   +0   |   +5   |   -4   |   +0   |   -1   |
 |   SAVE   |   +9   |   +4   |   +5   |   -4   |   +4   |   -1   |
@@ -6766,7 +6766,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   8    |   17   |   7    |   16   |   6    |
 |   MOD    |   +4   |   -1   |   +3   |   -2   |   +3   |   -2   |
 |   SAVE   |   +4   |   -1   |   +3   |   -2   |   +3   |   -2   |
@@ -6800,7 +6800,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   13   |   12   |   13   |   2    |   13   |   6    |
 |   MOD    |   +1   |   +1   |   +1   |   -4   |   +1   |   -2   |
 |   SAVE   |   +1   |   +1   |   +1   |   -4   |   +1   |   -2   |
@@ -6834,7 +6834,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   13   |   11   |   12   |   12   |   13   |   9    |
 |   MOD    |   +1   |   +0   |   +1   |   +1   |   +1   |   -1   |
 |   SAVE   |   +1   |   +0   |   +1   |   +1   |   +1   |   -1   |
@@ -6873,7 +6873,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   14   |   15   |   11   |   10   |   12   |
 |   MOD    |   +4   |   +2   |   +2   |   +0   |   +0   |   +1   |
 |   SAVE   |   +4   |   +2   |   +2   |   +0   |   +0   |   +1   |
@@ -6906,7 +6906,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   12   |   16   |   11   |   12   |   10   |   14   |
 |   MOD    |   +1   |   +3   |   +0   |   +1   |   +0   |   +2   |
 |   SAVE   |   +1   |   +3   |   +0   |   +1   |   +0   |   +2   |
@@ -6936,7 +6936,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   11   |   14   |   12   |   11   |   13   |   11   |
 |   MOD    |   +0   |   +2   |   +1   |   +0   |   +1   |   +0   |
 |   SAVE   |   +0   |   +2   |   +1   |   +0   |   +1   |   +0   |
@@ -6965,7 +6965,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   6    |   14   |   13   |   6    |   10   |   8    |
 |   MOD    |   -2   |   +2   |   +1   |   -2   |   +0   |   -1   |
 |   SAVE   |   -2   |   +2   |   +1   |   -2   |   +0   |   -1   |
@@ -7001,7 +7001,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   8    |   16   |   5    |   10   |   5    |
 |   MOD    |   +4   |   -1   |   +3   |   -3   |   +0   |   -3   |
 |   SAVE   |   +4   |   -1   |   +3   |   -3   |   +0   |   -3   |
@@ -7034,7 +7034,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** -1 (9)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   8    |   18   |   7    |   10   |   3    |
 |   MOD    |   +4   |   -1   |   +4   |   -2   |   +0   |   -4   |
 |   SAVE   |   +4   |   -1   |   +4   |   -2   |   +0   |   -4   |
@@ -7068,7 +7068,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   1    |   14   |   11   |   10   |   10   |   11   |
 |   MOD    |   -5   |   +2   |   +0   |   +0   |   +0   |   +0   |
 |   SAVE   |   -5   |   +2   |   +0   |   +0   |   +0   |   +0   |
@@ -7099,7 +7099,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   3    |   18   |   10   |   14   |   13   |   11   |
 |   MOD    |   -4   |   +4   |   +0   |   +2   |   +1   |   +0   |
 |   SAVE   |   -4   |   +4   |   +0   |   +2   |   +1   |   +0   |
@@ -7131,7 +7131,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   15   |   10   |   12   |   14   |   16   |
 |   MOD    |   +0   |   +2   |   +0   |   +1   |   +2   |   +3   |
 |   SAVE   |   +0   |   +2   |   +0   |   +1   |   +2   |   +3   |
@@ -7162,7 +7162,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   4    |   16   |   11   |   2    |   8    |   6    |
 |   MOD    |   -3   |   +3   |   +0   |   -4   |   -1   |   -2   |
 |   SAVE   |   -3   |   +3   |   +0   |   -4   |   -1   |   -2   |
@@ -7185,7 +7185,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   8    |   17   |   13   |   15   |   12   |   20   |
 |   MOD    |   -1   |   +3   |   +1   |   +2   |   +1   |   +5   |
 |   SAVE   |   -1   |   +3   |   +1   |   +2   |   +1   |   +5   |
@@ -7224,7 +7224,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   14   |   14   |   11   |   5    |   10   |   4    |
 |   MOD    |   +2   |   +2   |   +0   |   -3   |   +0   |   -3   |
 |   SAVE   |   +2   |   +2   |   +0   |   -3   |   +0   |   -3   |
@@ -7255,7 +7255,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   11   |   15   |   6    |   8    |   5    |
 |   MOD    |   +4   |   +0   |   +2   |   -2   |   -1   |   -3   |
 |   SAVE   |   +4   |   +0   |   +2   |   -2   |   -1   |   -3   |
@@ -7282,7 +7282,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   10   |   16   |   15   |   6    |   8    |   5    |
 |   MOD    |   +0   |   +3   |   +2   |   -2   |   -1   |   -3   |
 |   SAVE   |   +0   |   +3   |   +2   |   -2   |   -1   |   -3   |
@@ -7310,7 +7310,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   12   |   15   |   2    |   8    |   5    |
 |   MOD    |   +4   |   +1   |   +2   |   -4   |   -1   |   -3   |
 |   SAVE   |   +4   |   +1   |   +2   |   -4   |   -1   |   -3   |
@@ -7336,7 +7336,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +6 (16)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   15   |   16   |   18   |   18   |   18   |
 |   MOD    |   +4   |   +2   |   +3   |   +4   |   +4   |   +4   |
 |   SAVE   |   +4   |   +2   |   +3   |   +4   |   +4   |   +4   |
@@ -7383,7 +7383,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   22   |   10   |   20   |   16   |   23   |   18   |
 |   MOD    |   +6   |   +0   |   +5   |   +3   |   +6   |   +4   |
 |   SAVE   |   +6   |   +6   |  +11   |   +9   |  +12   |   +4   |
@@ -7434,7 +7434,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   6    |   17   |   13   |   15   |   12   |   11   |
 |   MOD    |   -2   |   +3   |   +1   |   +2   |   +1   |   +0   |
 |   SAVE   |   -2   |   +3   |   +1   |   +2   |   +1   |   +0   |
@@ -7465,7 +7465,7 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 - **Initiative:** +18 (28)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   30   |   11   |   30   |   3    |   11   |   11   |
 |   MOD    |  +10   |   +0   |  +10   |   -4   |   +0   |   +0   |
 |   SAVE   |  +10   |   +9   |  +10   |   +5   |   +9   |   +9   |
@@ -7519,7 +7519,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   23   |   8    |   21   |   12   |   16   |   12   |
 |   MOD    |   +6   |   -1   |   +5   |   +1   |   +3   |   +1   |
 |   SAVE   |   +6   |   -1   |   +5   |   +1   |   +3   |   +1   |
@@ -7556,7 +7556,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   12   |   14   |   10   |   10   |   11   |
 |   MOD    |   +2   |   +1   |   +2   |   +0   |   +0   |   +0   |
 |   SAVE   |   +2   |   +1   |   +2   |   +0   |   +0   |   +0   |
@@ -7586,7 +7586,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Initiative:** +2 (12)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   14   |   16   |   11   |   10   |   11   |
 |   MOD    |   +3   |   +2   |   +3   |   +0   |   +0   |   +0   |
 |   SAVE   |   +5   |   +2   |   +5   |   +0   |   +0   |   +2   |
@@ -7620,7 +7620,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   13   |   20   |   7    |   9    |   7    |
 |   MOD    |   +4   |   +1   |   +5   |   -2   |   -1   |   -2   |
 |   SAVE   |   +4   |   +1   |   +5   |   -2   |   -1   |   -2   |
@@ -7656,7 +7656,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   12   |   10   |   1    |   9    |   1    |
 |   MOD    |   +4   |   +1   |   +0   |   -5   |   -1   |   -5   |
 |   SAVE   |   +4   |   +1   |   +0   |   -5   |   -1   |   -5   |
@@ -7686,7 +7686,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Initiative:** +8 (18)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   14   |   15   |   11   |   17   |   16   |
 |   MOD    |   +4   |   +2   |   +2   |   +0   |   +3   |   +3   |
 |   SAVE   |   +4   |   +2   |   +2   |   +0   |   +3   |   +3   |
@@ -7737,7 +7737,7 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 - **Initiative:** +8 (18)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   18   |   18   |   17   |   15   |   18   |
 |   MOD    |   +4   |   +4   |   +4   |   +3   |   +2   |   +4   |
 |   SAVE   |   +4   |   +9   |   +9   |   +3   |   +7   |   +9   |
@@ -7796,7 +7796,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   16   |   15   |   10   |   10   |   14   |
 |   MOD    |   +3   |   +3   |   +2   |   +0   |   +0   |   +2   |
 |   SAVE   |   +3   |   +5   |   +2   |   +0   |   +2   |   +2   |
@@ -7833,7 +7833,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   16   |   16   |   11   |   10   |   12   |
 |   MOD    |   +3   |   +3   |   +3   |   +0   |   +0   |   +1   |
 |   SAVE   |   +3   |   +6   |   +3   |   +0   |   +3   |   +1   |
@@ -7879,7 +7879,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 - **Initiative:** +4 (14)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   15   |   14   |   16   |   10   |   13   |   15   |
 |   MOD    |   +2   |   +2   |   +3   |   +0   |   +1   |   +2   |
 |   SAVE   |   +2   |   +2   |   +3   |   +0   |   +1   |   +2   |
@@ -7917,7 +7917,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +9 (19)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   1    |   28   |   10   |   13   |   14   |   11   |
 |   MOD    |   -5   |   +9   |   +0   |   +1   |   +2   |   +0   |
 |   SAVE   |   -5   |   +9   |   +0   |   +1   |   +2   |   +0   |
@@ -7956,7 +7956,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   13   |   14   |   7    |   12   |   8    |
 |   MOD    |   +4   |   +1   |   +2   |   -2   |   +1   |   -1   |
 |   SAVE   |   +4   |   +1   |   +2   |   -2   |   +1   |   -1   |
@@ -7987,7 +7987,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   13   |   13   |   7    |   11   |   8    |
 |   MOD    |   +3   |   +1   |   +1   |   -2   |   +0   |   -1   |
 |   SAVE   |   +3   |   +1   |   +1   |   -2   |   +0   |   -1   |
@@ -8011,7 +8011,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   6    |   16   |   16   |   12   |   14   |   15   |
 |   MOD    |   -2   |   +3   |   +3   |   +1   |   +2   |   +2   |
 |   SAVE   |   -2   |   +3   |   +3   |   +1   |   +2   |   +2   |
@@ -8044,7 +8044,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   10   |   16   |   5    |   12   |   6    |
 |   MOD    |   +4   |   +0   |   +3   |   -3   |   +1   |   -2   |
 |   SAVE   |   +4   |   +0   |   +3   |   -3   |   +1   |   -2   |
@@ -8073,7 +8073,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +1 (11)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   12   |   17   |   9    |   11   |   9    |
 |   MOD    |   +3   |   +1   |   +3   |   -1   |   +0   |   -1   |
 |   SAVE   |   +3   |   +1   |   +3   |   -1   |   +0   |   -1   |
@@ -8101,7 +8101,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +5 (15)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   18   |   15   |   16   |   10   |   12   |   15   |
 |   MOD    |   +4   |   +2   |   +3   |   +0   |   +1   |   +2   |
 |   SAVE   |   +7   |   +5   |   +6   |   +0   |   +4   |   +2   |
@@ -8130,7 +8130,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   11   |   14   |   11   |   11   |   15   |
 |   MOD    |   +3   |   +0   |   +2   |   +0   |   +0   |   +2   |
 |   SAVE   |   +3   |   +0   |   +4   |   +0   |   +2   |   +2   |
@@ -8159,7 +8159,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   13   |   11   |   11   |   8    |   11   |   8    |
 |   MOD    |   +1   |   +0   |   +0   |   -1   |   +0   |   -1   |
 |   SAVE   |   +1   |   +0   |   +0   |   -1   |   +0   |   -1   |
@@ -8187,7 +8187,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +3 (13)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   16   |   13   |   14   |   10   |   11   |   10   |
 |   MOD    |   +3   |   +1   |   +2   |   +0   |   +0   |   +0   |
 |   SAVE   |   +3   |   +1   |   +2   |   +0   |   +0   |   +0   |
@@ -8218,7 +8218,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** +0 (10)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   17   |   10   |   22   |   11   |   10   |   11   |
 |   MOD    |   +3   |   +0   |   +6   |   +0   |   +0   |   +0   |
 |   SAVE   |   +3   |   +0   |   +6   |   +0   |   +0   |   +0   |
@@ -8259,7 +8259,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** -2 (8)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   19   |   6    |   18   |   3    |   6    |   5    |
 |   MOD    |   +4   |   -2   |   +4   |   -4   |   -2   |   -3   |
 |   SAVE   |   +4   |   -2   |   +4   |   -4   |   +0   |   -3   |
@@ -8287,7 +8287,7 @@ A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight
 - **Initiative:** -2 (8)
 
 |          |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
-|:--------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  SCORE   |   13   |   6    |   16   |   3    |   6    |   5    |
 |   MOD    |   +1   |   -2   |   +3   |   -4   |   -2   |   -3   |
 |   SAVE   |   +1   |   -2   |   +3   |   -4   |   +0   |   -3   |

@@ -15,7 +15,7 @@ The glossary uses the following conventions:
 **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.
 
 |      |                     |
-|------|---------------------|
+|---|---|
 | AC   | Armor Class         |
 | C    | Concentration       |
 | CE   | Chaotic Evil        |
@@ -67,7 +67,7 @@ A creature has six ability scores—Strength, Dexterity, Constitution, Intellige
 On your turn, you can take one action. Choose which action to take from those below or from the special actions provided by your features. *See also* "Playing the Game" ("Actions"). These actions are defined elsewhere in this glossary:
 
 |           |       |           |         |
-|-----------|-------|-----------|---------|
+|---|---|---|---|
 | Attack    | Dodge | Influence | Search  |
 | Dash      | Help  | Magic     | Study   |
 | Disengage | Hide  | Ready     | Utilize |
@@ -93,7 +93,7 @@ A creature is your ally if it is a member of your adventuring party, your friend
 The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes. These shapes are defined elsewhere in this glossary:
 
 |      |           |        |
-|------|-----------|--------|
+|---|---|---|
 | Cone | Cylinder  | Line   |
 | Cube | Emanation | Sphere |
 
@@ -160,7 +160,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 Table: Object Armor Class
 
 | AC | Substance           |
-|----|---------------------|
+|---|---|
 | 11 | Cloth, paper, rope  |
 | 13 | Crystal, glass, ice |
 | 15 | Wood                |
@@ -174,7 +174,7 @@ Table: Object Armor Class
 Table: Object Hit Points
 
 | Size                        | Fragile  | Resilient |
-|-----------------------------|----------|-----------|
+|---|---|---|
 | Tiny (bottle, lock)         | 2 (1d4)  | 5 (2d4)   |
 | Small (chest, lute)         | 3 (1d6)  | 10 (3d6)  |
 | Medium (barrel, chandelier) | 4 (1d8)  | 18 (4d8)  |
@@ -215,7 +215,7 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 Table: Carrying Capacity
 
 | Creature Size | Carry          | Drag/Lift/Push |
-|---------------|----------------|----------------|
+|---|---|---|
 | Tiny          | Str. × 7.5 lb. | Str. × 15 lb.  |
 | Small/Medium  | Str. × 15 lb.  | Str. × 30 lb.  |
 | Large         | Str. × 30 lb.  | Str. × 60 lb.  |
@@ -263,7 +263,7 @@ Some spells and other effects require Concentration to remain active, as specifi
 A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:
 
 |            |               |             |
-|------------|---------------|-------------|
+|---|---|---|
 | Blinded    | Grappled      | Poisoned    |
 | Charmed    | Incapacitated | Prone       |
 | Deafened   | Invisible     | Restrained  |
@@ -295,7 +295,7 @@ Any being in the game, including a player's character, is a creature. *See also*
 Every creature, including every player character, has a tag in the rules that identifies the type of creature it is. Most player characters are of the Humanoid type. These are the game's creature types:
 
 |            |           |             |
-|------------|-----------|-------------|
+|---|---|---|
 | Aberration | Elemental | Monstrosity |
 | Beast      | Fey       | Ooze        |
 | Celestial  | Fiend     | Plant       |
@@ -347,7 +347,7 @@ Attacks and other harmful effects deal different types of damage. Damage types h
 Table: Damage Types
 
 | Type        | Examples                             |
-|-------------|--------------------------------------|
+|---|---|
 | Acid        | Corrosive liquids, digestive enzymes |
 | Bludgeoning | Blunt objects, constriction, falling |
 | Cold        | Freezing water, icy blasts           |
@@ -399,8 +399,8 @@ A creature requires an amount of water per day based on its size, as shown in th
 Table: Water Needs per Day
 
 | Size   | Water      | Size       | Water      |
-|--------|------------|------------|------------|
-| Tiny   | 1/4 gallon | Large      | 4 gallons  |
+|---|---|---|---|
+| Tiny   | ¼ gallon | Large      | 4 gallons  |
 | Small  | 1 gallon   | Huge       | 16 gallons |
 | Medium | 1 gallon   | Gargantuan | 64 gallons |
 
@@ -630,7 +630,7 @@ With the Influence action, you urge a monster to do something. Describe or rolep
 Table: Influence Checks
 
 | Ability Check            | Interaction                                  |
-|--------------------------|----------------------------------------------|
+|---|---|
 | Charisma (Deception)     | Deceiving a monster that understands you     |
 | Charisma (Intimidation)  | Intimidating a monster                       |
 | Charisma (Performance)   | Amusing a monster                            |
@@ -727,8 +727,8 @@ Exhaustion caused by malnutrition can't be removed until the creature eats the f
 Table: Food Needs per Day
 
 | Size       | Food      |
-|------------|-----------|
-| Tiny       | 1/4 pound |
+|---|---|
+| Tiny       | ¼ pound |
 | Small      | 1 pound   |
 | Medium     | 1 pound   |
 | Large      | 4 pounds  |
@@ -874,7 +874,7 @@ When you take the Search action, you make a Wisdom check to discern something th
 Table: Search
 
 | Skill      | Thing to Detect                      |
-|------------|--------------------------------------|
+|---|---|
 | Insight    | Creature's state of mind             |
 | Medicine   | Creature's ailment or cause of death |
 | Perception | Concealed creature or object         |
@@ -997,7 +997,7 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 #### Areas of Knowledge
 
 | Skill         | Areas                                                                                                                                             |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Arcana        | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities)  |
 | History       | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids)                                                                     |
 | Investigation | Traps, ciphers, riddles, and gadgetry                                                                                                                                           |

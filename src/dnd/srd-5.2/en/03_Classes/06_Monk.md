@@ -3,7 +3,7 @@
 Table: Core Monk Traits
 
 |                               |                                                                                              |
-|-------------------------------|----------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability               | Dexterity and Wisdom                                                                         |
 | Hit Point Die                 | D8 per Monk level                                                                            |
 | Saving Throw Proficiencies    | Strength and Dexterity                                                                       |
@@ -32,7 +32,7 @@ As a Monk, you gain the following class features when you reach the specified Mo
 Table: Monk Features
 
 | Level | Proficiency Bonus    | Class Features                                          | Martial Arts    | Focus Points    | Unarmored Movement    |
-|-------|----------------------|---------------------------------------------------------|-----------------|-----------------|-----------------------|
+|---|---|---|---|---|---|
 | 1     | +2                   | Martial Arts, Unarmored Defense                         | 1d6             | —               | —                     |
 | 2     | +2                   | Monk's Focus, Unarmored Movement, Uncanny Metabolism    | 1d6             | 2               | +10 ft.               |
 | 3     | +2                   | Deflect Attacks, Monk Subclass                          | 1d6             | 3               | +10 ft.               |

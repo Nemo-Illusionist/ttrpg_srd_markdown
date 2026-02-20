@@ -3,7 +3,7 @@
 Table: Core Rogue Traits
 
 |                            |                                                                                                     |
-|----------------------------|-----------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability            | Dexterity                                                                                           |
 | Hit Point Die              | D8 per Rogue level                                                                                  |
 | Saving Throw Proficiencies | Dexterity and Intelligence                                                                          |
@@ -32,7 +32,7 @@ As a Rogue, you gain the following class features when you reach the specified R
 Table: Rogue Features
 
 | Level | Proficiency Bonus | Class Features                                         | Sneak Attack |
-|-------|-------------------|--------------------------------------------------------|--------------|
+|---|---|---|---|
 | 1     | +2                | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery | 1d6          |
 | 2     | +2                | Cunning Action                                         | 1d6          |
 | 3     | +2                | Rogue Subclass, Steady Aim                             | 2d6          |

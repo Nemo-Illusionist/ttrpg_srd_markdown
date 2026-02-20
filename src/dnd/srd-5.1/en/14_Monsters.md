@@ -10,7 +10,7 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 Table: Size Categories
 
 | Size       | Space                  | Examples            |
-| ---------- | ---------------------- | ------------------- |
+|---|---|---|
 | Tiny       | 2½ by 2½ ft.           | Imp, sprite         |
 | Small      | 5 by 5 ft.             | Giant rat, goblin   |
 | Medium     | 5 by 5 ft.             | Orc, werewolf       |
@@ -84,7 +84,7 @@ A monster's size determines the die used to calculate its hit points, as shown i
 Table: Hit Dice by Size
 
 | Monster Size | Hit Die | Average HP per Die |
-|--------------|---------|--------------------|
+|---|---|---|
 | Tiny         | d4      | 2½                 |
 | Small        | d6      | 3½                 |
 | Medium       | d8      | 4½                 |
@@ -131,7 +131,7 @@ A saving throw bonus is the sum of a monster's relevant ability modifier and its
 Table: Proficiency Bonus by Challenge Rating
 
 | Challenge | Proficiency Bonus |
-|-----------|-------------------|
+|---|---|
 | 0         | +2                |
 | 1/8       | +2                |
 | 1/4       | +2                |
@@ -238,7 +238,7 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
 Table: Experience Points by Challenge Rating
 
 | Challenge | XP      |
-|-----------|---------|
+|---|---|
 | 0         | 0 or 10 |
 | 1/8       | 25      |
 | 1/4       | 50      |

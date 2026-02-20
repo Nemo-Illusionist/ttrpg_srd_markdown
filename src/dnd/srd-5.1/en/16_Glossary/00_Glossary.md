@@ -9,7 +9,7 @@ Reference terms for D&D SRD 5.1.
 ### Abbreviations
 
 | Abbr. | Full Term |
-|-------|-----------|
+|---|---|
 | AC | Armor Class |
 | C | Concentration |
 | CE | Chaotic Evil |
@@ -48,7 +48,7 @@ Reference terms for D&D SRD 5.1.
 ### Abilities
 
 | Ability | Abbreviation |
-|---------|-------------|
+|---|---|
 | Strength | Str |
 | Dexterity | Dex |
 | Constitution | Con |
@@ -61,7 +61,7 @@ Reference terms for D&D SRD 5.1.
 ### Tests and Rolls
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Ability Check | Test using an ability score |
 | Saving Throw | Resist an effect |
 | Attack Roll | Attempt to hit a target |
@@ -79,7 +79,7 @@ Reference terms for D&D SRD 5.1.
 ### Actions in Combat
 
 | Action | Description |
-|--------|-------------|
+|---|---|
 | Attack | Make an attack |
 | Cast a Spell | Cast a spell you know or have prepared |
 | Dash | Double movement |
@@ -96,7 +96,7 @@ Reference terms for D&D SRD 5.1.
 ### Combat
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Initiative | Determines turn order |
 | Surprise | Caught off guard, lose first turn |
 | Turn | One creature's actions in a round |
@@ -119,7 +119,7 @@ Reference terms for D&D SRD 5.1.
 ### Health and Damage
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Hit Points (HP) | Measure of vitality |
 | Hit Dice | Dice used to regain HP |
 | Temporary Hit Points | Buffer that absorbs damage |
@@ -138,7 +138,7 @@ Reference terms for D&D SRD 5.1.
 ### Damage Types
 
 | Type |
-|------|
+|---|
 | Acid |
 | Bludgeoning |
 | Cold |
@@ -158,7 +158,7 @@ Reference terms for D&D SRD 5.1.
 ### Conditions
 
 | Condition | Effect |
-|-----------|--------|
+|---|---|
 | Blinded | Cannot see |
 | Charmed | Cannot attack the charmer |
 | Deafened | Cannot hear |
@@ -180,7 +180,7 @@ Reference terms for D&D SRD 5.1.
 ### Magic
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Spell | Magical effect |
 | Cantrip | Level 0 spell |
 | Spell Slot | Resource to cast spells |
@@ -207,7 +207,7 @@ Reference terms for D&D SRD 5.1.
 ### Schools of Magic
 
 | School |
-|--------|
+|---|
 | Abjuration |
 | Conjuration |
 | Divination |
@@ -222,7 +222,7 @@ Reference terms for D&D SRD 5.1.
 ### Classes
 
 | Class |
-|-------|
+|---|
 | Barbarian |
 | Bard |
 | Cleric |
@@ -241,7 +241,7 @@ Reference terms for D&D SRD 5.1.
 ### Races
 
 | Race |
-|------|
+|---|
 | Dwarf |
 | Elf |
 | Halfling |
@@ -257,7 +257,7 @@ Reference terms for D&D SRD 5.1.
 ### Creature Types
 
 | Type |
-|------|
+|---|
 | Aberration |
 | Beast |
 | Celestial |
@@ -278,7 +278,7 @@ Reference terms for D&D SRD 5.1.
 ### Sizes
 
 | Size | Space |
-|------|-------|
+|---|---|
 | Tiny | 2.5 x 2.5 ft. |
 | Small | 5 x 5 ft. |
 | Medium | 5 x 5 ft. |
@@ -291,7 +291,7 @@ Reference terms for D&D SRD 5.1.
 ### Senses
 
 | Sense |
-|-------|
+|---|
 | Blindsight |
 | Darkvision |
 | Tremorsense |
@@ -302,7 +302,7 @@ Reference terms for D&D SRD 5.1.
 ### Speeds
 
 | Speed Type |
-|------------|
+|---|
 | Walking |
 | Burrow |
 | Climb |
@@ -314,7 +314,7 @@ Reference terms for D&D SRD 5.1.
 ### Light and Vision
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Bright Light | Normal visibility |
 | Dim Light | Lightly obscured |
 | Darkness | Heavily obscured |
@@ -326,7 +326,7 @@ Reference terms for D&D SRD 5.1.
 ### Terrain
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Difficult Terrain | Costs double movement |
 
 ---
@@ -334,7 +334,7 @@ Reference terms for D&D SRD 5.1.
 ### Weapon Properties
 
 | Property | Description |
-|----------|-------------|
+|---|---|
 | Ammunition | Requires ammo to fire |
 | Finesse | Use Str or Dex |
 | Heavy | Small creatures have disadvantage |
@@ -352,7 +352,7 @@ Reference terms for D&D SRD 5.1.
 ### Skills
 
 | Skill | Ability |
-|-------|---------|
+|---|---|
 | Acrobatics | Dexterity |
 | Animal Handling | Wisdom |
 | Arcana | Intelligence |
@@ -377,7 +377,7 @@ Reference terms for D&D SRD 5.1.
 ### Alignment
 
 | Alignment |
-|-----------|
+|---|
 | Lawful Good |
 | Neutral Good |
 | Chaotic Good |
@@ -393,7 +393,7 @@ Reference terms for D&D SRD 5.1.
 ### Magic Item Rarity
 
 | Rarity |
-|--------|
+|---|
 | Common |
 | Uncommon |
 | Rare |
@@ -406,7 +406,7 @@ Reference terms for D&D SRD 5.1.
 ### Monster Terms
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Challenge Rating (CR) | Measure of threat |
 | Legendary Actions | Extra actions at end of other turns |
 | Legendary Resistance | Auto-succeed a failed save |
@@ -419,7 +419,7 @@ Reference terms for D&D SRD 5.1.
 ### Game Terms
 
 | Term | Description |
-|------|-------------|
+|---|---|
 | Adventure | A story arc |
 | Campaign | Series of adventures |
 | Encounter | A scene or challenge |

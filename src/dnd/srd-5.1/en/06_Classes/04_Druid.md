@@ -3,7 +3,7 @@
 Table: Core Druid Traits
 
 |                               |                                                                                                          |
-|-------------------------------|----------------------------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d8 per Druid level                                                                                      |
 | Hit Points at 1st Level       | 8 + your Constitution modifier                                                                           |
 | Hit Points at Higher Levels   | 1d8 (or 5) + your Constitution modifier per Druid level after 1st                                        |
@@ -24,7 +24,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Druid Features
 
 | Level | Proficiency Bonus | Features                                          | Cantrips Known | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-|-------|-------------------|---------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Druidic, Spellcasting                             | 2              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2     | +2                | Wild Shape, Druid Circle                          | 2              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | -                                                 | 2              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -93,7 +93,7 @@ Your druid level determines the beasts you can transform into, as shown in the B
 Table: Beast Shapes
 
 | Level | Max. CR | Limitations                 | Example     |
-|-------|---------|-----------------------------|-------------|
+|---|---|---|---|
 | 2     | 1/4     | No flying or swimming speed | Wolf        |
 | 4     | 1/2     | No flying speed             | Crocodile   |
 | 8     | 1       | -                           | Giant eagle |
@@ -153,7 +153,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 Table: Arctic Circle Spells
 
 | Druid Level | Circle Spells                     |
-|-------------|-----------------------------------|
+|---|---|
 | 3           | hold person, spike growth         |
 | 5           | sleet storm, slow                 |
 | 7           | freedom of movement, ice storm    |
@@ -162,7 +162,7 @@ Table: Arctic Circle Spells
 Table: Coast Circle Spells
 
 | Druid Level | Circle Spells                      |
-|-------------|------------------------------------|
+|---|---|
 | 3           | mirror image, misty step           |
 | 5           | water breathing, water walk        |
 | 7           | control water, freedom of movement |
@@ -171,7 +171,7 @@ Table: Coast Circle Spells
 Table: Desert Circle Spells
 
 | Druid Level | Circle Spells                                 |
-|-------------|-----------------------------------------------|
+|---|---|
 | 3           | blur, silence                                 |
 | 5           | create food and water, protection from energy |
 | 7           | blight, hallucinatory terrain                 |
@@ -180,7 +180,7 @@ Table: Desert Circle Spells
 Table: Forest Circle Spells
 
 | Druid Level | Circle Spells                    |
-|-------------|----------------------------------|
+|---|---|
 | 3           | barkskin, spider climb           |
 | 5           | call lightning, plant growth     |
 | 7           | divination, freedom of movement  |
@@ -189,7 +189,7 @@ Table: Forest Circle Spells
 Table: Grassland Circle Spells
 
 | Druid Level | Circle Spells                    |
-|-------------|----------------------------------|
+|---|---|
 | 3           | invisibility, pass without trace |
 | 5           | daylight, haste                  |
 | 7           | divination, freedom of movement  |
@@ -198,7 +198,7 @@ Table: Grassland Circle Spells
 Table: Mountain Circle Spells
 
 | Druid Level | Circle Spells                   |
-|-------------|---------------------------------|
+|---|---|
 | 3           | spider climb, spike growth      |
 | 5           | lightning bolt, meld into stone |
 | 7           | stone shape, stoneskin          |
@@ -207,7 +207,7 @@ Table: Mountain Circle Spells
 Table: Swamp Circle Spells
 
 | Druid Level | Circle Spells                        |
-|-------------|--------------------------------------|
+|---|---|
 | 3           | acid arrow, darkness                 |
 | 5           | water walk, stinking cloud           |
 | 7           | freedom of movement, locate creature |

@@ -3,7 +3,7 @@
 Table: Core Sorcerer Traits
 
 |                            |                                                                                                 |
-|----------------------------|-------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability            | Charisma                                                                                        |
 | Hit Point Die              | D6 per Sorcerer level                                                                           |
 | Saving Throw Proficiencies | Constitution and Charisma                                                                       |
@@ -31,7 +31,7 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 Table: Sorcerer Features: ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features                  | Sorcery Points | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|---------------------------------|----------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Spellcasting, Innate Sorcery    | —              | 4        | 2               | 2 | — | — | — | — | — | — | — | — |
 | 2     | +2                | Font of Magic, Metamagic        | 2              | 4        | 4               | 3 | — | — | — | — | — | — | — | — |
 | 3     | +2                | Sorcerer Subclass               | 3              | 4        | 6               | 4 | 2 | — | — | — | — | — | — | — |
@@ -101,7 +101,7 @@ Any spell slot you create with this feature vanishes when you finish a Long Rest
 Table: Creating Spell Slots
 
 | Spell Slot Level | Sorcery Point Cost | Min. Sorcerer Level |
-|------------------|--------------------|---------------------|
+|---|---|---|
 | 1                | 2                  | 2                   |
 | 2                | 3                  | 3                   |
 | 3                | 5                  | 5                   |
@@ -219,7 +219,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 Table: Cantrips (Level 0 Sorcerer Spells)
 
 | Spell            | School        | Special |
-|------------------|---------------|---------|
+|---|---|---|
 | Acid Splash      | Evocation     | —       |
 | Chill Touch      | Necromancy    | —       |
 | Dancing Lights   | Illusion      | C       |
@@ -240,7 +240,7 @@ Table: Cantrips (Level 0 Sorcerer Spells)
 Table: Level 1 Sorcerer Spells
 
 | Spell                | School        | Special |
-|----------------------|---------------|---------|
+|---|---|---|
 | Burning Hands        | Evocation     | —       |
 | Charm Person         | Enchantment   | —       |
 | Chromatic Orb        | Evocation     | M       |
@@ -266,7 +266,7 @@ Table: Level 1 Sorcerer Spells
 Table: Level 2 Sorcerer Spells
 
 | Spell              | School        | Special |
-|--------------------|---------------|---------|
+|---|---|---|
 | Alter Self         | Transmutation | C       |
 | Blindness/Deafness | Transmutation | —       |
 | Blur               | Illusion      | C       |
@@ -296,7 +296,7 @@ Table: Level 2 Sorcerer Spells
 Table: Level 3 Sorcerer Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Blink                  | Transmutation | —       |
 | Clairvoyance           | Divination    | C, M    |
 | Counterspell           | Abjuration    | —       |
@@ -322,7 +322,7 @@ Table: Level 3 Sorcerer Spells
 Table: Level 4 Sorcerer Spells
 
 | Spell                | School        | Special |
-|----------------------|---------------|---------|
+|---|---|---|
 | Banishment           | Abjuration    | C       |
 | Blight               | Necromancy    | —       |
 | Charm Monster        | Enchantment   | —       |
@@ -340,7 +340,7 @@ Table: Level 4 Sorcerer Spells
 Table: Level 5 Sorcerer Spells
 
 | Spell                | School        | Special |
-|----------------------|---------------|---------|
+|---|---|---|
 | Animate Objects      | Transmutation | C       |
 | Arcane Hand          | Evocation     | C       |
 | Cloudkill            | Conjuration   | C       |
@@ -357,7 +357,7 @@ Table: Level 5 Sorcerer Spells
 Table: Level 6 Sorcerer Spells
 
 | Spell                    | School        | Special |
-|--------------------------|---------------|---------|
+|---|---|---|
 | Chain Lightning          | Evocation     | —       |
 | Circle of Death          | Necromancy    | M       |
 | Disintegrate             | Transmutation | —       |
@@ -373,7 +373,7 @@ Table: Level 6 Sorcerer Spells
 Table: Level 7 Sorcerer Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Delayed Blast Fireball | Evocation     | C       |
 | Etherealness           | Conjuration   | —       |
 | Finger of Death        | Necromancy    | —       |
@@ -386,7 +386,7 @@ Table: Level 7 Sorcerer Spells
 Table: Level 8 Sorcerer Spells
 
 | Spell            | School        | Special |
-|------------------|---------------|---------|
+|---|---|---|
 | Demiplane        | Conjuration   | —       |
 | Dominate Monster | Enchantment   | C       |
 | Earthquake       | Transmutation | C       |
@@ -397,7 +397,7 @@ Table: Level 8 Sorcerer Spells
 Table: Level 9 Sorcerer Spells
 
 | Spell           | School        | Special |
-|-----------------|---------------|---------|
+|---|---|---|
 | Gate            | Conjuration   | C, M    |
 | Meteor Swarm    | Evocation     | —       |
 | Power Word Kill | Enchantment   | —       |
@@ -423,7 +423,7 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 Table: Draconic Spells
 
 | Sorcerer Level    | Spells                                                 |
-|-------------------|--------------------------------------------------------|
+|---|---|
 | 3                 | Alter Self, Chromatic Orb, Command, Dragon's Breath    |
 | 5                 | Fear, Fly                                              |
 | 7                 | Arcane Eye, Charm Monster                              |

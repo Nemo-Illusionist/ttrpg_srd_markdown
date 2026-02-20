@@ -3,7 +3,7 @@
 Table: Core Barbarian Traits
 
 |                               |                                                                                            |
-|-------------------------------|--------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability               | Strength                                                                                   |
 | Hit Point Die                 | D12 per Barbarian level                                                                    |
 | Saving Throw Proficiencies    | Strength and Constitution                                                                  |
@@ -32,7 +32,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 Table: Barbarian Features
 
 | Level | Proficiency Bonus    | Class Features                          | Rages | Rage Damage    | Weapon Mastery    |
-|-------|----------------------|-----------------------------------------|-------|----------------|-------------------|
+|---|---|---|---|---|---|
 | 1     | +2                   | Rage, Unarmored Defense, Weapon Mastery | 2     | +2             | 2                 |
 | 2     | +2                   | Danger Sense, Reckless Attack           | 2     | +2             | 2                 |
 | 3     | +2                   | Barbarian Subclass, Primal Knowledge    | 3     | +2             | 2                 |

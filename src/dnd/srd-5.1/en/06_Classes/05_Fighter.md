@@ -3,7 +3,7 @@
 Table: Core Fighter Traits
 
 |                               |                                                                                            |
-|-------------------------------|--------------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d10 per Fighter level                                                                     |
 | Hit Points at 1st Level       | 10 + your Constitution modifier                                                           |
 | Hit Points at Higher Levels   | 1d10 (or 6) + your Constitution modifier per Fighter level after 1st                      |
@@ -25,7 +25,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Fighter Features
 
 | Level | Proficiency Bonus | Features                                          |
-|-------|-------------------|---------------------------------------------------|
+|---|---|---|
 | 1     | +2                | Fighting Style, Second Wind                       |
 | 2     | +2                | Action Surge (one use)                            |
 | 3     | +2                | Martial Archetype                                 |

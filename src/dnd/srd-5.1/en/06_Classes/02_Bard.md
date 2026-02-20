@@ -3,7 +3,7 @@
 Table: Core Bard Traits
 
 |                               |                                                                                                         |
-|-------------------------------|---------------------------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d8 per Bard level                                                                                      |
 | Hit Points at 1st Level       | 8 + your Constitution modifier                                                                          |
 | Hit Points at Higher Levels   | 1d8 (or 5) + your Constitution modifier per Bard level after 1st                                        |
@@ -25,7 +25,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Bard Features
 
 | Level | Proficiency Bonus | Features                                             | Cantrips Known | Spells Known | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-|-------|-------------------|------------------------------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Spellcasting, Bardic Inspiration (d6)                | 2              | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2     | +2                | Jack of All Trades, Song of Rest (d6)                | 2              | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | Bard College, Expertise                              | 2              | 6            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |

@@ -13,7 +13,7 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 Table: Multiclassing Prerequisites
 
 | Class     | Ability Score Min.          |
-|-----------|-----------------------------|
+|---|---|
 | Barbarian | Strength 13                 |
 | Bard      | Charisma 13                 |
 | Cleric    | Wisdom 13                   |
@@ -48,7 +48,7 @@ When you gain your first level in a class other than your initial class, you gai
 Table: Multiclassing Proficiencies
 
 | Class     | Proficiencies Gained                                                                                       |
-|-----------|------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Barbarian | Shields, simple weapons, martial weapons                                                                   |
 | Bard      | Light armor, one skill of your choice, one musical instrument of your choice                               |
 | Cleric    | Light armor, medium armor, shields                                                                         |
@@ -99,7 +99,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 Table: Multiclass Spellcaster: Spell Slots per Spell Level
 
 | Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|---|---|---|---|---|---|---|
 | 1st   | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |

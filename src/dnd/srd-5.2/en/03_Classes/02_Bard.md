@@ -3,7 +3,7 @@
 Table: Core Bard Traits
 
 |                               |                                                                                                                              |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability               | Charisma                                                                                                                     |
 | Hit Point Die                 | D8 per Bard level                                                                                                            |
 | Saving Throw Proficiencies    | Dexterity and Charisma                                                                                                       |
@@ -33,7 +33,7 @@ As a Bard, you gain the following class features when you reach the specified Ba
 Table: Bard Features: ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features                      | Bardic Die | Cantrips | Prepared Spells   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|-------------------------------------|------------|----------|-------------------|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Bardic Inspiration, Spellcasting    | D6         | 2        | 4                 | 2 | — | — | — | — | — | — | — | — |
 | 2     | +2                | Expertise, Jack of All Trades       | D6         | 2        | 5                 | 3 | — | — | — | — | — | — | — | — |
 | 3     | +2                | Bard Subclass                       | D6         | 2        | 6                 | 4 | 2 | — | — | — | — | — | — | — |
@@ -144,7 +144,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 Table: Cantrips (Level 0 Bard Spells)
 
 | Spell            | School        | Special |
-|------------------|---------------|---------|
+|---|---|---|
 | Dancing Lights   | Illusion      | C       |
 | Light            | Evocation     | —       |
 | Mage Hand        | Conjuration   | —       |
@@ -159,7 +159,7 @@ Table: Cantrips (Level 0 Bard Spells)
 Table: Level 1 Bard Spells
 
 | Spell                | School        | Special |
-|----------------------|---------------|---------|
+|---|---|---|
 | Animal Friendship    | Enchantment   | —       |
 | Bane                 | Enchantment   | C       |
 | Charm Person         | Enchantment   | —       |
@@ -187,7 +187,7 @@ Table: Level 1 Bard Spells
 Table: Level 2 Bard Spells
 
 | Spell                    | School        | Special |
-|--------------------------|---------------|---------|
+|---|---|---|
 | Aid                      | Abjuration    | —       |
 | Animal Messenger         | Enchantment   | R       |
 | Blindness/Deafness       | Transmutation | —       |
@@ -214,7 +214,7 @@ Table: Level 2 Bard Spells
 Table: Level 3 Bard Spells
 
 | Spell             | School        | Special |
-|-------------------|---------------|---------|
+|---|---|---|
 | Bestow Curse      | Necromancy    | C       |
 | Clairvoyance      | Divination    | C, M    |
 | Dispel Magic      | Abjuration    | —       |
@@ -236,7 +236,7 @@ Table: Level 3 Bard Spells
 Table: Level 4 Bard Spells
 
 | Spell                 | School        | Special |
-|-----------------------|---------------|---------|
+|---|---|---|
 | Charm Monster         | Enchantment   | —       |
 | Compulsion            | Enchantment   | C       |
 | Confusion             | Enchantment   | C       |
@@ -251,7 +251,7 @@ Table: Level 4 Bard Spells
 Table: Level 5 Bard Spells
 
 | Spell                | School        | Special |
-|----------------------|---------------|---------|
+|---|---|---|
 | Animate Objects      | Transmutation | C       |
 | Awaken               | Transmutation | M       |
 | Dominate Person      | Enchantment   | C       |
@@ -273,7 +273,7 @@ Table: Level 5 Bard Spells
 Table: Level 6 Bard Spells
 
 | Spell               | School      | Special |
-|---------------------|-------------|---------|
+|---|---|---|
 | Eyebite             | Necromancy  | C       |
 | Find the Path       | Divination  | C, M    |
 | Guards and Wards    | Abjuration  | M       |
@@ -286,7 +286,7 @@ Table: Level 6 Bard Spells
 Table: Level 7 Bard Spells
 
 | Spell               | School        | Special |
-|---------------------|---------------|---------|
+|---|---|---|
 | Arcane Sword        | Evocation     | C, M    |
 | Etherealness        | Conjuration   | —       |
 | Forcecage           | Evocation     | C, M    |
@@ -302,7 +302,7 @@ Table: Level 7 Bard Spells
 Table: Level 8 Bard Spells
 
 | Spell              | School      | Special |
-|--------------------|-------------|---------|
+|---|---|---|
 | Antipathy/Sympathy | Enchantment | —       |
 | Befuddlement       | Enchantment | —       |
 | Dominate Monster   | Enchantment | C       |
@@ -313,7 +313,7 @@ Table: Level 8 Bard Spells
 Table: Level 9 Bard Spells
 
 | Spell           | School        | Special |
-|-----------------|---------------|---------|
+|---|---|---|
 | Foresight       | Divination    | —       |
 | Power Word Heal | Enchantment   | —       |
 | Power Word Kill | Enchantment   | —       |

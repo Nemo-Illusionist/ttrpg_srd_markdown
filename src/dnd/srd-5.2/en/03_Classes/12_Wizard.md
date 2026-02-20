@@ -3,7 +3,7 @@
 Table: Core Wizard Traits
 
 |                            |                                                                                                      |
-|----------------------------|------------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability            | Intelligence                                                                                         |
 | Hit Point Die              | D6 per Wizard level                                                                                  |
 | Saving Throw Proficiencies | Intelligence and Wisdom                                                                              |
@@ -31,7 +31,7 @@ As a Wizard, you gain the following class features when you reach the specified 
 Table: Wizard Features: ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features                                 | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|------------------------------------------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Spellcasting, Ritual Adept, Arcane Recovery    | 3        | 4               | 2 | — | — | — | — | — | — | — | — |
 | 2     | +2                | Scholar                                        | 3        | 5               | 3 | — | — | — | — | — | — | — | — |
 | 3     | +2                | Wizard Subclass                                | 3        | 6               | 4 | 2 | — | — | — | — | — | — | — |
@@ -138,7 +138,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 Table: Cantrips (Level 0 Wizard Spells)
 
 | Spell            | School        | Special |
-|------------------|---------------|---------|
+|---|---|---|
 | Acid Splash      | Evocation     | —       |
 | Chill Touch      | Necromancy    | —       |
 | Dancing Lights   | Illusion      | C       |
@@ -158,7 +158,7 @@ Table: Cantrips (Level 0 Wizard Spells)
 Table: Level 1 Wizard Spells
 
 | Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
+|---|---|---|
 | Alarm                         | Abjuration    | R       |
 | Burning Hands                 | Evocation     | —       |
 | Charm Person                  | Enchantment   | —       |
@@ -193,7 +193,7 @@ Table: Level 1 Wizard Spells
 Table: Level 2 Wizard Spells
 
 | Spell                 | School        | Special |
-|-----------------------|---------------|---------|
+|---|---|---|
 | Acid Arrow            | Evocation     | —       |
 | Alter Self            | Transmutation | C       |
 | Arcane Lock           | Abjuration    | M       |
@@ -233,7 +233,7 @@ Table: Level 2 Wizard Spells
 Table: Level 3 Wizard Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Animate Dead           | Necromancy    | —       |
 | Bestow Curse           | Necromancy    | C       |
 | Blink                  | Transmutation | —       |
@@ -267,7 +267,7 @@ Table: Level 3 Wizard Spells
 Table: Level 4 Wizard Spells
 
 | Spell                    | School        | Special |
-|--------------------------|---------------|---------|
+|---|---|---|
 | Arcane Eye               | Divination    | C       |
 | Banishment               | Abjuration    | C       |
 | Black Tentacles          | Conjuration   | C       |
@@ -298,7 +298,7 @@ Table: Level 4 Wizard Spells
 Table: Level 5 Wizard Spells
 
 | Spell                | School           | Special |
-|----------------------|------------------|---------|
+|---|---|---|
 | Animate Objects      | Transmutation    | C       |
 | Arcane Hand          | Evocation        | C       |
 | Cloudkill            | Conjuration      | C       |
@@ -327,7 +327,7 @@ Table: Level 5 Wizard Spells
 Table: Level 6 Wizard Spells
 
 | Spell                    | School             | Special |
-|--------------------------|--------------------|---------|
+|---|---|---|
 | Chain Lightning          | Evocation          | —       |
 | Circle of Death          | Necromancy         | M       |
 | Contingency              | Abjuration         | M       |
@@ -351,7 +351,7 @@ Table: Level 6 Wizard Spells
 Table: Level 7 Wizard Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Arcane Sword           | Evocation     | C, M    |
 | Delayed Blast Fireball | Evocation     | C       |
 | Etherealness           | Conjuration   | —       |
@@ -371,7 +371,7 @@ Table: Level 7 Wizard Spells
 Table: Level 8 Wizard Spells
 
 | Spell              | School        | Special |
-|--------------------|---------------|---------|
+|---|---|---|
 | Antimagic Field    | Abjuration    | C       |
 | Antipathy/Sympathy | Enchantment   | —       |
 | Befuddlement       | Enchantment   | —       |
@@ -388,7 +388,7 @@ Table: Level 8 Wizard Spells
 Table: Level 9 Wizard Spells
 
 | Spell             | School        | Special |
-|-------------------|---------------|---------|
+|---|---|---|
 | Astral Projection | Necromancy    | M       |
 | Foresight         | Divination    | —       |
 | Gate              | Conjuration   | C, M    |

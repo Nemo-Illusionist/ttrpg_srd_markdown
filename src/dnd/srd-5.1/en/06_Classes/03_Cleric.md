@@ -3,7 +3,7 @@
 Table: Core Cleric Traits
 
 |                               |                                                                                                                          |
-|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d8 per Cleric level                                                                                                     |
 | Hit Points at 1st Level       | 8 + your Constitution modifier                                                                                           |
 | Hit Points at Higher Levels   | 1d8 (or 5) + your Constitution modifier per Cleric level after 1st                                                       |
@@ -26,7 +26,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Cleric Features
 
 | Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-|-------|-------------------|-------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Spellcasting, Divine Domain                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2     | +2                | Channel Divinity (1/rest), Divine Domain Feature                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | -                                                                       | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -119,7 +119,7 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 Table: Destroy Undead
 
 | Cleric Level | Destroys Undead of CR ... |
-|--------------|---------------------------|
+|---|---|
 | 5            | 1/2 or lower              |
 | 8            | 1 or lower                |
 | 11           | 2 or lower                |
@@ -143,7 +143,7 @@ The Life domain focuses on the vibrant positive energy—one of the fundamental 
 Table: Life Domain Spells
 
 | Cleric Level | Spells                               |
-|--------------|--------------------------------------|
+|---|---|
 | 1            | bless, cure wounds                   |
 | 3            | lesser restoration, spiritual weapon |
 | 5            | beacon of hope, revivify             |

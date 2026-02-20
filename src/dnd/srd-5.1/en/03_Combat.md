@@ -147,7 +147,7 @@ Each creature takes up a different amount of space. The Size Categories table sh
 Table: Creature Size
 
 | Size       | Space                  |
-|------------|------------------------|
+|---|---|
 | Tiny       | 2½ by 2½ ft.            |
 | Small      | 5 by 5 ft.             |
 | Medium     | 5 by 5 ft.             |

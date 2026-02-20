@@ -1,7 +1,7 @@
 ## Monsters
 
 | Monster | Size | Type | Alignment | CR | AC | HP |
-|---------|------|------|-----------|----|----|-----|
+|---|---|---|---|---|---|---|
 | Aboleth | Large | Aberration | Lawful Evil | 10 | 17 | 135 |
 | Acolyte | Medium | Humanoid (any race) | Any Alignment | 1/4 | 10 | 9 |
 | Air Elemental | Large | Elemental | Neutral | 5 | 15 | 90 |

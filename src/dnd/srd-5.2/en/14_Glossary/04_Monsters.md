@@ -1,7 +1,7 @@
 ## Monsters
 
 | Monster | Size | Type | Alignment | CR | AC | HP |
-|---------|------|------|-----------|----|----|-----|
+|---|---|---|---|---|---|---|
 | Aboleth | Large | Aberration | Lawful Evil | 10 | 17 | 150 |
 | Adult Black Dragon | Huge | Dragon (Chromatic) | Chaotic Evil | 14 | 19 | 195 |
 | Adult Blue Dragon | Huge | Dragon (Chromatic) | Lawful Evil | 16 | 19 | 212 |

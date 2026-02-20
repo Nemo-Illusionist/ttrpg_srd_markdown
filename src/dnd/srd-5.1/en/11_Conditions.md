@@ -29,7 +29,7 @@ Some special abilities and environmental hazards, such as starvation and the lon
 Table: Exhaustion Effects
 
 | Level | Effect                                         |
-|-------|------------------------------------------------|
+|---|---|
 | 1     | Disadvantage on ability checks                 |
 | 2     | Speed halved                                   |
 | 3     | Disadvantage on attack rolls and saving throws |

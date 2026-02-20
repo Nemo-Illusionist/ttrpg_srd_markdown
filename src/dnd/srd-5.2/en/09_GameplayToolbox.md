@@ -55,7 +55,7 @@ Choose three abilities that seem appropriate for the background:
 Table: Travel Terrain
 
 | Terrain    | Maximum Pace | Encounter Distance | Foraging DC | Navigation DC | Search DC |
-|------------|--------------|--------------------|-------------|---------------|-----------|
+|---|---|---|---|---|---|
 | Arctic     | Fast*        | 6d6 × 10 feet      | 20          | 10            | 10        |
 | Coastal    | Normal       | 2d10 × 10 feet     | 10          | 5             | 15        |
 | Desert     | Normal       | 6d6 × 10 feet      | 20          | 10            | 10        |
@@ -235,7 +235,7 @@ Whenever the characters encounter something that is supernaturally frightful, us
 Table: Sample Fear DCs
 
 | Example                                                                                                                                     | Save DC |
-|---------------------------------------------------------------------------------------------------------------------------------------------|---------|
+|---|---|
 | When the characters open a sarcophagus, a harmless yet terrifying apparition appears.                                                       | 10      |
 | A character triggers a magical trap that creates an illusory manifestation of that character's worst fears, visible only to that character. | 15      |
 | A portal to the Abyss opens, revealing a nightmarish realm of torment and slaughter.                                                        | 20      |
@@ -257,7 +257,7 @@ The Sample Mental Stress Effects table provides a few examples of such effects, 
 Table: Sample Mental Stress Effects
 
 | Example                                                                                              | Save DC | Psychic Damage |
-|------------------------------------------------------------------------------------------------------|---------|----------------|
+|---|---|---|
 | A character ingests a hallucinogenic substance that distorts the charac ter's perception of reality. | 10      | 1d6            |
 | A character touches a fiendish idol that tears at the character's mind, threatening to shatter it.   | 15      | 3d6            |
 | A magical trap flings a character into the Far Realm until the end of that character's next turn.    | 20      | 9d6            |
@@ -419,7 +419,7 @@ The first creature that crosses the trip wire causes the supports to topple and 
 **_At Higher Levels._** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
 
 | Levels | Bludgeoning Damage | Save DC |
-|--------|--------------------|---------|
+|---|---|---|
 | 5–10   | 22 (4d10)          | 15      |
 | 11–16  | 55 (10d10)         | 17      |
 | 17–20  | 99 (18d10)         | 19      |
@@ -461,7 +461,7 @@ As a Search action, a creature can examine the section of floor that forms the p
 **_At Higher Levels._** You can scale the trap for higher levels by increasing the damage and the area of effect, as shown in the following table.
 
 | Levels | Fire Damage | Area of Effect |
-|--------|-------------|----------------|
+|---|---|---|
 | 5–10   | 22 (4d10)   | 30-foot Cone   |
 | 11–16  | 55 (10d10)  | 60-foot Cone   |
 | 17–20  | 99 (18d10)  | 120-foot Cone  |
@@ -485,7 +485,7 @@ A creature that falls into the pit takes 3 (1d6) Bludgeoning damage from the fal
 **_At Higher Levels._** You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
 
 | Levels | Pit Depth | Bludgeoning Damage |
-|--------|-----------|--------------------|
+|---|---|---|
 | 5–10   | 30 feet   | 10 (3d6)           |
 | 11–16  | 60 feet   | 21 (6d6)           |
 | 17–20  | 120 feet  | 42 (12d6)          |
@@ -525,7 +525,7 @@ A poisoned needle is hidden in a lock. When a creature opens the lock with any o
 **_At Higher Levels._** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
 
 | Levels | Poison Damage | Save DC |
-|--------|---------------|---------|
+|---|---|---|
 | 5–10   | 11 (2d10)     | 13      |
 | 11–16  | 22 (4d10)     | 15      |
 | 17–20  | 55 (10d10)    | 17      |
@@ -569,7 +569,7 @@ A creature that falls into the pit lands at the bottom and takes 3 (1d6) Bludgeo
 **_At Higher Levels._** You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
 
 | Levels | Pit Depth | Damage                                        |
-|--------|-----------|-----------------------------------------------|
+|---|---|---|
 | 5–10   | 30 feet   | 10 (3d6) Bludgeoning plus 13 (3d8) Piercing   |
 | 11–16  | 60 feet   | 21 (6d6) Bludgeoning plus 36 (8d8) Piercing   |
 | 17–20  | 120 feet  | 42 (12d6) Bludgeoning plus 57 (13d8) Piercing |
@@ -607,7 +607,7 @@ Using the XP Budget per Character table, cross-reference the party's level with 
 Table: XP Budget per Character: ——— Encounter Difficulty ———
 
 | Party's Level | Low DC | Moderate DC | High DC |
-|---------------|--------|-------------|---------|
+|---|---|---|---|
 | 1             | 50     | 75          | 100     |
 | 2             | 100    | 150         | 200     |
 | 3             | 150    | 225         | 400     |

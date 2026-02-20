@@ -3,7 +3,7 @@
 Table: Core Druid Traits
 
 |                            |                                                                                                                                          |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability            | Wisdom                                                                                                                                   |
 | Hit Point Die              | D8 per Druid level                                                                                                                       |
 | Saving Throw Proficiencies | Intelligence and Wisdom                                                                                                                  |
@@ -32,7 +32,7 @@ As a Druid, you gain the following class features when you reach the specified D
 Table: Druid Features: ——Spell Slots per Spell Level——
 
 | Level       | Proficiency Bonus | Class Features                         | Wild Shape | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------------|-------------------|----------------------------------------|------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1           | +2                | Spellcasting, Druidic, Primal Order    | —          | 2        | 4               | 2 | — | — | — | — | — | — | — | — |
 | 2           | +2                | Wild Shape, Wild Companion             | 2          | 2        | 5               | 3 | — | — | — | — | — | — | — | — |
 | 3           | +2                | Druid Subclass                         | 2          | 2        | 6               | 4 | 2 | — | — | — | — | — | — | — |
@@ -109,7 +109,7 @@ When choosing known forms, you may look in other sources for eligible Beasts if 
 Table: Beast Shapes
 
 | Druid Level    | Known Forms    | Max CR    | Fly Speed |
-|----------------|----------------|-----------|-----------|
+|---|---|---|---|
 | 2              | 4              | 1/4       | No        |
 | 4              | 6              | 1/2       | No        |
 | 8              | 8              | 1         | Yes       |
@@ -182,7 +182,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 Table: Cantrips (Level 0 Druid Spells)
 
 | Spell           | School        | Special |
-|-----------------|---------------|---------|
+|---|---|---|
 | Control Flames  | Transmutation | —       |
 | Druidcraft      | Transmutation | —       |
 | Guidance        | Divination    | C       |
@@ -198,7 +198,7 @@ Table: Cantrips (Level 0 Druid Spells)
 Table: Level 1 Druid Spells
 
 | Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
+|---|---|---|
 | Animal Friendship             | Enchantment   | —       |
 | Charm Person                  | Enchantment   | —       |
 | Create or Destroy Water       | Transmutation | —       |
@@ -221,7 +221,7 @@ Table: Level 1 Druid Spells
 Table: Level 2 Druid Spells
 
 | Spell                    | School        | Special |
-|--------------------------|---------------|---------|
+|---|---|---|
 | Aid                      | Abjuration    | —       |
 | Animal Messenger         | Enchantment   | R       |
 | Augury                   | Divination    | R, M    |
@@ -247,7 +247,7 @@ Table: Level 2 Druid Spells
 Table: Level 3 Druid Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Call Lightning         | Conjuration   | C       |
 | Conjure Animals        | Conjuration   | C       |
 | Daylight               | Evocation     | —       |
@@ -265,7 +265,7 @@ Table: Level 3 Druid Spells
 Table: Level 4 Druid Spells
 
 | Spell                    | School        | Special |
-|--------------------------|---------------|---------|
+|---|---|---|
 | Blight                   | Necromancy    | —       |
 | Charm Monster            | Enchantment   | —       |
 | Confusion                | Enchantment   | C       |
@@ -288,7 +288,7 @@ Table: Level 4 Druid Spells
 Table: Level 5 Druid Spells
 
 | Spell               | School        | Special |
-|---------------------|---------------|---------|
+|---|---|---|
 | Antilife Shell      | Abjuration    | C       |
 | Awaken              | Transmutation | M       |
 | Commune with Nature | Divination    | R       |
@@ -308,7 +308,7 @@ Table: Level 5 Druid Spells
 Table: Level 6 Druid Spells
 
 | Spell                | School        | Special |
-|----------------------|---------------|---------|
+|---|---|---|
 | Conjure Fey          | Conjuration   | C       |
 | Find the Path        | Divination    | C, M    |
 | Flesh to Stone       | Transmutation | C       |
@@ -323,7 +323,7 @@ Table: Level 6 Druid Spells
 Table: Level 7 Druid Spells
 
 | Spell           | School        | Special |
-|-----------------|---------------|---------|
+|---|---|---|
 | Fire Storm      | Evocation     | —       |
 | Mirage Arcane   | Illusion      | —       |
 | Plane Shift     | Conjuration   | M       |
@@ -334,7 +334,7 @@ Table: Level 7 Druid Spells
 Table: Level 8 Druid Spells
 
 | Spell              | School        | Special |
-|--------------------|---------------|---------|
+|---|---|---|
 | Animal Shapes      | Transmutation | —       |
 | Antipathy/Sympathy | Enchantment   | —       |
 | Befuddlement       | Enchantment   | —       |
@@ -347,7 +347,7 @@ Table: Level 8 Druid Spells
 Table: Level 9 Druid Spells
 
 | Spell              | School        | Special |
-|--------------------|---------------|---------|
+|---|---|---|
 | Foresight          | Divination    | —       |
 | Shapechange        | Transmutation | C, M    |
 | Storm of Vengeance | Conjuration   | C       |
@@ -366,7 +366,7 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 Table: Arid Land
 
 | Druid Level | Circle Spells                  |
-|-------------|--------------------------------|
+|---|---|
 | 3           | Blur, Burning Hands, Fire Bolt |
 | 5           | Fireball                       |
 | 7           | Blight                         |
@@ -375,7 +375,7 @@ Table: Arid Land
 Table: Polar Land
 
 | Druid Level | Circle Spells                        |
-|-------------|--------------------------------------|
+|---|---|
 | 3           | Fog Cloud, Hold Person, Ray of Frost |
 | 5           | Sleet Storm                          |
 | 7           | Ice Storm                            |
@@ -384,7 +384,7 @@ Table: Polar Land
 Table: Temperate Land
 
 | Druid Level | Circle Spells                     |
-|-------------|-----------------------------------|
+|---|---|
 | 3           | Misty Step, Shocking Grasp, Sleep |
 | 5           | Lightning Bolt                    |
 | 7           | Freedom of Movement               |
@@ -393,7 +393,7 @@ Table: Temperate Land
 Table: Tropical Land
 
 | Druid Level | Circle Spells                     |
-|-------------|-----------------------------------|
+|---|---|
 | 3           | Acid Splash, Ray of Sickness, Web |
 | 5           | Stinking Cloud                    |
 | 7           | Polymorph                         |
@@ -418,7 +418,7 @@ You are immune to the Poisoned condition, and you have Resistance to a damage ty
 Table: Nature's Ward
 
 | Land Type | Resistance | Land Type | Resistance |
-|-----------|------------|-----------|------------|
+|---|---|---|---|
 | Arid      | Fire       | Temperate | Lightning  |
 | Polar     | Cold       | Tropical  | Poison     |
 

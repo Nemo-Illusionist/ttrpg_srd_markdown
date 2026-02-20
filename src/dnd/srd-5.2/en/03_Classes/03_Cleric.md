@@ -3,7 +3,7 @@
 Table: Core Cleric Traits
 
 |                               |                                                                                                    |
-|-------------------------------|----------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability               | Wisdom                                                                                             |
 | Hit Point Die                 | D8 per Cleric level                                                                                |
 | Saving Throw Proficiencies    | Wisdom and Charisma                                                                                |
@@ -31,7 +31,7 @@ As a Cleric, you gain the following class features when you reach the specified 
 Table: Cleric Class Features: ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features              | Channel Divinity | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|-----------------------------|------------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Spellcasting, Divine Order  | —                | 3        | 4               | 2 | — | — | — | — | — | — | — | — |
 | 2     | +2                | Channel Divinity            | 2                | 3        | 5               | 3 | — | — | — | — | — | — | — | — |
 | 3     | +2                | Cleric Subclass             | 2                | 3        | 6               | 4 | 2 | — | — | — | — | — | — | — |
@@ -146,7 +146,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 Table: Cantrips (Level 0 Cleric Spells)
 
 | Spell           | School        | Special |
-|-----------------|---------------|---------|
+|---|---|---|
 | Guidance        | Divination    | C       |
 | Light           | Evocation     | —       |
 | Mending         | Transmutation | —       |
@@ -158,7 +158,7 @@ Table: Cantrips (Level 0 Cleric Spells)
 Table: Level 1 Cleric Spells
 
 | Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
+|---|---|---|
 | Bane                          | Enchantment   | C       |
 | Bless                         | Enchantment   | C, M    |
 | Command                       | Enchantment   | —       |
@@ -178,7 +178,7 @@ Table: Level 1 Cleric Spells
 Table: Level 2 Cleric Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Aid                    | Abjuration    | —       |
 | Augury                 | Divination    | R, M    |
 | Blindness/Deafness     | Transmutation | —       |
@@ -200,7 +200,7 @@ Table: Level 2 Cleric Spells
 Table: Level 3 Cleric Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Animate Dead           | Necromancy    | —       |
 | Beacon of Hope         | Abjuration    | C       |
 | Bestow Curse           | Necromancy    | C       |
@@ -224,7 +224,7 @@ Table: Level 3 Cleric Spells
 Table: Level 4 Cleric Spells
 
 | Spell               | School        | Special |
-|---------------------|---------------|---------|
+|---|---|---|
 | Aura of Life        | Abjuration    | C       |
 | Banishment          | Abjuration    | C       |
 | Control Water       | Transmutation | C       |
@@ -238,7 +238,7 @@ Table: Level 4 Cleric Spells
 Table: Level 5 Cleric Spells
 
 | Spell                | School      | Special |
-|----------------------|-------------|---------|
+|---|---|---|
 | Commune              | Divination  | R       |
 | Contagion            | Necromancy  | —       |
 | Dispel Evil and Good | Abjuration  | C       |
@@ -256,7 +256,7 @@ Table: Level 5 Cleric Spells
 Table: Level 6 Cleric Spells
 
 | Spell          | School      | Special |
-|----------------|-------------|---------|
+|---|---|---|
 | Blade Barrier  | Evocation   | C       |
 | Create Undead  | Necromancy  | M       |
 | Find the Path  | Divination  | C, M    |
@@ -272,7 +272,7 @@ Table: Level 6 Cleric Spells
 Table: Level 7 Cleric Spells
 
 | Spell             | School        | Special |
-|-------------------|---------------|---------|
+|---|---|---|
 | Conjure Celestial | Conjuration   | C       |
 | Divine Word       | Evocation     | —       |
 | Etherealness      | Conjuration   | —       |
@@ -285,7 +285,7 @@ Table: Level 7 Cleric Spells
 Table: Level 8 Cleric Spells
 
 | Spell           | School        | Special |
-|-----------------|---------------|---------|
+|---|---|---|
 | Antimagic Field | Abjuration    | C       |
 | Control Weather | Transmutation | C       |
 | Earthquake      | Transmutation | C       |
@@ -295,7 +295,7 @@ Table: Level 8 Cleric Spells
 Table: Level 9 Cleric Spells
 
 | Spell             | School      | Special |
-|-------------------|-------------|---------|
+|---|---|---|
 | Astral Projection | Necromancy  | M       |
 | Gate              | Conjuration | C, M    |
 | Mass Heal         | Abjuration  | —       |
@@ -321,7 +321,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 Table: Life Domain Spells
 
 | Cleric Level    | Prepared Spells                                |
-|-----------------|------------------------------------------------|
+|---|---|
 | 3               | Aid, Bless, Cure Wounds, Lesser Restoration    |
 | 5               | Mass Healing Word, Revivify                    |
 | 7               | Aura of Life, Death Ward                       |

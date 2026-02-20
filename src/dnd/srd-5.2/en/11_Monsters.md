@@ -71,7 +71,7 @@ A monster's size typically determines the die used to calculate its Hit Points, 
 Table: Hit Dice by Size
 
 | Monster Size | Hit Die | Average HP per Die |
-|--------------|---------|--------------------|
+|---|---|---|
 | Tiny         | d4      | 2½                 |
 | Small        | d6      | 3½                 |
 | Medium       | d8      | 4½                 |
@@ -154,7 +154,7 @@ Unless a rule says otherwise, a monster summoned by a spell or another magical a
 Table: Experience Points by Challenge Rating
 
 | CR  | XP      |
-|-----|---------|
+|---|---|
 | 0   | 0 or 10 |
 | 1/8 | 25      |
 | 1/4 | 50      |
@@ -197,7 +197,7 @@ A monster's Proficiency Bonus (PB) is determined by its CR, as shown in the Prof
 Table: Proficiency Bonus by Challenge Rating
 
 | CR    | PB |
-|-------|----|
+|---|---|
 | 0–4   | +2 |
 | 5–8   | +3 |
 | 9–12  | +4 |

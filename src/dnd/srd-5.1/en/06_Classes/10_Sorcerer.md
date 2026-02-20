@@ -3,7 +3,7 @@
 Table: Core Sorcerer Traits
 
 |                               |                                                                                        |
-|-------------------------------|----------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d6 per Sorcerer level                                                                 |
 | Hit Points at 1st Level       | 6 + your Constitution modifier                                                        |
 | Hit Points at Higher Levels   | 1d6 (or 4) + your Constitution modifier per Sorcerer level after 1st                   |
@@ -25,7 +25,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Sorcerer Features
 
 | Level | Proficiency Bonus | Sorcery Points | Features                       | Cantrips Known | Spells Known | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-|-------|-------------------|----------------|--------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | -              | Spellcasting, Sorcerous Origin | 4              | 2            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2     | +2                | 2              | Font of Magic                  | 4              | 3            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | 3              | Metamagic                      | 4              | 4            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -106,7 +106,7 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 Table: Creating Spell Slots
 
 | Spell Slot Level | Sorcery Point Cost |
-|------------------|--------------------|
+|---|---|
 | 1                | 2                  |
 | 2                | 3                  |
 | 3                | 5                  |
@@ -180,7 +180,7 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 Table: Draconic Ancestry
 
 | Dragon | Damage Type |
-|--------|-------------|
+|---|---|
 | Black  | Acid        |
 | Blue   | Lightning   |
 | Brass  | Fire        |

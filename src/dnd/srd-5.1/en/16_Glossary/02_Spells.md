@@ -1,7 +1,7 @@
 ## Spells
 
 | Spell | Level | School | Classes |
-|-------|-------|--------|---------|
+|---|---|---|---|
 | Acid Splash | Cantrip | Conjuration | Sorcerer, Wizard |
 | Chill Touch | Cantrip | Necromancy | Sorcerer, Warlock, Wizard |
 | Dancing Lights | Cantrip | Evocation | Bard, Sorcerer, Wizard |

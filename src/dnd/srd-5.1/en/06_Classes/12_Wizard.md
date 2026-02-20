@@ -3,7 +3,7 @@
 Table: Core Wizard Traits
 
 |                               |                                                                                     |
-|-------------------------------|-------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d6 per Wizard level                                                                |
 | Hit Points at 1st Level       | 6 + your Constitution modifier                                                     |
 | Hit Points at Higher Levels   | 1d6 (or 4) + your Constitution modifier per Wizard level after 1st                 |
@@ -25,7 +25,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Wizard Features
 
 | Level | Proficiency Bonus | Features                      | Cantrips Known | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-|-------|-------------------|-------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Spellcasting, Arcane Recovery | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2     | +2                | Arcane Tradition              | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | -                             | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |

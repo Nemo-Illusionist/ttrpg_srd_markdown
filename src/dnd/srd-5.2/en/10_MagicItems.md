@@ -9,7 +9,7 @@ Every magic item belongs to a category. The Magic Item Categories table lists th
 Table: Magic Item Categories
 
 | Category       | Examples                           |
-|----------------|------------------------------------|
+|---|---|
 | Armor          | +1 Leather Armor, +1 Shield        |
 | Potions        | Potion of Healing                  |
 | Rings          | Ring of Invisibility               |
@@ -39,7 +39,7 @@ When a character mixes two potions together, roll on the Potion Miscibility tabl
 Table: Potion Miscibility
 
 | 1d100 | Result                                                                                                                                      |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01    | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius Sphere centered on itself. Each creature in that area takes 4d10 Force damage. |
 | 02–08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see "Poison" in "Gameplay Toolbox").           |
 | 09–15 | Both potions lose their effects.                                                                                                            |
@@ -116,7 +116,7 @@ If a magic item incorporates an item that has a purchase cost in "Equipment" (su
 Table: Magic Item Rarities and Values
 
 | Rarity    | Value*     |
-|-----------|------------|
+|---|---|
 | Common    | 100 GP     |
 | Uncommon  | 400 GP     |
 | Rare      | 4,000 GP   |
@@ -179,7 +179,7 @@ The Magic Item Tools table lists which tool is required to make a magic item of 
 Table: Magic Item Tools
 
 | Item Category | Required Tool                                                                                                                    |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Armor         | Leatherworker's Tools, Smith's Tools, or Weaver's Tools depending on the kind of armor as noted in the tools' descriptions      |
 | Potion        | Alchemist's Supplies or Herbalism Kit                                                                                            |
 | Ring          | Jeweler's Tools                                                                                                                  |
@@ -209,7 +209,7 @@ If a magic item incorporates an item that has a purchase cost (such as a weapon 
 Table: Magic Item Crafting Time and Cost
 
 | Item Rarity | Time*    | Cost*      |
-|-------------|----------|------------|
+|---|---|---|
 | Common      | 5 days   | 50 GP      |
 | Uncommon    | 10 days  | 200 GP     |
 | Rare        | 50 days  | 2,000 GP   |
@@ -253,7 +253,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 Table: Sentient Item's Alignment
 
 | 1d100 | Alignment       |
-|-------|-----------------|
+|---|---|
 | 01–15 | Lawful Good     |
 | 16–35 | Neutral Good    |
 | 36–50 | Chaotic Good    |
@@ -267,7 +267,7 @@ Table: Sentient Item's Alignment
 Table: Sentient Item's Communication
 
 | 1d10 | Communication                                                                                                                            |
-|------|------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 1–6  | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                   |
 | 7–9  | The item speaks one or more languages.                                                                                                   |
 | 10   | The item speaks one or more languages. In addition, the item can communicate telepathically with any creature that carries or wields it. |
@@ -275,7 +275,7 @@ Table: Sentient Item's Communication
 Table: Sentient Item's Senses
 
 | 1d4 | Senses                                      |
-|-----|---------------------------------------------|
+|---|---|
 | 1   | Hearing and standard vision out to 30 feet  |
 | 2   | Hearing and standard vision out to 60 feet  |
 | 3   | Hearing and standard vision out to 120 feet |
@@ -284,7 +284,7 @@ Table: Sentient Item's Senses
 Table: Sentient Item's Special Purpose
 
 | 1d10 | Special Purpose                                                                                                                |
-|------|--------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 1    | **Aligned.** The item seeks to defeat or destroy those of a diametrically opposed alignment. Such an item is never Neutral.    |
 | 2    | **Bane.** The item seeks to thwart or destroy creatures of a particular type, such as Constructs, Fiends, or Undead.           |
 | 3    | **Creator Seeker.** The item seeks its creator and wants to understand why it was created.                                     |
@@ -343,7 +343,7 @@ This magic ammunition is meant to slay creatures of a particular type, which the
 After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 
 | 1d100 | Creature Type |
-|-------|---------------|
+|---|---|
 | 01–10 | Aberrations   |
 | 11–15 | Beasts        |
 | 16–20 | Celestials    |
@@ -378,7 +378,7 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast *Plane Shift*. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.
 
 | 1d100 | Destination                             |
-|-------|-----------------------------------------|
+|---|---|
 | 01–60 | Random location on the plane you named  |
 | 61–70 | Random location on an Inner Plane determined by rolling 1d6: on a **1,** the Plane of Air; on a **2,** the Plane of Earth; on a **3,** the Plane of Fire; on a **4,** the Plane of Water; on a **5,** the Feywild; on a **6,** the Shadowfell |
 | 71–80 | Random location on an Outer Plane determined by rolling 1d8: on a **1,** Arborea; on a **2,** Arcadia; on a **3,** the Beastlands; on a **4,** Bytopia; on a **5,** Elysium; on a **6,** Mechanus; on a **7,** Mount Celestia; on an **8,** Ysgard |
@@ -408,7 +408,7 @@ A creature in the compartment can take a Utilize action to move as many as two o
 Table: Apparatus of the Crab Levers
 
 | Lever | Up                                                     | Down                                       |
-|-------|--------------------------------------------------------|--------------------------------------------|
+|---|---|---|
 | 1     | Legs extend, allowing the apparatus to walk and swim.  | Legs retract, reducing the apparatus's Speed and Swim Speed to 0 and making it unable to benefit from bonuses to speed. |
 | 2     | Forward window shutter opens.                          | Forward window shutter closes.             |
 | 3     | Side window shutters open (two per side).              | Side window shutters close (two per side). |
@@ -441,7 +441,7 @@ You have Resistance to Bludgeoning, Piercing, and Slashing damage while you wear
 You have Resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly by rolling on the following table.
 
 | 1d10 | Damage Type |
-|------|-------------|
+|---|---|
 | 1    | Acid        |
 | 2    | Cold        |
 | 3    | Fire        |
@@ -480,7 +480,7 @@ If you dump one or more beans out of the bag, they explode in a 10-foot-radius S
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean disappears as it produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table or determine it randomly.
 
 | 1d100 | Effect                   |
-|-------|--------------------------|
+|---|---|
 | 01    | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 Poison damage and have the Poisoned condition for 1 hour. On an even roll, the eater gains 5d6 Temporary Hit Points for 1 hour. |
 | 02–10 | A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d4 minutes. |
 | 11–20 | A **Treant** sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good. |
@@ -531,7 +531,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 Table: Gray Bag of Tricks
 
 | 1d8 | Creature     |
-|-----|--------------|
+|---|---|
 | 1   | Weasel       |
 | 2   | Giant Rat    |
 | 3   | Badger       |
@@ -544,7 +544,7 @@ Table: Gray Bag of Tricks
 Table: Rust Bag of Tricks
 
 | 1d8 | Creature   |
-|-----|------------|
+|---|---|
 | 1   | Rat        |
 | 2   | Owl        |
 | 3   | Mastiff    |
@@ -557,7 +557,7 @@ Table: Rust Bag of Tricks
 Table: Tan Bag of Tricks
 
 | 1d8 | Creature     |
-|-----|--------------|
+|---|---|
 | 1   | Jackal       |
 | 2   | Ape          |
 | 3   | Baboon       |
@@ -571,7 +571,7 @@ Table: Tan Bag of Tricks
 
 *Wondrous Item, Rare*
 
-This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 *Beads of Force* are found together.
+This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 *Beads of Force* are found together.
 
 You can take a Magic action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius Sphere on impact and is destroyed. Each creature in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save or are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can pass through.
 
@@ -608,7 +608,7 @@ If you aren't a dwarf or duergar, you gain the following additional benefits whi
 While wearing this belt, your Strength changes to a score granted by the belt. The type of giant determines the score (see the table below). The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.
 
 | Belt                                    | Str. | Rarity    |
-|-----------------------------------------|------|-----------|
+|---|---|---|
 | Belt of Giant Strength (hill)           | 21   | Rare      |
 | Belt of Giant Strength (frost or stone) | 23   | Very Rare |
 | Belt of Giant Strength (fire)           | 25   | Very Rare |
@@ -716,7 +716,7 @@ While lit, the candle sheds Dim Light in a 30-foot radius. While you are within 
 Alternatively, when you light the candle for the first time, you can cast *Gate* with it. Doing so destroys the candle. The portal created by the spell links to a particular Outer Plane chosen by the GM or determined by rolling on the following table.
 
 | 1d100 | Outer Plane    |
-|-------|----------------|
+|---|---|
 | 01–05 | Abyss          |
 | 06–10 | Acheron        |
 | 11–17 | Arborea        |
@@ -751,7 +751,7 @@ You can make this carpet hover and fly by taking a Magic action and using the ca
 Four sizes of *Carpet of Flying* exist. The GM chooses the size of a given carpet or determines it randomly by rolling on the following table. A carpet can carry up to twice the weight shown on the table, but its Fly Speed is halved if it carries more than its normal capacity.
 
 | 1d100 | Size          | Capacity | Fly Speed |
-|-------|---------------|----------|-----------|
+|---|---|---|---|
 | 01–20 | 3 ft. × 5 ft. | 200 lb.  | 80 feet   |
 | 21–55 | 4 ft. × 6 ft. | 400 lb.  | 60 feet   |
 | 56–80 | 5 ft. × 7 ft. | 600 lb.  | 40 feet   |
@@ -864,7 +864,7 @@ The cube starts with 10 charges, and it regains 1d6 expended charges daily at da
 Table: Cube of Force Faces
 
 | Spell            | Charge Cost |
-|------------------|-------------|
+|---|---|
 | Mage Armor       | 1           |
 | Shield           | 1           |
 | Tiny Hut         | 3           |
@@ -929,7 +929,7 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 Table: Deck of Illusions
 
 | 1d100 | Illusion*         |
-|-------|-------------------|
+|---|---|
 | 01–03 | Adult Red Dragon  |
 | 04–06 | Archmage          |
 | 07–09 | Assassin          |
@@ -1003,7 +1003,7 @@ While you are Charmed by the orb, you can't voluntarily end your Attunement to i
 **_Spells._** The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can cast one of the spells on the following table from it. The table indicates how many charges you must expend to cast the spell.
 
 | Spell                         | Charge Cost    |
-|-------------------------------|----------------|
+|---|---|
 | Cure Wounds (level 9 version) | 4              |
 | Daylight                      | 1              |
 | Death Ward                    | 2              |
@@ -1025,7 +1025,7 @@ While wearing this armor, you gain a +1 bonus to Armor Class, you have Advantage
 Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest dragon within 30 miles of yourself that is of the same type as the armor. This action can't be used again until the next dawn.
 
 | Dragon | Resistance |
-|--------|------------|
+|---|---|
 | Black  | Acid       |
 | Blue   | Lightning  |
 | Brass  | Fire       |
@@ -1098,7 +1098,7 @@ When you take a Magic action to remove the stopper of this painted brass bottle,
 The first time the bottle is opened, the GM rolls on the following table to determine what happens.
 
 | 1d10 | Effect                       |
-|------|------------------------------|
+|---|---|
 | 1    | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic. |
 | 2–9  | The efreeti understands your languages and obeys your commands for 1 hour, after which it returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
 | 10   | The efreeti understands your languages and can cast *Wish* once for you. It disappears when it grants the wish or after 1 hour, and the bottle loses its magic. |
@@ -1110,7 +1110,7 @@ The first time the bottle is opened, the GM rolls on the following table to dete
 This gem contains a mote of elemental energy. When you take a Utilize action to break the gem, an elemental is summoned (see "Monsters" for its stat block), and the gem ceases to be magical. The elemental appears in an unoccupied space as close to the broken gem as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The type of gem determines the elemental, as shown in the following table.
 
 | Gem            | Summoned Elemental |
-|----------------|--------------------|
+|---|---|
 | Blue sapphire  | Air Elemental      |
 | Emerald        | Water Elemental    |
 | Red corundum   | Fire Elemental     |
@@ -1195,7 +1195,7 @@ As a Bonus Action, you can direct the whip to fly up to 20 feet and repeat the a
 Table: Feather Tokens
 
 | 1d100 | Token     | Rarity   |
-|-------|-----------|----------|
+|---|---|---|
 | 01–20 | Anchor    | Uncommon |
 | 21–35 | Bird      | Rare     |
 | 36–50 | Fan       | Uncommon |
@@ -1411,7 +1411,7 @@ This pointed hat has the following properties.
 Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 
 | 1d100 | Effect    |
-|-------|-----------|
+|---|---|
 | 01–50 | You cast a random spell determined by rolling 1d10: on a **1**, Enlarge/Reduce (enlarge effect); on a **2**, Enlarge/Reduce (reduce effect); on a **3**, Faerie Fire; on a **4**, Fireball; on a **5**, Gust of Wind; on a **6**, Invisibility (cast on yourself); on a **7**, Lightning Bolt; on an **8**, Phantasmal Force; on a **9**, Polymorph; on a **10**, Stinking Cloud.    |
 | 51–55 | You have the Stunned condition until the end of your next turn, believing something awesome just happened.      |
 | 56–60 | A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute.       |
@@ -1493,7 +1493,7 @@ Four types of *Horn of Valhalla* are known to exist, each made of a different me
 If you blow the horn without meeting its requirement, the summoned spirits attack you. If you meet the requirement, they are Friendly to you and your allies and follow your commands.
 
 | 1d100 | Horn Type | Spirits | Requirement                          |
-|-------|-----------|---------|--------------------------------------|
+|---|---|---|---|
 | 01–40 | Silver    | 2       | None                                 |
 | 41–75 | Brass     | 3       | Proficiency with all Simple weapons  |
 | 76–90 | Bronze    | 4       | Training with all Medium armor       |
@@ -1674,7 +1674,7 @@ To create a golem, you must spend the time shown on the table, working without i
 Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. See "Monsters" for the golem's stat block. The golem is under your control, and it understands and obeys your commands.
 
 | 1d20  | Golem       | Time     | Cost       |
-|-------|-------------|----------|------------|
+|---|---|---|---|
 | 1–5   | Clay Golem  | 30 days  | 65,000 GP  |
 | 6–17  | Flesh Golem | 60 days  | 50,000 GP  |
 | 18    | Iron Golem  | 120 days | 100,000 GP |
@@ -1745,7 +1745,7 @@ Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the 
 Table: Mysterious Deck
 
 | 1d100 (13-Card Deck) | 1d100 (22-Card Deck) | Card    |
-|----------------------|----------------------|---------|
+|---|---|---|
 | —                    | 01–05                | Balance |
 | —                    | 06–10                | Comet   |
 | —                    | 11–14                | Donjon  |
@@ -1878,7 +1878,7 @@ This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topa
 Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly by rolling on the table below. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a Bonus Action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
 | 1d20  | Bead                 | Spell                         |
-|-------|----------------------|-------------------------------|
+|---|---|---|
 | 1–6   | Bead of Blessing     | Bless                         |
 | 7–12  | Bead of Curing       | Cure Wounds (level 2 version) |
 | 13–16 | Bead of Favor        | Greater Restoration           |
@@ -2061,7 +2061,7 @@ When you drink this potion, your Strength score changes for 1 hour. The type of 
 This potion's transparent liquid has floating in it a sliver of light resembling a giant's fingernail.
 
 | Potion                                    | Str. | Rarity    |
-|-------------------------------------------|------|-----------|
+|---|---|---|
 | Potion of Giant Strength (hill)           | 21   | Uncommon  |
 | Potion of Giant Strength (frost or stone) | 23   | Rare      |
 | Potion of Giant Strength (fire)           | 25   | Rare      |
@@ -2085,7 +2085,7 @@ You regain Hit Points when you drink this potion. The number of Hit Points depen
 Whatever its potency, the potion's red liquid glimmers when agitated.
 
 | Potion                       | HP Regained | Rarity    |
-|------------------------------|-------------|-----------|
+|---|---|---|
 | Potion of Healing            | 2d4 + 2     | Common    |
 | Potion of Healing (greater)  | 4d4 + 4     | Uncommon  |
 | Potion of Healing (superior) | 8d4 + 8     | Rare      |
@@ -2142,7 +2142,7 @@ If you drink this potion, you take 4d6 Poison damage and must succeed on a DC 13
 When you drink this potion, you have Resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly by rolling on the following table.
 
 | 1d10 | Damage Type |
-|------|-------------|
+|---|---|
 | 1    | Acid        |
 | 2    | Cold        |
 | 3    | Fire        |
@@ -2243,7 +2243,7 @@ Every *Ring of Elemental Command* has the following two properties:
 **_Spellcasting._** The ring has 5 charges and regains 1d4 + 1 expended charges daily at dawn. While wearing the ring, you can cast a spell from it. Choose the spell from the list of available spells based on the Elemental Plane the ring is linked to, as shown in the following table. The table indicates how many charges you must expend to cast the spell, which has a save DC of 18.
 
 | Plane | Spells (Charges)                                                                                                                |
-|-------|---------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Air   | Chain Lightning (3 charges), Feather Fall (0 charges), Gust of Wind (2 charges), Wind Wall (1 charge)                           |
 | Earth | Earthquake (5 charges), Stone Shape (2 charges), Stoneskin (3 charges), Wall of Stone (3 charges)                               |
 | Fire  | Burning Hands (1 charge), Fireball (2 charges), Fire Storm (4 charges), Wall of Fire (3 charges)                                |
@@ -2308,7 +2308,7 @@ While wearing this ring, you regain 1d6 Hit Points every 10 minutes if you have 
 You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the GM chooses or determines randomly by rolling on the following table.
 
 | 1d10 | Damage Type | Gemstone   |
-|------|-------------|------------|
+|---|---|---|
 | 1    | Acid        | Pearl      |
 | 2    | Cold        | Tourmaline |
 | 3    | Fire        | Garnet     |
@@ -2337,7 +2337,7 @@ Each sphere appears in an unoccupied space you can see within 120 feet of yourse
 As a Bonus Action, you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind Total Cover, the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage.
 
 | Number of Spheres | Lightning Damage | Number of Spheres | Lightning Damage |
-|-------------------|------------------|-------------------|------------------|
+|---|---|---|---|
 | 1                 | 4d12             | 3                 | 2d6              |
 | 2                 | 5d4              | 4                 | 2d4              |
 
@@ -2459,7 +2459,7 @@ The robe has two of each of the following patches:
 In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly by rolling on the following table.
 
 | 1d100 | Patch                                                                                                                                                   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01–08 | Bag of 100 GP                                                                                                                                           |
 | 09–15 | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 GP                                                                                        |
 | 16–22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
@@ -2664,7 +2664,7 @@ If the spell is on your spell list but of a higher level than you can normally c
 The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table.
 
 | Spell Level | Rarity    | Save DC | Attack Bonus |
-|-------------|-----------|---------|--------------|
+|---|---|---|---|
 | Cantrip     | Common    | 13      | +5           |
 | 1           | Common    | 13      | +5           |
 | 2           | Uncommon  | 13      | +5           |
@@ -2693,7 +2693,7 @@ While in control of the sphere, you can take a Bonus Action to cause it to move 
 **_Sphere Interactions._** If the sphere comes into contact with a planar portal (such as that created by the *Gate* spell) or an extradimensional space (such as that within a *Portable Hole*), the GM determines randomly what happens using the following table.
 
 | 1d100 | Result                                                                                                                     |
-|-------|----------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01–50 | The sphere is destroyed.                                                                                                   |
 | 51–85 | The sphere moves through the portal or into the extradimensional space.                                                    |
 | 86–00 | A spatial rift sends the sphere and each creature and object within 180 feet of the sphere to a random plane of existence. |
@@ -2721,7 +2721,7 @@ You have Resistance to Fire damage while you hold this staff.
 **_Spells._** The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
 | Spell         | Charge Cost |
-|---------------|-------------|
+|---|---|
 | Burning Hands | 1           |
 | Fireball      | 3           |
 | Wall of Fire  | 4           |
@@ -2737,7 +2737,7 @@ You have Resistance to Cold damage while you hold this staff.
 **_Spells._** The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
 | Spell        | Charge Cost |
-|--------------|-------------|
+|---|---|
 | Cone of Cold | 5           |
 | Fog Cloud    | 1           |
 | Ice Storm    | 4           |
@@ -2752,7 +2752,7 @@ You have Resistance to Cold damage while you hold this staff.
 This staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spellcasting ability modifier. The table indicates how many charges you must expend to cast the spell.
 
 | Spell              | Charge Cost                                              |
-|--------------------|----------------------------------------------------------|
+|---|---|
 | Cure Wounds        | 1 charge per spell level (maximum 4 for a level 4 spell) |
 | Lesser Restoration | 2                                                        |
 | Mass Cure Wounds   | 5                                                        |
@@ -2768,7 +2768,7 @@ This staff has 20 charges and can be wielded as a magic Quarterstaff that grants
 **_Spells._** While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
 | Spell                            | Charge Cost |
-|----------------------------------|-------------|
+|---|---|
 | Cone of Cold                     | 5           |
 | Fireball (level 5 version)       | 5           |
 | Globe of Invulnerability         | 6           |
@@ -2804,7 +2804,7 @@ This staff has 10 charges.
 **_Spells._** While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC and spell attack modifier. The table indicates how many charges you must expend to cast the spell.
 
 | Spell         | Charge Cost |
-|---------------|-------------|
+|---|---|
 | Giant Insect  | 4           |
 | Insect Plague | 5           |
 
@@ -2821,7 +2821,7 @@ This staff has 50 charges and can be wielded as a magic Quarterstaff that grants
 **_Spells._** While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
 | Spell                            | Charge Cost |
-|----------------------------------|-------------|
+|---|---|
 | Arcane Lock                      | 0           |
 | Conjure Elemental                | 7           |
 | Detect Magic                     | 0           |
@@ -2865,7 +2865,7 @@ This staff has 6 charges and can be wielded as a magic Quarterstaff that grants 
 **_Spells._** While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
 | Spell                    | Charge Cost |
-|--------------------------|-------------|
+|---|---|
 | Animal Friendship        | 1           |
 | Awaken                   | 5           |
 | Barkskin                 | 2           |
@@ -3040,7 +3040,7 @@ This wand has 7 charges.
 **_Spells._** While holding the wand, you can cast one of the spells (save DC 17) on the following table from it. The table indicates how many charges you must expend to cast the spell.
 
 | Spell        | Charge Cost |
-|--------------|-------------|
+|---|---|
 | Hold Monster | 5           |
 | Hold Person  | 2           |
 
@@ -3061,7 +3061,7 @@ This wand has 7 charges. While holding it, you can take a Magic action to expend
 **_Spells._** While holding the wand, you can cast one of the spells (save DC 15) on the following table from it. The table indicates how many charges you must expend to cast the spell.
 
 | Spell                             | Charge Cost |
-|-----------------------------------|-------------|
+|---|---|
 | Command ("flee" or "grovel" only) | 1           |
 | Fear (60-foot Cone)               | 3           |
 
@@ -3143,7 +3143,7 @@ This wand has 7 charges. While holding it, you can take a Magic action to expend
 
 Table: Wand of Wonder Effects
 | 1d100 | Effect |
-|-------|--------|
+|---|---|
 | 01–20 | You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a **1–2,** *Darkness*; on a **3–4,** *Faerie Fire*; on a **5–6,** *Fireball*; on a **7–8,** *Slow*; on a **9–10,** *Stinking Cloud*. |
 | 21–25 | Nothing happens at the chosen point of origin. Instead, you have the Stunned condition until the start of your next turn, believing something awesome just happened. |
 | 26–30 | You cast *Gust of Wind*. The Line created by the spell extends from you to the chosen point of origin. |

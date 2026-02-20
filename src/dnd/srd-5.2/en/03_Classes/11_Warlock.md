@@ -3,7 +3,7 @@
 Table: Core Warlock Traits
 
 |                            |                                                                                                      |
-|----------------------------|------------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability            | Charisma                                                                                             |
 | Hit Point Die              | D8 per Warlock level                                                                                 |
 | Saving Throw Proficiencies | Wisdom and Charisma                                                                                  |
@@ -31,7 +31,7 @@ As a Warlock, you gain the following class features when you reach the specified
 Table: Warlock Features
 
 | Level | Proficiency Bonus | Class Features                   | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
-|-------|-------------------|----------------------------------|----------------------|----------|-----------------|-------------|------------|
+|---|---|---|---|---|---|---|---|
 | 1     | +2                | Eldritch Invocations, Pact Magic | 1                    | 2        | 2               | 1           | 1          |
 | 2     | +2                | Magical Cunning                  | 3                    | 2        | 3               | 2           | 1          |
 | 3     | +2                | Warlock Subclass                 | 3                    | 2        | 4               | 2           | 2          |
@@ -332,7 +332,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 Table: Cantrips (Level 0 Warlock Spells)
 
 | Spell            | School        | Special |
-|------------------|---------------|---------|
+|---|---|---|
 | Chill Touch      | Necromancy    | —       |
 | Eldritch Blast   | Evocation     | —       |
 | Mage Hand        | Conjuration   | —       |
@@ -344,7 +344,7 @@ Table: Cantrips (Level 0 Warlock Spells)
 Table: Level 1 Warlock Spells
 
 | Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
+|---|---|---|
 | Bane                          | Enchantment   | C       |
 | Charm Person                  | Enchantment   | —       |
 | Comprehend Languages          | Divination    | R       |
@@ -361,7 +361,7 @@ Table: Level 1 Warlock Spells
 Table: Level 2 Warlock Spells
 
 | Spell               | School        | Special |
-|---------------------|---------------|---------|
+|---|---|---|
 | Darkness            | Evocation     | C       |
 | Enthrall            | Enchantment   | C       |
 | Hold Person         | Enchantment   | C       |
@@ -376,7 +376,7 @@ Table: Level 2 Warlock Spells
 Table: Level 3 Warlock Spells
 
 | Spell            | School        | Special |
-|------------------|---------------|---------|
+|---|---|---|
 | Counterspell     | Abjuration    | —       |
 | Dispel Magic     | Abjuration    | —       |
 | Fear             | Illusion      | C       |
@@ -392,7 +392,7 @@ Table: Level 3 Warlock Spells
 Table: Level 4 Warlock Spells
 
 | Spell                 | School      | Special |
-|-----------------------|-------------|---------|
+|---|---|---|
 | Banishment            | Abjuration  | C       |
 | Blight                | Necromancy  | —       |
 | Charm Monster         | Enchantment | —       |
@@ -402,7 +402,7 @@ Table: Level 4 Warlock Spells
 Table: Level 5 Warlock Spells
 
 | Spell                | School      | Special |
-|----------------------|-------------|---------|
+|---|---|---|
 | Contact Other Plane  | Divination  | R       |
 | Dream                | Illusion    | —       |
 | Hold Monster         | Enchantment | C       |
@@ -414,7 +414,7 @@ Table: Level 5 Warlock Spells
 Table: Level 6 Warlock Spells
 
 | Spell           | School     | Special |
-|-----------------|------------|---------|
+|---|---|---|
 | Circle of Death | Necromancy | M       |
 | Create Undead   | Necromancy | M       |
 | Eyebite         | Necromancy | C       |
@@ -423,7 +423,7 @@ Table: Level 6 Warlock Spells
 Table: Level 7 Warlock Spells
 
 | Spell           | School      | Special |
-|-----------------|-------------|---------|
+|---|---|---|
 | Etherealness    | Conjuration | —       |
 | Finger of Death | Necromancy  | —       |
 | Forcecage       | Evocation   | C, M    |
@@ -432,7 +432,7 @@ Table: Level 7 Warlock Spells
 Table: Level 8 Warlock Spells
 
 | Spell            | School      | Special |
-|------------------|-------------|---------|
+|---|---|---|
 | Befuddlement     | Enchantment | —       |
 | Demiplane        | Conjuration | —       |
 | Dominate Monster | Enchantment | C       |
@@ -442,7 +442,7 @@ Table: Level 8 Warlock Spells
 Table: Level 9 Warlock Spells
 
 | Spell             | School        | Special |
-|-------------------|---------------|---------|
+|---|---|---|
 | Astral Projection | Necromancy    | M       |
 | Foresight         | Divination    | —       |
 | Gate              | Conjuration   | C, M    |
@@ -468,7 +468,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 Table: Fiend Spells
 
 | Warlock Level | Spells                                            |
-|---------------|---------------------------------------------------|
+|---|---|
 | 3             | Burning Hands, Command, Scorching Ray, Suggestion |
 | 5             | Fireball, Stinking Cloud                          |
 | 7             | Fire Shield, Wall of Fire                         |

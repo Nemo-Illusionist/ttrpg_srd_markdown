@@ -21,7 +21,7 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 Table: Class Overview
 
 | Class     | Likes             | Primary Ability          | Complexity |
-|-----------|-------------------|--------------------------|------------|
+|---|---|---|---|
 | Barbarian | Battle            | Strength                 | Average    |
 | Bard      | Performing        | Charisma                 | High       |
 | Cleric    | Gods              | Wisdom                   | Average    |
@@ -62,7 +62,7 @@ The background you choose influences step 3, when you determine your character's
 Table: Ability Scores and Backgrounds
 
 | Ability      | Background |
-|--------------|------------|
+|---|---|
 | Strength     | Soldier    |
 | Dexterity    | Soldier    |
 | Constitution | Soldier    |
@@ -110,7 +110,7 @@ The Standard Languages table lists languages that are widespread in the setting.
 Table: Standard Languages
 
 | 1d12  | Language             |
-|-------|----------------------|
+|---|---|
 | —     | Common               |
 | 1     | Common Sign Language |
 | 2     | Draconic             |
@@ -127,7 +127,7 @@ The Rare Languages table lists languages that are either secret or derived from 
 Table: Rare Languages
 
 | Language    | Language      |
-|-------------|---------------|
+|---|---|
 | Abyssal     | Primordial*   |
 | Celestial   | Sylvan        |
 | Deep Speech | Thieves' Cant |
@@ -153,7 +153,7 @@ Determine your ability scores by using one of the following three methods. Your 
 Table: Ability Score Point Costs
 
 | Score | Cost | Score | Cost |
-|-------|------|-------|------|
+|---|---|---|---|
 | 8     | 0    | 12    | 4    |
 | 9     | 1    | 13    | 5    |
 | 10    | 2    | 14    | 7    |
@@ -168,7 +168,7 @@ If you're using the Standard Array option, consult the Standard Array by Class t
 Table: Standard Array by Class
 
 | Class     | Str. | Dex. | Con. | Int. | Wis. | Cha. |
-|-----------|------|------|------|------|------|------|
+|---|---|---|---|---|---|---|
 | Barbarian | 15   | 13   | 14   | 10   | 12   | 8    |
 | Bard      | 8    | 14   | 12   | 13   | 10   | 15   |
 | Cleric    | 14   | 8    | 13   | 10   | 15   | 12   |
@@ -195,7 +195,7 @@ Finally, determine your ability modifiers using the Ability Scores and Modifiers
 Table: Ability Scores and Modifiers
 
 | Score | Modifier | Score | Modifier |
-|-------|----------|-------|----------|
+|---|---|---|---|
 | 3     | −4       | 12–13 | +1       |
 | 4–5   | −3       | 14–15 | +2       |
 | 6–7   | −2       | 16–17 | +3       |
@@ -265,7 +265,7 @@ Include all modifiers that apply to your Wisdom (Perception) checks. For example
 Table: Level 1 Hit Points by Class
 
 | Class                                           | Hit Point Maximum  |
-|-------------------------------------------------|--------------------|
+|---|---|
 | Barbarian                                       | 12 + Con. modifier |
 | Fighter, Paladin, or Ranger                     | 10 + Con. modifier |
 | Bard, Cleric, Druid, Monk, Rogue, or Warlock    | 8 + Con. modifier  |
@@ -306,7 +306,7 @@ The Character Advancement table lists the XP you need to advance to a level and 
 Table: Character Advancement
 
 | Level | Experience Points | Proficiency Bonus |
-|-------|-------------------|-------------------|
+|---|---|---|
 | 1     | 0                 | +2                |
 | 2     | 300               | +2                |
 | 3     | 900               | +2                |
@@ -338,7 +338,7 @@ When you gain a level, follow these steps:
 Table: Fixed Hit Points by Class
 
 | Class                                           | Hit Points per Level |
-|-------------------------------------------------|----------------------|
+|---|---|
 | Barbarian                                       | 7 + Con. modifier    |
 | Fighter, Paladin, or Ranger                     | 6 + Con. modifier    |
 | Bard, Cleric, Druid, Monk, Rogue, or Warlock    | 5 + Con. modifier    |
@@ -389,7 +389,7 @@ Also, check with your GM about what equipment is available for you to buy with y
 Table: Starting Equipment at Higher Levels
 
 | Starting Level | Equipment and Money                                            | Magic Items                               |
-|----------------|----------------------------------------------------------------|-------------------------------------------|
+|---|---|---|
 | 2–4            | Normal starting equipment                                      | 1 Common                                  |
 | 5–10           | 500 GP plus 1d10 × 25 GP plus normal starting equipment        | 1 Common, 1 Uncommon                      |
 | 11–16          | 5,000 gp plus 1d10 × 250 GP plus normal starting equipment     | 2 Common, 3 Uncommon, 1 Rare              |
@@ -463,7 +463,7 @@ For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a leve
 Table: Multiclass Spellcaster: Spell Slots per Spell Level
 
 | Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|
 | 1     | 2 | — | — | — | — | — | — | — | — |
 | 2     | 3 | — | — | — | — | — | — | — | — |
 | 3     | 4 | 2 | — | — | — | — | — | — | — |
@@ -492,7 +492,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 Table: Trinkets
 
 | 1d100 | Trinket                                                                                                     |
-|-------|-------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01    | A mummified goblin hand                                                                                     |
 | 02    | A crystal that faintly glows in moonlight                                                                   |
 | 03    | A gold coin minted in an unknown land                                                                       |

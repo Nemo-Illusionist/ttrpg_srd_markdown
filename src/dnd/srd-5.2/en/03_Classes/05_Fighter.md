@@ -3,7 +3,7 @@
 Table: Core Fighter Traits
 
 |                               |                                                                                                                                       |
-|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability               | Strength or Dexterity                                                                                                                 |
 | Hit Point Die                 | D10 per Fighter level                                                                                                                 |
 | Saving Throw Proficiencies    | Strength and Constitution                                                                                                             |
@@ -31,7 +31,7 @@ As a Fighter, you gain the following class features when you reach the specified
 Table: Fighter Features
 
 | Level | Proficiency Bonus    | Class Features                                    | Second Wind    | Weapon Mastery    |
-|-------|----------------------|---------------------------------------------------|----------------|-------------------|
+|---|---|---|---|---|
 | 1     | +2                   | Fighting Style, Second Wind, Weapon Mastery       | 2              | 3                 |
 | 2     | +2                   | Action Surge (one use), Tactical Mind             | 2              | 3                 |
 | 3     | +2                   | Fighter Subclass                                  | 2              | 3                 |

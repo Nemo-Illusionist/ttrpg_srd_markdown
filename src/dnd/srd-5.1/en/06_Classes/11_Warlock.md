@@ -3,7 +3,7 @@
 Table: Core Warlock Traits
 
 |                               |                                                                                     |
-|-------------------------------|-------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d8 per Warlock level                                                               |
 | Hit Points at 1st Level       | 8 + your Constitution modifier                                                     |
 | Hit Points at Higher Levels   | 1d8 (or 5) + your Constitution modifier per Warlock level after 1st                |
@@ -25,7 +25,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Warlock Features
 
 | Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
-|-------|-------------------|---------------------------------|----------------|--------------|-------------|------------|-------------------|
+|---|---|---|---|---|---|---|---|
 | 1     | +2                | Otherworldly Patron, Pact Magic | 2              | 2            | 1           | 1          | -                 |
 | 2     | +2                | Eldritch Invocations            | 2              | 3            | 2           | 1          | 2                 |
 | 3     | +2                | Pact Boon                       | 2              | 4            | 2           | 2          | 2                 |
@@ -326,7 +326,7 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 Table: Fiend Expanded Spells
 
 | Spell Level | Spells                            |
-|-------------|-----------------------------------|
+|---|---|
 | 1           | burning hands, command            |
 | 2           | blindness/deafness, scorching ray |
 | 3           | fireball, stinking cloud          |

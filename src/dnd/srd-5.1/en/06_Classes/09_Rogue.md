@@ -3,7 +3,7 @@
 Table: Core Rogue Traits
 
 |                               |                                                                                                                                    |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d8 per Rogue level                                                                                                                |
 | Hit Points at 1st Level       | 8 + your Constitution modifier                                                                                                    |
 | Hit Points at Higher Levels   | 1d8 (or 5) + your Constitution modifier per Rogue level after 1st                                                                  |
@@ -25,7 +25,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Rogue Features
 
 | Level | Proficiency Bonus | Sneak Attack | Features                               |
-|-------|-------------------|--------------|----------------------------------------|
+|---|---|---|---|
 | 1     | +2                | 1d6          | Expertise, Sneak Attack, Thieves' Cant |
 | 2     | +2                | 1d6          | Cunning Action                         |
 | 3     | +2                | 2d6          | Roguish Archetype                      |

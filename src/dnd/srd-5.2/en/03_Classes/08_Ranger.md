@@ -3,7 +3,7 @@
 Table: Core Ranger Traits
 
 |                            |                                                                                                  |
-|----------------------------|--------------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability            | Dexterity and Wisdom                                                                             |
 | Hit Point Die              | D10 per Ranger level                                                                             |
 | Saving Throw Proficiencies | Strength and Dexterity                                                                           |
@@ -31,7 +31,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 Table: Ranger Features: —Spell Slots per Spell Level—
 
 | Level | Proficiency Bonus | Class Features                                 | Favored Enemy | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
-|-------|-------------------|------------------------------------------------|---------------|-----------------|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Spellcasting, Favored Enemy, Weapon Mastery    | 2             | 2               | 2 | — | — | — | — |
 | 2     | +2                | Deft Explorer, Fighting Style                  | 2             | 3               | 2 | — | — | — | — |
 | 3     | +2                | Ranger Subclass                                | 2             | 4               | 3 | — | — | — | — |
@@ -158,7 +158,7 @@ This section presents the Ranger spell list. The spells are organized by spell l
 Table: Level 1 Ranger Spells
 
 | Spell                     | School        | Special |
-|---------------------------|---------------|---------|
+|---|---|---|
 | Alarm                     | Abjuration    | R       |
 | Animal Friendship         | Enchantment   | —       |
 | Cure Wounds               | Abjuration    | —       |
@@ -176,7 +176,7 @@ Table: Level 1 Ranger Spells
 Table: Level 2 Ranger Spells
 
 | Spell                    | School        | Special |
-|--------------------------|---------------|---------|
+|---|---|---|
 | Aid                      | Abjuration    | —       |
 | Animal Messenger         | Enchantment   | R       |
 | Barkskin                 | Transmutation | —       |
@@ -196,7 +196,7 @@ Table: Level 2 Ranger Spells
 Table: Level 3 Ranger Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Conjure Animals        | Conjuration   | C       |
 | Daylight               | Evocation     | —       |
 | Dispel Magic           | Abjuration    | —       |
@@ -213,7 +213,7 @@ Table: Level 3 Ranger Spells
 Table: Level 4 Ranger Spells
 
 | Spell                   | School        | Special |
-|-------------------------|---------------|---------|
+|---|---|---|
 | Conjure Woodland Beings | Conjuration   | C       |
 | Dominate Beast          | Enchantment   | C       |
 | Freedom of Movement     | Abjuration    | —       |
@@ -223,7 +223,7 @@ Table: Level 4 Ranger Spells
 Table: Level 5 Ranger Spells
 
 | Spell               | School      | Special |
-|---------------------|-------------|---------|
+|---|---|---|
 | Commune with Nature | Divination  | R       |
 | Greater Restoration | Abjuration  | M       |
 | Tree Stride         | Conjuration | C       |

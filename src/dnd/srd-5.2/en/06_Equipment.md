@@ -9,7 +9,7 @@ A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 Table: Coin Values
 
 | Coin                | Value in GP |
-|---------------------|-------------|
+|---|---|
 | Copper Piece (CP)   | 1/100       |
 | Silver Piece (SP)   | 1/10        |
 | Electrum Piece (EP) | 1/2         |
@@ -123,7 +123,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 Table: Simple Melee Weapons
 
 | Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
-|------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
+|---|---|---|---|---|---|
 | Club                   | 1d4 Bludgeoning | Light                                                     | Slow    | 2 lb.   | 1 SP   |
 | Dagger                 | 1d4 Piercing    | Finesse, Light, Thrown (Range 20/60)                      | Nick    | 1 lb.   | 2 GP   |
 | Greatclub              | 1d8 Bludgeoning | Two-Handed                                                | Push    | 10 lb.  | 2 SP   |
@@ -138,8 +138,8 @@ Table: Simple Melee Weapons
 Table: Simple Ranged Weapons
 
 | Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
-|------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
-| Dart                   | 1d4 Piercing    | Finesse, Thrown (Range 20/60)                             | Vex     | 1/4 lb. | 5 CP   |
+|---|---|---|---|---|---|
+| Dart                   | 1d4 Piercing    | Finesse, Thrown (Range 20/60)                             | Vex     | ¼ lb. | 5 CP   |
 | Light Crossbow         | 1d8 Piercing    | Ammunition (Range 80/320; Bolt), Loading, Two-Handed   | Slow    | 5 lb.   | 25 GP  |
 | Shortbow               | 1d6 Piercing    | Ammunition (Range 80/320; Arrow), Two-Handed              | Vex     | 2 lb.   | 25 GP  |
 | Sling                  | 1d4 Bludgeoning | Ammunition (Range 30/120; Bullet)                         | Slow    | —       | 1 SP   |
@@ -147,7 +147,7 @@ Table: Simple Ranged Weapons
 Table: Martial Melee Weapons
 
 | Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
-|------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
+|---|---|---|---|---|---|
 | Battleaxe              | 1d8 Slashing    | Versatile (1d10)                                          | Topple  | 4 lb.   | 10 GP  |
 | Flail                  | 1d8 Bludgeoning | —                                                         | Sap     | 2 lb.   | 10 GP  |
 | Glaive                 | 1d10 Slashing   | Heavy, Reach, Two-Handed                                  | Graze   | 6 lb.   | 20 GP  |
@@ -170,7 +170,7 @@ Table: Martial Melee Weapons
 Table: Martial Ranged Weapons
 
 | Name           | Damage          | Properties                                                   | Mastery | Weight  | Cost   |
-|----------------|-----------------|--------------------------------------------------------------|---------|---------|--------|
+|---|---|---|---|---|---|
 | Blowgun        | 1 Piercing      | Ammunition (Range 25/100; Needle), Loading                   | Vex     | 1 lb.   | 10 GP  |
 | Hand Crossbow  | 1d6 Piercing    | Ammunition (Range 30/120; Bolt), Light, Loading              | Vex     | 3 lb.   | 75 GP  |
 | Heavy Crossbow | 1d10 Piercing   | Ammunition (Range 100/400; Bolt), Heavy, Loading, Two-Handed | Push    | 18 lb.  | 50 GP  |
@@ -206,7 +206,7 @@ A creature can wear only one suit of armor at a time and wield only one Shield a
 Table: Light Armor (1 Minute to Don or Doff)
 
 | Armor                                                 | Armor Class (AC)          | Strength | Stealth      | Weight | Cost     |
-|-------------------------------------------------------|---------------------------|----------|--------------|--------|----------|
+|---|---|---|---|---|---|
 | Padded Armor                                          | 11 + Dex modifier         | —        | Disadvantage | 8 lb.  | 5 GP     |
 | Leather Armor                                         | 11 + Dex modifier         | —        | —            | 10 lb. | 10 GP    |
 | Studded Leather Armor                                 | 12 + Dex modifier         | —        | —            | 13 lb. | 45 GP    |
@@ -214,7 +214,7 @@ Table: Light Armor (1 Minute to Don or Doff)
 Table: Medium Armor (5 Minutes to Don and 1 Minute to Doff)
 
 | Armor                                                 | Armor Class (AC)          | Strength | Stealth      | Weight | Cost     |
-|-------------------------------------------------------|---------------------------|----------|--------------|--------|----------|
+|---|---|---|---|---|---|
 | Hide Armor                                            | 12 + Dex modifier (max 2) | —        | —            | 12 lb. | 10 GP    |
 | Chain Shirt                                           | 13 + Dex modifier (max 2) | —        | —            | 20 lb. | 50 GP    |
 | Scale Mail                                            | 14 + Dex modifier (max 2) | —        | Disadvantage | 45 lb. | 50 GP    |
@@ -224,7 +224,7 @@ Table: Medium Armor (5 Minutes to Don and 1 Minute to Doff)
 Table: Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)
 
 | Armor                                                 | Armor Class (AC)          | Strength | Stealth      | Weight | Cost     |
-|-------------------------------------------------------|---------------------------|----------|--------------|--------|----------|
+|---|---|---|---|---|---|
 | Ring Mail                                             | 14                        | —        | Disadvantage | 40 lb. | 30 GP    |
 | Chain Mail                                            | 16                        | Str 13   | Disadvantage | 55 lb. | 75 GP    |
 | Splint Armor                                          | 17                        | Str 15   | Disadvantage | 60 lb. | 200 GP   |
@@ -233,7 +233,7 @@ Table: Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)
 Table: Shield (Utilize Action to Don or Doff)
 
 | Armor                                                 | Armor Class (AC)          | Strength | Stealth      | Weight | Cost     |
-|-------------------------------------------------------|---------------------------|----------|--------------|--------|----------|
+|---|---|---|---|---|---|
 | Shield                                                | +2                        | —        | —            | 6 lb.  | 10 GP    |
 
 ## Tools
@@ -520,7 +520,7 @@ Ammunition is required by a weapon that has the Ammunition property. A weapon's 
 Table: Adventuring Gear
 
 | Item                   | Weight       | Cost     |
-|------------------------|--------------|----------|
+|---|---|---|
 | Acid                   | 1 lb.        | 25 GP    |
 | Alchemist's Fire       | 1 lb.        | 50 GP    |
 | Ammunition             | Varies       | Varies   |
@@ -572,7 +572,7 @@ Table: Adventuring Gear
 | Magnifying Glass       | —            | 100 GP   |
 | Manacles               | 6 lb.        | 2 GP     |
 | Map                    | —            | 1 GP     |
-| Mirror                 | 1/2 lb.      | 5 GP     |
+| Mirror                 | ½ lb.      | 5 GP     |
 | Net                    | 3 lb.        | 1 GP     |
 | Oil                    | 1 lb.        | 1 SP     |
 | Paper                  | —            | 2 SP     |
@@ -581,7 +581,7 @@ Table: Adventuring Gear
 | Poison, Basic          | —            | 100 GP   |
 | Pole                   | 7 lb.        | 5 CP     |
 | Pot, Iron              | 10 lb.       | 2 GP     |
-| Potion of Healing      | 1/2 lb.      | 50 GP    |
+| Potion of Healing      | ½ lb.      | 50 GP    |
 | Pouch                  | 1 lb.        | 5 SP     |
 | Priest's Pack          | 29 lb.       | 33 GP    |
 | Quiver                 | 1 lb.        | 1 GP     |
@@ -589,7 +589,7 @@ Table: Adventuring Gear
 | Rations                | 2 lb.        | 5 SP     |
 | Robe                   | 4 lb.        | 1 GP     |
 | Rope                   | 5 lb.        | 1 GP     |
-| Sack                   | 1/2 lb.      | 1 CP     |
+| Sack                   | ½ lb.      | 1 CP     |
 | Scholar's Pack         | 22 lb.       | 40 GP    |
 | Shovel                 | 5 lb.        | 2 GP     |
 | Signal Whistle         | —            | 5 CP     |
@@ -607,7 +607,7 @@ Table: Adventuring Gear
 Table: Ammunition
 
 | Type             | Amount | Storage | Weight | Cost |
-|------------------|--------|---------|--------|------|
+|---|---|---|---|---|
 | Arrows           | 20     | Quiver  | 1 lb.  | 1 GP |
 | Bolts            | 20     | Case    | 1½ lb. | 1 GP |
 | Bullets, Firearm | 10     | Pouch   | 2 lb.  | 3 GP |
@@ -625,7 +625,7 @@ An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejewe
 Table: Arcane Focuses
 
 | Focus                       | Weight | Cost  |
-|-----------------------------|--------|-------|
+|---|---|---|
 | Crystal                     | 1 lb.  | 10 GP |
 | Orb                         | 3 lb.  | 20 GP |
 | Rod                         | 2 lb.  | 10 GP |
@@ -739,7 +739,7 @@ A Druidic Focus takes one of the forms in the Druidic Focuses table and is carve
 Table: Druidic Focuses
 
 | Focus                              | Weight | Cost  |
-|------------------------------------|--------|-------|
+|---|---|---|
 | Sprig of mistletoe                 | —      | 1 GP  |
 | Wooden staff (also a Quarterstaff) | 4 lb.  | 5 GP  |
 | Yew wand                           | 1 lb.  | 10 GP |
@@ -777,7 +777,7 @@ The table indicates whether a Holy Symbol needs to be held, worn, or borne on fa
 Table: Holy Symbols
 
 | Symbol                               | Weight | Cost |
-|--------------------------------------|--------|------|
+|---|---|---|
 | Amulet (worn or held)                | 1 lb.  | 5 GP |
 | Emblem (borne on fabric or a Shield) | —      | 5 GP |
 | Reliquary (held)                     | 2 lb.  | 5 GP |
@@ -989,7 +989,7 @@ A saddle comes with a bit, a bridle, reins, and any other equipment needed to us
 Table: Mounts and Other Animals
 
 | Item          | Carrying Capacity | Cost   |
-|---------------|-------------------|--------|
+|---|---|---|
 | Camel         | 450 lb.           | 50 GP  |
 | Elephant      | 1,320 lb.         | 200 GP |
 | Horse, Draft  | 540 lb.           | 50 GP  |
@@ -1002,7 +1002,7 @@ Table: Mounts and Other Animals
 Table: Tack, Harness, and Drawn Vehicles
 
 | Item              | Weight  | Cost   |
-|-------------------|---------|--------|
+|---|---|---|
 | Carriage          | 600 lb. | 100 GP |
 | Cart              | 200 lb. | 15 GP  |
 | Chariot           | 100 lb. | 250 GP |
@@ -1025,7 +1025,7 @@ A ship sailing against a strong wind moves at half speed. In a dead calm (no win
 Table: Airborne and Waterborne Vehicles
 
 | Ship         | Speed  | Crew | Passengers | Cargo (Tons) | AC | HP  | Damage Threshold | Cost      |
-|--------------|--------|------|------------|--------------|----|-----|------------------|-----------|
+|---|---|---|---|---|---|---|---|---|
 | Airship      | 8 mph  | 10   | 20         | 1            | 13 | 300 | —                | 40,000 GP |
 | Galley       | 4 mph  | 80   | —          | 150          | 15 | 500 | 20               | 30,000 GP |
 | Keelboat     | 1 mph  | 1    | 6          | 1/2          | 15 | 100 | 10               | 3,000 GP  |
@@ -1093,7 +1093,7 @@ The Food, Drink, and Lodging table gives prices for food and a single night's lo
 Table: Food, Drink
 
 | Item                   | Cost  |
-|------------------------|-------|
+|---|---|
 | Ale (mug)              | 4 CP  |
 | Bread (loaf)           | 2 CP  |
 | Cheese (wedge)         | 1 SP  |
@@ -1109,7 +1109,7 @@ Table: Food, Drink
 Table: Inn Stay per Day
 
 | Item             | Cost |
-|------------------|------|
+|---|---|
 | Squalid          | 7 CP |
 | Poor             | 1 SP |
 | Modest           | 5 SP |
@@ -1124,7 +1124,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 Table: Hirelings
 
 | Service            | Cost          |
-|--------------------|---------------|
+|---|---|
 | Skilled hireling   | 2 GP per day  |
 | Untrained hireling | 2 SP per day  |
 | Messenger          | 2 CP per mile |
@@ -1136,7 +1136,7 @@ Most settlements contain individuals who are willing to cast spells in exchange 
 Table: Spellcasting Services
 
 | Spell Level | Availability           | Cost       |
-|-------------|------------------------|------------|
+|---|---|---|
 | Cantrip     | Village, town, or city | 30 GP      |
 | 1           | Village, town, or city | 50 GP      |
 | 2           | Village, town, or city | 200 GP     |
@@ -1234,7 +1234,7 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 Table: Spell Scroll Costs
 
 | Spell Level | Time     | Cost      |
-|-------------|----------|-----------|
+|---|---|---|
 | Cantrip     | 1 day    | 15 GP     |
 | 1           | 1 day    | 25 GP     |
 | 2           | 3 days   | 100 GP    |

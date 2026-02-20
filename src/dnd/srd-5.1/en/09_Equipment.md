@@ -17,7 +17,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 Table: Standard Exchange Rates
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
-|---------------|-------|------|------|-------|---------|
+|---|---|---|---|---|---|
 | Copper (cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
 | Silver (sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
 | Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
@@ -39,7 +39,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 Table: Lifestyle Expenses
 
 | Lifestyle    | Price/Day     |
-|--------------|---------------|
+|---|---|
 | Wretched     | -             |
 | Squalid      | 1 sp          |
 | Poor         | 2 sp          |
@@ -69,7 +69,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 Table: Food, Drink, and Lodging
 
 | Item                   | Cost  |
-|------------------------|-------|
+|---|---|
 | *Ale*                  |       |
 | ~ Gallon               | 2 sp  |
 | ~ Mug                  | 4 cp  |
@@ -114,7 +114,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 Table: Services
 
 | Service Pay       | Pay           |
-|-------------------|---------------|
+|---|---|
 | *Coach cab*       |               |
 | ~ Between towns   | 3 cp per mile |
 | ~ Within a city   | 1 cp          |
@@ -188,7 +188,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 Table: Armor
 
 | Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
-|------------------|----------|---------------------------|----------|--------------|--------|
+|---|---|---|---|---|---|
 | **Light Armor**  |          |                           |          |              |        |
 | Padded           | 5 gp     | 11 + Dex modifier         | -        | Disadvantage | 8 lb.  |
 | Leather          | 10 gp    | 11 + Dex modifier         | -        | -            | 10 lb. |
@@ -218,7 +218,7 @@ The time it takes to don or doff armor depends on the armor's category.
 Table: Donning and Doffing Armor
 
 | Category     | Don        | Doff      |
-|--------------|------------|-----------|
+|---|---|---|
 | Light Armor  | 1 minute   | 1 minute  |
 | Medium Armor | 5 minutes  | 1 minute  |
 | Heavy Armor  | 10 minutes | 5 minutes |
@@ -289,7 +289,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 Table: Weapons
 
 | Name                       | Cost  | Damage          | Weight  | Properties                                             |
-|----------------------------|-------|-----------------|---------|--------------------------------------------------------|
+|---|---|---|---|---|
 | **Simple Melee Weapons**   |       |                 |         |                                                        |
 | Club                       | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
 | Dagger                     | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
@@ -303,7 +303,7 @@ Table: Weapons
 | Spear                      | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8)                  |
 | **Simple Ranged Weapons**  |       |                 |         |                                                        |
 | Crossbow, light            | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed         |
-| Dart                       | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                          |
+| Dart                       | 5 cp  | 1d4 piercing    | ¼ lb. | Finesse, thrown (range 20/60)                          |
 | Shortbow                   | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed                  |
 | Sling                      | 1 sp  | 1d4 bludgeoning | -       | Ammunition (range 30/120)                              |
 | **Martial Melee Weapons**  |       |                 |         |                                                        |
@@ -431,7 +431,7 @@ The starting equipment you get from your class includes a collection of useful a
 Table: Adventuring Gear
 
 | Item                         | Cost     | Weight       |
-|------------------------------|----------|--------------|
+|---|---|---|
 | Abacus                       | 2 gp     | 2 lb.        |
 | Acid (vial)                  | 25 gp    | 1 lb.        |
 | Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
@@ -501,17 +501,17 @@ Table: Adventuring Gear
 | Magnifying glass             | 100 gp   | -            |
 | Manacles                     | 2 gp     | 6 lb.        |
 | Mess kit                     | 2 sp     | 1 lb.        |
-| Mirror, steel                | 5 gp     | 1/2 lb.      |
+| Mirror, steel                | 5 gp     | ½ lb.      |
 | Oil (flask)                  | 1 sp     | 1 lb.        |
 | Paper (one sheet)            | 2 sp     | -            |
 | Parchment (one sheet)        | 1 sp     | -            |
 | Perfume (vial)               | 5 gp     | -            |
 | Pick, miner's                | 2 gp     | 10 lb.       |
-| Piton                        | 5 cp     | 1/4 lb.      |
+| Piton                        | 5 cp     | ¼ lb.      |
 | Poison, basic (vial)         | 100 gp   | -            |
 | Pole (10-foot)               | 5 cp     | 7 lb.        |
 | Pot, iron                    | 2 gp     | 10 lb.       |
-| Potion of healing 5          | 0 gp     | 1/2 lb.      |
+| Potion of healing 5          | 0 gp     | ½ lb.      |
 | Pouch                        | 5 sp     | 1 lb.        |
 | Quiver                       | 1 gp     | 1 lb.        |
 | Ram, portable                | 4 gp     | 35 lb.       |
@@ -519,7 +519,7 @@ Table: Adventuring Gear
 | Robes                        | 1 gp     | 4 lb.        |
 | Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
 | Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
-| Sack                         | 1 cp     | 1/2 lb.      |
+| Sack                         | 1 cp     | ½ lb.      |
 | Scale, merchant's            | 5 gp     | 3 lb.        |
 | Sealing wax                  | 5 sp     | -            |
 | Shovel                       | 2 gp     | 5 lb.        |
@@ -539,17 +539,17 @@ Table: Adventuring Gear
 Table: Container Capacity
 
 | Container        | Capacity                               |
-|------------------|----------------------------------------|
+|---|---|
 | Backpack*        | 1 cubic foot/30 pounds of gear         |
 | Barrel           | 40 gallons liquid, 4 cubic feet solid  |
 | Basket           | 2 cubic feet/40 pounds of gear         |
 | Bottle           | 1½ pints liquid                        |
-| Bucket           | 3 gallons liquid, 1/2 cubic foot solid |
+| Bucket           | 3 gallons liquid, ½ cubic foot solid |
 | Chest            | 12 cubic feet/300 pounds of gear       |
 | Flask or tankard | 1 pint liquid                          |
 | Jug or pitcher   | 1 gallon liquid                        |
 | Pot, iron        | 1 gallon liquid                        |
-| Pouch            | 1/5 cubic foot/6 pounds of gear        |
+| Pouch            | ⅕ cubic foot/6 pounds of gear        |
 | Sack             | 1 cubic foot/30 pounds of gear         |
 | Vial             | 4 ounces liquid                        |
 | Waterskin        | 4 pints liquid                         |
@@ -563,7 +563,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 Table: Tools
 
 | Item                      | Cost  | Weight |
-|---------------------------|-------|--------|
+|---|---|---|
 | *Artisan's tools*         |       |        |
 | ~ Alchemist's supplies    | 50 gp | 8 lb.  |
 | ~ Brewer's supplies       | 20 gp | 9 lb.  |
@@ -633,7 +633,7 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 Table: Cost of Trade Goods
 
 | Cost   | Goods                                        |
-|--------|----------------------------------------------|
+|---|---|
 | 1 cp   | 1 lb. of wheat                               |
 | 2 cp   | 1 lb. of flour or one chicken                |
 | 5 cp   | 1 lb. of salt                                |
@@ -667,7 +667,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 Table: Mounts and Other Animals
 
 | Item           | Cost   | Speed  | Carrying Capacity |
-|----------------|--------|--------|-------------------|
+|---|---|---|---|
 | Camel          | 50 gp  | 50 ft. | 480 lb.           |
 | Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
 | Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
@@ -680,7 +680,7 @@ Table: Mounts and Other Animals
 Table: Tack, Harness, and Drawn Vehicles
 
 | Item               | Cost   | Weight  |
-|--------------------|--------|---------|
+|---|---|---|
 | Barding            | ×4     | ×2      |
 | Bit and bridle     | 2 gp   | 1 lb.   |
 | Carriage           | 100 gp | 600 lb. |
@@ -700,7 +700,7 @@ Table: Tack, Harness, and Drawn Vehicles
 Table: Waterborne Vehicles
 
 | Item         | Cost      | Speed  |
-|--------------|-----------|--------|
+|---|---|---|
 | Galley       | 30,000 gp | 4 mph  |
 | Keelboat     | 3,000 gp  | 1 mph  |
 | Longship     | 10,000 gp | 3 mph  |

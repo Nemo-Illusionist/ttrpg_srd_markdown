@@ -125,7 +125,7 @@ As a Dragonborn, you have these special traits.
 Table: Draconic Ancestors
 
 | Dragon | Damage Type |
-|--------|-------------|
+|---|---|
 | Black  | Acid        |
 | Blue   | Lightning   |
 | Brass  | Fire        |
@@ -186,7 +186,7 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 Table: Elven Lineages
 
 | Lineage  | Level 1                                                                                                   | Level 3      | Level 5            |
-|----------|-----------------------------------------------------------------------------------------------------------|--------------|--------------------|
+|---|---|---|---|
 | Drow     | The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip.             | Faerie Fire  | Darkness           |
 | High Elf | You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | Detect Magic | Misty Step         |
 | Wood Elf | Your Speed increases to 35 feet. You also know the Druidcraft cantrip.                                    | Longstrider  | Pass without Trace |
@@ -322,7 +322,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 Table: Fiendish Legacies
 
 | Legacy   | Level 1                                                                        | Level 3         | Level 5             |
-|----------|--------------------------------------------------------------------------------|-----------------|---------------------|
+|---|---|---|---|
 | Abyssal  | You have Resistance to Poison damage. You also know the Poison Spray cantrip.  | Ray of Sickness | Hold Person         |
 | Chthonic | You have Resistance to Necrotic damage. You also know the Chill Touch cantrip. | False Life      | Ray of Enfeeblement |
 | Infernal | You have Resistance to Fire damage. You also know the Fire Bolt cantrip.       | Hellish Rebuke  | Darkness            |

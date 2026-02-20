@@ -3260,7 +3260,7 @@ An affected target can't take reactions and must roll a d10 at the start of each
 Table: Confusion Behavior
 
 | d10  | Behavior                                                                                                                                                                                        |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 1    | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn. |
 | 2-6  | The creature doesn't move or take actions this turn.                                                                                                                                            |
 | 7-8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
@@ -3772,7 +3772,7 @@ As a bonus action, you can mentally command any creature you made with this spel
 Table: Animate Object Stats
 
 | Size   | HP | AC | Attack                     | Str | Dex |
-|--------|----|----|----------------------------|-----|-----|
+|---|---|---|---|---|---|
 | Tiny   | 20 | 18 | +8 to hit, 1d4 + 4 damage  | 4   | 18  |
 | Small  | 25 | 16 | +6 to hit, 1d8 + 2 damage  | 6   | 14  |
 | Medium | 40 | 13 | +5 to hit, 2d6 + 1 damage  | 10  | 12  |
@@ -4017,7 +4017,7 @@ The duration depends on the object's material. If the object is composed of mult
 Table: Creation Duration
 
 | Material              | Duration   |
-|-----------------------|------------|
+|---|---|
 | Vegetable matter      | 1 day      |
 | Stone or crystal      | 12 hours   |
 | Precious metals       | 1 hour     |
@@ -4366,7 +4366,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 Table: Reincarnate Race
 
 | d100  | Race                |
-|-------|---------------------|
+|---|---|
 | 01-04 | Dragonborn          |
 | 05-13 | Dwarf, hill         |
 | 14-21 | Dwarf, mountain     |
@@ -4401,7 +4401,7 @@ You can see and hear a particular creature you choose that is on the same plane 
 Table: Scrying Save Modifier
 
 | Knowledge                                         | Save Modifier |
-|---------------------------------------------------|---------------|
+|---|---|
 | Secondhand (you have heard of the target)         | +5            |
 | Firsthand (you have met the target)               | +0            |
 | Familiar (you know the target well)               | -5            |
@@ -4522,7 +4522,7 @@ You can use this transportation ability once per round for the duration. You mus
 
 **Duration:** Concentration, up to 10 minutes
 
-An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice which side).
+An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is ¼ inch thick. It lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice which side).
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by *dispel magic*. A *disintegrate* spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
@@ -5297,7 +5297,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 
-A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
+A prison in the shape of a cage can be up to 20 feet on a side and is made from ½-inch diameter bars spaced ½ inch apart.
 
 A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
 
@@ -5559,7 +5559,7 @@ The destination you choose must be known to you, and it must be on the same plan
 Table: Teleport Familiarity
 
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
-|-------------------|--------|--------------|------------|-----------|
+|---|---|---|---|---|
 | Permanent circle  | -      | -            | -          | 01-100    |
 | Associated object | -      | -            | -          | 01-100    |
 | Very familiar     | 01-05  | 06-13        | 14-24      | 25-100    |
@@ -5697,7 +5697,7 @@ When you change the weather conditions, find a current condition on the followin
 Table: Control Weather (Precipitation)
 
 | Stage | Condition                                  |
-|-------|--------------------------------------------|
+|---|---|
 | 1     | Clear                                      |
 | 2     | Light clouds                               |
 | 3     | Overcast or ground fog                     |
@@ -5707,7 +5707,7 @@ Table: Control Weather (Precipitation)
 Table: Control Weather (Temperature)
 
 | Stage | Condition       |
-|-------|-----------------|
+|---|---|
 | 1     | Unbearable heat |
 | 2     | Hot             |
 | 3     | Warm            |
@@ -5718,7 +5718,7 @@ Table: Control Weather (Temperature)
 Table: Control Weather (Wind)
 
 | Stage | Condition     |
-|-------|---------------|
+|---|---|
 | 1     | Calm          |
 | 2     | Moderate wind |
 | 3     | Strong wind   |

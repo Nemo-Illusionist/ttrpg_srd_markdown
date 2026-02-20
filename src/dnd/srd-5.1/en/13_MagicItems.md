@@ -77,7 +77,7 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 Table: Sentient Magic Items: Communication
 
 | 1d100   | Communication                                                                                                                                                      |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01-60  | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
 | 61-90  | The item can speak, read, and understand one or more languages.                                                                                                    |
 | 91-100 | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
@@ -89,7 +89,7 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 Table: Sentient Magic Items: Senses
 
 | 1d4 | Senses                                     |
-|----|--------------------------------------------|
+|---|---|
 | 1  | Hearing and normal vision out to 30 feet.  |
 | 2  | Hearing and normal vision out to 60 feet   |
 | 3  | Hearing and normal vision out to 120 feet. |
@@ -102,7 +102,7 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 Table: Sentient Magic Items: Alignment
 
 | 1d100   | Alignment       |
-|--------|-----------------|
+|---|---|
 | 01-15  | Lawful good     |
 | 16-35  | Neutral good    |
 | 36-50  | Chaotic good    |
@@ -120,7 +120,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 Table: Sentient Magic Items: Special Purpose
 
 | 1d10 | Purpose                                                                                                                                |
-|-----|----------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 1   | Aligned: The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
 | 2   | Bane: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
 | 3   | Protector: The item seeks to defend a particular race or kind of creature, such as elves or druids.                                    |
@@ -239,7 +239,7 @@ A creature in the compartment can use an action to move as many as two of the ap
 Table: Apparatus of the Crab
 
 | Lever | Up                                                                                                                               | Down                                                                                                                                        |
-|-------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|---|
 | 1     | Legs and tail extend, allowing the apparatus to walk and swim.                                                                   | Legs and tail retract, reducing the apparatus's speed to 0 and making it unable to benefit from bonuses to speed.                           |
 | 2     | Forward window shutter opens.                                                                                                    | Forward window shutter closes.                                                                                                              |
 | 3     | Side window shutters open (two per side).                                                                                        | Side window shutters close (two per side).                                                                                                  |
@@ -266,7 +266,7 @@ You have resistance to one type of damage while you wear this armor. The GM choo
 Table: Armor of Resistance
 
 | 1d10 | Damage Type |
-|-----|-------------|
+|---|---|
 | 1   | Acid        |
 | 2   | Cold        |
 | 3   | Fire        |
@@ -312,7 +312,7 @@ You gain a +2 bonus to AC against ranged attacks while you wield this shield. Th
 
 *Wondrous Item, Rare*
 
-Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 1/2 pound plus 1/4 pound for each bean it contains.
+Inside this heavy cloth bag are 3d4 dry beans. The bag weighs ½ pound plus ¼ pound for each bean it contains.
 
 If you dump the bag's contents out on the ground, they explode in a 10-foot radius, extending from the beans. Each creature in the area, including you, must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried.
 
@@ -321,7 +321,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 Table: Bag of Beans
 
 | 1d100  | Effect                                                                                                                                                                                                                                                                                                                                                                |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01    | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become poisoned for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.                                                                                      |
 | 02-10 | A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.                                                                                                                                                                                                                                   |
 | 11-20 | A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.                                                                                                                                                                                                                                                                            |
@@ -360,7 +360,7 @@ Placing a *bag of holding* inside an extradimensional space created by a *handy 
 
 *Wondrous Item, Uncommon*
 
-This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
+This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs ½ pound.
 
 You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag's color.
 
@@ -371,7 +371,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 Table: Gray Bag of Tricks
 
 | 1d8 | Creature     |
-|----|--------------|
+|---|---|
 | 1  | Weasel       |
 | 2  | Giant rat    |
 | 3  | Badger       |
@@ -384,7 +384,7 @@ Table: Gray Bag of Tricks
 Table: Rust Bag of Tricks
 
 | 1d8 | Creature   |
-|----|------------|
+|---|---|
 | 1  | Rat        |
 | 2  | Owl        |
 | 3  | Mastiff    |
@@ -397,7 +397,7 @@ Table: Rust Bag of Tricks
 Table: Tan Bag of Tricks
 
 | 1d8 | Creature     |
-|----|--------------|
+|---|---|
 | 1  | Jackal       |
 | 2  | Ape          |
 | 3  | Baboon       |
@@ -411,7 +411,7 @@ Table: Tan Bag of Tricks
 
 *Wondrous Item, Rare*
 
-This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 *beads of force* are found together.
+This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 *beads of force* are found together.
 
 You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.
 
@@ -445,7 +445,7 @@ Six varieties of this belt exist, corresponding with and having rarity according
 Table: Belt of Strength
 
 | Type              | Strength | Rarity    |
-|-------------------|----------|-----------|
+|---|---|---|
 | Hill giant        | 21       | Rare      |
 | Stone/frost giant | 23       | Very rare |
 | Fire giant        | 25       | Very rare |
@@ -549,7 +549,7 @@ This slender taper is dedicated to a deity and shares that deity's alignment. Th
 Table: Candle of Invocation
 
 | 1d20   | Alignment       |
-|-------|-----------------|
+|---|---|
 | 1-2   | Chaotic evil    |
 | 3-4   | Chaotic neutral |
 | 5-7   | Chaotic good    |
@@ -585,7 +585,7 @@ Four sizes of *carpet of flying* exist. The GM chooses the size of a given carpe
 Table: Carpet of Flying
 
 | 1d100   | Size          | Capacity | Flying Speed |
-|--------|---------------|----------|--------------|
+|---|---|---|---|
 | 01-20  | 3 ft. × 5 ft. | 200 lb.  | 80 feet      |
 | 21-55  | 4 ft. × 6 ft. | 400 lb.  | 60 feet      |
 | 56-80  | 5 ft. × 7 ft. | 600 lb.  | 40 feet      |
@@ -686,7 +686,7 @@ If your movement causes the barrier to come into contact with a solid object tha
 Table: Cube of Force Effects
 
 | Face | Charges | Effect                                                                                                            |
-|------|---------|-------------------------------------------------------------------------------------------------------------------|
+|---|---|---|
 | 1    | 1       | Gases, wind, and fog can't pass through the barrier.                                                              |
 | 2    | 2       | Nonliving matter can't pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
 | 3    | 3       | Living matter can't pass through the barrier.                                                                     |
@@ -699,7 +699,7 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 Table: Cube of Force Charges Lost
 
 | Spell or Item    | Charges Lost |
-|------------------|--------------|
+|---|---|
 | Disintegrate     | 1d12         |
 | Horn of blasting | 1d10         |
 | Passwall         | 1d6          |
@@ -761,7 +761,7 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 Table: Deck of Illusions
 
 | Playing Card      | Illusion                         |
-|:------------------|:---------------------------------|
+|:---|:---|
 | Ace of hearts     | Red dragon                       |
 | King of hearts    | Knight and four guards           |
 | Queen of hearts   | Succubus or incubus              |
@@ -809,7 +809,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 Table: Deck of Many Things
 
 | Playing Card       | Card          |
-|:-------------------|:--------------|
+|:---|:---|
 | Ace of diamonds    | Vizier[^1]    |
 | King of diamonds   | Sun           |
 | Queen of diamonds  | Moon          |
@@ -878,7 +878,7 @@ Table: Deck of Many Things
 **Speed** 60 ft., fly 60 ft. (hover)
 
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  |
 
 **Damage Immunities** necrotic, poison
@@ -948,7 +948,7 @@ Additionally, you can focus your senses as an action to magically discern the di
 Table: Dragon Scale Mail
 
 | Dragon | Resistance |
-|:-------|:-----------|
+|:---|:---|
 | Black  | Acid       |
 | Blue   | Lightning  |
 | Brass  | Fire       |
@@ -1023,7 +1023,7 @@ The first time the bottle is opened, the GM rolls to determine what happens.
 Table: Efreeti Bottle
 
 | 1d100   | Effect                                                                                                                                                                                                                                                                                                                                                 |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01-10  | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.                                                                                                                                                                                                                                          |
 | 11-90  | The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
 | 91-100 | The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.                                                                                                                                                                                                  |
@@ -1037,7 +1037,7 @@ This gem contains a mote of elemental energy. When you use an action to break th
 Table: Elemental Gem
 
 | Gem            | Summoned Elemental |
-|----------------|--------------------|
+|---|---|
 | Blue sapphire  | Air elemental      |
 | Yellow diamond | Earth elemental    |
 | Red corundum   | Fire elemental     |
@@ -1084,7 +1084,7 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 Table: Feather Token
 
 | 1d100   | Feather Token |
-|:------:|:--------------|
+|:---:|:---|
 | 01-20  | Anchor        |
 | 21-35  | Bird          |
 | 36-50  | Fan           |
@@ -1131,7 +1131,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 **Speed** 30 ft., fly 60 ft.
 
 | STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 14 (+2)  | 13 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 3 (-4)   |
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -1342,7 +1342,7 @@ Four types of *horn of Valhalla* are known to exist, each made of a different me
 Table: Horn of Valhalla
 
 | 1d100  | Horn Type | Berserkers Summoned | Requirement                          |
-|-------|-----------|---------------------|--------------------------------------|
+|---|---|---|---|
 | 01-40 | Silver    | 2d4 + 2               | None                                 |
 | 41-75 | Brass     | 3d4 + 3               | Proficiency with all simple weapons  |
 | 76-90 | Bronze    | 4d4 + 4               | Proficiency with all medium armor    |
@@ -1453,7 +1453,7 @@ An *identify* spell reveals that a creature is inside the flask, but the only wa
 Table: Iron Flask
 
 | 1d100  | Contents          |
-|-------|-------------------|
+|---|---|
 | 1‒50  | Empty             |
 | 51‒54 | Demon (type 1)    |
 | 55‒58 | Demon (type 2)    |
@@ -1550,7 +1550,7 @@ This tome contains information and incantations necessary to make a particular t
 Table: Manual of Golems
 
 | 1d20   | Golem | Time     | Cost       |
-|-------|-------|----------|------------|
+|---|---|---|---|
 | 1-5   | Clay  | 30 days  | 65,000 gp  |
 | 6-17  | Flesh | 60 days  | 50,000 gp  |
 | 18    | Iron  | 120 days | 100,000 gp |
@@ -1635,7 +1635,7 @@ Six types of magic beads exist. The GM decides the type of each bead on the neck
 Table: Necklace of Prayer Beads
 
 | 1d20   | Bead of ...  | Spell                                         |
-|-------|--------------|-----------------------------------------------|
+|---|---|---|
 | 1-6   | Blessing     | Bless                                         |
 | 7-12  | Curing       | Cure wounds (2nd level) or lesser restoration |
 | 13-16 | Favor        | Greater restoration                           |
@@ -1794,7 +1794,7 @@ This potion's transparent liquid has floating in it a sliver of fingernail from 
 Table: Potion of Giant Strength
 
 | Type of Giant     | Strength | Rarity    |
-|-------------------|----------|-----------|
+|---|---|---|
 | Hill giant        | 21       | Uncommon  |
 | Frost/stone giant | 23       | Rare      |
 | Fire giant        | 25       | Rare      |
@@ -1816,7 +1816,7 @@ You regain hit points when you drink this potion. The number of hit points depen
 Table: Potions of Healing
 
 | Potion of ...    | Rarity    | HP Regained |
-|------------------|-----------|-------------|
+|---|---|---|
 | Healing          | Common    | 2d4 + 2       |
 | Greater healing  | Uncommon  | 4d4 + 4       |
 | Superior healing | Rare      | 8d4 + 8       |
@@ -1857,7 +1857,7 @@ When you drink this potion, you gain resistance to one type of damage for 1 hour
 Table: Potion of Resistance
 
 | 1d10 | Damage Type |
-|-----|-------------|
+|---|---|
 | 1   | Acid        |
 | 2   | Cold        |
 | 3   | Fire        |
@@ -1885,7 +1885,7 @@ You can breathe underwater for 1 hour after drinking this potion. Its cloudy gre
 
 *Wondrous Item, Uncommon*
 
-This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.
+This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh ½ pound.
 
 As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.
 
@@ -2010,7 +2010,7 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 Table: Ring of Resistance
 
 | 1d10 | Damage Type | Gem        |
-|-----|-------------|------------|
+|---|---|---|
 | 1   | Acid        | Pearl      |
 | 2   | Cold        | Tourmaline |
 | 3   | Fire        | Garnet     |
@@ -2041,7 +2041,7 @@ As a bonus action, you can move each sphere up to 30 feet, but no farther than 1
 Table: Ring of Shooting Stars
 
 | Spheres | Lightning Damage |
-|---------|------------------|
+|---|---|
 | 4       | 2d4              |
 | 3       | 2d6              |
 | 2       | 5d4              |
@@ -2173,7 +2173,7 @@ In addition, the robe has 4d4 other patches. The GM chooses the patches or deter
 Table: Robe of Useful Items
 
 | 1d100   | Patch                                                                                                                                                                                             |
-|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01-08  | Bag of 100 gp                                                                                                                                                                                     |
 | 09-15  | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp                                                                                                                                  |
 | 16-22  | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
@@ -2331,7 +2331,7 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 Table: Spell Scroll
 
 | Spell Level | Rarity    | Save DC | Attack Bonus |
-|-------------|-----------|---------|--------------|
+|---|---|---|---|
 | Cantrip     | Common    | 13      | +5           |
 | 1st         | Common    | 13      | +5           |
 | 2nd         | Uncommon  | 13      | +5           |
@@ -2368,7 +2368,7 @@ If the sphere comes into contact with a planar portal, such as that created by t
 Table: Sphere of Annihilation
 
 | 1d100  | Result                                                                                                                             |
-|-------|------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01-50 | The sphere is destroyed.                                                                                                           |
 | 51-85 | The sphere moves through the portal or into the extradimensional space.                                                            |
 | 86-00 | A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence. |
@@ -2430,7 +2430,7 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 Table: Staff of Power
 
 | Distance from Origin  | Damage                                 |
-|-----------------------|----------------------------------------|
+|---|---|
 | 10 ft. away or closer | 8 × the number of charges in the staff |
 | 11 to 20 ft. away     | 6 × the number of charges in the staff |
 | 21 to 30 ft. away     | 4 × the number of charges in the staff |
@@ -2474,7 +2474,7 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 Table: Staff of the Magi
 
 | Distance from Origin  | Damage                                 |
-|-----------------------|----------------------------------------|
+|---|---|
 | 10 ft. away or closer | 8 × the number of charges in the staff |
 | 11 to 20 ft. away     | 6 × the number of charges in the staff |
 | 21 to 30 ft. away     | 4 × the number of charges in the staff |
@@ -2754,7 +2754,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 Table: Wand of Wonder
 
 | 1d100   | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 01-05  | You cast slow. 06-10 You cast faerie fire.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 11-15  | You are stunned until the start of your next turn, believing something awesome just happened. 16-20 You cast gust of wind.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 21-25  | You cast detect thoughts on the target you chose. If you didn't target a creature, you instead take 1d6 psychic damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

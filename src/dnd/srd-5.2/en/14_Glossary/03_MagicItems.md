@@ -1,7 +1,7 @@
 ## Magic Items
 
 | Item | Type | Rarity | Attunement |
-|------|------|--------|------------|
+|---|---|---|---|
 | Adamantine Armor | Armor (Any Medium or Heavy, Except Hide Armor) | Uncommon |  |
 | Ammunition of Slaying | Weapon (Any Ammunition) | Very Rare |  |
 | Ammunition, +1, +2, or +3 | Weapon (Any Ammunition) | Uncommon (+1), Rare (+2), or Very Rare (+3) |  |

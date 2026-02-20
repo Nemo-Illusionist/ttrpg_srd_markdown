@@ -3,7 +3,7 @@
 Table: Core Paladin Traits
 
 |                               |                                                                                             |
-|-------------------------------|---------------------------------------------------------------------------------------------|
+|---|---|
 | Primary Ability               | Strength and Charisma                                                                       |
 | Hit Point Die                 | D10 per Paladin level                                                                       |
 | Saving Throw Proficiencies    | Wisdom and Charisma                                                                         |
@@ -31,7 +31,7 @@ As a Paladin, you gain the following class features when you reach the specified
 Table: Paladin Features: —Spell Slots per Spell Level—
 
 | Level | Proficiency Bonus | Class Features                                | Channel Divinity | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
-|-------|-------------------|-----------------------------------------------|------------------|-----------------|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Lay On Hands, Spellcasting, Weapon Mastery    | —                | 2               | 2 | — | — | — | — |
 | 2     | +2                | Fighting Style, Paladin's Smite               | —                | 3               | 2 | — | — | — | — |
 | 3     | +2                | Channel Divinity, Paladin Subclass            | 2                | 4               | 3 | — | — | — | — |
@@ -170,7 +170,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 Table: Level 1 Paladin Spells
 
 | Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
+|---|---|---|
 | Bless                         | Enchantment   | C, M    |
 | Command                       | Enchantment   | —       |
 | Cure Wounds                   | Abjuration    | —       |
@@ -188,7 +188,7 @@ Table: Level 1 Paladin Spells
 Table: Level 2 Paladin Spells
 
 | Spell                  | School        | Special |
-|------------------------|---------------|---------|
+|---|---|---|
 | Aid                    | Abjuration    | —       |
 | Find Steed             | Conjuration   | —       |
 | Gentle Repose          | Necromancy    | R, M    |
@@ -204,7 +204,7 @@ Table: Level 2 Paladin Spells
 Table: Level 3 Paladin Spells
 
 | Spell                 | School      | Special |
-|-----------------------|-------------|---------|
+|---|---|---|
 | Create Food and Water | Conjuration | —       |
 | Daylight              | Evocation   | —       |
 | Dispel Magic          | Abjuration  | —       |
@@ -215,7 +215,7 @@ Table: Level 3 Paladin Spells
 Table: Level 4 Paladin Spells
 
 | Spell           | School     | Special |
-|-----------------|------------|---------|
+|---|---|---|
 | Aura of Life    | Abjuration | C       |
 | Banishment      | Abjuration | C       |
 | Death Ward      | Abjuration | —       |
@@ -224,7 +224,7 @@ Table: Level 4 Paladin Spells
 Table: Level 5 Paladin Spells
 
 | Spell                | School      | Special |
-|----------------------|-------------|---------|
+|---|---|---|
 | Dispel Evil and Good | Abjuration  | C       |
 | Geas                 | Enchantment | —       |
 | Greater Restoration  | Abjuration  | M       |
@@ -251,7 +251,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 Table: Oath of Devotion Spells
 
 | Paladin Level | Spells                                            |
-|---------------|---------------------------------------------------|
+|---|---|
 | 3             | Protection from Evil and Good, Shield of Faith    |
 | 5             | Aid, Zone of Truth                                |
 | 9             | Beacon of Hope, Dispel Magic                      |

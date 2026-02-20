@@ -3,7 +3,7 @@
 Table: Core Ranger Traits
 
 |                               |                                                                                                      |
-|-------------------------------|------------------------------------------------------------------------------------------------------|
+|---|---|
 | Hit Point Die                 | 1d10 per Ranger level                                                                                |
 | Hit Points at 1st Level       | 10 + your Constitution modifier                                                                     |
 | Hit Points at Higher Levels   | 1d10 (or 6) + your Constitution modifier per Ranger level after 1st                                  |
@@ -25,7 +25,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Table: Ranger Features
 
 | Level | Proficiency Bonus | Features                                          | Spells Known | 1   | 2   | 3   | 4   | 5   |
-|-------|-------------------|---------------------------------------------------|--------------|-----|-----|-----|-----|-----|
+|---|---|---|---|---|---|---|---|---|
 | 1     | +2                | Favored Enemy, Natural Explorer                   | -            | -   | -   | -   | -   | -   |
 | 2     | +2                | Fighting Style, Spellcasting                      | 2            | 2   | -   | -   | -   | -   |
 | 3     | +2                | Ranger Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |

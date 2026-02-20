@@ -11,7 +11,7 @@ If you have a list of level 1+ spells you prepare, your spellcasting feature spe
 Table: Spell Preparation by Class
 
 | Class    | Change When You …    | Number of Spells |
-|----------|----------------------|------------------|
+|---|---|---|
 | Bard     | Gain a level         | One              |
 | Cleric   | Finish a Long Rest   | Any              |
 | Druid    | Finish a Long Rest   | Any              |
@@ -72,7 +72,7 @@ Each spell belongs to a school of magic. The schools are listed in the Schools o
 Table: Schools of Magic
 
 | School        | Typical Effects                                              |
-|---------------|--------------------------------------------------------------|
+|---|---|
 | Abjuration    | Prevents or reverses harmful effects                         |
 | Conjuration   | Transports creatures or objects                              |
 | Divination    | Reveals information                                          |
@@ -1723,7 +1723,7 @@ You receive an omen from an otherworldly entity about the results of a course of
 Table: Omens
 
 | Omen         | For Results That Will Be … |
-|--------------|----------------------------|
+|---|---|
 | Weal         | Good                       |
 | Woe          | Bad                        |
 | Weal and woe | Good and bad               |
@@ -3479,7 +3479,7 @@ Each creature in a 10-foot-radius Sphere centered on a point you choose within r
 Table: 1d10 Behavior for the Turn
 
 | d10  | Behavior for the Turn                                                                                                                        |
-|------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | 1    | The target doesn't take an action, and it uses all its movement to move. Roll 1d4 for the direction: 1, north; 2, east; 3, south; or 4, west.|
 | 2–6  | The target doesn't move or take actions.                                                                                                     |
 | 7–8  | The target doesn't move, and it takes the Attack action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
@@ -4265,7 +4265,7 @@ The spell's duration depends on the object's material, as shown in the Materials
 Table: Materials
 
 | Material              | Duration   |
-|-----------------------|------------|
+|---|---|
 | Vegetable matter      | 24 hours   |
 | Stone or crystal      | 12 hours   |
 | Precious metals       | 1 hour     |
@@ -4607,7 +4607,7 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 T
 You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body's species, or the GM chooses another playable species.
 
 | 1d10 | Species     |
-|------|-------------|
+|---|---|
 | 1    | Roll again. |
 | 2    | Dragonborn  |
 | 3    | Dwarf       |
@@ -4636,13 +4636,13 @@ The reincarnated creature makes any choices that a species' description offers, 
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn't know what it is making the save against, only that it feels uneasy.
 
 | Your Knowledge of the Target Is …       | Save Modifier |
-|-----------------------------------------|---------------|
+|---|---|
 | Secondhand (heard of the target)        | +5            |
 | Firsthand (met the target)              | +0            |
 | Extensive (know the target well)        | −5            |
 
 | You Have the Target's …                 | Save Modifier |
-|-----------------------------------------|---------------|
+|---|---|
 | Picture or other likeness               | −2            |
 | Garment or other possession             | −4            |
 | Body part, lock of hair, or bit of nail | −10           |
@@ -4818,7 +4818,7 @@ You can use this transportation ability only once on each of your turns. You mus
 
 **Duration:** Concentration, up to 10 minutes
 
-An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).
+An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is ¼ inch thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by *Dispel Magic.* A *Disintegrate* spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
@@ -5489,7 +5489,7 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 Table: Divine Word Effects
 
 | Hit Points | Effect                                                                   |
-|------------|--------------------------------------------------------------------------|
+|---|---|
 | 0–20       | The target dies.                                                         |
 | 21–30      | The target has the Blinded, Deafened, and Stunned conditions for 1 hour. |
 | 31–40      | The target has the Blinded and Deafened conditions for 10 minutes.       |
@@ -5563,7 +5563,7 @@ Flammable objects in the area that aren't being worn or carried start burning.
 
 An immobile, Invisible, Cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 
-A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart. A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
+A prison in the shape of a cage can be up to 20 feet on a side and is made from ½-inch diameter bars spaced ½ inch apart. A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
 
 When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside it, are pushed away from the center of the area until they are completely outside it.
 
@@ -5646,7 +5646,7 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 Table: Prismatic Rays
 
 | 1d8 | Ray                                                                                       |
-|-----|-------------------------------------------------------------------------------------------|
+|---|---|
 | 1   | **Red.** *Failed Save:* 12d6 Fire damage. *Successful Save:* Half as much damage.         |
 | 2   | **Orange.** *Failed Save:* 12d6 Acid damage. *Successful Save:* Half as much damage.      |
 | 3   | **Yellow.** *Failed Save:* 12d6 Lightning damage. *Successful Save:* Half as much damage. |
@@ -5817,7 +5817,7 @@ The destination you choose must be known to you, and it must be on the same plan
 Table: Teleportation Outcome
 
 | Familiarity              | Mishap | Similar Area | Off Target | On Target |
-|--------------------------|--------|--------------|------------|-----------|
+|---|---|---|---|---|
 | Permanent circle         | —      | —            | —          | 01–00     |
 | Linked object            | —      | —            | —          | 01–00     |
 | Very familiar            | 01–05  | 06–13        | 14–24      | 25–00     |
@@ -5957,7 +5957,7 @@ When you change the weather conditions, find a current condition on the followin
 Table: Precipitation
 
 | Stage | Condition                                  |
-|-------|--------------------------------------------|
+|---|---|
 | 1     | Clear                                      |
 | 2     | Light clouds                               |
 | 3     | Overcast or ground fog                     |
@@ -5967,7 +5967,7 @@ Table: Precipitation
 Table: Temperature
 
 | Stage       | Condition |
-|-------------|-----------|
+|---|---|
 | 1           | Heat wave |
 | 2           | Hot       |
 | 3           | Warm      |
@@ -5978,7 +5978,7 @@ Table: Temperature
 Table: Wind
 
 | Stage | Condition     |
-|-------|---------------|
+|---|---|
 | 1     | Calm          |
 | 2     | Moderate wind |
 | 3     | Strong wind   |
@@ -6344,7 +6344,7 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 Table: Prismatic Layers
 
 | Order | Effects                      |
-|-------|------------------------------|
+|---|---|
 | 1     | **Red.** *Failed Save:* 12d6 Fire damage. *Successful Save:* Half as much damage. *Additional Effects*: Nonmagical ranged attacks can't pass through this layer, which is destroyed if it takes at least 25 Cold damage. |
 | 2     | **Orange.** *Failed Save:* 12d6 Acid damage. *Successful Save:* Half as much damage. *Additional Effects:* Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by *Gust of Wind*). |
 | 3     | **Yellow.** *Failed Save:* 12d6 Lightning damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 60 Force damage. |
