@@ -177,15 +177,15 @@ The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, 
 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
-***Honesty***. Don't lie or cheat. Let your word be your promise.
+**_Honesty._** Don't lie or cheat. Let your word be your promise.
 
-***Courage***. Never fear to act, though caution is wise.
+**_Courage._** Never fear to act, though caution is wise.
 
-***Compassion***. Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+**_Compassion._** Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
 
-***Honor***. Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+**_Honor._** Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
 
-***Duty***. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+**_Duty._** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
 #### Level 3: Oath Spells
 
@@ -205,11 +205,11 @@ Table: Oath of Devotion Spells
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-***Sacred Weapon***. As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
+**_Sacred Weapon._** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
-***Turn the Unholy***. As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
+**_Turn the Unholy._** As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
