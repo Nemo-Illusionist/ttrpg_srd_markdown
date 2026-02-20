@@ -1,6 +1,6 @@
 # Adventuring
 
-## ADVENTURING
+## Adventuring
 
 ## Time
 
