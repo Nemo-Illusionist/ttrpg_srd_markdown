@@ -670,7 +670,7 @@ A Book contains fiction or nonfiction. If you consult an accurate nonfiction Boo
 
 #### Bottle, Glass (2 GP)
 
-A Glass Bottle holds up to 1 1/2 pints.
+A Glass Bottle holds up to 1½ pints.
 
 #### Bucket (5 CP)
 

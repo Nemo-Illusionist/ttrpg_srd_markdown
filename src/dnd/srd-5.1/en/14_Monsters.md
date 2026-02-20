@@ -85,12 +85,12 @@ Table: Hit Dice by Size
 
 | Monster Size | Hit Die | Average HP per Die |
 |--------------|---------|--------------------|
-| Tiny         | d4      | 2 1/2              |
-| Small        | d6      | 3 1/2              |
-| Medium       | d8      | 4 1/2              |
-| Large        | d10     | 5 1/2              |
-| Huge         | d12     | 6 1/2              |
-| Gargantuan   | d20     | 10 1/2             |
+| Tiny         | d4      | 2½                 |
+| Small        | d6      | 3½                 |
+| Medium       | d8      | 4½                 |
+| Large        | d10     | 5½                 |
+| Huge         | d12     | 6½                 |
+| Gargantuan   | d20     | 10½                |
 
 A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8+2 hit points (average 11).
 
@@ -173,7 +173,7 @@ The Skills entry is reserved for monsters that are proficient in one or more ski
 
 A skill bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
 
-***Armor, Weapon, and Tool Proficiencies***
+**_Armor, Weapon, and Tool Proficiencies._**
 
 *Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.*
 
@@ -306,13 +306,13 @@ When a monster takes its action, it can choose from the options in the Actions s
 
 The most common actions that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the "weapon" might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on different kinds of attacks, see the *Player's Handbook*.
 
-***Creature vs Target***. The target of a melee or ranged attack is usually either one creature or one target, the difference being that a "target" can be a creature or an object.
+**_Creature vs Target._** The target of a melee or ranged attack is usually either one creature or one target, the difference being that a "target" can be a creature or an object.
 
-***Hit***. Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the "Hit" notation. You have the option of taking average damage or rolling the damage; for this reason, both the average damage and the die expression are presented.
+**_Hit._** Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the "Hit" notation. You have the option of taking average damage or rolling the damage; for this reason, both the average damage and the die expression are presented.
 
-***Miss***. If an attack has an effect that occurs on a miss, that information is presented after the "Miss:" notation.
+**_Miss._** If an attack has an effect that occurs on a miss, that information is presented after the "Miss:" notation.
 
-***Grapple Rules for Monsters***
+**_Grapple Rules for Monsters._**
 
 *Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.*
 
@@ -334,13 +334,13 @@ If a monster can do something special with its reaction, that information is con
 
 Some special abilities have restrictions on the number of times they can be used.
 
-***X/Day***. The notation "X/Day" means a special ability can be used X number of times and that a monster must finish a long rest to regain expended uses. For example, "1/Day" means a special ability can be used once and that the monster must finish a long rest to use it again.
+**_X/Day._** The notation "X/Day" means a special ability can be used X number of times and that a monster must finish a long rest to regain expended uses. For example, "1/Day" means a special ability can be used once and that the monster must finish a long rest to use it again.
 
-***Recharge X-Y***. The notation "Recharge X-Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest.
+**_Recharge X-Y._** The notation "Recharge X-Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest.
 
 For example, "Recharge 5-6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a d6.
 
-***Recharge after a Short or Long Rest***. This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
+**_Recharge after a Short or Long Rest._** This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
 
 ### Equipment
 
