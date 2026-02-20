@@ -1,4 +1,6 @@
-# Alignment
+# Character Details
+
+## Alignment
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
@@ -22,7 +24,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 **Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.
 
-## Alignment in the Multiverse
+### Alignment in the Multiverse
 
 For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
 
@@ -32,7 +34,7 @@ Alignment is an essential part of the nature of celestials and fiends. A devil d
 
 Most creatures that lack the capacity for rational thought do not have alignments-they are **unaligned**. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
-# Backgrounds
+## Backgrounds
 
 Every story has a beginning. Your character's background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
 
@@ -40,7 +42,7 @@ Choosing a background provides you with important story cues about your characte
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
-### Proficiencies
+#### Proficiencies
 
 Each background gives a character proficiency in two skills (described in "Using Ability Scores").
 
@@ -48,23 +50,23 @@ In addition, most backgrounds give a character proficiency with one or more tool
 
 If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
 
-### Languages
+#### Languages
 
 Some backgrounds also allow characters to learn additional languages beyond those given by race. See "Languages."
 
-### Equipment
+#### Equipment
 
 Each background provides a package of starting equipment. If you use the optional rule to spend coin on gear, you do not receive the starting equipment from your background.
 
-### Suggested Characteristics
+#### Suggested Characteristics
 
 A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
 
-### Customizing a Background
+#### Customizing a Background
 
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can't also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can't find a feature that matches your desired background, work with your GM to create one.
 
-## Acolyte
+### Acolyte
 
 You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric - performing sacred rites is not the same thing as channeling divine power.
 
@@ -76,13 +78,13 @@ Choose a god, a pantheon of gods, or some other quasi-divine being from among th
 
 **Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp
 
-### Feature: Shelter of the Faithful
+#### Feature: Shelter of the Faithful
 
 As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
 
 You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
 
-### Suggested Characteristics
+#### Suggested Characteristics
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
@@ -120,23 +122,23 @@ Table: Suggested Acolyte Characteristics
 | 5      | I am suspicious of strangers and expect the worst of them.                                                                 |
 | 6      | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.                              |
 
-# Inspiration
+## Inspiration
 
 Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
 
-## Gaining Inspiration
+### Gaining Inspiration
 
 Your GM can choose to give you inspiration for a variety of reasons. Typically, GMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your GM will tell you how you can earn inspiration in the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
-## Using Inspiration
+### Using Inspiration
 
 If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-# Languages
+## Languages
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
 
@@ -170,7 +172,7 @@ Table: Exotic Languages
 | Sylvan      | Fey creatures       | Elvish    |
 | Undercommon | Underworld traders  | Elvish    |
 
-# Beyond 1st Level
+## Beyond 1st Level
 
 As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.
 
