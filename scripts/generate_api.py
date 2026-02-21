@@ -122,6 +122,8 @@ def main():
     parser = argparse.ArgumentParser(description="Generate D&D SRD JSON API")
     parser.add_argument("--src-root", required=True, help="Root directory of SRD markdown sources")
     parser.add_argument("--output-dir", required=True, help="Output directory for JSON API (e.g. site/api)")
+    parser.add_argument("--individual", action="store_true",
+                        help="Generate individual {slug}.json files (default: only all.json per resource)")
     args = parser.parse_args()
 
     src_root = Path(args.src_root)
@@ -192,8 +194,9 @@ def main():
         for entity in entities:
             slug = entity["slug"]
             slugs.append(slug)
-            write_json(system_dir / ver / lang / resource / f"{slug}.json", entity)
-            file_count += 1
+            if args.individual:
+                write_json(system_dir / ver / lang / resource / f"{slug}.json", entity)
+                file_count += 1
 
         slugs.sort()
         hierarchy[ver][lang][resource] = slugs
@@ -222,8 +225,9 @@ def main():
                 file_count += 1
 
                 links = [{"href": "all.json", "label": "all.json", "badge": f"{len(slugs)} items"}]
-                for slug in slugs:
-                    links.append({"href": f"{slug}.json", "label": slug})
+                if args.individual:
+                    for slug in slugs:
+                        links.append({"href": f"{slug}.json", "label": slug})
                 bc = [
                     {"href": "../../../../", "label": "api"},
                     {"href": "../../../", "label": SYSTEM},

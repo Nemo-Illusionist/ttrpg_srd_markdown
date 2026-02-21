@@ -9,6 +9,11 @@ on:
       - "mkdocs.yml"
       - "scripts/**"
   workflow_dispatch:
+    inputs:
+      api_individual:
+        description: "Generate individual JSON files (one per entity)"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -50,7 +55,11 @@ jobs:
         run: mkdocs build --strict
 
       - name: Generate JSON API
-        run: python3 scripts/generate_api.py --src-root src/dnd --output-dir site/api
+        run: >
+          python3 scripts/generate_api.py
+          --src-root src/dnd
+          --output-dir site/api
+          ${{ github.event.inputs.api_individual == 'true' && '--individual' || '' }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
