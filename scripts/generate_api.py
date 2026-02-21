@@ -244,20 +244,9 @@ def main():
     for ver, langs in sorted(hierarchy.items()):
         for lang, resources in sorted(langs.items()):
             lang_dir = system_dir / ver / lang
-            res_list = []
             links = []
             for resource, slugs in sorted(resources.items()):
-                res_list.append({
-                    "name": resource,
-                    "total": len(slugs),
-                    "path": f"{resource}/",
-                })
                 links.append({"href": f"{resource}/", "label": resource, "badge": str(len(slugs))})
-            write_json(lang_dir / "meta.json", {
-                "language": lang,
-                "resources": res_list,
-            })
-            file_count += 1
 
             bc = [
                 {"href": "../../../", "label": "api"},
@@ -273,17 +262,9 @@ def main():
     # Level 3: /dnd/{ver}/ — available languages
     for ver, langs in sorted(hierarchy.items()):
         ver_dir = system_dir / ver
-        lang_list = []
         links = []
         for lang in sorted(langs):
-            lang_list.append({"code": lang, "path": f"{lang}/"})
             links.append({"href": f"{lang}/", "label": lang})
-        write_json(ver_dir / "meta.json", {
-            "version": ver,
-            "name": VERSION_NAMES.get(ver, ver),
-            "languages": lang_list,
-        })
-        file_count += 1
 
         bc = [
             {"href": "../../", "label": "api"},
@@ -296,17 +277,9 @@ def main():
         file_count += 1
 
     # Level 2: /dnd/ — available versions
-    ver_list = []
     links = []
     for ver in sorted(hierarchy):
-        ver_list.append({"id": ver, "name": VERSION_NAMES.get(ver, ver), "path": f"{ver}/"})
         links.append({"href": f"{ver}/", "label": VERSION_NAMES.get(ver, ver)})
-    write_json(system_dir / "meta.json", {
-        "system": SYSTEM,
-        "name": SYSTEM_NAME,
-        "versions": ver_list,
-    })
-    file_count += 1
 
     bc = [
         {"href": "../", "label": "api"},
@@ -318,12 +291,6 @@ def main():
     file_count += 1
 
     # Level 1: /api/ — available systems
-    write_json(output_dir / "meta.json", {
-        "api_version": "1.0",
-        "systems": [{"id": SYSTEM, "name": SYSTEM_NAME, "path": f"{SYSTEM}/"}],
-    })
-    file_count += 1
-
     write_index_html(output_dir / "index.html",
                      "TTRPG SRD API",
                      [{"href": f"{SYSTEM}/", "label": SYSTEM_NAME}])
