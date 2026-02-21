@@ -61,6 +61,63 @@ def write_json(path: Path, data) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def write_index_html(path: Path, title: str, links: list[dict], breadcrumbs: list[dict] | None = None) -> None:
+    """Write an index.html navigation page.
+
+    links: list of {"href": "...", "label": "...", "badge": "..." (optional)}
+    breadcrumbs: list of {"href": "...", "label": "..."} for navigation trail
+    """
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+    bc_html = ""
+    if breadcrumbs:
+        parts = []
+        for bc in breadcrumbs:
+            if bc.get("href"):
+                parts.append(f'<a href="{bc["href"]}">{bc["label"]}</a>')
+            else:
+                parts.append(f'<span>{bc["label"]}</span>')
+        bc_html = f'<nav class="breadcrumbs">{"&nbsp;/&nbsp;".join(parts)}</nav>'
+
+    items = []
+    for link in links:
+        badge = f' <span class="badge">{link["badge"]}</span>' if link.get("badge") else ""
+        items.append(f'<li><a href="{link["href"]}">{link["label"]}</a>{badge}</li>')
+
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title}</title>
+<style>
+  body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; color: #1a1a2e; background: #fafafa; }}
+  h1 {{ font-size: 1.5rem; margin-bottom: .5rem; }}
+  .breadcrumbs {{ font-size: .85rem; color: #666; margin-bottom: 1.5rem; }}
+  .breadcrumbs a {{ color: #4361ee; text-decoration: none; }}
+  .breadcrumbs a:hover {{ text-decoration: underline; }}
+  ul {{ list-style: none; padding: 0; }}
+  li {{ margin: .4rem 0; }}
+  li a {{ color: #4361ee; text-decoration: none; font-size: 1.05rem; }}
+  li a:hover {{ text-decoration: underline; }}
+  .badge {{ background: #e8eaf6; color: #3949ab; padding: .15rem .5rem; border-radius: .75rem; font-size: .8rem; margin-left: .5rem; }}
+  footer {{ margin-top: 2rem; font-size: .75rem; color: #999; }}
+</style>
+</head>
+<body>
+{bc_html}
+<h1>{title}</h1>
+<ul>
+{"".join(items)}
+</ul>
+<footer>TTRPG SRD Markdown &mdash; Static JSON API</footer>
+</body>
+</html>"""
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(html)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Generate D&D SRD JSON API")
     parser.add_argument("--src-root", required=True, help="Root directory of SRD markdown sources")
@@ -148,58 +205,98 @@ def main():
         )
         file_count += 1
 
-    # --- Hierarchical meta.json files ---
+    # --- Hierarchical meta.json + index.html files ---
 
-    # Level 5: /dnd/{ver}/{lang}/{resource}/meta.json — list of slugs
+    base_url = "."  # relative links
+
+    # Level 5: /dnd/{ver}/{lang}/{resource}/ — list of slugs
     for ver, langs in sorted(hierarchy.items()):
         for lang, resources in sorted(langs.items()):
             for resource, slugs in sorted(resources.items()):
-                write_json(system_dir / ver / lang / resource / "meta.json", {
+                res_dir = system_dir / ver / lang / resource
+                write_json(res_dir / "meta.json", {
                     "resource": resource,
                     "total": len(slugs),
                     "slugs": slugs,
                 })
                 file_count += 1
 
-    # Level 4: /dnd/{ver}/{lang}/meta.json — available resources
+                links = [{"href": "all.json", "label": "all.json", "badge": f"{len(slugs)} items"}]
+                for slug in slugs:
+                    links.append({"href": f"{slug}.json", "label": slug})
+                bc = [
+                    {"href": "../../../../", "label": "api"},
+                    {"href": "../../../", "label": SYSTEM},
+                    {"href": "../../", "label": VERSION_NAMES.get(ver, ver)},
+                    {"href": "../", "label": lang},
+                    {"href": None, "label": resource},
+                ]
+                write_index_html(res_dir / "index.html",
+                                 f"{resource} — {lang} — {VERSION_NAMES.get(ver, ver)}",
+                                 links, bc)
+                file_count += 1
+
+    # Level 4: /dnd/{ver}/{lang}/ — available resources
     for ver, langs in sorted(hierarchy.items()):
         for lang, resources in sorted(langs.items()):
+            lang_dir = system_dir / ver / lang
             res_list = []
+            links = []
             for resource, slugs in sorted(resources.items()):
                 res_list.append({
                     "name": resource,
                     "total": len(slugs),
                     "path": f"{resource}/",
                 })
-            write_json(system_dir / ver / lang / "meta.json", {
+                links.append({"href": f"{resource}/", "label": resource, "badge": str(len(slugs))})
+            write_json(lang_dir / "meta.json", {
                 "language": lang,
                 "resources": res_list,
             })
             file_count += 1
 
-    # Level 3: /dnd/{ver}/meta.json — available languages
+            bc = [
+                {"href": "../../../", "label": "api"},
+                {"href": "../../", "label": SYSTEM},
+                {"href": "../", "label": VERSION_NAMES.get(ver, ver)},
+                {"href": None, "label": lang},
+            ]
+            write_index_html(lang_dir / "index.html",
+                             f"{lang} — {VERSION_NAMES.get(ver, ver)}",
+                             links, bc)
+            file_count += 1
+
+    # Level 3: /dnd/{ver}/ — available languages
     for ver, langs in sorted(hierarchy.items()):
+        ver_dir = system_dir / ver
         lang_list = []
+        links = []
         for lang in sorted(langs):
-            lang_list.append({
-                "code": lang,
-                "path": f"{lang}/",
-            })
-        write_json(system_dir / ver / "meta.json", {
+            lang_list.append({"code": lang, "path": f"{lang}/"})
+            links.append({"href": f"{lang}/", "label": lang})
+        write_json(ver_dir / "meta.json", {
             "version": ver,
             "name": VERSION_NAMES.get(ver, ver),
             "languages": lang_list,
         })
         file_count += 1
 
-    # Level 2: /dnd/meta.json — available versions
+        bc = [
+            {"href": "../../", "label": "api"},
+            {"href": "../", "label": SYSTEM},
+            {"href": None, "label": VERSION_NAMES.get(ver, ver)},
+        ]
+        write_index_html(ver_dir / "index.html",
+                         VERSION_NAMES.get(ver, ver),
+                         links, bc)
+        file_count += 1
+
+    # Level 2: /dnd/ — available versions
     ver_list = []
+    links = []
     for ver in sorted(hierarchy):
-        ver_list.append({
-            "id": ver,
-            "name": VERSION_NAMES.get(ver, ver),
-            "path": f"{ver}/",
-        })
+        ver_list.append({"id": ver, "name": VERSION_NAMES.get(ver, ver), "path": f"{ver}/"})
+        links.append({"href": f"{ver}/", "label": VERSION_NAMES.get(ver, ver)})
     write_json(system_dir / "meta.json", {
         "system": SYSTEM,
         "name": SYSTEM_NAME,
@@ -207,20 +304,28 @@ def main():
     })
     file_count += 1
 
-    # Level 1: /api/meta.json — available systems
+    bc = [
+        {"href": "../", "label": "api"},
+        {"href": None, "label": SYSTEM_NAME},
+    ]
+    write_index_html(system_dir / "index.html",
+                     SYSTEM_NAME,
+                     links, bc)
+    file_count += 1
+
+    # Level 1: /api/ — available systems
     write_json(output_dir / "meta.json", {
         "api_version": "1.0",
-        "systems": [
-            {
-                "id": SYSTEM,
-                "name": SYSTEM_NAME,
-                "path": f"{SYSTEM}/",
-            },
-        ],
+        "systems": [{"id": SYSTEM, "name": SYSTEM_NAME, "path": f"{SYSTEM}/"}],
     })
     file_count += 1
 
-    print(f"\nDone: {file_count} JSON files written ({total_entities} entities)")
+    write_index_html(output_dir / "index.html",
+                     "TTRPG SRD API",
+                     [{"href": f"{SYSTEM}/", "label": SYSTEM_NAME}])
+    file_count += 1
+
+    print(f"\nDone: {file_count} files written ({total_entities} entities)")
 
 
 if __name__ == "__main__":
