@@ -61,11 +61,32 @@ def write_json(path: Path, data) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def write_index_html(path: Path, title: str, links: list[dict], breadcrumbs: list[dict] | None = None) -> None:
+def _schema_example(entity: dict) -> dict:
+    """Build a compact schema example from a real entity, replacing long values with '...'."""
+    def _shorten(obj, depth=0):
+        if isinstance(obj, dict):
+            out = {}
+            for k, v in obj.items():
+                out[k] = _shorten(v, depth + 1)
+            return out
+        if isinstance(obj, list):
+            if not obj:
+                return []
+            return [_shorten(obj[0], depth + 1), "..."] if len(obj) > 1 else [_shorten(obj[0], depth + 1)]
+        if isinstance(obj, str) and len(obj) > 60:
+            return obj[:57] + "..."
+        return obj
+    return _shorten(entity)
+
+
+def write_index_html(path: Path, title: str, links: list[dict],
+                     breadcrumbs: list[dict] | None = None,
+                     schema_entity: dict | None = None) -> None:
     """Write an index.html navigation page.
 
     links: list of {"href": "...", "label": "...", "badge": "..." (optional)}
     breadcrumbs: list of {"href": "...", "label": "..."} for navigation trail
+    schema_entity: if provided, show JSON schema example block
     """
     path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -84,6 +105,18 @@ def write_index_html(path: Path, title: str, links: list[dict], breadcrumbs: lis
         badge = f' <span class="badge">{link["badge"]}</span>' if link.get("badge") else ""
         items.append(f'<li><a href="{link["href"]}">{link["label"]}</a>{badge}</li>')
 
+    schema_html = ""
+    if schema_entity:
+        import html as html_mod
+        example = _schema_example(schema_entity)
+        formatted = json.dumps(example, ensure_ascii=False, indent=2)
+        escaped = html_mod.escape(formatted)
+        schema_html = f"""
+<details open>
+<summary><strong>Item schema</strong></summary>
+<pre><code>{escaped}</code></pre>
+</details>"""
+
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -101,12 +134,16 @@ def write_index_html(path: Path, title: str, links: list[dict], breadcrumbs: lis
   li a {{ color: #4361ee; text-decoration: none; font-size: 1.05rem; }}
   li a:hover {{ text-decoration: underline; }}
   .badge {{ background: #e8eaf6; color: #3949ab; padding: .15rem .5rem; border-radius: .75rem; font-size: .8rem; margin-left: .5rem; }}
+  details {{ margin: 1.5rem 0; }}
+  summary {{ cursor: pointer; font-size: 1.05rem; margin-bottom: .5rem; }}
+  pre {{ background: #f0f0f4; padding: 1rem; border-radius: .5rem; overflow-x: auto; font-size: .85rem; line-height: 1.4; }}
   footer {{ margin-top: 2rem; font-size: .75rem; color: #999; }}
 </style>
 </head>
 <body>
 {bc_html}
 <h1>{title}</h1>
+{schema_html}
 <ul>
 {"".join(items)}
 </ul>
@@ -186,9 +223,13 @@ def main():
     # Collectors for hierarchical meta files
     # ver → lang → resource → slugs
     hierarchy: dict[str, dict[str, dict[str, list[str]]]] = {}
+    # First entity per resource for schema example
+    first_entity: dict[tuple[str, str, str], dict] = {}
 
     for (ver, lang, resource), entities in sorted(all_data.items()):
         hierarchy.setdefault(ver, {}).setdefault(lang, {})[resource] = []
+        if entities:
+            first_entity[(ver, lang, resource)] = entities[0]
 
         slugs = []
         for entity in entities:
@@ -237,7 +278,8 @@ def main():
                 ]
                 write_index_html(res_dir / "index.html",
                                  f"{resource} — {lang} — {VERSION_NAMES.get(ver, ver)}",
-                                 links, bc)
+                                 links, bc,
+                                 schema_entity=first_entity.get((ver, lang, resource)))
                 file_count += 1
 
     # Level 4: /dnd/{ver}/{lang}/ — available resources
