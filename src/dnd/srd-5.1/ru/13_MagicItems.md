@@ -1,107 +1,107 @@
 # Магические предметы
 
-Magic items are gleaned from the hoards of conquered monsters or discovered in long-­‐‑lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner’s capabilities in wondrous ways.
+Магические предметы добываются из сокровищниц побеждённых монстров или обнаруживаются в давно забытых хранилищах. Такие предметы наделяют персонажа способностями, которые он редко мог бы получить иным путём, или чудесным образом дополняют его возможности.
 
 ## Настройка
 
-Some magic items require a creature to form a bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for it. If the prerequisite is a class, a creature must be a member of that class to attune to the item. (If the class is a spellcasting class, a monster qualifies if it has spell slots and uses that class’s spell list.) If the prerequisite is to be a spellcaster, a creature qualifies if it can cast at least one spell using its traits or features, not using a magic item or the like.
+Некоторые магические предметы требуют, чтобы существо установило с ними связь, прежде чем сможет использовать их магические свойства. Эта связь называется настройкой, и для некоторых предметов существуют предварительные условия. Если условием является класс, существо должно быть представителем этого класса, чтобы настроиться на предмет. (Если класс является классом заклинателя, монстр подходит, если у него есть ячейки заклинаний и он использует список заклинаний этого класса.) Если условием является быть заклинателем, существо подходит, если оно может сотворить хотя бы одно заклинание, используя свои черты или особенности, а не магический предмет или тому подобное.
 
-Without becoming attuned to an item that requires attunement, a creature gains only its nonmagical benefits, unless its description states otherwise. For example, a magic shield that requires attunement provides the benefits of a normal shield to a creature not attuned to it, but none of its magical properties.
+Без настройки на предмет, требующий её, существо получает только его немагические преимущества, если в описании не сказано иное. Например, магический щит, требующий настройки, предоставляет ненастроенному существу только преимущества обычного щита, но не его магические свойства.
 
-Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it (this can’t be the same short rest used to learn the item’s properties). This focus can take the form of weapon practice (for a weapon), meditation (for a wondrous item), or some other appropriate activity. If the short rest is interrupted, the attunement attempt fails. Otherwise, at the end of the short rest, the creature gains an intuitive understanding of how to activate any magical properties of the item, including any necessary command words.
+Настройка на предмет требует, чтобы существо провело короткий отдых, сосредоточившись только на этом предмете и находясь с ним в физическом контакте (это не может быть тот же короткий отдых, который использовался для изучения свойств предмета). Это сосредоточение может принимать форму тренировки с оружием (для оружия), медитации (для чудесного предмета) или другой подходящей деятельности. Если короткий отдых прерван, попытка настройки не удаётся. В противном случае по окончании короткого отдыха существо получает интуитивное понимание того, как активировать магические свойства предмета, включая все необходимые командные слова.
 
-An item can be attuned to only one creature at a time, and a creature can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; the creature must end its attunement to an item first. Additionally, a creature can’t attune to more than one copy of an item. For example, a creature can’t attune to more than one *ring* *of* *protection* at a time.
+Предмет может быть настроен только на одно существо одновременно, а существо может быть настроено не более чем на три магических предмета одновременно. Любая попытка настроиться на четвёртый предмет не удаётся; существо должно сначала завершить настройку на один из предметов. Кроме того, существо не может настроиться на более чем одну копию предмета. Например, существо не может настроиться на более чем одно *кольцо защиты* одновременно.
 
-A creature’s attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 футов away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another short rest focused on the item, unless the item is cursed.
+Настройка существа на предмет заканчивается, если существо более не удовлетворяет условиям настройки, если предмет находился на расстоянии более 100 футов в течение как минимум 24 часов, если существо умирает или если другое существо настраивается на предмет. Существо также может добровольно завершить настройку, проведя ещё один короткий отдых, сосредоточившись на предмете, если только предмет не проклят.
 
 ## Ношение и использование предметов
 
-Using a magic item’s properties might mean wearing or wielding it. A magic item meant to be worn must be donned in the intended fashion: boots go on the футов, gloves on the hands, hats and helmets on the head, and rings on the finger. Magic armor must be donned, a shield strapped to the arm, a cloak fastened about the shoulders. A weapon must be held.
+Использование свойств магического предмета может означать, что его нужно носить или держать в руках. Магический предмет, предназначенный для ношения, должен быть надет по назначению: сапоги на ноги, перчатки на руки, шляпы и шлемы на голову, а кольца на палец. Магический доспех должен быть надет, щит закреплён на руке, плащ застёгнут на плечах. Оружие должно быть в руке.
 
-In most cases, a magic item that’s meant to be worn can fit a creature regardless of size or build. Many magic garments are made to be easily adjustable, or they magically adjust themselves to the wearer. Rare exceptions exist. If the story suggests a good reason for an item to fit only creatures of a certain size or shape, you can rule that it doesn’t adjust. For example, drow-­‐‑made armor might fit elves only. Dwarves might make items usable only by dwarf-­‐‑sized and dwarf-­‐‑shaped folk.
+В большинстве случаев магический предмет, предназначенный для ношения, подходит существу любого размера и телосложения. Многие магические одежды сделаны легко подгоняемыми или магически подстраиваются под носителя. Редкие исключения существуют. Если история подсказывает веское основание для того, чтобы предмет подходил только существам определённого размера или формы, вы можете решить, что он не подстраивается. Например, доспех работы дроу может подходить только эльфам. Дварфы могут изготавливать предметы, пригодные только для существ дварфийского размера и телосложения.
 
-When a nonhumanoid tries to wear an item, use your discretion as to whether the item functions as intended. A ring placed on a tentacle might work, but a yuan-­‐‑ti with a snakelike tail instead of legs can’t wear boots.
+Когда негуманоид пытается надеть предмет, решите на своё усмотрение, работает ли предмет как задумано. Кольцо, надетое на щупальце, может работать, но юань-ти со змеиным хвостом вместо ног не может носить сапоги.
 
 ### Несколько предметов одного вида
 
-Use common sense to determine whether more than one of a given kind of magic item can be worn. A character can’t normally wear more than one pair of footwear, one pair of gloves or gauntlets, one pair of bracers, one suit of armor, one item of headwear, and one cloak. You can make exceptions; a character might be able to wear a circlet under a helmet, for example, or to layer two cloaks.
+Руководствуйтесь здравым смыслом, чтобы определить, можно ли носить более одного магического предмета одного вида. Персонаж обычно не может носить более одной пары обуви, одной пары перчаток или рукавиц, одной пары наручей, одного комплекта доспехов, одного головного убора и одного плаща. Вы можете делать исключения; персонаж, например, может надеть обруч под шлем или накинуть два плаща.
 
 ### Парные предметы
 
-Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a boot of striding and springing on one фут and a boot of elvenkind on the other фут gains no benefit from either.
+Предметы, идущие в паре — такие как сапоги, наручи, рукавицы и перчатки — дают свои преимущества, только если надеты оба предмета из пары. Например, персонаж, носящий сапог шага и прыжка на одной ноге и сапог эльфа на другой, не получает преимуществ ни от одного из них.
 
 ## Активация предмета
 
-Activating some magic items requires a user to do something special, such as holding the item and uttering a command word. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
+Активация некоторых магических предметов требует от пользователя выполнить особое действие, например, удерживать предмет и произнести командное слово. Описание каждой категории предметов или отдельного предмета детализирует, как предмет активируется. Для активации некоторых предметов используются следующие правила.
 
-If an item requires an action to activate, that action isn’t a function of the Use an Item action, so a feature such as the rogue’s Fast Hands can’t be used to activate the item.
+Если предмет требует действие для активации, это действие не является разновидностью действия «Использование предмета», поэтому такая способность, как «Ловкие руки» плута, не может использоваться для активации предмета.
 
 ### Командное слово
 
-A command word is a word or phrase that must be spoken for an item to work. A magic item that requires a command word can’t be activated in an area where sound is prevented, as in the area of the silence spell.
+Командное слово — это слово или фраза, которые необходимо произнести, чтобы предмет сработал. Магический предмет, требующий командного слова, не может быть активирован в области, где звук подавлен, как, например, в области заклинания *тишина*.
 
 ### Расходуемые предметы
 
-Some items are used up when they are activated. A potion or an elixir must be swallowed, or an oil applied to the body. The writing vanishes from a scroll when it is read. Once used, a consumable item loses its magic.
+Некоторые предметы расходуются при активации. Зелье или эликсир нужно выпить, а масло нанести на тело. Надпись исчезает со свитка, когда он прочитан. После использования расходуемый предмет теряет свою магию.
 
 ### Заклинания
 
-Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell level, doesn’t expend any of the user’s spell slots, and requires no components, unless the item’s description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires concentration. Many items, such as potions, bypass the casting of a spell and confer the spell’s effects, with their usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+Некоторые магические предметы позволяют пользователю сотворять заклинания из предмета. Заклинание сотворяется на минимально возможном уровне, не расходует ячейки заклинаний пользователя и не требует компонентов, если в описании предмета не сказано иное. Заклинание использует обычное время сотворения, дальность и длительность, и пользователь предмета должен поддерживать концентрацию, если заклинание её требует. Многие предметы, такие как зелья, обходят сотворение заклинания и дают эффекты заклинания с обычной длительностью. Некоторые предметы делают исключения из этих правил, изменяя время сотворения, длительность или другие параметры заклинания.
 
-A magic item, such as certain staffs, may require you to use your own spellcasting ability when you cast a spell from the item. If you have more than one spellcasting ability, you choose which one to use with the item. If you don’t have a spellcasting ability—perhaps you’re a rogue with the Use Magic Device feature—your spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply.
+Магический предмет, такой как некоторые посохи, может требовать, чтобы вы использовали свою собственную заклинательную характеристику при сотворении заклинания из предмета. Если у вас более одной заклинательной характеристики, вы выбираете, какую использовать с предметом. Если у вас нет заклинательной характеристики — возможно, вы плут с умением «Использование магических устройств» — ваш модификатор заклинательной характеристики равен +0 для предмета, и ваш бонус мастерства применяется.
 
 ### Заряды
 
-Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when an identify spell is cast on it, as well as when a creature attunes to it. Additionally, when an item regains charges, the creature attuned to it learns how many charges it regained.
+Некоторые магические предметы имеют заряды, которые нужно расходовать для активации их свойств. Количество оставшихся зарядов предмета раскрывается, когда на предмет сотворяется заклинание *опознание*, а также когда существо настраивается на него. Кроме того, когда предмет восстанавливает заряды, настроенное на него существо узнаёт, сколько зарядов восстановилось.
 
 ## Разумная магия
 
-Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
+Некоторые магические предметы обладают разумом и личностью. Такой предмет может быть одержим, населён духом предыдущего владельца или обладать самосознанием благодаря магии, использованной для его создания. В любом случае предмет ведёт себя как персонаж, со своими причудами, идеалами, привязанностями, а иногда и недостатками. Разумный предмет может быть дорогим союзником своего владельца или постоянной занозой в его боку.
 
-Most sentient items are weapons. Other kinds of items can manifest sentience, but consumable items such as potions and scrolls are never sentient.
+Большинство разумных предметов — это оружие. Другие виды предметов тоже могут обретать разум, но расходуемые предметы, такие как зелья и свитки, никогда не бывают разумными.
 
-Sentient magic items function as NPCs under the GM's control. Any activated property of the item is under the item's control, not its wielder's. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
+Разумные магические предметы действуют как NPC под управлением Мастера. Любое активированное свойство предмета находится под контролем предмета, а не его владельца. Пока владелец поддерживает хорошие отношения с предметом, он может нормально использовать эти свойства. Если отношения натянуты, предмет может подавить свои активированные свойства или даже обратить их против владельца.
 
 ## Создание разумных магических предметов
 
-When you decide to make a magic item sentient, you create the item's persona in the same way you would create an NPC, with a few exceptions described here.
+Когда вы решаете сделать магический предмет разумным, вы создаёте личность предмета так же, как создали бы NPC, с некоторыми исключениями, описанными ниже.
 
 ### Характеристики
 
-A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can choose the item's abilities or determine them randomly. To determine them randomly, roll 4к6 for each one, dropping the lowest roll and totaling the rest.
+Разумный магический предмет имеет значения Интеллекта, Мудрости и Харизмы. Вы можете выбрать характеристики предмета или определить их случайно. Для случайного определения бросьте 4к6 для каждой, отбросив наименьший результат и сложив остальные.
 
 ### Общение
 
-A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
+Разумный предмет обладает некоторой способностью общаться — делясь своими эмоциями, передавая мысли телепатически или говоря вслух. Вы можете выбрать способ общения или бросить кость по следующей таблице.
 
 Таблица: Разумные магические предметы: Общение
 
-| 1к100   | Communication                                                                                                                                                      |
+| 1к100   | Общение                                                                                                                                                      |
 |---|---|
-| 01-60  | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
-| 61-90  | The item can speak, read, and understand one or more languages.                                                                                                    |
-| 91-100 | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
+| 01-60  | Предмет общается, передавая эмоции существу, которое несёт или использует его.                                                                             |
+| 61-90  | Предмет может говорить, читать и понимать один или несколько языков.                                                                                                    |
+| 91-100 | Предмет может говорить, читать и понимать один или несколько языков. Кроме того, предмет может телепатически общаться с любым персонажем, который несёт или использует его. |
 
 ### Чувства
 
-With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
+С разумом приходит осознанность. Разумный предмет может воспринимать окружение в ограниченном радиусе. Вы можете выбрать его чувства или бросить кость по следующей таблице.
 
 Таблица: Разумные магические предметы: Чувства
 
-| 1к4 | Senses                                     |
+| 1к4 | Чувства                                     |
 |---|---|
-| 1  | Hearing and normal vision out to 30 футов.  |
-| 2  | Hearing and normal vision out to 60 футов   |
-| 3  | Hearing and normal vision out to 120 футов. |
-| 4  | Hearing and darkvision out to 120 футов.    |
+| 1  | Слух и обычное зрение в пределах 30 футов.  |
+| 2  | Слух и обычное зрение в пределах 60 футов   |
+| 3  | Слух и обычное зрение в пределах 120 футов. |
+| 4  | Слух и тёмное зрение в пределах 120 футов.    |
 
 ### Мировоззрение
 
-A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
+Разумный магический предмет имеет мировоззрение. Его создатель или природа могут подсказать мировоззрение. Если нет, вы можете выбрать мировоззрение или бросить кость по следующей таблице.
 
 Таблица: Разумные магические предметы: Мировоззрение
 
-| 1к100   | Alignment       |
+| 1к100   | Мировоззрение       |
 |---|---|
 | 01-15  | Принципиально-добрый     |
 | 16-35  | Нейтрально-добрый    |
@@ -110,41 +110,41 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 | 64-73  | Нейтральный         |
 | 74-85  | Хаотично-нейтральный |
 | 86-89  | Принципиально-злой     |
-| 90-96  | Нейтральный evil    |
+| 90-96  | Нейтрально-злой    |
 | 97-100 | Хаотично-злой    |
 
 ### Особая цель
 
-You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
+Вы можете дать разумному предмету цель, которую он преследует, возможно, исключая всё остальное. Пока использование предмета владельцем согласуется с этой особой целью, предмет остаётся покладистым. Отклонение от этого курса может вызвать конфликт между владельцем и предметом и даже заставить предмет препятствовать использованию его активированных свойств. Вы можете выбрать особую цель или бросить кость по следующей таблице.
 
 Таблица: Разумные магические предметы: Особая цель
 
-| 1к10 | Purpose                                                                                                                                |
+| 1к10 | Цель                                                                                                                                |
 |---|---|
-| 1   | Aligned: The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
-| 2   | Bane: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
-| 3   | Protector: The item seeks to defend a particular race or kind of creature, such as elves or druids.                                    |
-| 4   | Crusader: The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
-| 5   | Templar: The item seeks to defend the servants and interests of a particular deity.                                                    |
-| 6   | Destroyer: The item craves destruction and goads its user to fight arbitrarily.                                                        |
-| 7   | Glory Seeker: The item seeks renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure. |
-| 8   | Lore Seeker: The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.             |
-| 9   | Destiny Seeker: The item is convinced that it and its wielder have key roles to play in future events.                                 |
-| 10  | Creator Seeker: The item seeks its creator and wants to understand why it was created.                                                 |
+| 1   | Единомышленник: Предмет стремится победить или уничтожить тех, чьё мировоззрение диаметрально противоположно. (Такой предмет никогда не бывает нейтральным.)              |
+| 2   | Погибель: Предмет стремится победить или уничтожить существ определённого вида, таких как исчадия, перевёртыши, тролли или волшебники.           |
+| 3   | Защитник: Предмет стремится защитить определённую расу или вид существ, таких как эльфы или друиды.                                    |
+| 4   | Крестоносец: Предмет стремится победить, ослабить или уничтожить слуг определённого божества.                                             |
+| 5   | Храмовник: Предмет стремится защитить слуг и интересы определённого божества.                                                    |
+| 6   | Разрушитель: Предмет жаждет разрушения и подстрекает своего пользователя к беспричинным битвам.                                                        |
+| 7   | Искатель славы: Предмет стремится к известности как величайший магический предмет в мире, делая своего пользователя знаменитой или печально известной фигурой. |
+| 8   | Искатель знаний: Предмет жаждет знаний или полон решимости разгадать тайну, узнать секрет или разобраться в загадочном пророчестве.             |
+| 9   | Искатель судьбы: Предмет убеждён, что он и его владелец должны сыграть ключевую роль в будущих событиях.                                 |
+| 10  | Искатель создателя: Предмет ищет своего создателя и хочет понять, зачем был создан.                                                 |
 
 ### Конфликт
 
-A sentient item has a will of its own, shaped by its personality and alignment. If its wielder acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item makes a Charisma check contested by the wielder's Charisma check. If the item wins the contest, it makes one or more of the following demands:
+Разумный предмет имеет собственную волю, сформированную его личностью и мировоззрением. Если его владелец действует вопреки мировоззрению или цели предмета, может возникнуть конфликт. Когда такой конфликт происходит, предмет совершает проверку Харизмы, оспариваемую проверкой Харизмы владельца. Если предмет побеждает в состязании, он выдвигает одно или несколько следующих требований:
 
-- The item insists on being carried or worn at all times.
-- The item demands that its wielder dispose of anything the item finds repugnant.
-- The item demands that its wielder pursue the item's goals to the exclusion of all other goals.
-- The item demands to be given to someone else. If its wielder refuses to comply with the item's wishes, the item can do any or all of the following:
-- Make it impossible for its wielder to attune to it.
-- Suppress one or more of its activated properties.
-- Attempt to take control of its wielder.
+- Предмет настаивает, чтобы его несли или носили постоянно.
+- Предмет требует, чтобы его владелец избавился от всего, что предмет находит отвратительным.
+- Предмет требует, чтобы его владелец преследовал цели предмета в ущерб всем другим целям.
+- Предмет требует, чтобы его отдали кому-то другому. Если владелец отказывается выполнять желания предмета, предмет может сделать что-то одно или всё из перечисленного:
+- Сделать невозможной настройку владельца на него.
+- Подавить одно или несколько своих активированных свойств.
+- Попытаться взять владельца под контроль.
 
-If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a СЛ equal to 12+the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1к12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+Если разумный предмет пытается взять своего владельца под контроль, владелец должен совершить спасбросок Харизмы со СЛ, равной 12 + модификатор Харизмы предмета. При провале владелец очарован предметом на 1к12 часов. Пока очарован, владелец должен стараться выполнять приказы предмета. Если владелец получает урон, он может повторить спасбросок, оканчивая эффект при успехе. Независимо от того, удалась или нет попытка контролировать пользователя, предмет не может использовать эту способность до следующего рассвета.
 
 ## Артефакты
 
@@ -152,116 +152,116 @@ If a sentient item attempts to take control of its wielder, the wielder must mak
 
 *Чудесный предмет, артефакт (требуется настройка)*
 
-Ages past, elves and humans waged a terrible war against evil dragons. When the world seemed doomed, powerful wizards came together and worked their greatest magic, forging five *Orbs of Dragonkind* (or *Dragon Orbs*) to help them defeat the dragons. One orb was taken to each of the five wizard towers, and there they were used to speed the war toward a victorious end. The wizards used the orbs to lure dragons to them, then destroyed the dragons with powerful magic.
+В давние века эльфы и люди вели страшную войну против злых драконов. Когда мир казался обречённым, могущественные волшебники объединились и применили свою величайшую магию, выковав пять *сфер драконьей власти* (или *драконьих сфер*), чтобы помочь им одолеть драконов. По одной сфере было доставлено в каждую из пяти башен волшебников, и там они использовались для приближения победного конца войны. Волшебники использовали сферы, чтобы заманивать к себе драконов, а затем уничтожали их могущественной магией.
 
-As the wizard towers fell in later ages, the orbs were destroyed or faded into legend, and only three are thought to survive. Their magic has been warped and twisted over the centuries, so although their primary purpose of calling dragons still functions, they also allow some measure of control over dragons.
+Когда в последующие века башни волшебников пали, сферы были уничтожены или канули в легенды, и считается, что сохранились лишь три. Их магия была искажена и извращена за столетия, так что хотя их основное предназначение — призыв драконов — по-прежнему работает, они также дают некоторую власть над драконами.
 
-Each orb contains the essence of an evil dragon, a presence that resents any attempt to coax magic from it. Those lacking in force of personality might find themselves enslaved to an orb.
+Каждая сфера содержит сущность злого дракона, присутствие, которое противится любой попытке извлечь из неё магию. Те, кому недостаёт силы характера, могут оказаться порабощёнными сферой.
 
-An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.
+Сфера представляет собой гравированный хрустальный шар около 10 дюймов в диаметре. При использовании она вырастает примерно до 20 дюймов в диаметре, и внутри неё клубится туман.
 
-While attuned to an orb, you can use an action to peer into the orb's depths and speak its command word. You must then make a СЛ 15 Charisma check. On a successful check, you control the orb for as long as you remain attuned to it. On a failed check, you become charmed by the orb for as long as you remain attuned to it.
+Пока вы настроены на сферу, вы можете действием заглянуть в глубины сферы и произнести её командное слово. Затем вы должны совершить проверку Харизмы СЛ 15. При успехе вы контролируете сферу, пока остаётесь настроенным на неё. При провале вы становитесь очарованным сферой, пока остаётесь настроенным на неё.
 
-While you are charmed by the orb, you can't voluntarily end your attunement to it, and the orb casts *внушение* on you at will (save СЛ 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of Tiamat, or something else the GM decides.
+Пока вы очарованы сферой, вы не можете добровольно завершить настройку на неё, и сфера накладывает на вас заклинание *внушение* по желанию (спасбросок СЛ 18), побуждая вас работать на злые цели, которых она жаждет. Сущность дракона внутри сферы может желать многого: уничтожения определённого народа, свободы от сферы, распространения страданий в мире, продвижения поклонения Тиамат или чего-то иного по решению Мастера.
 
-**_Случайные свойства._** An *Orb of Dragonkind* has the following random properties:
+**_Случайные свойства._** *Сфера драконьей власти* обладает следующими случайными свойствами:
 
-- 2 minor beneficial properties
-- 1 minor detrimental property
-- 1 major detrimental property
+- 2 малых благоприятных свойства
+- 1 малое вредоносное свойство
+- 1 большое вредоносное свойство
 
-**_Заклинания._** The orb has 7 charges and regains 1к4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save СЛ 18) from it: *лечение ран* (5th-level version, 3 charges), *дневной свет* (1 charge), *защита от смерти* (2 charges), or *наблюдение* (3 charges).
+**_Заклинания._** Сфера имеет 7 зарядов и восстанавливает 1к4 + 3 потраченных заряда ежедневно на рассвете. Если вы контролируете сферу, вы можете действием потратить 1 или более зарядов, чтобы сотворить одно из следующих заклинаний (спасбросок СЛ 18) из неё: *лечение ран* (версия 5-го уровня, 3 заряда), *дневной свет* (1 заряд), *защита от смерти* (2 заряда) или *наблюдение* (3 заряда).
 
-You can also use an action to cast the *обнаружение магии* spell from the orb without using any charges.
+Вы также можете действием сотворить заклинание *обнаружение магии* из сферы, не тратя зарядов.
 
-**_Призыв драконов._** While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
+**_Призыв драконов._** Пока вы контролируете сферу, вы можете действием заставить артефакт издать телепатический зов, который распространяется во все стороны на 40 миль. Злые драконы в зоне действия чувствуют непреодолимое желание прибыть к сфере как можно скорее кратчайшим путём. Божества драконов, такие как Тиамат, не подвержены этому зову. Драконы, привлечённые к сфере, могут быть враждебны к вам за принуждение их против воли. После использования этого свойства его нельзя использовать снова в течение 1 часа.
 
-**_Уничтожение сферы._** An *Orb of Dragonkind* appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A *распыление* spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
+**_Уничтожение сферы._** *Сфера драконьей власти* выглядит хрупкой, но неуязвима для большинства видов урона, включая атаки и оружие дыхания драконов. Однако заклинание *распыление* или один удачный удар магическим оружием +3 достаточен для уничтожения сферы.
 
 #### Адамантиновый доспех (Adamantine Armor)
 
 *Доспех (средний или тяжёлый, кроме шкурного), необычный*
 
-This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.
+Этот комплект доспехов усилен адамантином, одним из самых твёрдых веществ в мире. Пока вы его носите, любой критический удар по вам становится обычным ударом.
 
 #### Боеприпасы, +1, +2 или +3 (Ammunition, +1, +2, or +3)
 
 *Оружие (любые боеприпасы), необычный (+1), редкий (+2) или очень редкий (+3)*
 
-You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
+Вы получаете бонус к броскам атаки и урона, совершаемым с этим магическим боеприпасом. Бонус определяется редкостью боеприпаса. Как только он попадает в цель, боеприпас перестаёт быть магическим.
 
 #### Амулет здоровья (Amulet of Health)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher.
+Ваше значение Телосложения равно 19, пока вы носите этот амулет. Он не действует на вас, если ваше Телосложение уже равно 19 или выше.
 
 #### Амулет защиты от обнаружения и локации (Amulet of Proof Against Detection and Location)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
+Пока вы носите этот амулет, вы скрыты от магии прорицания. На вас нельзя нацелить такую магию или обнаружить с помощью магических сенсоров наблюдения.
 
 #### Амулет планов (Amulet of the Planes)
 
 *Чудесный предмет, очень редкий (требуется настройка)*
 
-While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a СЛ 15 Intelligence check. On a successful check, you cast the *переход между планами* spell. On a failure, you and each creature and object within 15 футов of you travel to a random destination. Roll a к100. On a 1-60, you travel to a random location on the plane you named. On a 61-100, you travel to a randomly determined plane of existence.
+Пока вы носите этот амулет, вы можете действием назвать знакомое вам место на другом плане существования. Затем совершите проверку Интеллекта СЛ 15. При успехе вы сотворяете заклинание *переход между планами*. При провале вы и каждое существо и объект в пределах 15 футов от вас перемещаетесь в случайное место. Бросьте к100. При 1-60 вы перемещаетесь в случайное место на названном плане. При 61-100 вы перемещаетесь на случайно определённый план существования.
 
 #### Анимированный щит (Animated Shield)
 
 *Доспех (щит), очень редкий (требуется настройка)*
 
-While holding this shield, you can speak its command word as a bonus action to cause it to animate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.
+Держа этот щит, вы можете бонусным действием произнести его командное слово, чтобы оживить его. Щит взмывает в воздух и парит в вашем пространстве, защищая вас, как если бы вы держали его, оставляя ваши руки свободными. Щит остаётся оживлённым 1 минуту, пока вы не используете бонусное действие для прекращения этого эффекта, или пока вы не станете недееспособным или не умрёте, после чего щит падает на землю или в вашу руку, если она свободна.
 
 #### Аппарат краба (Apparatus of the Crab)
 
 *Чудесный предмет, легендарный*
 
-This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful СЛ 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
+Сначала этот предмет выглядит как Большая запечатанная железная бочка весом 500 фунтов. У бочки есть скрытый запор, который можно обнаружить при успешной проверке Интеллекта (Расследование) СЛ 20. Открытие запора разблокирует люк на одном конце бочки, позволяя двум Средним или меньшим существам забраться внутрь. Десять рычагов расположены в ряд на дальнем конце, каждый в нейтральном положении, способный двигаться вверх или вниз. При использовании определённых рычагов аппарат трансформируется, принимая вид гигантского лобстера.
 
-The apparatus of the Crab is a Large object with the following statistics:
+Аппарат краба — это Большой объект со следующими характеристиками:
 
 **Класс Доспеха** 20
 
 **Хиты** 200
 
-**Скорость** 30 фт., swim 30 фт. (or 0 фт. for both if the legs and tail aren't extended)
+**Скорость** 30 фт., плавание 30 фт. (или 0 фт. для обоих, если ноги и хвост не выдвинуты)
 
-**Иммунитет к урону** poison, psychic
+**Иммунитет к урону** яд, психический
 
-To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
+Для использования в качестве транспорта аппарат требует одного пилота. Когда люк аппарата закрыт, отсек герметичен и водонепроницаем. В отсеке достаточно воздуха для 10 часов дыхания, делённых на количество дышащих существ внутри.
 
-The apparatus floats on water. It can also go underwater to a depth of 900 футов. Below that, the vehicle takes 2к6 bludgeoning damage per minute from pressure.
+Аппарат плавает на воде. Он также может погружаться на глубину до 900 футов. Глубже транспорт получает 2к6 дробящего урона в минуту от давления.
 
-A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
+Существо в отсеке может действием переместить до двух рычагов аппарата вверх или вниз. После каждого использования рычаг возвращается в нейтральное положение. Каждый рычаг, слева направо, работает так, как показано в таблице рычагов аппарата краба.
 
 Таблица: Аппарат краба
 
-| Рычаг | Up                                                                                                                               | Down                                                                                                                                        |
+| Рычаг | Вверх                                                                                                                               | Вниз                                                                                                                                        |
 |---|---|---|
-| 1     | Legs and tail extend, allowing the apparatus to walk and swim.                                                                   | Legs and tail retract, reducing the apparatus's speed to 0 and making it unable to benefit from bonuses to speed.                           |
-| 2     | Forward window shutter opens.                                                                                                    | Forward window shutter closes.                                                                                                              |
-| 3     | Side window shutters open (two per side).                                                                                        | Side window shutters close (two per side).                                                                                                  |
-| 4     | Two claws extend from the front sides of the apparatus.                                                                          | The claws retract.                                                                                                                          |
-| 5     | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 фт., one target. Hit: 7 (2к6) bludgeoning damage. | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 фт., one target. Hit: The target is grappled (escape СЛ 15). |
-| 6     | The apparatus walks or swims forward.                                                                                            | The apparatus walks or swims backward.                                                                                                      |
-| 7     | The apparatus turns 90 degrees left.                                                                                             | The apparatus turns 90 degrees right.                                                                                                       |
-| 8     | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 футов.                                  | The light turns off.                                                                                                                        |
-| 9     | The apparatus sinks as much as 20 футов in liquid.                                                                                | The apparatus rises up to 20 футов in liquid.                                                                                                |
-| 10    | The rear hatch unseals and opens.                                                                                                | The rear hatch closes and seals.                                                                                                            |
+| 1     | Ноги и хвост выдвигаются, позволяя аппарату ходить и плавать.                                                                   | Ноги и хвост втягиваются, снижая скорость аппарата до 0 и лишая его бонусов к скорости.                           |
+| 2     | Передняя оконная заслонка открывается.                                                                                                    | Передняя оконная заслонка закрывается.                                                                                                              |
+| 3     | Боковые оконные заслонки открываются (по две с каждой стороны).                                                                                        | Боковые оконные заслонки закрываются (по две с каждой стороны).                                                                                                  |
+| 4     | Две клешни выдвигаются с передних боков аппарата.                                                                          | Клешни втягиваются.                                                                                                                          |
+| 5     | Каждая выдвинутая клешня совершает следующую атаку рукопашным оружием: +8 к попаданию, досягаемость 5 фт., одна цель. Попадание: 7 (2к6) дробящего урона. | Каждая выдвинутая клешня совершает следующую атаку рукопашным оружием: +8 к попаданию, досягаемость 5 фт., одна цель. Попадание: цель захвачена (СЛ высвобождения 15). |
+| 6     | Аппарат идёт или плывёт вперёд.                                                                                            | Аппарат идёт или плывёт назад.                                                                                                      |
+| 7     | Аппарат поворачивается на 90 градусов влево.                                                                                             | Аппарат поворачивается на 90 градусов вправо.                                                                                                       |
+| 8     | Глазоподобные приспособления излучают яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов.                                  | Свет гаснет.                                                                                                                        |
+| 9     | Аппарат погружается на глубину до 20 футов в жидкости.                                                                                | Аппарат поднимается на высоту до 20 футов в жидкости.                                                                                                |
+| 10    | Задний люк открывается и разгерметизируется.                                                                                                | Задний люк закрывается и герметизируется.                                                                                                            |
 
 #### Доспех неуязвимости (Armor of Invulnerability)
 
 *Доспех (латный доспех), легендарный (требуется настройка)*
 
-You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn.
+Вы обладаете сопротивлением немагическому урону, пока носите этот доспех. Кроме того, вы можете действием сделать себя невосприимчивым к немагическому урону на 10 минут или пока вы больше не носите доспех. После использования этого особого действия его нельзя использовать снова до следующего рассвета.
 
 #### Доспех сопротивления (Armor of Resistance)
 
 *Доспех (лёгкий, средний или тяжёлый), редкий (требуется настройка)*
 
-You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.
+Вы обладаете сопротивлением одному типу урона, пока носите этот доспех. Мастер выбирает тип или определяет его случайно из вариантов ниже.
 
 Таблица: Доспех сопротивления
 
@@ -282,1577 +282,1577 @@ You have resistance to one type of damage while you wear this armor. The GM choo
 
 *Доспех (латный доспех), редкий (требуется настройка)*
 
-While wearing this armor, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The GM chooses the type or determines it randomly.
+Пока вы носите этот доспех, вы обладаете сопротивлением одному из следующих типов урона: дробящий, колющий или рубящий. Мастер выбирает тип или определяет его случайно.
 
-**_Проклятие._** This armor is cursed, a fact that is revealed only when an *опознание* spell is cast on the armor or you attune to it. Attuning to the armor curses you until you are targeted by the *снятие проклятия* spell or similar magic; removing the armor fails to end the curse. While cursed, you have vulnerability to two of the three damage types associated with the armor (not the one to which it grants resistance).
+**_Проклятие._** Этот доспех проклят, и этот факт раскрывается только когда на доспех сотворяется заклинание *опознание* или вы настраиваетесь на него. Настройка на доспех проклинает вас, пока на вас не будет нацелено заклинание *снятие проклятия* или подобная магия; снятие доспеха не прекращает проклятие. Пока вы прокляты, вы уязвимы к двум из трёх типов урона, связанных с доспехом (не к тому, к которому он даёт сопротивление).
 
 #### Доспех, +1, +2 или +3 (Armor, +1, +2, or +3)
 
 *Доспех (лёгкий, средний или тяжёлый), редкий (+1), очень редкий (+2) или легендарный (+3)*
 
-You have a bonus to КД while wearing this armor. The bonus is determined by its rarity.
+Вы получаете бонус к КД, пока носите этот доспех. Бонус определяется его редкостью.
 
 #### Стрела убийства (Arrow of Slaying)
 
 *Оружие (стрела), очень редкий*
 
-An *Стрела убийства* is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both *arrows of dragon slaying* and *arrows of blue dragon slaying*. If a creature belonging to the type, race, or group associated with an *Стрела убийства* takes damage from the arrow, the creature must make a СЛ 17 Constitution saving throw, taking an extra 6к10 piercing damage on a failed save, or half as much extra damage on a successful one.
+*Стрела убийства* — это магическое оружие, предназначенное для уничтожения определённого вида существ. Некоторые более узконаправлены, чем другие; например, существуют как *стрелы убийства драконов*, так и *стрелы убийства синих драконов*. Если существо, принадлежащее к типу, расе или группе, связанной со *стрелой убийства*, получает урон от стрелы, оно должно совершить спасбросок Телосложения СЛ 17, получая дополнительно 6к10 колющего урона при провале или половину этого дополнительного урона при успехе.
 
-Once an *Стрела убийства* deals its extra damage to a creature, it becomes a nonmagical arrow.
+Как только *стрела убийства* наносит свой дополнительный урон существу, она становится немагической стрелой.
 
-Other types of magic ammunition of this kind exist, such as *bolts of slaying* meant for a crossbow, though arrows are most common.
+Существуют и другие виды магических боеприпасов такого рода, например *болты убийства*, предназначенные для арбалета, хотя стрелы наиболее распространены.
 
 #### Щит притяжения снарядов (Arrow-Catching Shield)
 
 *Доспех (щит), редкий (требуется настройка)*
 
-You gain a +2 bonus to КД against ranged attacks while you wield this shield. This bonus is in addition to the shield's normal bonus to КД. In addition, whenever an attacker makes a ranged attack against a target within 5 футов of you, you can use your reaction to become the target of the attack instead.
+Вы получаете бонус +2 к КД от дальнобойных атак, пока используете этот щит. Этот бонус добавляется к обычному бонусу щита к КД. Кроме того, каждый раз, когда атакующий совершает дальнобойную атаку по цели в пределах 5 футов от вас, вы можете реакцией стать целью атаки вместо неё.
 
 #### Сумка фасоли (Bag of Beans)
 
 *Чудесный предмет, редкий*
 
-Inside this heavy cloth bag are 3к4 dry beans. The bag weighs ½ pound plus ¼ pound for each bean it contains.
+Внутри этого тяжёлого тканевого мешка находятся 3к4 сухих бобов. Мешок весит ½ фунта плюс ¼ фунта за каждый боб в нём.
 
-If you dump the bag's contents out on the ground, they explode in a 10-футовый radius, extending from the beans. Each creature in the area, including you, must make a СЛ 15 Dexterity saving throw, taking 5к4 fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried.
+Если вы высыпете содержимое мешка на землю, бобы взрываются в радиусе 10 футов от них. Каждое существо в области, включая вас, должно совершить спасбросок Ловкости СЛ 15, получая 5к4 урона огнём при провале или половину при успехе. Огонь поджигает горючие предметы в области, которые никто не несёт и не носит.
 
-If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table, determine it randomly, or create an effect.
+Если вы достанете боб из мешка, посадите его в землю или песок и польёте водой, через 1 минуту из земли, куда он был посажен, возникнет эффект. Мастер может выбрать эффект из следующей таблицы, определить случайно или создать свой.
 
 Таблица: Сумка фасоли
 
-| 1к100  | Effect                                                                                                                                                                                                                                                                                                                                                                |
+| 1к100  | Эффект                                                                                                                                                                                                                                                                                                                                                                |
 |---|---|
-| 01    | 5к4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a СЛ 15 Constitution saving throw or take 5к6 poison damage and become poisoned for 1 hour. On an even roll, the eater gains 5к6 temporary hit points for 1 hour.                                                                                      |
-| 02-10 | A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM's choice) 30 футов into the air for 1к12 rounds.                                                                                                                                                                                                                                   |
-| 11-20 | A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.                                                                                                                                                                                                                                                                            |
-| 21-30 | An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
-| 31-40 | A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).                                                                                                                                                                                                                                                                       |
-| 41-50 | 1к6 + 6 shriekers sprout.                                                                                                                                                                                                                                                                                                                                               |
-| 51-60 | 1к4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.                                                                                                                                                  |
-| 61-70 | A hungry bulette burrows up and attacks. 71-80 A fruit tree grows. It has 1к10 + 20 fruit, 1к8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                       |
-| 81-90 | A nest of 1к4 + 3 eggs springs up. Any creature that eats an egg must make a СЛ 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10к6 force damage from an internal magical explosion.                              |
-| 91-99 | A pyramid with a 60-foot square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord's lair, and its sarcophagus contains treasure of the GM's choice.                                                                                                                                                       |
-| 100   | A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or a different plane of existence.                                                                                                                                                                            |
+| 01    | Вырастают 5к4 поганок. Если существо съедает поганку, бросьте любую кость. При нечётном результате съевший должен преуспеть в спасброске Телосложения СЛ 15 или получить 5к6 урона ядом и стать отравленным на 1 час. При чётном результате съевший получает 5к6 временных хитов на 1 час.                                                                                      |
+| 02-10 | Извергается гейзер, выбрасывая воду, пиво, ягодный сок, чай, уксус, вино или масло (по выбору Мастера) на 30 футов в воздух в течение 1к12 раундов.                                                                                                                                                                                                                                   |
+| 11-20 | Вырастает древень. С вероятностью 50 процентов древень хаотично-злой и нападает.                                                                                                                                                                                                                                                                            |
+| 21-30 | Поднимается оживлённая, но неподвижная каменная статуя в вашем облике. Она словесно угрожает вам. Если вы уйдёте, а другие приблизятся, она описывает вас как самого отвратительного злодея и направляет пришедших найти и напасть на вас. Если вы на том же плане существования, что и статуя, она знает, где вы находитесь. Статуя замирает через 24 часа. |
+| 31-40 | Появляется костёр с синим пламенем и горит 24 часа (или пока его не потушат).                                                                                                                                                                                                                                                                       |
+| 41-50 | Вырастают 1к6 + 6 визгунов.                                                                                                                                                                                                                                                                                                                                               |
+| 51-60 | Выползают 1к4 + 8 ярко-розовых жаб. При прикосновении к жабе она превращается в Большого или меньшего монстра по выбору Мастера. Монстр остаётся 1 минуту, затем исчезает в облачке ярко-розового дыма.                                                                                                                                                  |
+| 61-70 | Голодный бульта выкапывается из-под земли и нападает. 71-80 Вырастает фруктовое дерево. На нём 1к10 + 20 плодов, 1к8 из которых действуют как случайно определённые магические зелья, а один — как проглатываемый яд по выбору Мастера. Дерево исчезает через 1 час. Сорванные плоды сохраняются и удерживают магию 30 дней.                                                                       |
+| 81-90 | Появляется гнездо с 1к4 + 3 яйцами. Любое существо, съевшее яйцо, должно совершить спасбросок Телосложения СЛ 20. При успехе существо навсегда увеличивает свой самый низкий показатель характеристики на 1, случайно выбирая среди одинаково низких. При провале существо получает 10к6 урона силовым полем от внутреннего магического взрыва.                              |
+| 91-99 | Вздымается пирамида с квадратным основанием 60 футов. Внутри находится саркофаг с лордом мумией. Пирамида считается логовом лорда мумии, и в саркофаге содержатся сокровища по выбору Мастера.                                                                                                                                                       |
+| 100   | Вырастает гигантский бобовый стебель, достигающий высоты по выбору Мастера. Верхушка ведёт туда, куда решит Мастер, например к прекрасному виду, замку облачного великана или на другой план существования.                                                                                                                                                                            |
 
 #### Сумка пожирания (Bag of Devouring)
 
 *Чудесный предмет, очень редкий*
 
-This bag superficially resembles a *Сумка вместимости* but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
+Эта сумка внешне напоминает *сумку вместимости*, но на самом деле является пастью гигантского межпространственного существа. Выворачивание сумки наизнанку закрывает пасть.
 
-The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful СЛ 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful СЛ 20 Strength check (provided it isn't pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.
+Межпространственное существо, связанное с сумкой, чувствует всё, что помещено в сумку. Животная или растительная материя, полностью помещённая в сумку, пожирается и теряется навсегда. Когда часть живого существа помещается в сумку, как это бывает, когда кто-то засовывает в неё руку, с вероятностью 50 процентов существо затягивается внутрь. Существо внутри сумки может действием попытаться выбраться, совершив успешную проверку Силы СЛ 15. Другое существо может действием засунуть руку в сумку и вытащить существо, совершив успешную проверку Силы СЛ 20 (при условии, что оно само не будет затянуто внутрь первым). Любое существо, начинающее свой ход внутри сумки, пожирается, а его тело уничтожается.
 
-Inanimate objects can be stored in the bag, which can hold a cubic фут of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.
+Неодушевлённые предметы можно хранить в сумке, которая вмещает кубический фут такого материала. Однако раз в день сумка проглатывает все предметы внутри и выплёвывает их на другой план существования. Мастер определяет время и план.
 
-If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
+Если сумка проколота или разорвана, она уничтожается, а всё содержимое переносится в случайное место на Астральном Плане.
 
 #### Сумка вместимости (Bag of Holding)
 
 *Чудесный предмет, необычный*
 
-This bag has an interior space considerably larger than its outside dimensions, roughly 2 футов in diameter at the mouth and 4 футов deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic футов. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.
+Эта сумка имеет внутреннее пространство значительно большее, чем её внешние размеры: примерно 2 фута в диаметре у горловины и 4 фута в глубину. Сумка может вмещать до 500 фунтов, не превышая объём в 64 кубических фута. Сумка весит 15 фунтов независимо от содержимого. Извлечение предмета из сумки требует действия.
 
-If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.
+Если сумка перегружена, проколота или разорвана, она разрывается и уничтожается, а её содержимое разбрасывается по Астральному Плану. Если сумку вывернуть наизнанку, её содержимое высыпается невредимым, но сумку нужно вернуть в нормальное состояние перед повторным использованием. Дышащие существа внутри сумки могут выживать количество минут, равное 10, делённому на число существ (минимум 1 минута), после чего начинают задыхаться.
 
-Placing a *Сумка вместимости* inside an extradimensional space created by a *Практичный рюкзак*, *Переносная дыра*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 футов of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Помещение *сумки вместимости* в межпространственное пространство, созданное *практичным рюкзаком*, *переносной дырой* или подобным предметом, мгновенно уничтожает оба предмета и открывает врата на Астральный План. Врата появляются там, где один предмет был помещён в другой. Любое существо в пределах 10 футов от врат затягивается через них в случайное место на Астральном Плане. Затем врата закрываются. Врата односторонние и не могут быть открыты повторно.
 
 #### Сумка фокусов (Bag of Tricks)
 
 *Чудесный предмет, необычный*
 
-This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs ½ pound.
+Эта обычная сумка, сшитая из серой, рыжей или песочной ткани, кажется пустой. Однако, засунув руку внутрь, вы обнаруживаете маленький пушистый предмет. Сумка весит ½ фунта.
 
-You can use an action to pull the fuzzy object from the bag and throw it up to 20 футов. When the object lands, it transforms into a creature you determine by rolling a к8 and consulting the table that corresponds to the bag's color.
+Вы можете действием достать пушистый предмет из сумки и бросить его на расстояние до 20 футов. Когда предмет приземляется, он превращается в существо, которое вы определяете, бросив к8 и сверившись с таблицей, соответствующей цвету сумки.
 
-The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.
+Существо дружелюбно к вам и вашим спутникам и действует в ваш ход. Вы можете бонусным действием командовать, как существо перемещается и какое действие совершает в свой следующий ход, или давать ему общие приказы, например атаковать ваших врагов. При отсутствии таких приказов существо действует в соответствии со своей природой.
 
-Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
+После того как три пушистых предмета были извлечены из сумки, её нельзя использовать снова до следующего рассвета.
 
 Таблица: Серая сумка фокусов
 
-| 1к8 | Creature     |
+| 1к8 | Существо     |
 |---|---|
-| 1  | Weasel       |
-| 2  | Giant rat    |
-| 3  | Badger       |
-| 4  | Boar         |
-| 5  | Panther      |
-| 6  | Giant badger |
-| 7  | Dire wolf    |
-| 8  | Giant elk    |
+| 1  | Ласка       |
+| 2  | Гигантская крыса    |
+| 3  | Барсук       |
+| 4  | Кабан         |
+| 5  | Пантера      |
+| 6  | Гигантский барсук |
+| 7  | Лютый волк    |
+| 8  | Гигантский лось    |
 
 Таблица: Рыжая сумка фокусов
 
-| 1к8 | Creature   |
+| 1к8 | Существо   |
 |---|---|
-| 1  | Rat        |
-| 2  | Owl        |
-| 3  | Mastiff    |
-| 4  | Goat       |
-| 5  | Giant goat |
-| 6  | Giant boar |
-| 7  | Lion       |
-| 8  | Brown bear |
+| 1  | Крыса        |
+| 2  | Сова        |
+| 3  | Мастиф    |
+| 4  | Коза       |
+| 5  | Гигантская коза |
+| 6  | Гигантский кабан |
+| 7  | Лев       |
+| 8  | Бурый медведь |
 
 Таблица: Песочная сумка фокусов
 
-| 1к8 | Creature     |
+| 1к8 | Существо     |
 |---|---|
-| 1  | Jackal       |
-| 2  | Ape          |
-| 3  | Baboon       |
-| 4  | Axe beak     |
-| 5  | Black bear   |
-| 6  | Giant weasel |
-| 7  | Giant hyena  |
-| 8  | Tiger        |
+| 1  | Шакал       |
+| 2  | Обезьяна          |
+| 3  | Бабуин       |
+| 4  | Топорный клюв     |
+| 5  | Чёрный медведь   |
+| 6  | Гигантская ласка |
+| 7  | Гигантская гиена  |
+| 8  | Тигр        |
 
 #### Бусина силы (Bead of Force)
 
 *Чудесный предмет, редкий*
 
-This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, 1к4 + 4 *beads of force* are found together.
+Эта маленькая чёрная сфера имеет диаметр ¾ дюйма и весит одну унцию. Обычно 1к4 + 4 *бусины силы* находятся вместе.
 
-You can use an action to throw the bead up to 60 футов. The bead explodes on impact and is destroyed. Each creature within a 10-футовый radius of where the bead landed must succeed on a СЛ 15 Dexterity saving throw or take 5к4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.
+Вы можете действием бросить бусину на расстояние до 60 футов. Бусина взрывается при ударе и уничтожается. Каждое существо в радиусе 10 футов от места падения бусины должно преуспеть в спасброске Ловкости СЛ 15 или получить 5к4 урона силовым полем. Затем сфера из прозрачной силы замыкает область на 1 минуту. Любое существо, провалившее спасбросок и полностью находящееся в области, оказывается заперто внутри этой сферы. Существа, преуспевшие в спасброске или находящиеся частично в области, отталкиваются от центра сферы, пока не окажутся за её пределами. Только пригодный для дыхания воздух может проходить через стенку сферы. Никакие атаки или другие эффекты не могут.
 
-An enclosed creature can use its action to push against the sphere's wall, moving the sphere up to half the creature's walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
+Запертое существо может действием толкать стенку сферы, перемещая её на расстояние до половины скорости ходьбы существа. Сферу можно поднять, и её магия делает её весом всего 1 фунт независимо от веса существ внутри.
 
 #### Пояс дварфов (Belt of Dwarvenkind)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-While wearing this belt, you gain the following benefits:
+Пока вы носите этот пояс, вы получаете следующие преимущества:
 
-- Your Constitution score increases by 2, to a maximum of 20.
-- You have advantage on Charisma (Persuasion) checks made to interact with dwarves.
+- Ваше значение Телосложения увеличивается на 2, до максимума 20.
+- Вы совершаете с преимуществом проверки Харизмы (Убеждение) при взаимодействии с дварфами.
 
-In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.
+Кроме того, пока вы настроены на пояс, у вас есть 50-процентный шанс каждый день на рассвете отрастить полную бороду, если вы способны на это, или заметно более густую бороду, если она у вас уже есть.
 
-If you aren't a dwarf, you gain the following additional benefits while wearing the belt:
+Если вы не дварф, вы получаете следующие дополнительные преимущества при ношении пояса:
 
-- You have advantage on saving throws against poison, and you have resistance against poison damage.
-- You have darkvision out to a range of 60 футов.
-- You can speak, read, and write Dwarvish.
+- Вы совершаете с преимуществом спасброски от яда и обладаете сопротивлением урону ядом.
+- Вы обладаете тёмным зрением в радиусе 60 футов.
+- Вы можете говорить, читать и писать на Дварфийском.
 
 #### Пояс силы великана (Belt of Giant Strength)
 
-*Чудесный предмет, Rarity варьируется (требуется настройка)*
+*Чудесный предмет, редкость варьируется (требуется настройка)*
 
-While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.
+Пока вы носите этот пояс, ваше значение Силы меняется на значение, даруемое поясом. Если ваша Сила уже равна или превышает значение пояса, предмет не действует на вас.
 
-Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The *belt of stone giant strength* and the *belt of frost giant strength* look different, but they have the same effect.
+Существует шесть разновидностей этого пояса, соответствующих шести видам истинных великанов и имеющих редкость в соответствии с ними. *Пояс силы каменного великана* и *пояс силы ледяного великана* выглядят по-разному, но имеют одинаковый эффект.
 
 Таблица: Пояс силы великана
 
-| Type              | Сила | Редкость    |
+| Тип              | Сила | Редкость    |
 |---|---|---|
-| Hill giant        | 21       | Rare      |
-| Stone/frost giant | 23       | Very rare |
-| Огонь giant        | 25       | Very rare |
-| Cloud giant       | 27       | Legendary |
-| Storm giant       | 29       | Legendary |
+| Холмовой великан        | 21       | Редкий      |
+| Каменный/ледяной великан | 23       | Очень редкий |
+| Огненный великан        | 25       | Очень редкий |
+| Облачный великан       | 27       | Легендарный |
+| Штормовой великан       | 29       | Легендарный |
 
 #### Топор берсерка (Berserker Axe)
 
 *Оружие (любой топор), редкий (требуется настройка)*
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.
+Вы получаете бонус +1 к броскам атаки и урона, совершаемым этим магическим оружием. Кроме того, пока вы настроены на это оружие, ваш максимум хитов увеличивается на 1 за каждый ваш уровень.
 
-**_Проклятие._** This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 футов of you that you can see or hear.
+**_Проклятие._** Этот топор проклят, и настройка на него распространяет проклятие на вас. Пока вы прокляты, вы не желаете расставаться с топором, держа его под рукой всегда. Вы также совершаете с помехой броски атаки другим оружием, если только в пределах 60 футов от вас нет врага, которого вы можете видеть или слышать.
 
-Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a СЛ 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 футов of you that you can see or hear.
+Каждый раз, когда враждебное существо наносит вам урон, пока топор при вас, вы должны преуспеть в спасброске Мудрости СЛ 15 или впасть в ярость берсерка. В ярости вы должны каждый раунд использовать своё действие, чтобы атаковать ближайшее к вам существо топором. Если вы можете совершать дополнительные атаки в рамках действия Атака, вы используете эти дополнительные атаки, переходя к атаке следующего ближайшего существа после повержения текущей цели. Если у вас несколько возможных целей, вы атакуете одну случайно. Вы находитесь в ярости, пока не начнёте свой ход, не имея существ в пределах 60 футов, которых можете видеть или слышать.
 
 #### Сапоги эльфа (Boots of Elvenkind)
 
 *Чудесный предмет, необычный*
 
-While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.
+Пока вы носите эти сапоги, ваши шаги не издают звука независимо от поверхности, по которой вы идёте. Вы также совершаете с преимуществом проверки Ловкости (Скрытность), основанные на бесшумном передвижении.
 
 #### Сапоги левитации (Boots of Levitation)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-While you wear these boots, you can use an action to cast the *левитация* spell on yourself at will.
+Пока вы носите эти сапоги, вы можете действием сотворить заклинание *левитация* на себя по желанию.
 
 #### Сапоги скорости (Boots of Speed)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.
+Пока вы носите эти сапоги, вы можете бонусным действием щёлкнуть каблуками вместе. Если вы это сделаете, сапоги удваивают вашу скорость ходьбы, и любое существо, совершающее атаку по вам при возможности, совершает бросок атаки с помехой. Повторный щелчок каблуками прекращает эффект.
 
-When the boots' property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.
+Когда свойство сапог было использовано в общей сложности 10 минут, магия перестаёт работать до окончания продолжительного отдыха.
 
 #### Сапоги шага и прыжка (Boots of Striding and Springing)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While you wear these boots, your walking speed becomes 30 футов, unless your walking speed is higher, and your speed isn't reduced if you are encumbered or wearing heavy armor. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.
+Пока вы носите эти сапоги, ваша скорость ходьбы становится 30 футов, если только ваша скорость ходьбы не выше, и ваша скорость не снижается, если вы перегружены или носите тяжёлый доспех. Кроме того, вы можете прыгать на тройное обычное расстояние, хотя не можете прыгнуть дальше, чем позволяет оставшееся перемещение.
 
 #### Сапоги зимних земель (Boots of the Winterlands)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
+Эти меховые сапоги удобны и приятно тёплые. Пока вы их носите, вы получаете следующие преимущества:
 
-- You have resistance to cold damage.
-- You ignore difficult terrain created by ice or snow.
-- You can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as -100 degrees Fahrenheit.
+- Вы обладаете сопротивлением урону холодом.
+- Вы игнорируете труднопроходимую местность, созданную льдом или снегом.
+- Вы переносите температуры до -50 градусов по Фаренгейту без дополнительной защиты. Если вы носите тёплую одежду, вы переносите температуры до -100 градусов по Фаренгейту.
 
 #### Чаша призыва водных элементалей (Bowl of Commanding Water Elementals)
 
 *Чудесный предмет, редкий*
 
-While this bowl is filled with water, you can use an action to speak the bowl's command word and summon a water elemental, as if you had cast the *сотворение элементаля* spell. The bowl can't be used this way again until the next dawn.
+Пока эта чаша наполнена водой, вы можете действием произнести командное слово чаши и призвать водного элементаля, как если бы вы сотворили заклинание *сотворение элементаля*. Чашу нельзя использовать таким образом снова до следующего рассвета.
 
-The bowl is about 1 фут in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons.
+Чаша имеет диаметр около 1 фута и глубину в половину этого. Она весит 3 фунта и вмещает около 3 галлонов.
 
 #### Наручи стрельбы (Bracers of Archery)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.
+Пока вы носите эти наручи, вы владеете длинным и коротким луком, и вы получаете бонус +2 к броскам урона дальнобойных атак, совершаемых таким оружием.
 
 #### Наручи защиты (Bracers of Defense)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-While wearing these bracers, you gain a +2 bonus to КД if you are wearing no armor and using no shield.
+Пока вы носите эти наручи, вы получаете бонус +2 к КД, если вы не носите доспех и не используете щит.
 
 #### Чаша призыва огненных элементалей (Brazier of Commanding Fire Elementals)
 
 *Чудесный предмет, редкий*
 
-While a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a fire elemental, as if you had cast the *сотворение элементаля* spell. The brazier can't be used this way again until the next dawn.
+Пока в этой латунной жаровне горит огонь, вы можете действием произнести командное слово жаровни и призвать огненного элементаля, как если бы вы сотворили заклинание *сотворение элементаля*. Жаровню нельзя использовать таким образом снова до следующего рассвета.
 
-The brazier weighs 5 pounds.
+Жаровня весит 5 фунтов.
 
 #### Брошь защиты (Brooch of Shielding)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the *магическая стрела* spell.
+Пока вы носите эту брошь, вы обладаете сопротивлением урону силовым полем и невосприимчивы к урону от заклинания *магическая стрела*.
 
 #### Метла полёта (Broom of Flying)
 
 *Чудесный предмет, необычный*
 
-This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 футов. It can carry up to 400 pounds, but its flying speed becomes 30 футов while carrying over 200 pounds. The broom stops hovering when you land.
+Эта деревянная метла весом 3 фунта функционирует как обычная метла, пока вы не встанете на неё верхом и не произнесёте командное слово. После этого она парит под вами, и на ней можно летать. У неё скорость полёта 50 футов. Она может нести до 400 фунтов, но её скорость полёта снижается до 30 футов при переноске более 200 фунтов. Метла перестаёт парить, когда вы приземляетесь.
 
-You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.
+Вы можете отправить метлу лететь самостоятельно к месту назначения в пределах 1 мили от вас, если произнесёте командное слово, назовёте место и знакомы с ним. Метла возвращается к вам, когда вы произнесёте другое командное слово, при условии, что метла всё ещё в пределах 1 мили от вас.
 
 #### Свеча призыва (Candle of Invocation)
 
 *Чудесный предмет, очень редкий (требуется настройка)*
 
-This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the *обнаружение добра и зла* spell. The GM chooses the god and associated alignment or determines the alignment randomly.
+Эта тонкая свеча посвящена божеству и разделяет его мировоззрение. Мировоззрение свечи можно обнаружить заклинанием *обнаружение добра и зла*. Мастер выбирает бога и связанное мировоззрение или определяет мировоззрение случайно.
 
 Таблица: Свеча призыва
 
-| 1к20   | Alignment       |
+| 1к20   | Мировоззрение       |
 |---|---|
 | 1-2   | Хаотично-злой    |
 | 3-4   | Хаотично-нейтральный |
 | 5-7   | Хаотично-добрый    |
-| 8-9   | Нейтральный evil    |
+| 8-9   | Нейтрально-злой    |
 | 10-11 | Нейтральный         |
 | 12-13 | Нейтрально-добрый    |
 | 14-15 | Принципиально-злой     |
 | 16-17 | Принципиально-нейтральный  |
 | 18-20 | Принципиально-добрый     |
 
-The candle's magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
+Магия свечи активируется, когда свеча зажжена, что требует действия. После горения в течение 4 часов свеча уничтожается. Вы можете потушить её раньше для использования позже. Вычитайте время горения с шагом в 1 минуту из общего времени горения свечи.
 
-While lit, the candle sheds dim light in a 30-футовый radius. Any creature within that light whose alignment matches that of the candle makes attack rolls, saving throws, and ability checks with advantage. In addition, a cleric or druid in the light whose alignment matches the candle's can cast 1st-level spells he or she has prepared without expending spell slots, though the spell's effect is as if cast with a 1st-level slot.
+Пока свеча горит, она излучает тусклый свет в радиусе 30 футов. Любое существо в этом свете, чьё мировоззрение совпадает с мировоззрением свечи, совершает броски атаки, спасброски и проверки характеристик с преимуществом. Кроме того, жрец или друид в этом свете, чьё мировоззрение совпадает с мировоззрением свечи, может сотворять подготовленные заклинания 1-го уровня без расходования ячеек заклинаний, хотя эффект заклинания как при сотворении ячейкой 1-го уровня.
 
-Alternatively, when you light the candle for the first time, you can cast the *врата* spell with it. Doing so destroys the candle.
+В качестве альтернативы, когда вы зажигаете свечу впервые, вы можете сотворить ею заклинание *врата*. Это уничтожает свечу.
 
 #### Плащ шарлатана (Cape of the Mountebank)
 
 *Чудесный предмет, редкий*
 
-This cape smells faintly of brimstone. While wearing it, you can use it to cast the *дверь измерений* spell as an action. This property of the cape can't be used again until the next dawn.
+Этот плащ слабо пахнет серой. Пока вы его носите, вы можете действием сотворить заклинание *дверь измерений*. Это свойство плаща нельзя использовать снова до следующего рассвета.
 
-When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
+Когда вы исчезаете, вы оставляете позади облако дыма и появляетесь в подобном облаке дыма в месте назначения. Дым слегка затеняет пространство, которое вы покинули, и пространство, в котором появились, и рассеивается в конце вашего следующего хода. Лёгкий или более сильный ветер развеивает дым.
 
 #### Ковёр-самолёт (Carpet of Flying)
 
 *Чудесный предмет, очень редкий*
 
-You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 футов of it.
+Вы можете действием произнести командное слово ковра, чтобы заставить его парить и летать. Он движется согласно вашим устным указаниям, при условии, что вы находитесь в пределах 30 футов от него.
 
-Four sizes of *Ковёр-самолёт* exist. The GM chooses the size of a given carpet or determines it randomly.
+Существует четыре размера *ковра-самолёта*. Мастер выбирает размер данного ковра или определяет его случайно.
 
 Таблица: Ковёр-самолёт
 
-| 1к100   | Size          | Capacity | Flying Speed |
+| 1к100   | Размер          | Грузоподъёмность | Скорость полёта |
 |---|---|---|---|
-| 01-20  | 3 фт. × 5 фт. | 200 lb.  | 80 футов      |
-| 21-55  | 4 фт. × 6 фт. | 400 lb.  | 60 футов      |
-| 56-80  | 5 фт. × 7 фт. | 600 lb.  | 40 футов      |
-| 81-100 | 6 фт. × 9 фт. | 800 lb.  | 30 футов      |
+| 01-20  | 3 фт. × 5 фт. | 200 фн.  | 80 футов      |
+| 21-55  | 4 фт. × 6 фт. | 400 фн.  | 60 футов      |
+| 56-80  | 5 фт. × 7 фт. | 600 фн.  | 40 футов      |
+| 81-100 | 6 фт. × 9 фт. | 800 фн.  | 30 футов      |
 
-A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.
+Ковёр может нести вдвое больший вес, чем указано в таблице, но летит с половинной скоростью, если несёт больше обычной грузоподъёмности.
 
 #### Чаша управления воздушными элементалями (Censer of Controlling Air Elementals)
 
 *Чудесный предмет, редкий*
 
-While incense is burning in this censer, you can use an action to speak the censer's command word and summon an air elemental, as if you had cast the *сотворение элементаля* spell. The censer can't be used this way again until the next dawn.
+Пока в этой кадильнице горят благовония, вы можете действием произнести командное слово кадильницы и призвать воздушного элементаля, как если бы вы сотворили заклинание *сотворение элементаля*. Кадильницу нельзя использовать таким образом снова до следующего рассвета.
 
-This 6-inch-wide, 1-футовый high vessel resembles a chalice with a decorated lid. It weighs 1 pound.
+Этот сосуд шириной 6 дюймов и высотой 1 фут напоминает чашу с декорированной крышкой. Он весит 1 фунт.
 
 #### Колокольчик открывания (Chime of Opening)
 
 *Чудесный предмет, редкий*
 
-This hollow metal tube measures about 1 фут long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 футов of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can't reach the object. If no locks or latches remain, the object itself opens.
+Эта полая металлическая трубка длиной около 1 фута весит 1 фунт. Вы можете действием ударить по ней, направив на объект в пределах 120 футов от вас, который можно открыть, например дверь, крышку или замок. Колокольчик издаёт чистый тон, и один замок или защёлка на объекте открывается, если только звук не может достичь объекта. Если не осталось замков или защёлок, открывается сам объект.
 
-The chime can be used ten times. After the tenth time, it cracks and becomes useless.
+Колокольчик можно использовать десять раз. После десятого раза он трескается и становится бесполезным.
 
 #### Обруч излучения (Circlet of Blasting)
 
 *Чудесный предмет, необычный*
 
-While wearing this circlet, you can use an action to cast the *палящий луч* spell with it. When you make the spell's attacks, you do so with an attack bonus of +5. The circlet can't be used this way again until the next dawn.
+Пока вы носите этот обруч, вы можете действием сотворить заклинание *палящий луч* с его помощью. При совершении атак заклинания вы используете бонус атаки +5. Обруч нельзя использовать таким образом снова до следующего рассвета.
 
 #### Мантия паучьего лазания (Cloak of Arachnida)
 
 *Чудесный предмет, очень редкий (требуется настройка)*
 
-This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
+Эта изящная одежда сделана из чёрного шёлка, переплетённого тонкими серебристыми нитями. Пока вы её носите, вы получаете следующие преимущества:
 
-- You have resistance to poison damage.
-- You have a climbing speed equal to your walking speed.
-- You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
-- You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.
-- You can use an action to cast the *паутина* spell (save СЛ 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.
+- Вы обладаете сопротивлением урону ядом.
+- Ваша скорость лазания равна вашей скорости ходьбы.
+- Вы можете перемещаться вверх, вниз и поперёк вертикальных поверхностей, а также вниз головой по потолкам, оставляя руки свободными.
+- Вас не может поймать никакая паутина, и вы можете проходить сквозь паутину, как по труднопроходимой местности.
+- Вы можете действием сотворить заклинание *паутина* (спасбросок СЛ 13). Паутина, созданная заклинанием, заполняет вдвое большую обычную область. После использования это свойство мантии нельзя использовать снова до следующего рассвета.
 
 #### Мантия смещения (Cloak of Displacement)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
+Пока вы носите эту мантию, она проецирует иллюзию, заставляющую вас казаться стоящим рядом с вашим действительным местоположением, из-за чего любое существо совершает с помехой броски атаки по вам. Если вы получаете урон, свойство перестаёт действовать до начала вашего следующего хода. Это свойство подавляется, пока вы недееспособны, обездвижены или иным образом не можете двигаться.
 
 #### Плащ эльфа (Cloak of Elvenkind)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+Пока вы носите этот плащ с поднятым капюшоном, проверки Мудрости (Восприятие) для того, чтобы вас увидеть, совершаются с помехой, а вы совершаете с преимуществом проверки Ловкости (Скрытность) для того, чтобы спрятаться, поскольку цвет плаща меняется, маскируя вас. Поднятие или опускание капюшона требует действия.
 
 #### Плащ защиты (Cloak of Protection)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-You gain a +1 bonus to КД and saving throws while you wear this cloak.
+Вы получаете бонус +1 к КД и спасброскам, пока носите этот плащ.
 
 #### Плащ летучей мыши (Cloak of the Bat)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 футов. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.
+Пока вы носите этот плащ, вы совершаете с преимуществом проверки Ловкости (Скрытность). В области тусклого света или тьмы вы можете схватить края плаща обеими руками и использовать его для полёта со скоростью 40 футов. Если вы не удержите края плаща во время такого полёта или выйдете из области тусклого света или тьмы, вы теряете эту скорость полёта.
 
-While wearing the cloak in an area of dim light or darkness, you can use your action to cast *превращение* on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
+Нося плащ в области тусклого света или тьмы, вы можете действием сотворить на себя *превращение*, превратившись в летучую мышь. В форме летучей мыши вы сохраняете свои значения Интеллекта, Мудрости и Харизмы. Плащ нельзя использовать таким образом снова до следующего рассвета.
 
 #### Плащ манты (Cloak of the Manta Ray)
 
 *Чудесный предмет, необычный*
 
-While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 футов. Pulling the hood up or down requires an action.
+Пока вы носите этот плащ с поднятым капюшоном, вы можете дышать под водой и обладаете скоростью плавания 60 футов. Поднятие или опускание капюшона требует действия.
 
 #### Кристальный шар (Crystal Ball)
 
-*Чудесный предмет, очень редкий or легендарный (требуется настройка)*
+*Чудесный предмет, очень редкий или легендарный (требуется настройка)*
 
-The typical *Кристальный шар*, a very rare item, is about 6 inches in diameter. While touching it, you can cast the *наблюдение* spell (save СЛ 17) with it.
+Типичный *кристальный шар*, очень редкий предмет, имеет диаметр около 6 дюймов. Касаясь его, вы можете сотворить с его помощью заклинание *наблюдение* (спасбросок СЛ 17).
 
-The following *Кристальный шар* variants are legendary items and have additional properties.
+Следующие варианты *кристального шара* являются легендарными предметами и обладают дополнительными свойствами.
 
-**_Crystal Ball of Mind Reading._** You can use an action to cast the *обнаружение мыслей* spell (save СЛ 17) while you are scrying with the *Кристальный шар*, targeting creatures you can see within 30 футов of the spell's sensor. You don't need to concentrate on this *обнаружение мыслей* to maintain it during its duration, but it ends if *наблюдение* ends.
+**_Кристальный шар чтения мыслей._** Вы можете действием сотворить заклинание *обнаружение мыслей* (спасбросок СЛ 17), пока вы наблюдаете с помощью *кристального шара*, нацеливаясь на существ, которых видите в пределах 30 футов от сенсора заклинания. Вам не нужно концентрироваться на этом *обнаружении мыслей* для поддержания его на протяжении длительности, но оно заканчивается, если *наблюдение* заканчивается.
 
-**_Crystal Ball of Telepathy._** While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 футов of the spell's sensor. You can also use an action to cast the *внушение* spell (save СЛ 17) through the sensor on one of those creatures. You don't need to concentrate on this *внушение* to maintain it during its duration, but it ends if *наблюдение* ends. Once used, the *внушение* power of the *Кристальный шар* can't be used again until the next dawn.
+**_Кристальный шар телепатии._** Пока вы наблюдаете с помощью кристального шара, вы можете телепатически общаться с существами, которых видите в пределах 30 футов от сенсора заклинания. Вы также можете действием сотворить заклинание *внушение* (спасбросок СЛ 17) через сенсор на одно из этих существ. Вам не нужно концентрироваться на этом *внушении* для поддержания его на протяжении длительности, но оно заканчивается, если *наблюдение* заканчивается. После использования способность *внушения* *кристального шара* не может быть использована снова до следующего рассвета.
 
-**_Crystal Ball of True Seeing._** While scrying with the crystal ball, you have truesight with a radius of 120 футов centered on the spell's sensor.
+**_Кристальный шар истинного зрения._** Пока вы наблюдаете с помощью кристального шара, вы обладаете истинным зрением с радиусом 120 футов с центром на сенсоре заклинания.
 
 #### Силовой куб (Cube of Force)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1к20 expended charges daily at dawn.
+Этот куб имеет размер около дюйма. Каждая грань имеет отличительную отметку, на которую можно нажать. Куб начинает с 36 зарядами и восстанавливает 1к20 потраченных зарядов ежедневно на рассвете.
 
-You can use an action to press one of the cube's faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 футов on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube's sixth face, or the cube runs out of charges. You can change the barrier's effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.
+Вы можете действием нажать одну из граней куба, расходуя количество зарядов, зависящее от выбранной грани, как показано в таблице граней силового куба. Каждая грань имеет свой эффект. Если у куба недостаточно оставшихся зарядов, ничего не происходит. В противном случае возникает барьер из невидимой силы, образуя куб со стороной 15 футов. Барьер центрирован на вас, перемещается вместе с вами и длится 1 минуту, пока вы не нажмёте действием шестую грань куба или куб не исчерпает заряды. Вы можете изменить эффект барьера, нажав другую грань куба и потратив необходимое количество зарядов, сбросив длительность.
 
-If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
+Если ваше перемещение приводит барьер к контакту с твёрдым объектом, который не может пройти сквозь куб, вы не можете приблизиться к этому объекту, пока барьер действует.
 
 Таблица: Силовой куб: Эффекты
 
-| Face | Charges | Effect                                                                                                            |
+| Грань | Заряды | Эффект                                                                                                            |
 |---|---|---|
-| 1    | 1       | Gases, wind, and fog can't pass through the barrier.                                                              |
-| 2    | 2       | Nonliving matter can't pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
-| 3    | 3       | Living matter can't pass through the barrier.                                                                     |
-| 4    | 4       | Spell effects can't pass through the barrier.                                                                     |
-| 5    | 5       | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.            |
-| 6    | 0       | The barrier deactivates.                                                                                          |
+| 1    | 1       | Газы, ветер и туман не могут проходить сквозь барьер.                                                              |
+| 2    | 2       | Неживая материя не может проходить сквозь барьер. Стены, полы и потолки могут проходить по вашему усмотрению. |
+| 3    | 3       | Живая материя не может проходить сквозь барьер.                                                                     |
+| 4    | 4       | Эффекты заклинаний не могут проходить сквозь барьер.                                                                     |
+| 5    | 5       | Ничто не может проходить сквозь барьер. Стены, полы и потолки могут проходить по вашему усмотрению.            |
+| 6    | 0       | Барьер деактивируется.                                                                                          |
 
-The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
+Куб теряет заряды, когда барьер становится целью определённых заклинаний или вступает в контакт с определёнными эффектами заклинаний или магических предметов, как показано в таблице ниже.
 
 Таблица: Силовой куб: Потерянные заряды
 
-| Spell or Item    | Charges Lost |
+| Заклинание или предмет    | Потеря зарядов |
 |---|---|
-| Disintegrate     | 1к12         |
-| Horn of blasting | 1к10         |
-| Passwall         | 1к6          |
-| Prismatic spray  | 1к20         |
-| Wall of fire     | 1к4          |
+| Распыление     | 1к12         |
+| Рог взрыва | 1к10         |
+| Проход         | 1к6          |
+| Радужные брызги  | 1к20         |
+| Стена огня     | 1к4          |
 
 #### Кубический портал (Cubic Gate)
 
 *Чудесный предмет, легендарный*
 
-This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.
+Этот куб имеет размер 3 дюйма и излучает ощутимую магическую энергию. Каждая из шести сторон куба привязана к отдельному плану существования, один из которых — Материальный План. Остальные стороны связаны с планами, определяемыми Мастером.
 
-You can use an action to press one side of the cube to cast the *врата* spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the *переход между планами* spell (save СЛ 17) with the cube and transport the targets to the plane keyed to that side.
+Вы можете действием нажать одну сторону куба, чтобы сотворить с его помощью заклинание *врата*, открывая портал на план, привязанный к этой стороне. В качестве альтернативы, если вы действием нажмёте одну сторону дважды, вы можете сотворить кубом заклинание *переход между планами* (спасбросок СЛ 17) и переместить цели на план, привязанный к этой стороне.
 
-The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1к3 expended charges daily at dawn.
+Куб имеет 3 заряда. Каждое использование куба расходует 1 заряд. Куб восстанавливает 1к3 потраченных заряда ежедневно на рассвете.
 
 #### Кинжал яда (Dagger of Venom)
 
 *Оружие (кинжал), редкий*
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Вы получаете бонус +1 к броскам атаки и урона, совершаемым этим магическим оружием.
 
-You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a СЛ 15 Constitution saving throw or take 2к10 poison damage and become poisoned for 1 minute. The dagger can't be used this way again until the next dawn.
+Вы можете действием покрыть лезвие густым чёрным ядом. Яд остаётся 1 минуту или пока атака этим оружием не попадёт по существу. Это существо должно преуспеть в спасброске Телосложения СЛ 15 или получить 2к10 урона ядом и стать отравленным на 1 минуту. Кинжал нельзя использовать таким образом снова до следующего рассвета.
 
 #### Танцующий меч (Dancing Sword)
 
 *Оружие (любой меч), очень редкий (требуется настройка)*
 
-You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 футов, and attacks one creature of your choice within 5 футов of it. The sword uses your attack roll and ability score modifier to damage rolls.
+Вы можете бонусным действием подбросить этот магический меч в воздух и произнести командное слово. При этом меч начинает парить, летит на расстояние до 30 футов и атакует одно существо по вашему выбору в пределах 5 футов от него. Меч использует ваш бросок атаки и модификатор характеристики для бросков урона.
 
-While the sword hovers, you can use a bonus action to cause it to fly up to 30 футов to another spot within 30 футов of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 футов of it.
+Пока меч парит, вы можете бонусным действием заставить его лететь на расстояние до 30 футов к другому месту в пределах 30 футов от вас. В рамках того же бонусного действия вы можете заставить меч атаковать одно существо в пределах 5 футов от него.
 
-After the hovering sword attacks for the fourth time, it flies up to 30 футов and tries to return to your hand. If you have no hand free, it falls to the ground at your футов. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 футов away from it.
+После того как парящий меч атакует четвёртый раз, он летит на расстояние до 30 футов и пытается вернуться в вашу руку. Если у вас нет свободной руки, он падает на землю у ваших ног. Если у меча нет свободного пути к вам, он перемещается к вам так близко, как может, а затем падает на землю. Он также перестаёт парить, если вы схватите его или отойдёте более чем на 30 футов от него.
 
 #### Графин бесконечной воды (Decanter of Endless Water)
 
 *Чудесный предмет, необычный*
 
-This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
+Эта закупоренная фляга булькает при встряхивании, как будто содержит воду. Графин весит 2 фунта.
 
-You can use an action to remove the stopper and speak one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following options:
+Вы можете действием извлечь пробку и произнести одно из трёх командных слов, после чего из фляги польётся пресная или солёная вода (на ваш выбор). Вода перестаёт литься в начале вашего следующего хода. Выберите один из следующих вариантов:
 
-- "Stream" produces 1 gallon of water.
-- "Fountain" produces 5 gallons of water.
-- "Geyser" produces 30 gallons of water that gushes forth in a geyser 30 футов long and 1 фут wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 футов of you. The target must succeed on a СЛ 13 Strength saving throw or take 1к4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 футов away from you.
+- «Ручей» производит 1 галлон воды.
+- «Фонтан» производит 5 галлонов воды.
+- «Гейзер» производит 30 галлонов воды, которая вырывается струёй длиной 30 футов и шириной 1 фут. Бонусным действием, держа графин, вы можете направить гейзер на существо, которое видите в пределах 30 футов от вас. Цель должна преуспеть в спасброске Силы СЛ 13 или получить 1к4 дробящего урона и упасть ничком. Вместо существа вы можете нацелиться на объект, который никто не несёт и не носит, и который весит не более 200 фунтов. Объект либо опрокидывается, либо отталкивается на расстояние до 15 футов от вас.
 
 #### Колода иллюзий (Deck of Illusions)
 
 *Чудесный предмет, необычный*
 
-This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1к20-1 cards.
+В этой коробке лежит набор пергаментных карт. Полная колода содержит 34 карты. Колода, найденная в качестве сокровища, обычно не содержит 1к20-1 карт.
 
-The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 футов of you.
+Магия колоды работает, только если карты вытягиваются наугад (вы можете использовать изменённую колоду игральных карт для имитации). Вы можете действием вытянуть случайную карту из колоды и бросить её на землю в точке в пределах 30 футов от вас.
 
-An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While you are within 120 футов of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 футов of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful СЛ 15 Intelligence (Investigation) check. The creature then appears translucent.
+Иллюзия одного или нескольких существ формируется над брошенной картой и сохраняется до рассеивания. Иллюзорное существо выглядит настоящим, имеет подходящий размер и ведёт себя, как настоящее существо, за исключением того, что не может причинять вред. Пока вы находитесь в пределах 120 футов от иллюзорного существа и можете его видеть, вы можете действием магически переместить его куда угодно в пределах 30 футов от его карты. Любое физическое взаимодействие с иллюзорным существом раскрывает его как иллюзию, поскольку объекты проходят сквозь него. Кто-то, использующий действие для визуального осмотра существа, опознаёт его как иллюзорное при успешной проверке Интеллекта (Расследование) СЛ 15. После этого существо выглядит полупрозрачным.
 
-The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
+Иллюзия длится, пока карта не будет перемещена или иллюзия не будет рассеяна. Когда иллюзия заканчивается, изображение на карте исчезает, и эта карта больше не может быть использована.
 
 Таблица: Колода иллюзий
 
-| Playing Card      | Illusion                         |
+| Игральная карта      | Иллюзия                         |
 |:---|:---|
-| Ace of hearts     | Red dragon                       |
-| King of hearts    | Knight and four guards           |
-| Queen of hearts   | Succubus or incubus              |
-| Jack of hearts    | Druid                            |
-| Ten of hearts     | Cloud giant                      |
-| Nine of hearts    | Ettin                            |
-| Eight of hearts   | Bugbear                          |
-| Two of hearts     | Goblin                           |
-| Ace of diamonds   | Beholder                         |
-| King of diamonds  | Archmage and mage apprentice     |
-| Queen of diamonds | Night hag                        |
-| Jack of diamonds  | Assassin                         |
-| Ten of diamonds   | Огонь giant                       |
-| Nine of diamonds  | Ogre mage                        |
-| Eight of diamonds | Gnoll                            |
-| Two of diamonds   | Kobold                           |
-| Ace of spades     | Lich                             |
-| King of spades    | Priest and two acolytes          |
-| Queen of spades   | Medusa                           |
-| Jack of spades    | Veteran                          |
-| Ten of spades     | Frost giant                      |
-| Nine of spades    | Troll                            |
-| Eight of spades   | Hobgoblin                        |
-| Two of spades     | Goblin                           |
-| Ace of clubs      | Iron golem                       |
-| King of clubs     | Bandit captain and three bandits |
-| Queen of clubs    | Erinyes                          |
-| Jack of clubs     | Berserker                        |
-| Ten of clubs      | Hill giant                       |
-| Nine of clubs     | Ogre                             |
-| Eight of clubs    | Orc                              |
-| Two of clubs      | Kobold                           |
-| Jokers (2)        | You (the deck's owner)           |
+| Туз червей     | Красный дракон                       |
+| Король червей    | Рыцарь и четыре стражника           |
+| Дама червей   | Суккуб или инкуб              |
+| Валет червей    | Друид                            |
+| Десятка червей     | Облачный великан                      |
+| Девятка червей    | Эттин                            |
+| Восьмёрка червей   | Багбир                          |
+| Двойка червей     | Гоблин                           |
+| Туз бубей   | Бехолдер                         |
+| Король бубей  | Архимаг и ученик мага     |
+| Дама бубей | Ночная карга                        |
+| Валет бубей  | Убийца                         |
+| Десятка бубей   | Огненный великан                       |
+| Девятка бубей  | Маг-огр                        |
+| Восьмёрка бубей | Гнолл                            |
+| Двойка бубей   | Кобольд                           |
+| Туз пик     | Лич                             |
+| Король пик    | Жрец и два послушника          |
+| Дама пик   | Медуза                           |
+| Валет пик    | Ветеран                          |
+| Десятка пик     | Ледяной великан                      |
+| Девятка пик    | Тролль                            |
+| Восьмёрка пик   | Хобгоблин                        |
+| Двойка пик     | Гоблин                           |
+| Туз треф      | Железный голем                       |
+| Король треф     | Атаман бандитов и три бандита |
+| Дама треф    | Эриния                          |
+| Валет треф     | Берсерк                        |
+| Десятка треф      | Холмовой великан                       |
+| Девятка треф     | Огр                             |
+| Восьмёрка треф    | Орк                              |
+| Двойка треф      | Кобольд                           |
+| Джокеры (2)        | Вы (владелец колоды)           |
 
 #### Колода многих вещей (Deck of Many Things)
 
 *Чудесный предмет, легендарный*
 
-Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
+Обычно находимая в коробке или мешочке, эта колода содержит несколько карт из слоновой кости или пергамента. Большинство (75 процентов) таких колод имеют только тринадцать карт, но остальные — двадцать две.
 
-Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
+Прежде чем вытянуть карту, вы должны объявить, сколько карт намерены вытянуть, а затем тянуть их случайным образом (вы можете использовать изменённую колоду игральных карт для имитации колоды). Любые карты, вытянутые сверх этого числа, не имеют эффекта. В противном случае, как только вы вытянете карту из колоды, её магия вступает в силу. Вы должны вытягивать каждую карту не позднее чем через 1 час после предыдущей. Если вы не вытянете выбранное число карт, оставшееся число карт вылетает из колоды само и вступает в действие одновременно.
 
-Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
+После того как карта вытянута, она исчезает из существования. Если это не Шут или Скоморох, карта возвращается в колоду, что делает возможным вытянуть одну и ту же карту дважды.
 
 Таблица: Колода многих вещей
 
-| Playing Card       | Card          |
+| Игральная карта        | Карта             |
 |:---|:---|
-| Ace of diamonds    | Vizier[^1]    |
-| King of diamonds   | Sun           |
-| Queen of diamonds  | Moon          |
-| Jack of diamonds   | Star          |
-| Two of diamonds    | Comet[^1]     |
-| Ace of hearts      | The Fates[^1] |
-| King of hearts     | Throne        |
-| Queen of hearts    | Key           |
-| Jack of hearts     | Knight        |
-| Two of hearts      | Gem[^1]       |
-| Ace of clubs       | Talons[^1]    |
-| King of clubs      | The Void      |
-| Queen of clubs     | Flames        |
-| Jack of clubs      | Skull         |
-| Two of clubs       | Idiot[^1]     |
-| Ace of spades      | Donjon[^1]    |
-| King of spades     | Ruin          |
-| Queen of spades    | Euryale       |
-| Jack of spades     | Rogue         |
-| Two of spades      | Balance[^1]   |
-| Joker (with TM)    | Fool[^1]      |
-| Joker (without TM) | Jester        |
+| Туз бубен              | Визирь[^1]        |
+| Король бубен           | Солнце            |
+| Дама бубен             | Луна              |
+| Валет бубен            | Звезда            |
+| Двойка бубен           | Комета[^1]        |
+| Туз червей             | Судьбы[^1]        |
+| Король червей          | Трон              |
+| Дама червей            | Ключ              |
+| Валет червей           | Рыцарь            |
+| Двойка червей          | Самоцвет[^1]      |
+| Туз треф               | Когти[^1]         |
+| Король треф            | Пустота           |
+| Дама треф              | Пламя             |
+| Валет треф             | Череп             |
+| Двойка треф            | Дурак[^1]         |
+| Туз пик                | Темница[^1]       |
+| Король пик             | Разорение         |
+| Дама пик               | Эвриала           |
+| Валет пик              | Плут              |
+| Двойка пик             | Равновесие[^1]    |
+| Джокер (с ТМ)          | Шут[^1]           |
+| Джокер (без ТМ)        | Скоморох          |
 
-[^1]: Found only in a deck with twenty-two cards
+[^1]: Встречается только в колоде с двадцатью двумя картами
 
-**_Balance._** Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
+**_Равновесие._** Ваш разум претерпевает мучительное изменение, заставляя вашу мировоззрение смениться. Законное становится хаотичным, доброе — злым, и наоборот. Если вы истинно нейтральны или не имеете мировоззрения, эта карта не действует на вас.
 
-**_Comet._** If you single-handedly defeat the next hostile monster or group of monsters you encounter, you gain experience points enough to gain one level. Otherwise, this card has no effect.
+**_Комета._** Если вы в одиночку победите следующего враждебного монстра или группу монстров, с которыми столкнётесь, вы получаете достаточно очков опыта, чтобы подняться на один уровень. В противном случае эта карта не имеет эффекта.
 
-**_Donjon._** You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any divination magic, but a *исполнение желаний* spell can reveal the location of your prison. You draw no more cards.
+**_Темница._** Вы исчезаете и оказываетесь погребены в состоянии анабиоза в экстрапространственной сфере. Всё, что вы носили и несли, остаётся в пространстве, которое вы занимали, когда исчезли. Вы остаётесь в заточении, пока вас не найдут и не извлекут из сферы. Вас нельзя обнаружить никакой магией прорицания, но заклинание *исполнение желаний* может раскрыть местоположение вашей тюрьмы. Вы больше не тянете карт.
 
-**_Euryale._** The card's medusa-like visage curses you. You take a -2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse.
+**_Эвриала._** Лик карты, подобный медузе, проклинает вас. Вы получаете штраф -2 к спасброскам, пока на вас действует это проклятие. Только бог или магия карты Судьбы может положить конец этому проклятию.
 
-**_The Fates._** Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
+**_Судьбы._** Ткань реальности разматывается и сплетается заново, позволяя вам избежать или стереть одно событие, как будто оно никогда не происходило. Вы можете использовать магию карты сразу, как вытянете её, или в любое другое время до своей смерти.
 
-**_Flames._** A powerful devil becomes your enemy. The devil seeks your ruin and plagues your life, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
+**_Пламя._** Могущественный дьявол становится вашим врагом. Дьявол стремится к вашей гибели и отравляет вашу жизнь, наслаждаясь вашими страданиями, прежде чем попытаться убить вас. Эта вражда длится, пока один из вас не умрёт.
 
-**_Fool._** You lose 10,000 XP, discard this card, and draw from the deck again, counting both draws as one of your declared draws. If losing that much XP would cause you to lose a level, you instead lose an amount that leaves you with just enough XP to keep your level.
+**_Шут._** Вы теряете 10 000 опыта, сбрасываете эту карту и тянете из колоды снова, считая оба вытягивания за одно из объявленных. Если потеря такого количества опыта привела бы к потере уровня, вы вместо этого теряете количество, оставляющее вам ровно столько опыта, чтобы сохранить уровень.
 
-**_Gem._** Twenty-five pieces of jewelry worth 2,000 зм each or fifty gems worth 1,000 зм each appear at your футов.
+**_Самоцвет._** Двадцать пять ювелирных украшений стоимостью 2 000 зм каждое или пятьдесят драгоценных камней стоимостью 1 000 зм каждый появляются у ваших ног.
 
-**_Idiot._** Permanently reduce your Intelligence by 1к4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
+**_Дурак._** Навсегда уменьшите свой Интеллект на 1к4 + 1 (до минимального значения 1). Вы можете вытянуть одну дополнительную карту сверх объявленного числа.
 
-**_Jester._** You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
+**_Скоморох._** Вы получаете 10 000 опыта, или можете вытянуть две дополнительные карты сверх объявленного числа.
 
-**_Key._** A rare or rarer magic weapon with which you are proficient appears in your hands. The GM chooses the weapon.
+**_Ключ._** Редкое или более редкое магическое оружие, которым вы владеете, появляется в ваших руках. Мастер выбирает оружие.
 
-**_Knight._** You gain the service of a 4th-level fighter who appears in a space you choose within 30 футов of you. The fighter is of the same race as you and serves you loyally until death, believing the fates have drawn him or her to you. You control this character.
+**_Рыцарь._** Вы получаете услужение воина 4-го уровня, который появляется в пространстве по вашему выбору в пределах 30 футов от вас. Воин той же расы, что и вы, и преданно служит вам до смерти, веря, что судьба свела его с вами. Вы управляете этим персонажем.
 
-**_Moon._** You are granted the ability to cast the *исполнение желаний* spell 1к3 times.
+**_Луна._** Вы получаете способность сотворять заклинание *исполнение желаний* 1к3 раза.
 
-**_Rogue._** A nonplayer character of the GM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a *исполнение желаний* spell or divine intervention can end the NPC's hostility toward you.
+**_Плут._** Немигровой персонаж по выбору Мастера становится враждебен к вам. Личность вашего нового врага неизвестна, пока НИП или кто-то другой не раскроет её. Ничто, кроме заклинания *исполнение желаний* или божественного вмешательства, не может прекратить враждебность НИП к вам.
 
-**_Ruin._** All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
+**_Разорение._** Все формы богатства, которые вы несёте или которыми владеете, кроме магических предметов, потеряны для вас. Переносное имущество исчезает. Предприятия, здания и земли, которыми вы владеете, теряются способом, минимально изменяющим реальность. Любая документация, подтверждающая, что вы должны владеть чем-то потерянным из-за этой карты, тоже исчезает.
 
-**_Skull._** You summon an avatar of death-a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM's choice within 10 футов of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
+**_Череп._** Вы призываете аватар смерти — призрачный гуманоидный скелет в рваной чёрной мантии, несущий призрачную косу. Он появляется в пространстве по выбору Мастера в пределах 10 футов от вас и атакует вас, предупреждая всех остальных, что вы должны выиграть бой в одиночку. Аватар сражается, пока вы не умрёте или он не опустится до 0 хитов, после чего исчезает. Если кто-то попытается помочь вам, помощник призовёт собственный аватар смерти. Существо, убитое аватаром смерти, не может быть возвращено к жизни.
 
 #### Аватар смерти (Avatar of Death)
 
-*Medium undead, neutral evil*
+*Средняя нежить, нейтрально-злой*
 
 **Класс Доспеха** 20
 
-**Хиты** half the hit point maximum of its summoner
+**Хиты** половина максимума хитов призвавшего
 
-**Скорость** 60 фт., fly 60 фт. (hover)
+**Скорость** 60 фт., полёт 60 фт. (парение)
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+| СИЛ      | ЛОВ      | ТЕЛ      | ИНТ      | МДР      | ХАР      |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  |
 
-**Иммунитет к урону** necrotic, poison
+**Иммунитет к урону** некротический, яд
 
-**Иммунитет к состояниям** charmed, frightened, paralyzed, petrified, poisoned, unconscious
+**Иммунитет к состояниям** очарованный, испуганный, парализованный, окаменевший, отравленный, без сознания
 
-**Senses** darkvision 60 фт., truesight 60 фт., passive Perception 13
+**Чувства** тёмное зрение 60 фт., истинное зрение 60 фт., пассивное Восприятие 13
 
-**Languages** all languages known to its summoner
+**Языки** все языки, известные призвавшему
 
-**Challenge** - (0 XP)
+**Опасность** — (0 опыта)
 
-**_Incorporeal Movement._** The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1к10) force damage if it ends its turn inside an object.
+**_Бестелесное перемещение._** Аватар может перемещаться сквозь других существ и объекты, как если бы они были труднопроходимой местностью. Он получает 5 (1к10) урона силовым полем, если заканчивает ход внутри объекта.
 
-**_Turning Immunity._** The avatar is immune to features that turn undead.
+**_Иммунитет к изгнанию._** Аватар имеет иммунитет к способностям, изгоняющим нежить.
 
 ##### Действия
 
-**_Reaping Scythe._** The avatar sweeps its spectral scythe through a creature within 5 футов of it, dealing 7 (1к8 + 3) slashing damage plus 4 (1к8) necrotic damage.
+**_Жатвенная коса._** Аватар проводит своей призрачной косой сквозь существо в пределах 5 футов от него, нанося 7 (1к8 + 3) рубящего урона плюс 4 (1к8) некротического урона.
 
-**_Star._** Increase one of your ability scores by 2. The score can exceed 20 but can't exceed 24.
+**_Звезда._** Увеличьте одно из ваших значений характеристик на 2. Значение может превысить 20, но не может превысить 24.
 
-**_Sun._** You gain 50,000 XP, and a wondrous item (which the GM determines randomly) appears in your hands.
+**_Солнце._** Вы получаете 50 000 опыта, и чудесный предмет (определяемый Мастером случайно) появляется в ваших руках.
 
-**_Talons._** Every magic item you wear or carry disintegrates. Artifacts in your possession aren't destroyed but do vanish.
+**_Когти._** Каждый магический предмет, который вы носите или несёте, распадается. Артефакты в вашем владении не уничтожаются, но исчезают.
 
-**_Throne._** You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
+**_Трон._** Вы получаете владение навыком Убеждение и удваиваете бонус мастерства для проверок с этим навыком. Кроме того, вы получаете законное владение небольшой крепостью где-то в мире. Однако крепость в данный момент находится в руках монстров, которых вы должны зачистить, прежде чем сможете заявить права на крепость.
 
-**_Vizier._** At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.
+**_Визирь._** В любое время по вашему выбору в течение одного года после вытягивания этой карты вы можете задать вопрос в медитации и мысленно получить правдивый ответ на этот вопрос. Помимо информации, ответ помогает вам решить загадочную проблему или иную дилемму. Другими словами, знание приходит с мудростью о том, как его применить.
 
-**_The Void._** This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A *исполнение желаний* spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
+**_Пустота._** Эта чёрная карта предвещает катастрофу. Ваша душа извлекается из тела и заключается в объекте в месте по выбору Мастера. Одно или несколько могущественных существ охраняют это место. Пока ваша душа заточена таким образом, ваше тело недееспособно. Заклинание *исполнение желаний* не может вернуть вашу душу, но может раскрыть местоположение объекта, в котором она содержится. Вы больше не тянете карт.
 
 #### Защитник (Defender)
 
 *Оружие (любой меч), легендарный (требуется настройка)*
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon.
+Вы получаете бонус +3 к броскам атаки и урона, совершённым этим магическим оружием.
 
-The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to КД. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to КД from it.
+Когда вы впервые атакуете мечом в каждый из своих ходов, вы можете перенести часть или весь бонус меча на свой Класс Доспеха вместо того, чтобы использовать бонус для атак в этот ход. Например, вы можете снизить бонус к броскам атаки и урона до +1 и получить бонус +2 к КД. Скорректированные бонусы действуют до начала вашего следующего хода, хотя вы должны держать меч, чтобы получать бонус к КД от него.
 
 #### Демонический доспех (Demon Armor)
 
 *Доспех (латный доспех), очень редкий (требуется настройка)*
 
-While wearing this armor, you gain a +1 bonus to КД, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1к8.
+Пока вы носите этот доспех, вы получаете бонус +1 к КД и можете понимать Бездонный язык и говорить на нём. Кроме того, когтистые латные перчатки доспеха превращают безоружные удары вашими руками в магическое оружие, наносящее рубящий урон, с бонусом +1 к броскам атаки и урона и костью урона 1к8.
 
-**_Проклятие._** Once you don this cursed armor, you can't doff it unless you are targeted by the *снятие проклятия* spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
+**_Проклятие._** Надев этот проклятый доспех, вы не можете снять его, пока на вас не будет наложено заклинание *снятие проклятия* или подобная магия. Пока вы носите доспех, вы совершаете с помехой броски атаки по демонам и спасброски от их заклинаний и особых способностей.
 
 #### Межпространственные кандалы (Dimensional Shackles)
 
 *Чудесный предмет, редкий*
 
-You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.
+Вы можете действием надеть эти кандалы на недееспособное существо. Кандалы подстраиваются под существо размером от Маленького до Большого. Помимо того что они служат обычными кандалами, они не позволяют существу, скованному ими, использовать любой способ экстрапространственного перемещения, включая телепортацию или путешествие на другой план бытия. Они не мешают существу проходить через межпространственный портал.
 
-You and any creature you designate when you use the shackles can use an action to remove them. Once every 30 days, the bound creature can make a СЛ 30 Strength (Athletics) check. On a success, the creature breaks free and destroys the shackles.
+Вы и любое существо, которое вы назначите при использовании кандалов, можете действием снять их. Раз в 30 дней скованное существо может совершить проверку Силы (Атлетика) СЛ 30. При успехе существо освобождается и разрушает кандалы.
 
 #### Драконья чешуйчатая кольчуга (Dragon Scale Mail)
 
 *Доспех (чешуйчатый доспех), очень редкий (требуется настройка)*
 
-Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.
+Драконья чешуйчатая кольчуга изготовлена из чешуи одного вида дракона. Иногда драконы собирают свою сброшенную чешую и дарят её гуманоидам. В других случаях охотники аккуратно снимают и сохраняют шкуру мёртвого дракона. В любом случае драконья чешуйчатая кольчуга высоко ценится.
 
-While wearing this armor, you gain a +1 bonus to КД, you have advantage on saving throws against the Frightful Presence and breath weapons of dragons, and you have resistance to one damage type that is determined by the kind of dragon that provided the scales (see the table).
+Пока вы носите этот доспех, вы получаете бонус +1 к КД, совершаете с преимуществом спасброски от Ужасающего присутствия и оружия дыхания драконов и имеете сопротивление к одному типу урона, определяемому видом дракона, предоставившего чешую (см. таблицу).
 
-Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can't be used again until the next dawn.
+Кроме того, вы можете действием сосредоточить свои чувства, чтобы магически определить расстояние и направление до ближайшего дракона в пределах 30 миль от вас того же типа, что и доспех. Это особое действие нельзя использовать повторно до следующего рассвета.
 
 Таблица: Драконья чешуйчатая кольчуга
 
-| Dragon | Resistance |
+| Дракон     | Сопротивление    |
 |:---|:---|
-| Black  | Кислота       |
-| Blue   | Электричество  |
-| Brass  | Огонь       |
-| Bronze | Электричество  |
-| Copper | Кислота       |
-| Gold   | Огонь       |
-| Green  | Яд     |
-| Red    | Огонь       |
-| Silver | Холод       |
-| White  | Холод       |
+| Чёрный     | Кислота          |
+| Синий      | Электричество    |
+| Латунный   | Огонь            |
+| Бронзовый  | Электричество    |
+| Медный     | Кислота          |
+| Золотой    | Огонь            |
+| Зелёный    | Яд               |
+| Красный    | Огонь            |
+| Серебряный | Холод            |
+| Белый      | Холод            |
 
 #### Дракоборческое оружие (Dragon Slayer)
 
 *Оружие (любой меч), редкий*
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Вы получаете бонус +1 к броскам атаки и урона, совершённым этим магическим оружием.
 
-When you hit a dragon with this weapon, the dragon takes an extra 3к6 damage of the weapon's type. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
+Когда вы попадаете по дракону этим оружием, дракон получает дополнительно 3к6 урона типа оружия. Для целей этого оружия «дракон» означает любое существо с типом дракон, включая драконьих черепах и виверн.
 
 #### Пыль исчезновения (Dust of Disappearance)
 
 *Чудесный предмет, необычный*
 
-Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 футов of you become invisible for 2к4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature.
+Находящийся в маленьком пакетике, этот порошок напоминает очень мелкий песок. Его хватает на одно использование. Когда вы действием подбрасываете пыль в воздух, вы и каждое существо и объект в пределах 10 футов от вас становитесь невидимыми на 2к4 минуты. Длительность одинакова для всех субъектов, и пыль расходуется, когда её магия вступает в действие. Если существо, на которое действует пыль, атакует или сотворяет заклинание, невидимость для этого существа прекращается.
 
 #### Пыль сухости (Dust of Dryness)
 
 *Чудесный предмет, необычный*
 
-This small packet contains 1к6 + 4 pinches of dust. You can use an action to sprinkle a pinch of it over water. The dust turns a cube of water 15 футов on a side into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet's weight is negligible.
+Этот маленький пакетик содержит 1к6 + 4 щепотки пыли. Вы можете действием посыпать щепотку над водой. Пыль превращает куб воды со стороной 15 футов в одну гранулу размером с шарик, которая плавает или лежит рядом с местом, где была рассыпана пыль. Вес гранулы ничтожен.
 
-Someone can use an action to smash the pellet against a hard surface, causing the pellet to shatter and release the water the dust absorbed. Doing so ends that pellet's magic.
+Кто-то может действием разбить гранулу о твёрдую поверхность, заставив её расколоться и высвободить воду, которую поглотила пыль. Это прекращает магию гранулы.
 
-An elemental composed mostly of water that is exposed to a pinch of the dust must make a СЛ 13 Constitution saving throw, taking 10к6 necrotic damage on a failed save, or half as much damage on a successful one.
+Элементаль, состоящий в основном из воды, подвергшийся воздействию щепотки пыли, должен совершить спасбросок Телосложения СЛ 13, получая 10к6 некротического урона при провале или половину этого урона при успехе.
 
 #### Пыль чихания и удушья (Dust of Sneezing and Choking)
 
 *Чудесный предмет, необычный*
 
-Found in a small container, this powder resembles very fine sand. It appears to be *Пыль исчезновения*, and an *опознание* spell reveals it to be such. There is enough of it for one use.
+Находящийся в маленькой ёмкости, этот порошок напоминает очень мелкий песок. Он выглядит как *пыль исчезновения*, и заклинание *опознание* определяет его именно так. Его хватает на одно использование.
 
-When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 футов of you must succeed on a СЛ 15 Constitution saving throw or become unable to breathe, while sneezing uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The *малое восстановление* spell can also end the effect on a creature.
+Когда вы действием подбрасываете горсть пыли в воздух, вы и каждое существо в пределах 30 футов от вас, которое должно дышать, должны преуспеть в спасброске Телосложения СЛ 15, иначе не сможете дышать, безудержно чихая. Существо, подвергшееся этому воздействию, становится недееспособным и задыхается. Пока оно в сознании, существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Заклинание *малое восстановление* также может прекратить эффект на существе.
 
 #### Дварфийский латный доспех (Dwarven Plate)
 
 *Доспех (латный доспех), очень редкий*
 
-While wearing this armor, you gain a +2 bonus to КД. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 футов.
+Пока вы носите этот доспех, вы получаете бонус +2 к КД. Кроме того, если эффект перемещает вас против вашей воли по земле, вы можете реакцией уменьшить расстояние перемещения на величину до 10 футов.
 
 #### Дварфийский метатель (Dwarven Thrower)
 
 *Оружие (боевой молот), очень редкий (требуется настройка дварфом)*
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 футов and a long range of 60 футов. When you hit with a ranged attack using this weapon, it deals an extra 1к8 damage or, if the target is a giant, 2к8 damage. Immediately after the attack, the weapon flies back to your hand.
+Вы получаете бонус +3 к броскам атаки и урона, совершённым этим магическим оружием. Оно обладает свойством «метательное» с обычной дистанцией 20 футов и максимальной дистанцией 60 футов. Когда вы попадаете дальнобойной атакой этим оружием, оно наносит дополнительно 1к8 урона или, если цель — великан, 2к8 урона. Сразу после атаки оружие возвращается в вашу руку.
 
 #### Эффективный колчан (Efficient Quiver)
 
 *Чудесный предмет, необычный*
 
-Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.
+Каждое из трёх отделений колчана соединяется с экстрапространством, позволяющим колчану вмещать множество предметов, при этом никогда не весить более 2 фунтов. Самое короткое отделение вмещает до шестидесяти стрел, болтов или подобных предметов. Среднее отделение вмещает до восемнадцати дротиков или подобных предметов. Самое длинное отделение вмещает до шести длинных предметов, таких как луки, боевые посохи или копья.
 
-You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
+Вы можете извлечь любой предмет из колчана, как будто достаёте его из обычного колчана или ножен.
 
 #### Бутылка ифрита (Efreeti Bottle)
 
 *Чудесный предмет, очень редкий*
 
-This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 футов of you.
+Эта расписная латунная бутылка весит 1 фунт. Когда вы действием вынимаете пробку, из бутылки вырывается облако густого дыма. В конце вашего хода дым исчезает со вспышкой безвредного огня, и ифрит появляется в незанятом пространстве в пределах 30 футов от вас.
 
-The first time the bottle is opened, the GM rolls to determine what happens.
+Когда бутылка открывается впервые, Мастер бросает кость, чтобы определить, что произойдёт.
 
 Таблица: Бутылка ифрита
 
-| 1к100   | Effect                                                                                                                                                                                                                                                                                                                                                 |
+| 1к100   | Эффект                                                                                                                                                                                                                                                                                                                                                 |
 |---|---|
-| 01-10  | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.                                                                                                                                                                                                                                          |
-| 11-90  | The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
-| 91-100 | The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.                                                                                                                                                                                                  |
+| 01–10  | Ифрит атакует вас. После 5 раундов боя ифрит исчезает, и бутылка теряет магию.                                                                                                                                                                                                                                                                         |
+| 11–90  | Ифрит служит вам 1 час, выполняя ваши приказы. Затем ифрит возвращается в бутылку, и новая пробка удерживает его. Пробку нельзя вынуть в течение 24 часов. Следующие два раза, когда бутылка открывается, происходит тот же эффект. Если бутылка открывается в четвёртый раз, ифрит сбегает и исчезает, и бутылка теряет магию.                         |
+| 91–100 | Ифрит может сотворить заклинание *исполнение желаний* три раза для вас. Он исчезает, когда исполнит последнее желание или через 1 час, и бутылка теряет магию.                                                                                                                                                                                          |
 
 #### Сферы стихий (Elemental Gem)
 
 *Чудесный предмет, необычный*
 
-This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the *сотворение элементаля* spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
+Этот самоцвет содержит частицу стихийной энергии. Когда вы действием разбиваете самоцвет, элементаль призывается, как если бы вы сотворили заклинание *сотворение элементаля*, и магия самоцвета теряется. Тип самоцвета определяет элементаля, призываемого заклинанием.
 
 Таблица: Сферы стихий
 
-| Gem            | Summoned Elemental |
+| Самоцвет          | Призванный элементаль   |
 |---|---|
-| Blue sapphire  | Air elemental      |
-| Yellow diamond | Earth elemental    |
-| Red corundum   | Огонь elemental     |
-| Emerald        | Water elemental    |
+| Голубой сапфир    | Элементаль воздуха      |
+| Жёлтый алмаз      | Элементаль земли        |
+| Красный корунд    | Элементаль огня         |
+| Изумруд           | Элементаль воды         |
 
 #### Эльфийская кольчуга (Elven Chain)
 
 *Доспех (кольчужная рубаха), редкий*
 
-You gain a +1 bonus to КД while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor.
+Вы получаете бонус +1 к КД, пока носите этот доспех. Считается, что вы владеете этим доспехом, даже если у вас нет владения средними доспехами.
 
 #### Колба вечного дыма (Eversmoking Bottle)
 
 *Чудесный предмет, необычный*
 
-Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 60-футовый radius from the bottle. The cloud's area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 10 футов until it reaches its maximum radius of 120 футов.
+Из залитого свинцом горлышка этой латунной бутылки, весящей 1 фунт, сочится дым. Когда вы действием вынимаете пробку, облако густого дыма вырывается наружу в радиусе 60 футов от бутылки. Область облака сильно заслонена. Каждую минуту, пока бутылка остаётся открытой и находится внутри облака, радиус увеличивается на 10 футов, пока не достигнет максимального радиуса 120 футов.
 
-The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round.
+Облако сохраняется, пока бутылка открыта. Для закрытия бутылки вы должны действием произнести командное слово. Как только бутылка закрыта, облако рассеивается через 10 минут. Умеренный ветер (от 11 до 20 миль в час) также может рассеять дым за 1 минуту, а сильный ветер (21 или более миль в час) — за 1 раунд.
 
 #### Глаза очарования (Eyes of Charming)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 charge as an action to cast the *очарование личности* spell (save СЛ 13) on a humanoid within 30 футов of you, provided that you and the target can see each other. The lenses regain all expended charges daily at dawn.
+Эти хрустальные линзы надеваются на глаза. У них есть 3 заряда. Пока вы их носите, вы можете действием потратить 1 заряд, чтобы сотворить заклинание *очарование личности* (СЛ спасброска 13) на гуманоида в пределах 30 футов от вас, при условии, что вы и цель видите друг друга. Линзы восстанавливают все потраченные заряды ежедневно на рассвете.
 
 #### Очки мелкого зрения (Eyes of Minute Seeing)
 
 *Чудесный предмет, необычный*
 
-These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 фут. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.
+Эти хрустальные линзы надеваются на глаза. Пока вы их носите, вы видите гораздо лучше обычного на расстоянии до 1 фута. Вы совершаете с преимуществом проверки Интеллекта (Расследование), основанные на зрении, при обыске области или изучении объекта в этом диапазоне.
 
 #### Глаза орла (Eyes of the Eagle)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-These crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 футов across.
+Эти хрустальные линзы надеваются на глаза. Пока вы их носите, вы совершаете с преимуществом проверки Мудрости (Восприятие), основанные на зрении. В условиях хорошей видимости вы можете различить детали даже чрезвычайно далёких существ и объектов размером до 2 футов.
 
 #### Перо-талисман (Feather Token)
 
 *Чудесный предмет, редкий*
 
-This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.
+Этот крошечный предмет выглядит как перо. Существуют различные виды перьев-талисманов, каждый с отдельным одноразовым эффектом. Мастер выбирает вид талисмана или определяет его случайно.
 
 Таблица: Перо-талисман
 
-| 1к100   | Feather Token |
+| 1к100   | Перо-талисман    |
 |:---:|:---|
-| 01-20  | Anchor        |
-| 21-35  | Bird          |
-| 36-50  | Fan           |
-| 51-65  | Swan boat     |
-| 66-90  | Tree          |
-| 91-100 | Whip          |
+| 01–20  | Якорь            |
+| 21–35  | Птица            |
+| 36–50  | Веер             |
+| 51–65  | Лебединая лодка  |
+| 66–90  | Дерево           |
+| 91–100 | Кнут             |
 
-**_Anchor._** You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
+**_Якорь._** Вы можете действием прикоснуться талисманом к лодке или кораблю. В течение следующих 24 часов судно не может быть перемещено никакими средствами. Повторное касание талисманом судна оканчивает эффект. Когда эффект заканчивается, талисман исчезает.
 
-**_Bird._** You can use an action to toss the token 5 футов into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can't attack. It can carry up to 500 pounds while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day, with a one-hour rest for every 3 hours of flying), or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
+**_Птица._** Вы можете действием подбросить талисман на 5 футов в воздух. Талисман исчезает, и огромная разноцветная птица занимает его место. У птицы характеристики рух, но она подчиняется вашим простым командам и не может атаковать. Она может нести до 500 фунтов, летя с максимальной скоростью (16 миль в час, максимум 144 мили в день, с часовым отдыхом каждые 3 часа полёта), или 1 000 фунтов с половиной этой скорости. Птица исчезает, пролетев максимальное расстояние за день, или если её хиты опускаются до 0. Вы можете распустить птицу действием.
 
-**_Fan._** If you are on a boat or ship, you can use an action to toss the token up to 10 футов in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.
+**_Веер._** Если вы на лодке или корабле, вы можете действием подбросить талисман на высоту до 10 футов. Талисман исчезает, и гигантский машущий веер занимает его место. Веер парит и создаёт ветер, достаточно сильный, чтобы наполнить паруса одного корабля, увеличивая его скорость на 5 миль в час на 8 часов. Вы можете распустить веер действием.
 
-**_Swan Boat._** You can use an action to touch the token to a body of water at least 60 футов in diameter. The token disappears, and a 50-футовый long, 20-футовый wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can use an action while on the boat to command it to move or to turn up to 90 degrees. The boat can carry up to thirty-two Medium or smaller creatures. A Large creature counts as four Medium creatures, while a Huge creature counts as nine. The boat remains for 24 hours and then disappears. You can dismiss the boat as an action.
+**_Лебединая лодка._** Вы можете действием прикоснуться талисманом к водоёму диаметром не менее 60 футов. Талисман исчезает, и на его месте появляется лодка длиной 50 футов и шириной 20 футов в форме лебедя. Лодка самоходная и движется по воде со скоростью 6 миль в час. Вы можете действием, находясь на лодке, приказать ей двигаться или повернуть на угол до 90 градусов. Лодка может перевозить до тридцати двух Средних или более мелких существ. Большое существо считается за четыре Средних, а Огромное — за девять. Лодка существует 24 часа, после чего исчезает. Вы можете распустить лодку действием.
 
-**_Tree._** You must be outdoors to use this token. You can use an action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 футов tall and has a 5-футовый diameter trunk, and its branches at the top spread out in a 20-футовый radius.
+**_Дерево._** Вы должны находиться на открытом воздухе, чтобы использовать этот талисман. Вы можете действием прикоснуться им к незанятому пространству на земле. Талисман исчезает, и на его месте вырастает немагический дуб. Дерево имеет высоту 60 футов, диаметр ствола 5 футов, а его ветви на верхушке раскидываются на 20 футов в радиусе.
 
-**_Whip._** You can use an action to throw the token to a point within 10 футов of you. The token disappears, and a floating whip takes its place. You can then use a bonus action to make a melee spell attack against a creature within 10 футов of the whip, with an attack bonus of +9. On a hit, the target takes 1к6 + 5 force damage.
+**_Кнут._** Вы можете действием бросить талисман в точку в пределах 10 футов от вас. Талисман исчезает, и парящий кнут занимает его место. Затем вы можете бонусным действием совершить рукопашную атаку заклинанием по существу в пределах 10 футов от кнута с бонусом атаки +9. При попадании цель получает 1к6 + 5 урона силовым полем.
 
-As a bonus action on your turn, you can direct the whip to fly up to 20 футов and repeat the attack against a creature within 10 футов of it. The whip disappears after 1 hour, when you use an action to dismiss it, or when you are incapacitated or die.
+Бонусным действием в свой ход вы можете направить кнут лететь на расстояние до 20 футов и повторить атаку по существу в пределах 10 футов от него. Кнут исчезает через 1 час, когда вы действием распускаете его, или когда вы становитесь недееспособным или умираете.
 
 #### Образная фигурка чудесной силы (Figurine of Wondrous Power)
 
-*Чудесный предмет, Rarity by Figurine*
+*Чудесный предмет, редкость зависит от фигурки*
 
-A *Образная фигурка чудесной силы* is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 футов of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
+*Образная фигурка чудесной силы* — это статуэтка зверя, достаточно маленькая, чтобы поместиться в карман. Если вы действием произнесёте командное слово и бросите фигурку в точку на земле в пределах 60 футов от вас, фигурка становится живым существом. Если пространство, где должно появиться существо, занято другими существами или объектами, или если для существа недостаточно места, фигурка не становится существом.
 
-The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.
+Существо дружелюбно к вам и вашим спутникам. Оно понимает ваши языки и подчиняется вашим устным командам. Если вы не отдаёте команд, существо защищается, но не предпринимает других действий.
 
-The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
+Существо существует в течение определённого для каждой фигурки времени. По окончании этого времени существо возвращается в форму фигурки. Оно возвращается в форму фигурки раньше, если его хиты опускаются до 0 или если вы действием снова произнесёте командное слово, касаясь его. Когда существо снова становится фигуркой, её свойство нельзя использовать повторно, пока не пройдёт определённое время, указанное в описании фигурки.
 
-**_Bronze Griffon (Rare)._** This bronze statuette is of a griffon rampant. It can become a griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
+**_Бронзовый грифон (редкий)._** Эта бронзовая статуэтка изображает вздыбившегося грифона. Она может стать грифоном на срок до 6 часов. Будучи использованной, она не может быть использована снова, пока не пройдёт 5 дней.
 
-**_Ebony Fly (Rare)._** This ebony statuette is carved in the likeness of a horsefly. It can become a giant fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
+**_Эбонитовая муха (редкий)._** Эта эбонитовая статуэтка вырезана в виде слепня. Она может стать гигантской мухой на срок до 12 часов и может использоваться как ездовое животное. Будучи использованной, она не может быть использована снова, пока не пройдёт 2 дня.
 
 #### Гигантская муха (Giant Fly)
 
-*Large beast, unaligned*
+*Большой зверь, без мировоззрения*
 
 **Класс Доспеха** 11
 
 **Хиты** 19 (3к10 + 3)
 
-**Скорость** 30 фт., fly 60 фт.
+**Скорость** 30 фт., полёт 60 фт.
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+| СИЛ      | ЛОВ      | ТЕЛ      | ИНТ      | МДР      | ХАР      |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 14 (+2)  | 13 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 3 (-4)   |
 
-**Senses** darkvision 60 фт., passive Perception 10
+**Чувства** тёмное зрение 60 фт., пассивное Восприятие 10
 
-**Languages** -
+**Языки** —
 
-**_Golden Lions (Rare)._** These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
+**_Золотые львы (редкий)._** Эти золотые статуэтки львов всегда создаются парами. Вы можете использовать одну фигурку или обе одновременно. Каждая может стать львом на срок до 1 часа. Будучи использованным, лев не может быть использован снова, пока не пройдёт 7 дней.
 
-**_Ivory Goats (Rare)._** These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:
+**_Слоновокостные козлы (редкий)._** Эти статуэтки козлов из слоновой кости всегда создаются наборами по три. Каждый козёл выглядит уникально и действует иначе, чем другие. Их свойства таковы:
 
-- The *goat of traveling* can become a Large goat with the same statistics as a riding horse. It has 24 charges, and each hour or portion thereof it spends in beast form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all its charges.
-- The *goat of travail* becomes a giant goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.
-- The *goat of terror* becomes a giant goat for up to 3 hours. The goat can't attack, but you can remove its horns and use them as weapons. One horn becomes a *+1 lance*, and the other becomes a *+2 longsword*. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form. In addition, the goat radiates a 30-футовый radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a СЛ 15 Wisdom saving throw or be frightened of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat's aura for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.
+- *Козёл странствий* может стать Большим козлом с такими же характеристиками, как у верховой лошади. У него 24 заряда, и каждый час или его часть, проведённые в форме зверя, стоит 1 заряд. Пока у него есть заряды, вы можете использовать его сколько угодно. Когда заряды заканчиваются, он возвращается в форму фигурки и не может быть использован снова, пока не пройдёт 7 дней, когда он восстановит все заряды.
+- *Козёл тягот* становится гигантским козлом на срок до 3 часов. Будучи использованным, он не может быть использован снова, пока не пройдёт 30 дней.
+- *Козёл ужаса* становится гигантским козлом на срок до 3 часов. Козёл не может атаковать, но вы можете снять его рога и использовать их как оружие. Один рог становится *копьём +1*, а другой — *длинным мечом +2*. Снятие рога требует действия, и оружие исчезает, а рога возвращаются, когда козёл возвращается в форму фигурки. Кроме того, козёл излучает ауру ужаса радиусом 30 футов, пока вы на нём верхом. Любое враждебное к вам существо, начинающее свой ход в ауре, должно преуспеть в спасброске Мудрости СЛ 15, иначе будет испугано козлом на 1 минуту или до тех пор, пока козёл не вернётся в форму фигурки. Испуганное существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Преуспев в спасброске, существо получает иммунитет к ауре козла на следующие 24 часа. Будучи использованной, фигурка не может быть использована снова, пока не пройдёт 15 дней.
 
-**_Marble Elephant (Rare)._** This marble statuette is about 4 inches high and long. It can become an elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
+**_Мраморный слон (редкий)._** Эта мраморная статуэтка имеет около 4 дюймов в высоту и длину. Она может стать слоном на срок до 24 часов. Будучи использованной, она не может быть использована снова, пока не пройдёт 7 дней.
 
-**_Obsidian Steed (Very Rare)._** This polished obsidian horse can become a nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
+**_Обсидиановый скакун (очень редкий)._** Эта полированная обсидиановая лошадь может стать кошмаром на срок до 24 часов. Кошмар сражается только для самозащиты. Будучи использованной, она не может быть использована снова, пока не пройдёт 5 дней.
 
-If you have a good alignment, the figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form.
+Если у вас доброе мировоззрение, фигурка имеет 10-процентный шанс при каждом использовании проигнорировать ваши приказы, включая команду вернуться в форму фигурки. Если вы сядете на кошмара, пока он игнорирует ваши приказы, вы и кошмар мгновенно переноситесь в случайное место на плане Гадес, где кошмар возвращается в форму фигурки.
 
-**_Onyx Dog (Rare)._** This onyx statuette of a dog can become a mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has darkvision out to a range of 60 футов and can see invisible creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.
+**_Ониксовый пёс (редкий)._** Эта ониксовая статуэтка пса может стать мастифом на срок до 6 часов. Мастиф имеет Интеллект 8 и может говорить на Общем. Он также обладает тёмным зрением на расстоянии 60 футов и может видеть невидимых существ и объекты в этом диапазоне. Будучи использованной, она не может быть использована снова, пока не пройдёт 7 дней.
 
-**_Serpentine Owl (Rare)._** This serpentine statuette of an owl can become a giant owl for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.
+**_Серпентиновая сова (редкий)._** Эта серпентиновая статуэтка совы может стать гигантской совой на срок до 8 часов. Будучи использованной, она не может быть использована снова, пока не пройдёт 2 дня. Сова может телепатически общаться с вами на любом расстоянии, если вы и она находитесь на одном плане бытия.
 
-**_Silver Raven (Uncommon)._** This silver statuette of a raven can become a raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the *животный посланник* spell on it at will.
+**_Серебряный ворон (необычный)._** Эта серебряная статуэтка ворона может стать вороном на срок до 12 часов. Будучи использованной, она не может быть использована снова, пока не пройдёт 2 дня. В форме ворона фигурка позволяет вам сотворять заклинание *животный посланник* на неё по желанию.
 
 #### Пламенный язык (Flame Tongue)
 
 *Оружие (любой меч), редкий (требуется настройка)*
 
-You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-футовый radius and dim light for an additional 40 футов. While the sword is ablaze, it deals an extra 2к6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
+Вы можете бонусным действием произнести командное слово этого магического меча, заставляя пламя вырваться из клинка. Это пламя излучает яркий свет в радиусе 40 футов и тусклый свет ещё на 40 футов. Пока меч пылает, он наносит дополнительно 2к6 урона огнём по любой цели, по которой попадает. Пламя продолжается, пока вы бонусным действием не произнесёте командное слово снова или пока не уроните или не вложите меч в ножны.
 
 #### Складная лодка (Folding Boat)
 
 *Чудесный предмет, редкий*
 
-This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
+Этот предмет выглядит как деревянная коробка размером 12 дюймов в длину, 6 дюймов в ширину и 6 дюймов в глубину. Он весит 4 фунта и плавает. Его можно открыть для хранения предметов внутри. У этого предмета также есть три командных слова, каждое из которых требует действия для произнесения.
 
-One command word causes the box to unfold into a boat 10 футов long, 4 футов wide, and 2 футов deep. The boat has one pair of oars, an anchor, a mast, and a lateen sail. The boat can hold up to four Medium creatures comfortably.
+Одно командное слово заставляет коробку разворачиваться в лодку длиной 10 футов, шириной 4 фута и глубиной 2 фута. У лодки есть пара вёсел, якорь, мачта и латинский парус. Лодка может с удобством вместить до четырёх Средних существ.
 
-The second command word causes the box to unfold into a ship 24 футов long, 8 футов wide, and 6 футов deep. The ship has a deck, rowing seats, five sets of oars, a steering oar, an anchor, a deck cabin, and a mast with a square sail. The ship can hold fifteen Medium creatures comfortably.
+Второе командное слово заставляет коробку разворачиваться в корабль длиной 24 фута, шириной 8 футов и глубиной 6 футов. У корабля есть палуба, гребные сиденья, пять комплектов вёсел, рулевое весло, якорь, палубная каюта и мачта с прямым парусом. Корабль может с удобством вместить пятнадцать Средних существ.
 
-When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.
+Когда коробка становится судном, её вес становится как у обычного судна её размера, а всё, что было в коробке, остаётся в лодке.
 
-The third command word causes the *Складная лодка* to fold back into a box, provided that no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.
+Третье командное слово заставляет *складную лодку* сложиться обратно в коробку при условии, что на борту нет существ. Любые объекты в судне, не помещающиеся в коробку, остаются снаружи при складывании. Любые объекты в судне, помещающиеся в коробку, оказываются внутри неё.
 
 #### Морозный клинок (Frost Brand)
 
 *Оружие (любой меч), очень редкий (требуется настройка)*
 
-When you hit with an attack using this magic sword, the target takes an extra 1к6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
+При попадании атакой этим магическим мечом цель получает дополнительно 1к6 урона холодом. Кроме того, пока вы держите меч, вы имеете сопротивление к урону огнём.
 
-In freezing temperatures, the blade sheds bright light in a 10-футовый radius and dim light for an additional 10 футов.
+При минусовых температурах клинок излучает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов.
 
-When you draw this weapon, you can extinguish all nonmagical flames within 30 футов of you. This property can be used no more than once per hour.
+Когда вы обнажаете это оружие, вы можете потушить все немагические источники пламени в пределах 30 футов от вас. Это свойство можно использовать не чаще одного раза в час.
 
 #### Перчатки силы огра (Gauntlets of Ogre Power)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher.
+Ваше значение Силы равно 19, пока вы носите эти перчатки. Они не действуют на вас, если ваша Сила уже 19 или выше.
 
 #### Самоцвет сияния (Gem of Brightness)
 
 *Чудесный предмет, необычный*
 
-This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:
+Эта призма имеет 50 зарядов. Пока вы её держите, вы можете действием произнести одно из трёх командных слов, вызвав один из следующих эффектов:
 
-- The first command word causes the gem to shed bright light in a 30-футовый radius and dim light for an additional 30 футов. This effect doesn't expend a charge. It lasts until you use a bonus action to repeat the command word or until you use another function of the gem.
-- The second command word expends 1 charge and causes the gem to fire a brilliant beam of light at one creature you can see within 60 футов of you. The creature must succeed on a СЛ 15 Constitution saving throw or become blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-- The third command word expends 5 charges and causes the gem to flare with blinding light in a 30-футовый cone originating from it. Each creature in the cone must make a saving throw as if struck by the beam created with the second command word.
+- Первое командное слово заставляет самоцвет излучать яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов. Этот эффект не расходует заряд. Он длится, пока вы бонусным действием не повторите командное слово или не используете другую функцию самоцвета.
+- Второе командное слово расходует 1 заряд и заставляет самоцвет выпустить яркий луч света в одно существо, которое вы видите в пределах 60 футов от вас. Существо должно преуспеть в спасброске Телосложения СЛ 15, иначе ослепнет на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе.
+- Третье командное слово расходует 5 зарядов и заставляет самоцвет вспыхнуть ослепляющим светом в 30-футовом конусе, исходящем от него. Каждое существо в конусе должно совершить спасбросок, как если бы было поражено лучом, создаваемым вторым командным словом.
 
-When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 зм.
+Когда все заряды самоцвета израсходованы, самоцвет становится немагическим ювелирным камнем стоимостью 50 зм.
 
 #### Самоцвет видения (Gem of Seeing)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-This gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have truesight out to 120 футов when you peer through the gem.
+Этот самоцвет имеет 3 заряда. Действием вы можете произнести командное слово самоцвета и потратить 1 заряд. В течение следующих 10 минут вы обладаете истинным зрением на расстояние 120 футов, когда смотрите сквозь самоцвет.
 
-The gem regains 1к3 expended charges daily at dawn.
+Самоцвет восстанавливает 1к3 потраченных заряда ежедневно на рассвете.
 
 #### Убийца великанов (Giant Slayer)
 
 *Оружие (любой топор или меч), редкий*
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Вы получаете бонус +1 к броскам атаки и урона, совершённым этим магическим оружием.
 
-When you hit a giant with it, the giant takes an extra 2к6 damage of the weapon's type and must succeed on a СЛ 15 Strength saving throw or fall prone. For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and trolls.
+Когда вы попадаете по великану, великан получает дополнительно 2к6 урона типа оружия и должен преуспеть в спасброске Силы СЛ 15, иначе будет сбит с ног. Для целей этого оружия «великан» означает любое существо с типом великан, включая эттинов и троллей.
 
 #### Гламурная клёпаная кожа (Glamoured Studded Leather)
 
 *Доспех (клёпаная кожа), редкий*
 
-While wearing this armor, you gain a +1 bonus to КД. You can also use a bonus action to speak the armor's command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.
+Пока вы носите этот доспех, вы получаете бонус +1 к КД. Вы также можете бонусным действием произнести командное слово доспеха и придать ему облик обычной одежды или другого вида доспеха. Вы решаете, как он выглядит, включая цвет, стиль и аксессуары, но доспех сохраняет свой обычный объём и вес. Иллюзорный облик длится, пока вы не используете это свойство снова или не снимете доспех.
 
 #### Перчатки похищения снарядов (Gloves of Missile Snaring)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1к10+your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
+Эти перчатки, кажется, почти сливаются с вашими руками, когда вы их надеваете. Когда дальнобойная атака оружием попадает по вам, пока вы их носите, вы можете реакцией уменьшить урон на 1к10 + ваш модификатор Ловкости при условии, что у вас свободна одна рука. Если вы уменьшите урон до 0, вы можете поймать снаряд, если он достаточно мал, чтобы удержать его в этой руке.
 
 #### Перчатки плавания и лазания (Gloves of Swimming and Climbing)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.
+Пока вы носите эти перчатки, лазание и плавание не стоят вам дополнительного перемещения, и вы получаете бонус +5 к проверкам Силы (Атлетика), совершаемым для лазания или плавания.
 
 #### Очки ночного видения (Goggles of Night)
 
 *Чудесный предмет, необычный*
 
-While wearing these dark lenses, you have darkvision out to a range of 60 футов. If you already have darkvision, wearing the goggles increases its range by 60 футов.
+Пока вы носите эти тёмные линзы, вы обладаете тёмным зрением на расстояние 60 футов. Если у вас уже есть тёмное зрение, ношение очков увеличивает его дальность на 60 футов.
 
 #### Молот громовержца (Hammer of Thunderbolts)
 
 *Оружие (молот), легендарный*
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Вы получаете бонус +1 к броскам атаки и урона, совершённым этим магическим оружием.
 
-**_Giant's Bane (требуется настройка)._** You must be wearing a *Пояс силы великана* (any variety) and *Перчатки силы огра* to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30. When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a СЛ 17 Constitution saving throw or die.
+**_Бич великанов (требуется настройка)._** Вы должны носить *пояс силы великана* (любой разновидности) и *перчатки силы огра*, чтобы настроиться на это оружие. Настройка заканчивается, если вы снимете любой из этих предметов. Пока вы настроены на это оружие и держите его, ваше значение Силы увеличивается на 4 и может превышать 20, но не 30. Когда вы выбрасываете 20 на броске атаки этим оружием по великану, великан должен преуспеть в спасброске Телосложения СЛ 17, иначе умрёт.
 
-The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 футов and a long range of 60 футов. If the attack hits, the hammer unleashes a thunderclap audible out to 300 футов. The target and every creature within 30 футов of it must succeed on a СЛ 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1к4 + 1 expended charges daily at dawn.
+Молот также имеет 5 зарядов. Пока вы настроены на него, вы можете потратить 1 заряд и совершить дальнобойную атаку оружием молотом, метнув его, как если бы он обладал свойством «метательное» с обычной дистанцией 20 футов и максимальной дистанцией 60 футов. При попадании молот издаёт раскат грома, слышимый на расстоянии до 300 футов. Цель и каждое существо в пределах 30 футов от неё должны преуспеть в спасброске Телосложения СЛ 17, иначе будут ошеломлены до конца вашего следующего хода. Молот восстанавливает 1к4 + 1 потраченных заряда ежедневно на рассвете.
 
 #### Практичный рюкзак (Handy Haversack)
 
 *Чудесный предмет, редкий*
 
-This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic футов. The large central pouch can hold up to 8 cubic футов or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.
+Этот рюкзак имеет центральное отделение и два боковых, каждое из которых является экстрапространством. Каждое боковое отделение вмещает до 20 фунтов материала объёмом не более 2 кубических футов. Большое центральное отделение вмещает до 8 кубических футов или 80 фунтов материала. Рюкзак всегда весит 5 фунтов независимо от содержимого.
 
-Placing an object in the haversack follows the normal rules for interacting with objects. Retrieving an item from the haversack requires you to use an action. When you reach into the haversack for a specific item, the item is always magically on top.
+Помещение объекта в рюкзак следует обычным правилам взаимодействия с объектами. Извлечение предмета из рюкзака требует действия. Когда вы лезете в рюкзак за конкретным предметом, он всегда магически оказывается сверху.
 
-The haversack has a few limitations. If it is overloaded, or if a sharp object pierces it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed within the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.
+У рюкзака есть несколько ограничений. Если он перегружен или если острый предмет проткнёт или порвёт его, рюкзак рвётся и уничтожается. Если рюкзак уничтожен, его содержимое потеряно навсегда, хотя артефакт всегда обнаруживается где-нибудь снова. Если рюкзак вывернуть наизнанку, его содержимое высыпается неповреждённым, и рюкзак необходимо вернуть в нормальное состояние, прежде чем его можно будет использовать снова. Если дышащее существо помещено в рюкзак, оно может выжить до 10 минут, после чего начинает задыхаться.
 
-Placing the haversack inside an extradimensional space created by a *Сумка вместимости*, *Переносная дыра*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 футов of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Помещение рюкзака внутрь экстрапространства, созданного *сумкой вместимости*, *переносной дырой* или подобным предметом, мгновенно уничтожает оба предмета и открывает врата на Астральный План. Врата возникают в месте, где один предмет был помещён внутрь другого. Любое существо в пределах 10 футов от врат втягивается через них и оказывается в случайном месте на Астральном Плане. Затем врата закрываются. Врата односторонние и не могут быть открыты повторно.
 
 #### Шляпа маскировки (Hat of Disguise)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While wearing this hat, you can use an action to cast the *маскировка* spell from it at will. The spell ends if the hat is removed.
+Пока вы носите эту шляпу, вы можете действием сотворять заклинание *маскировка* из неё по желанию. Заклинание оканчивается, если шляпа снята.
 
 #### Обруч интеллекта (Headband of Intellect)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher.
+Ваше значение Интеллекта равно 19, пока вы носите этот обруч. Он не действует на вас, если ваш Интеллект уже 19 или выше.
 
 #### Шлем сияния (Helm of Brilliance)
 
 *Чудесный предмет, очень редкий (требуется настройка)*
 
-This dazzling helm is set with 1к10 diamonds, 2к10 rubies, 3к10 fire opals, and 4к10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
+Этот ослепительный шлем украшен 1к10 бриллиантами, 2к10 рубинами, 3к10 огненными опалами и 4к10 опалами. Любой самоцвет, выковырянный из шлема, рассыпается в прах. Когда все самоцветы извлечены или уничтожены, шлем теряет магию.
 
-You gain the following benefits while wearing it:
+Вы получаете следующие преимущества, пока носите его:
 
-- You can use an action to cast one of the following spells (save СЛ 18), using one of the helm's gems of the specified type as a component: *дневной свет* (opal), *огненный шар* (fire opal), *радужные брызги* (diamond), or *стена огня* (ruby). The gem is destroyed when the spell is cast and disappears from the helm.
-- As long as it has at least one diamond, the helm emits dim light in a 30-футовый radius when at least one undead is within that area. Any undead that starts its turn in that area takes 1к6 radiant damage.
-- As long as the helm has at least one ruby, you have resistance to fire damage.
-- As long as the helm has at least one fire opal, you can use an action and speak a command word to cause one weapon you are holding to burst into flames. The flames emit bright light in a 10-футовый radius and dim light for an additional 10 футов. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra 1к6 fire damage. The flames last until you use a bonus action to speak the command word again or until you drop or stow the weapon.
+- Вы можете действием сотворить одно из следующих заклинаний (СЛ спасброска 18), используя один из самоцветов шлема указанного типа в качестве компонента: *дневной свет* (опал), *огненный шар* (огненный опал), *радужные брызги* (бриллиант) или *стена огня* (рубин). Самоцвет уничтожается при сотворении заклинания и исчезает со шлема.
+- Пока в шлеме есть хотя бы один бриллиант, шлем излучает тусклый свет в радиусе 30 футов, когда хотя бы одна нежить находится в этой области. Любая нежить, начинающая свой ход в этой области, получает 1к6 урона излучением.
+- Пока в шлеме есть хотя бы один рубин, вы имеете сопротивление к урону огнём.
+- Пока в шлеме есть хотя бы один огненный опал, вы можете действием произнести командное слово, чтобы одно оружие, которое вы держите, вспыхнуло пламенем. Пламя излучает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов. Пламя безвредно для вас и оружия. При попадании атакой пылающим оружием цель получает дополнительно 1к6 урона огнём. Пламя длится, пока вы бонусным действием не произнесёте командное слово снова или пока не уроните или не уберёте оружие.
 
-Roll a к20 if you are wearing the helm and take fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 футов of the helm other than you must succeed on a СЛ 17 Dexterity saving throw or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed.
+Бросьте к20, если вы носите шлем и получаете урон огнём в результате проваленного спасброска от заклинания. При результате 1 шлем испускает лучи света из оставшихся самоцветов. Каждое существо в пределах 60 футов от шлема, кроме вас, должно преуспеть в спасброске Ловкости СЛ 17, иначе будет поражено лучом, получая урон излучением, равный числу самоцветов в шлеме. Шлем и его самоцветы после этого уничтожаются.
 
 #### Шлем понимания языков (Helm of Comprehending Languages)
 
 *Чудесный предмет, необычный*
 
-While wearing this helm, you can use an action to cast the *понимание языков* spell from it at will.
+Пока вы носите этот шлем, вы можете действием сотворять заклинание *понимание языков* из него по желанию.
 
 #### Шлем телепатии (Helm of Telepathy)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While wearing this helm, you can use an action to cast the *обнаружение мыслей* spell (save СЛ 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.
+Пока вы носите этот шлем, вы можете действием сотворить заклинание *обнаружение мыслей* (СЛ спасброска 13) из него. Пока вы поддерживаете концентрацию на заклинании, вы можете бонусным действием отправить телепатическое сообщение существу, на которое сосредоточены. Оно может ответить — используя для этого бонусное действие — пока ваше сосредоточение на нём продолжается.
 
-While focusing on a creature with *обнаружение мыслей*, you can use an action to cast the *внушение* spell (save СЛ 13) from the helm on that creature. Once used, the *внушение* property can't be used again until the next dawn.
+Пока вы сосредоточены на существе с помощью *обнаружения мыслей*, вы можете действием сотворить заклинание *внушение* (СЛ спасброска 13) из шлема на это существо. Будучи использованным, свойство *внушения* не может быть использовано снова до следующего рассвета.
 
 #### Шлем телепортации (Helm of Teleportation)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the *телепорт* spell from it. The helm regains 1к3 expended charges daily at dawn.
+Этот шлем имеет 3 заряда. Пока вы его носите, вы можете действием потратить 1 заряд, чтобы сотворить заклинание *телепорт* из него. Шлем восстанавливает 1к3 потраченных заряда ежедневно на рассвете.
 
 #### Святой заступник (Holy Avenger)
 
 *Оружие (любой меч), легендарный (требуется настройка паладином)*
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2к10 radiant damage.
+Вы получаете бонус +3 к броскам атаки и урона, совершённым этим магическим оружием. Когда вы попадаете по исчадию или нежити, это существо получает дополнительно 2к10 урона излучением.
 
-While you hold the drawn sword, it creates an aura in a 10-футовый radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 футов.
+Пока вы держите обнажённый меч, он создаёт ауру в радиусе 10 футов вокруг вас. Вы и все дружественные к вам существа в ауре совершают с преимуществом спасброски от заклинаний и других магических эффектов. Если у вас 17 или более уровней класса паладина, радиус ауры увеличивается до 30 футов.
 
 #### Рог взрыва (Horn of Blasting)
 
 *Чудесный предмет, редкий*
 
-You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-футовый cone that is audible 600 футов away. Each creature in the cone must make a СЛ 15 Constitution saving throw. On a failed save, a creature takes 5к6 thunder damage and is deafened for 1 minute. On a successful save, a creature takes half as much damage and isn't deafened. Creatures and objects made of glass or crystal have disadvantage on the saving throw and take 10к6 thunder damage instead of 5к6.
+Вы можете действием произнести командное слово рога и затем протрубить в рог, который издаёт громовой взрыв в 30-футовом конусе, слышимый на расстоянии 600 футов. Каждое существо в конусе должно совершить спасбросок Телосложения СЛ 15. При провале существо получает 5к6 урона звуком и оглушается на 1 минуту. При успехе существо получает половину урона и не оглушается. Существа и объекты из стекла или хрусталя совершают спасбросок с помехой и получают 10к6 урона звуком вместо 5к6.
 
-Each use of the horn's magic has a 20 percent chance of causing the horn to explode. The explosion deals 10к6 fire damage to the blower and destroys the horn.
+Каждое использование магии рога имеет 20-процентный шанс вызвать взрыв рога. Взрыв наносит 10к6 урона огнём трубящему и разрушает рог.
 
 #### Рог Валгаллы (Horn of Valhalla)
 
-*Чудесный предмет, редкий (Silver or Brass), очень редкий (Bronze) или легендарный (Iron)*
+*Чудесный предмет, редкий (серебряный или латунный), очень редкий (бронзовый) или легендарный (железный)*
 
-You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 футов of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
+Вы можете действием протрубить в этот рог. В ответ духи воинов из Валгаллы появляются в пределах 60 футов от вас. Они используют характеристики берсерка. Они возвращаются в Валгаллу через 1 час или когда их хиты опускаются до 0. Использовав рог, вы не можете использовать его снова, пока не пройдёт 7 дней.
 
-Four types of *Рог Валгаллы* are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.
+Известно четыре типа *рога Валгаллы*, каждый из разного металла. Тип рога определяет, сколько берсерков откликается на призыв, а также требование для его использования. Мастер выбирает тип рога или определяет его случайно.
 
 Таблица: Рог Валгаллы
 
-| 1к100  | Horn Type | Berserkers Summoned | Requirement                          |
+| 1к100  | Тип рога     | Призванных берсерков | Требование                                   |
 |---|---|---|---|
-| 01-40 | Silver    | 2к4 + 2               | None                                 |
-| 41-75 | Brass     | 3к4 + 3               | Proficiency with all simple weapons  |
-| 76-90 | Bronze    | 4к4 + 4               | Proficiency with all medium armor    |
-| 91-00 | Iron      | 5к4 + 5               | Proficiency with all martial weapons |
+| 01–40 | Серебряный   | 2к4 + 2              | Нет                                           |
+| 41–75 | Латунный     | 3к4 + 3              | Владение всем простым оружием                  |
+| 76–90 | Бронзовый    | 4к4 + 4              | Владение всеми средними доспехами              |
+| 91–00 | Железный     | 5к4 + 5              | Владение всем воинским оружием                 |
 
-If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
+Если вы трубите в рог, не соответствуя его требованию, призванные берсерки атакуют вас. Если вы соответствуете требованию, они дружелюбны к вам и вашим спутникам и выполняют ваши команды.
 
 #### Подковы зефира (Horseshoes of a Zephyr)
 
 *Чудесный предмет, очень редкий*
 
-These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
+Эти железные подковы поставляются в комплекте из четырёх. Пока все четыре подковы прикреплены к копытам лошади или подобного существа, они позволяют существу перемещаться нормально, паря на 4 дюйма над землёй. Этот эффект означает, что существо может пересекать нетвёрдые или нестабильные поверхности, такие как вода или лава, или стоять над ними. Существо не оставляет следов и игнорирует труднопроходимую местность. Кроме того, существо может перемещаться с нормальной скоростью до 12 часов в день без истощения от форсированного марша.
 
 #### Подковы скорости (Horseshoes of Speed)
 
 *Чудесный предмет, редкий*
 
-These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 футов.
+Эти железные подковы поставляются в комплекте из четырёх. Пока все четыре подковы прикреплены к копытам лошади или подобного существа, они увеличивают скорость ходьбы существа на 30 футов.
 
 #### Недвижимый жезл (Immovable Rod)
 
 *Жезл, необычный*
 
-This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a СЛ 30 Strength check, moving the fixed rod up to 10 футов on a success.
+Этот плоский железный жезл имеет кнопку на одном конце. Вы можете действием нажать кнопку, заставляя жезл магически зафиксироваться на месте. Пока вы или другое существо действием не нажмёт кнопку снова, жезл не двигается, даже если он противодействует гравитации. Жезл выдерживает до 8 000 фунтов веса. Больший вес заставляет жезл деактивироваться и упасть. Существо может действием совершить проверку Силы СЛ 30, сдвигая зафиксированный жезл на расстояние до 10 футов при успехе.
 
 #### Мгновенная крепость (Instant Fortress)
 
 *Чудесный предмет, редкий*
 
-You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
+Вы можете действием положить этот металлический куб размером 1 дюйм на землю и произнести командное слово. Куб быстро вырастает в крепость, которая существует, пока вы действием не произнесёте командное слово для её удаления, что работает, только если крепость пуста.
 
-The fortress is a square tower, 20 футов on a side and 30 футов high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the *открывание* spell and similar magic, such as that of a *Колокольчик открывания*.
+Крепость представляет собой квадратную башню со стороной 20 футов и высотой 30 футов, с бойницами со всех сторон и зубчатой стеной наверху. Её внутреннее пространство разделено на два этажа, с лестницей вдоль одной стены, соединяющей их. Лестница заканчивается люком, ведущим на крышу. При активации башня имеет маленькую дверь на стороне, обращённой к вам. Дверь открывается только по вашей команде, которую вы можете произнести бонусным действием. Она имеет иммунитет к заклинанию *открывание* и подобной магии, такой как магия *колокольчика открывания*.
 
-Each creature in the area where the fortress appears must make a СЛ 15 Dexterity saving throw, taking 10к10 bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren't being worn or carried take this damage and are pushed automatically.
+Каждое существо в области, где появляется крепость, должно совершить спасбросок Ловкости СЛ 15, получая 10к10 дробящего урона при провале или половину этого урона при успехе. В любом случае существо отталкивается в незанятое пространство снаружи, но рядом с крепостью. Объекты в области, которые никто не носит и не несёт, получают этот урон и отталкиваются автоматически.
 
-The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points,
+Башня сделана из адамантина, и её магия не позволяет её опрокинуть. Крыша, дверь и стены имеют по 100 хитов,
 
-immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a *исполнение желаний* spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of *исполнение желаний* causes the roof, the door, or one wall to regain 50 hit points.
+иммунитет к урону от немагического оружия, за исключением осадного оружия, и сопротивление ко всем другим видам урона. Только заклинание *исполнение желаний* может починить крепость (это использование заклинания считается воспроизведением заклинания 8-го уровня или ниже). Каждое сотворение *исполнения желаний* восстанавливает крыше, двери или одной стене 50 хитов.
 
 #### Боевой камень Иуна (Ioun Stone)
 
-*Чудесный предмет, Rarity варьируется (требуется настройка)*
+*Чудесный предмет, редкость варьируется (требуется настройка)*
 
-An *Боевой камень Иуна* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Боевой камень Иуна* exist, each type a distinct combination of shape and color.
+*Боевой камень Иуна* назван в честь Иуна, бога знаний и пророчеств, почитаемого в некоторых мирах. Существует множество типов *боевых камней Иуна*, каждый тип — уникальное сочетание формы и цвета.
 
-When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1к3 футов and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against КД 24 or a successful СЛ 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+Когда вы действием подбрасываете один из этих камней в воздух, камень начинает вращаться вокруг вашей головы на расстоянии 1к3 футов и даёт вам определённое преимущество. После этого другое существо должно действием схватить или поймать сетью камень, чтобы отделить его от вас, либо совершив успешный бросок атаки против КД 24, либо успешную проверку Ловкости (Акробатика) СЛ 24. Вы можете действием схватить и убрать камень, оканчивая его эффект.
 
-A stone has КД 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Камень имеет КД 24, 10 хитов и сопротивление ко всем видам урона. Он считается надетым предметом, пока вращается вокруг вашей головы.
 
-**_Absorption (Very Rare)._** While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.
+**_Поглощение (очень редкий)._** Пока этот бледно-лавандовый эллипсоид вращается вокруг вашей головы, вы можете реакцией отменить заклинание 4-го уровня или ниже, сотворённое существом, которое вы видите и нацеленное только на вас.
 
-Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.
+Когда камень отменит 20 уровней заклинаний, он перегорает и становится тускло-серым, теряя магию. Если на вас нацелено заклинание, уровень которого выше, чем число оставшихся уровней заклинаний камня, камень не может его отменить.
 
-**_Agility (Very Rare)._** Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.
+**_Ловкость (очень редкий)._** Ваше значение Ловкости увеличивается на 2, до максимума 20, пока эта тёмно-красная сфера вращается вокруг вашей головы.
 
-**_Awareness (Rare)._** You can't be surprised while this dark blue rhomboid orbits your head.
+**_Бдительность (редкий)._** Вас нельзя застать врасплох, пока этот тёмно-синий ромбоид вращается вокруг вашей головы.
 
-**_Fortitude (Very Rare)._** Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.
+**_Стойкость (очень редкий)._** Ваше значение Телосложения увеличивается на 2, до максимума 20, пока этот розовый ромбоид вращается вокруг вашей головы.
 
-**_Greater Absorption (Legendary)._** While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you.
+**_Великое поглощение (легендарный)._** Пока этот мраморный лавандово-зелёный эллипсоид вращается вокруг вашей головы, вы можете реакцией отменить заклинание 8-го уровня или ниже, сотворённое существом, которое вы видите и нацеленное только на вас.
 
-Once the stone has canceled 50 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.
+Когда камень отменит 50 уровней заклинаний, он перегорает и становится тускло-серым, теряя магию. Если на вас нацелено заклинание, уровень которого выше, чем число оставшихся уровней заклинаний камня, камень не может его отменить.
 
-**_Insight (Very Rare)._** Your Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.
+**_Проницательность (очень редкий)._** Ваше значение Мудрости увеличивается на 2, до максимума 20, пока эта переливающаяся синяя сфера вращается вокруг вашей головы.
 
-**_Intellect (Very Rare)._** Your Intelligence score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.
+**_Интеллект (очень редкий)._** Ваше значение Интеллекта увеличивается на 2, до максимума 20, пока эта мраморная алая и синяя сфера вращается вокруг вашей головы.
 
-**_Leadership (Very Rare)._** Your Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.
+**_Лидерство (очень редкий)._** Ваше значение Харизмы увеличивается на 2, до максимума 20, пока эта мраморная розовая и зелёная сфера вращается вокруг вашей головы.
 
-**_Mastery (Legendary)._** Your proficiency bonus increases by 1 while this pale green prism orbits your head.
+**_Мастерство (легендарный)._** Ваш бонус мастерства увеличивается на 1, пока эта бледно-зелёная призма вращается вокруг вашей головы.
 
-**_Protection (Rare)._** You gain a +1 bonus to КД while this dusty rose prism orbits your head.
+**_Защита (редкий)._** Вы получаете бонус +1 к КД, пока эта пыльно-розовая призма вращается вокруг вашей головы.
 
-**_Regeneration (Legendary)._** You regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point.
+**_Регенерация (легендарный)._** Вы восстанавливаете 15 хитов в конце каждого часа, пока это жемчужно-белое веретено вращается вокруг вашей головы, при условии, что у вас есть хотя бы 1 хит.
 
-**_Reserve (Rare)._** This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1к4-1 levels of stored spells chosen by the GM.
+**_Накопление (редкий)._** Эта яркая фиолетовая призма хранит заклинания, сотворённые в неё, удерживая их, пока вы их не используете. Камень может хранить заклинания общим объёмом до 3 уровней одновременно. При обнаружении он содержит 1к4-1 уровней хранимых заклинаний, выбранных Мастером.
 
-Any creature can cast a spell of 1st through 3rd level into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
+Любое существо может сотворить заклинание с 1-го по 3-й уровень в камень, коснувшись его при сотворении заклинания. Заклинание не имеет эффекта, кроме сохранения в камне. Если камень не может вместить заклинание, оно расходуется без эффекта. Уровень ячейки, использованной для сотворения заклинания, определяет, сколько места оно занимает.
 
-While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save СЛ, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.
+Пока этот камень вращается вокруг вашей головы, вы можете сотворить любое хранящееся в нём заклинание. Заклинание использует уровень ячейки, СЛ спасброска, бонус атаки заклинанием и заклинательную характеристику первоначального заклинателя, но в остальном считается, что вы сотворили заклинание. Заклинание, сотворённое из камня, больше не хранится в нём, освобождая место.
 
-**_Strength (Very Rare)._** Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.
+**_Сила (очень редкий)._** Ваше значение Силы увеличивается на 2, до максимума 20, пока этот бледно-голубой ромбоид вращается вокруг вашей головы.
 
-**_Sustenance (Rare)._** You don't need to eat or drink while this clear spindle orbits your head.
+**_Пропитание (редкий)._** Вам не нужно есть и пить, пока это прозрачное веретено вращается вокруг вашей головы.
 
 #### Железные оковы (Iron Bands of Binding)
 
 *Чудесный предмет, редкий*
 
-This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 футов of you. As the sphere moves through the air, it opens into a tangle of metal bands.
+Эта ржавая железная сфера имеет 3 дюйма в диаметре и весит 1 фунт. Вы можете действием произнести командное слово и метнуть сферу в Огромное или меньшее существо, которое вы видите в пределах 60 футов от вас. Во время полёта сфера раскрывается в клубок металлических полос.
 
-Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is restrained until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.
+Совершите дальнобойный бросок атаки с бонусом атаки, равным вашему модификатору Ловкости плюс бонус мастерства. При попадании цель обездвижена, пока вы бонусным действием не произнесёте командное слово снова для освобождения. Это, или промах при атаке, заставляет полосы сжаться и снова стать сферой.
 
-A creature, including the one restrained, can use an action to make a СЛ 20 Strength check to break the iron bands. On a success, the item is destroyed, and the restrained creature is freed. If the check fails, any further attempts made by that creature automatically fail until 24 hours have elapsed.
+Существо, включая обездвиженное, может действием совершить проверку Силы СЛ 20, чтобы разломить железные полосы. При успехе предмет разрушается, и обездвиженное существо освобождается. При провале любые дальнейшие попытки этого существа автоматически проваливаются в течение 24 часов.
 
-Once the bands are used, they can't be used again until the next dawn.
+Будучи использованными, полосы не могут быть использованы снова до следующего рассвета.
 
 #### Железная фляга (Iron Flask)
 
 *Чудесный предмет, легендарный*
 
-This iron bottle has a brass stopper. You can use an action to speak the flask's command word, targeting a creature that you can see within 60 футов of you. If the target is native to a plane of existence other than the one you're on, the target must succeed on a СЛ 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has advantage on the saving throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn't need to breathe, eat, or drink and doesn't age.
+Эта железная бутыль имеет латунную пробку. Вы можете действием произнести командное слово фляги, нацеливаясь на существо, которое вы видите в пределах 60 футов от вас. Если цель родом с плана бытия, отличного от того, на котором вы находитесь, она должна преуспеть в спасброске Мудрости СЛ 17, иначе будет заточена во фляге. Если цель была заточена во фляге ранее, она совершает спасбросок с преимуществом. Будучи заточённым, существо остаётся во фляге до освобождения. Фляга может удерживать только одно существо за раз. Существо, заточённое во фляге, не нуждается в дыхании, еде, питье и не стареет.
 
-You can use an action to remove the flask's stopper and release the creature the flask contains. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give no commands or give it a command that is likely to result in its death, it defends itself but otherwise takes no actions. At the end of the duration, the creature acts in accordance with its normal disposition and alignment.
+Вы можете действием вынуть пробку из фляги и выпустить содержащееся в ней существо. Существо дружелюбно к вам и вашим спутникам в течение 1 часа и подчиняется вашим командам на протяжении этого времени. Если вы не отдаёте команд или отдаёте команду, которая, скорее всего, приведёт к его гибели, оно защищается, но не предпринимает других действий. По окончании этого времени существо действует в соответствии со своей обычной натурой и мировоззрением.
 
-An *опознание* spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.
+Заклинание *опознание* показывает, что во фляге находится существо, но единственный способ определить тип существа — открыть флягу. Недавно обнаруженная бутыль может уже содержать существо, выбранное Мастером или определённое случайно.
 
 Таблица: Железная фляга
 
-| 1к100  | Contents          |
+| 1к100  | Содержимое                |
 |---|---|
-| 1‒50  | Empty             |
-| 51‒54 | Demon (type 1)    |
-| 55‒58 | Demon (type 2)    |
-| 59‒62 | Demon (type 3)    |
-| 63‒64 | Demon (type 4)    |
-| 65    | Demon (type 5)    |
-| 66    | Demon (type 6)    |
-| 67    | Deva              |
-| 68‒69 | Devil (greater)   |
-| 70‒73 | Devil (lesser)    |
-| 74‒75 | Djinni            |
-| 76‒77 | Efreeti           |
-| 78‒83 | Elemental (any)   |
-| 84‒86 | Invisible stalker |
-| 87‒90 | Night hag         |
-| 91    | Planetar          |
-| 92‒95 | Salamander        |
-| 96    | Solar             |
-| 97‒99 | Succubus/incubus  |
-| 100   | Xorn              |
+| 1‒50  | Пусто                     |
+| 51‒54 | Демон (тип 1)             |
+| 55‒58 | Демон (тип 2)             |
+| 59‒62 | Демон (тип 3)             |
+| 63‒64 | Демон (тип 4)             |
+| 65    | Демон (тип 5)             |
+| 66    | Демон (тип 6)             |
+| 67    | Дева                      |
+| 68‒69 | Дьявол (старший)          |
+| 70‒73 | Дьявол (младший)          |
+| 74‒75 | Джинн                     |
+| 76‒77 | Ифрит                     |
+| 78‒83 | Элементаль (любой)        |
+| 84‒86 | Невидимый охотник         |
+| 87‒90 | Ночная карга              |
+| 91    | Планетар                  |
+| 92‒95 | Саламандра                |
+| 96    | Солар                     |
+| 97‒99 | Суккуб/инкуб              |
+| 100   | Зорн                      |
 
 #### Копьё молнии (Javelin of Lightning)
 
 *Оружие (копьё), необычный*
 
-This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 футов wide that extends out from you to a target within 120 футов. Each creature in the line excluding you and the target must make a СЛ 13 Dexterity saving throw, taking 4к6 lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus 4к6 lightning damage.
+Это копьё является магическим оружием. Когда вы метаете его и произносите командное слово, оно превращается в разряд молнии, образуя линию шириной 5 футов, идущую от вас к цели в пределах 120 футов. Каждое существо в линии, кроме вас и цели, должно совершить спасбросок Ловкости СЛ 13, получая 4к6 урона электричеством при провале или половину этого урона при успехе. Молния превращается обратно в копьё, когда достигает цели. Совершите дальнобойную атаку оружием по цели. При попадании цель получает урон от копья плюс 4к6 урона электричеством.
 
-The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.
+Свойство копья не может быть использовано снова до следующего рассвета. Тем временем копьё всё ещё может использоваться как магическое оружие.
 
 #### Фонарь раскрытия (Lantern of Revealing)
 
 *Чудесный предмет, необычный*
 
-While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-футовый radius and dim light for an additional 30 футов. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-футовый radius.
+Будучи зажжённым, этот закрытый фонарь горит 6 часов на 1 пинте масла, излучая яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов. Невидимые существа и объекты видимы, пока они находятся в ярком свете фонаря. Вы можете действием опустить заслонку, уменьшая свет до тусклого в радиусе 5 футов.
 
 #### Удача (клинок) (Luck Blade)
 
 *Оружие (любой меч), легендарный (требуется настройка)*
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
+Вы получаете бонус +1 к броскам атаки и урона, совершённым этим магическим оружием. Пока меч при вас, вы также получаете бонус +1 к спасброскам.
 
-**_Luck._** If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.
+**_Удача._** Если меч при вас, вы можете призвать его удачу (действие не требуется), чтобы перебросить один бросок атаки, проверку характеристики или спасбросок, который вам не нравится. Вы должны использовать второй результат. Это свойство не может быть использовано снова до следующего рассвета.
 
-**_Wish._** The sword has 1к4-1 charges. While holding it, you can use an action to expend 1 charge and cast the *исполнение желаний* spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
+**_Желание._** Меч имеет 1к4-1 зарядов. Пока вы его держите, вы можете действием потратить 1 заряд и сотворить заклинание *исполнение желаний* из него. Это свойство не может быть использовано снова до следующего рассвета. Меч теряет это свойство, если у него нет зарядов.
 
 #### Булава разрушения (Mace of Disruption)
 
 *Оружие (булава), редкий (требуется настройка)*
 
-When you hit a fiend or an undead with this magic weapon, that creature takes an extra 2к6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a СЛ 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.
+Когда вы попадаете по исчадию или нежити этим магическим оружием, это существо получает дополнительно 2к6 урона излучением. Если после получения этого урона у цели остаётся 25 или менее хитов, она должна преуспеть в спасброске Мудрости СЛ 15, иначе будет уничтожена. При успешном спасброске существо становится испуганным вами до конца вашего следующего хода.
 
-While you hold this weapon, it sheds bright light in a 20-футовый radius and dim light for an additional 20 футов.
+Пока вы держите это оружие, оно излучает яркий свет в радиусе 20 футов и тусклый свет ещё на 20 футов.
 
 #### Булава крушения (Mace of Smiting)
 
 *Оружие (булава), редкий*
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.
+Вы получаете бонус +1 к броскам атаки и урона, совершённым этим магическим оружием. Бонус увеличивается до +3, когда вы используете булаву для атаки по конструкту.
 
-When you roll a 20 on an attack roll made with this weapon, the target takes an extra 2к6 bludgeoning damage, or 4к6 bludgeoning damage if it's a construct. If a construct has 25 hit points or fewer after taking this damage, it is destroyed.
+Когда вы выбрасываете 20 на броске атаки этим оружием, цель получает дополнительно 2к6 дробящего урона или 4к6 дробящего урона, если это конструкт. Если у конструкта после получения этого урона остаётся 25 или менее хитов, он уничтожается.
 
 #### Булава ужаса (Mace of Terror)
 
 *Оружие (булава), редкий (требуется настройка)*
 
-This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-футовый radius extending from you must succeed on a СЛ 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 футов of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
+Это магическое оружие имеет 3 заряда. Пока вы его держите, вы можете действием потратить 1 заряд, чтобы выпустить волну ужаса. Каждое существо по вашему выбору в радиусе 30 футов от вас должно преуспеть в спасброске Мудрости СЛ 15, иначе будет испугано вами на 1 минуту. Пока существо испугано таким образом, оно должно тратить свои ходы, пытаясь переместиться как можно дальше от вас, и не может добровольно перемещаться в пространство в пределах 30 футов от вас. Оно также не может совершать реакции. В качестве действия оно может использовать только Рывок или попытаться освободиться от эффекта, мешающего ему двигаться. Если ему некуда двигаться, существо может использовать Уклонение. В конце каждого своего хода существо может повторять спасбросок, оканчивая эффект на себе при успехе.
 
-The mace regains 1к3 expended charges daily at dawn.
+Булава восстанавливает 1к3 потраченных заряда ежедневно на рассвете.
 
 #### Мантия сопротивления заклинаниям (Mantle of Spell Resistance)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-You have advantage on saving throws against spells while you wear this cloak.
+Вы совершаете с преимуществом спасброски от заклинаний, пока носите этот плащ.
 
 #### Мануал Бодрого Здоровья (Manual of Bodily Health)
 
 *Чудесный предмет, очень редкий*
 
-This book contains health and diet tips, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Constitution score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
+Эта книга содержит советы по здоровью и диете, и её слова заряжены магией. Если вы потратите 48 часов в течение 6 или менее дней на изучение содержимого книги и практику её рекомендаций, ваше значение Телосложения увеличивается на 2, как и ваш максимум для этого значения. Затем мануал теряет магию, но восстанавливает её через столетие.
 
 #### Мануал Полезных Упражнений (Manual of Gainful Exercise)
 
 *Чудесный предмет, очень редкий*
 
-This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Strength score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
+Эта книга описывает физические упражнения, и её слова заряжены магией. Если вы потратите 48 часов в течение 6 или менее дней на изучение содержимого книги и практику её рекомендаций, ваше значение Силы увеличивается на 2, как и ваш максимум для этого значения. Затем мануал теряет магию, но восстанавливает её через столетие.
 
 #### Мануал Големов (Manual of Golems)
 
 *Чудесный предмет, очень редкий*
 
-This tome contains information and incantations necessary to make a particular type of golem. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a *Мануал Големов* and attempts to read it takes 6к6 psychic damage.
+Этот фолиант содержит информацию и заклинания, необходимые для создания определённого типа голема. Мастер выбирает тип или определяет его случайно. Чтобы расшифровать и использовать мануал, вы должны быть заклинателем с как минимум двумя ячейками заклинаний 5-го уровня. Существо, которое не может использовать *мануал големов* и пытается его прочитать, получает 6к6 психического урона.
 
 Таблица: Мануал Големов
 
-| 1к20   | Golem | Time     | Cost       |
+| 1к20   | Голем      | Время     | Стоимость   |
 |---|---|---|---|
-| 1-5   | Clay  | 30 days  | 65,000 зм  |
-| 6-17  | Flesh | 60 days  | 50,000 зм  |
-| 18    | Iron  | 120 days | 100,000 зм |
-| 19-20 | Stone | 90 days  | 80,000 зм  |
+| 1–5   | Глиняный   | 30 дней   | 65 000 зм   |
+| 6–17  | Из плоти   | 60 дней   | 50 000 зм   |
+| 18    | Железный   | 120 дней  | 100 000 зм  |
+| 19–20 | Каменный   | 90 дней   | 80 000 зм   |
 
-To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.
+Чтобы создать голема, вы должны потратить время, указанное в таблице, работая без перерыва с мануалом под рукой и отдыхая не более 8 часов в день. Вы также должны оплатить указанную стоимость для закупки расходных материалов.
 
-Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
+Закончив создание голема, книга сгорает в потустороннем пламени. Голем оживает, когда пепел мануала рассыпают на него. Он находится под вашим контролем, понимает и подчиняется вашим устным командам.
 
 #### Мануал Быстроты Действий (Manual of Quickness of Action)
 
 *Чудесный предмет, очень редкий*
 
-This book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Dexterity score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
+Эта книга содержит упражнения на координацию и равновесие, и её слова заряжены магией. Если вы потратите 48 часов в течение 6 или менее дней на изучение содержимого книги и практику её рекомендаций, ваше значение Ловкости увеличивается на 2, как и ваш максимум для этого значения. Затем мануал теряет магию, но восстанавливает её через столетие.
 
 #### Волшебные краски (Marvelous Pigments)
 
 *Чудесный предмет, очень редкий*
 
-Typically found in 1к4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
+Обычно хранящиеся в 1к4 горшочках в красивой деревянной коробке с кисточкой (общим весом 1 фунт), эти краски позволяют создавать трёхмерные объекты, рисуя их в двух измерениях. Краска стекает с кисти, формируя желаемый объект, пока вы концентрируетесь на его образе.
 
-Each pot of paint is sufficient to cover 1,000 square футов of a surface, which lets you create inanimate objects or terrain features-such as a door, a pit, flowers, trees, cells, rooms, or weapons - that are up to 10,000 cubic футов. It takes 10 minutes to cover 100 square футов.
+Каждого горшочка краски достаточно, чтобы покрыть 1 000 квадратных футов поверхности, что позволяет создавать неодушевлённые объекты или элементы ландшафта — такие как дверь, яма, цветы, деревья, камеры, комнаты или оружие — объёмом до 10 000 кубических футов. На покрытие 100 квадратных футов уходит 10 минут.
 
-When you complete the painting, the object or terrain feature depicted becomes a real, nonmagical object. Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.
+Когда вы завершаете рисунок, изображённый объект или элемент ландшафта становится реальным немагическим объектом. Таким образом, нарисованная на стене дверь создаёт настоящую дверь, которую можно открыть к тому, что за ней. Нарисованная на полу яма создаёт настоящую яму, и её глубина учитывается в общем объёме создаваемых объектов.
 
-Nothing created by the pigments can have a value greater than 25 зм. If you paint an object of greater value (such as a diamond or a pile of gold), the object looks authentic, but close inspection reveals it is made from paste, bone, or some other worthless material.
+Ничто, созданное красками, не может иметь стоимость более 25 зм. Если вы нарисуете объект большей стоимости (например, бриллиант или кучу золота), объект выглядит подлинным, но при внимательном осмотре обнаруживается, что он сделан из пасты, кости или другого бесполезного материала.
 
-If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.
+Если вы нарисуете форму энергии, такую как огонь или молния, энергия появляется, но рассеивается, как только вы завершите рисунок, не причиняя никакого вреда.
 
 #### Медальон мыслей (Medallion of Thoughts)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the *обнаружение мыслей* spell (save СЛ 13) from it. The medallion regains 1к3 expended charges daily at dawn.
+Медальон имеет 3 заряда. Пока вы его носите, вы можете действием потратить 1 заряд, чтобы сотворить заклинание *обнаружение мыслей* (СЛ спасброска 13) из него. Медальон восстанавливает 1к3 потраченных заряда ежедневно на рассвете.
 
 #### Зеркало заточения (Mirror of Life Trapping)
 
 *Чудесный предмет, очень редкий*
 
-When this 4-футовый tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has КД 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
+Если смотреть на это зеркало высотой 4 фута непрямым взглядом, на его поверхности видны слабые образы существ. Зеркало весит 50 фунтов и имеет КД 11, 10 хитов и уязвимость к дробящему урону. Оно разбивается и уничтожается при снижении до 0 хитов.
 
-If the mirror is hanging on a vertical surface and you are within 5 футов of it, you can use an action to speak its command word and activate it. It remains activated until you use an action to speak the command word again.
+Если зеркало висит на вертикальной поверхности и вы находитесь в пределах 5 футов от него, вы можете действием произнести командное слово и активировать его. Оно остаётся активированным, пока вы действием не произнесёте командное слово снова.
 
-Any creature other than you that sees its reflection in the activated mirror while within 30 футов of it must succeed on a СЛ 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's twelve extradimensional cells. This saving throw is made with advantage if the creature knows the mirror's nature, and constructs succeed on the saving throw automatically.
+Любое существо, кроме вас, которое видит своё отражение в активированном зеркале, находясь в пределах 30 футов от него, должно преуспеть в спасброске Харизмы СЛ 15, иначе будет заточено вместе со всем, что оно носит и несёт, в одной из двенадцати экстрапространственных камер зеркала. Этот спасбросок совершается с преимуществом, если существо знает о природе зеркала, а конструкты автоматически преуспевают в спасброске.
 
-An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 футов. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.
+Экстрапространственная камера — это бесконечное пространство, заполненное густым туманом, снижающим видимость до 10 футов. Существа, заточённые в камерах зеркала, не стареют и не нуждаются в еде, питье и сне. Существо, заточённое в камере, может сбежать с помощью магии, позволяющей путешествовать между планами. В противном случае существо заключено в камере до освобождения.
 
-If the mirror traps a creature but its twelve extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.
+Если зеркало заточает существо, но все двенадцать экстрапространственных камер уже заняты, зеркало освобождает одно заточённое существо случайным образом, чтобы разместить нового пленника. Освобождённое существо появляется в незанятом пространстве в зоне видимости зеркала, но отвернувшись от него. Если зеркало разбито, все содержащиеся в нём существа освобождаются и появляются в незанятых пространствах рядом с ним.
 
-While within 5 футов of the mirror, you can use an action to speak the name of one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate normally.
+Находясь в пределах 5 футов от зеркала, вы можете действием назвать имя одного заточённого в нём существа или указать конкретную камеру по номеру. Названное существо или существо из указанной камеры появляется как образ на поверхности зеркала. Вы и существо можете затем общаться обычным образом.
 
-In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
+Аналогичным образом вы можете действием произнести второе командное слово и освободить одно заточённое в зеркале существо. Освобождённое существо появляется вместе со своим имуществом в ближайшем незанятом пространстве от зеркала, отвернувшись от него.
 
 #### Мифриловый доспех (Mithral Armor)
 
 *Доспех (средний или тяжёлый, кроме шкурного), необычный*
 
-Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
+Мифрил — лёгкий, гибкий металл. Мифриловую кольчужную рубаху или нагрудник можно носить под обычной одеждой. Если доспех обычно налагает помеху на проверки Ловкости (Скрытность) или имеет требование к Силе, мифриловая версия доспеха этого не делает.
 
 #### Ожерелье адаптации (Necklace of Adaptation)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as *облако убийства* and *stinking cloud* effects, inhaled poisons, and the breath weapons of some dragons).
+Пока вы носите это ожерелье, вы можете нормально дышать в любой среде и совершаете с преимуществом спасброски от вредных газов и паров (таких как эффекты *облака убийства* и *удушающего облака*, вдыхаемые яды и оружие дыхания некоторых драконов).
 
 #### Ожерелье огненных шаров (Necklace of Fireballs)
 
 *Чудесный предмет, редкий*
 
-This necklace has 1к6 + 3 beads hanging from it. You can use an action to detach a bead and throw it up to 60 футов away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level *огненный шар* spell (save СЛ 15).
+На этом ожерелье висят 1к6 + 3 бусины. Вы можете действием отсоединить бусину и бросить её на расстояние до 60 футов. Достигнув конца траектории, бусина взрывается как заклинание *огненный шар* 3-го уровня (СЛ спасброска 15).
 
-You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the *огненный шар* by 1 for each bead beyond the first.
+Вы можете метнуть несколько бусин или даже всё ожерелье одним действием. В этом случае увеличьте уровень *огненного шара* на 1 за каждую бусину сверх первой.
 
 #### Ожерелье молитвенных бусин (Necklace of Prayer Beads)
 
 *Чудесный предмет, редкий (требуется настройка жрецом, друидом или паладином)*
 
-This necklace has 1к4 + 2 magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
+На этом ожерелье 1к4 + 2 магические бусины из аквамарина, чёрного жемчуга или топаза. У него также есть множество немагических бусин из камней, таких как янтарь, гелиотроп, цитрин, коралл, нефрит, жемчуг или кварц. Если магическая бусина снята с ожерелья, она теряет магию.
 
-Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save СЛ if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
+Существует шесть типов магических бусин. Мастер определяет тип каждой бусины на ожерелье или определяет его случайно. Ожерелье может иметь более одной бусины одного типа. Чтобы использовать бусину, вы должны носить ожерелье. Каждая бусина содержит заклинание, которое вы можете сотворить из неё бонусным действием (используя вашу СЛ спасброска от заклинаний, если необходим спасбросок). После сотворения заклинания магической бусины эта бусина не может быть использована снова до следующего рассвета.
 
 Таблица: Ожерелье молитвенных бусин
 
-| 1к20   | Bead of ...  | Spell                                         |
+| 1к20   | Бусина ...        | Заклинание                                                |
 |---|---|---|
-| 1-6   | Blessing     | Bless                                         |
-| 7-12  | Curing       | Cure wounds (2nd level) or lesser restoration |
-| 13-16 | Favor        | Greater restoration                           |
-| 17-18 | Smiting      | Branding smite                                |
-| 19    | Summons      | Planar ally                                   |
-| 20    | Wind walking | Wind walk                                     |
+| 1–6   | Благословения      | *Благословение*                                           |
+| 7–12  | Исцеления          | *Лечение ран* (2-й уровень) или *малое восстановление*    |
+| 13–16 | Благодати          | *Высшее восстановление*                                   |
+| 17–18 | Кары               | *Клеймящая кара*                                          |
+| 19    | Призыва            | *Планарный союзник*                                       |
+| 20    | Хождения по ветру  | *Хождение по ветру*                                       |
 
 #### Девятижизненный похититель (Nine Lives Stealer)
 
 *Оружие (любой меч), очень редкий (требуется настройка)*
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+Вы получаете бонус +2 к броскам атаки и урона, совершённым этим магическим оружием.
 
-The sword has 1к8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a СЛ 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
+Меч имеет 1к8 + 1 зарядов. Если вы наносите критическое попадание по существу, у которого менее 100 хитов, оно должно преуспеть в спасброске Телосложения СЛ 15, иначе будет мгновенно убито, когда меч вырвет жизненную силу из его тела (конструкт или нежить имеют иммунитет). Меч теряет 1 заряд, если существо убито. Когда у меча не остаётся зарядов, он теряет это свойство.
 
 #### Клятвенный лук (Oathbow)
 
 *Оружие (длинный лук), очень редкий (требуется настройка)*
 
-When you nock an arrow on this bow, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can, as a command phrase, say, "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
+Когда вы накладываете стрелу на этот лук, он шепчет на Эльфийском: «Быстрое поражение моим врагам». Когда вы используете это оружие для дальнобойной атаки, вы можете в качестве командной фразы сказать: «Быстрая смерть тебе, обидевшему меня». Цель вашей атаки становится вашим заклятым врагом, пока не умрёт или до рассвета через семь дней. У вас может быть только один такой заклятый враг одновременно. Когда ваш заклятый враг умирает, вы можете выбрать нового после следующего рассвета.
 
-When you make a ranged attack roll with this weapon against your sworn enemy, you have advantage on the roll. In addition, your target gains no benefit from cover, other than total cover, and you suffer no disadvantage due to long range. If the attack hits, your sworn enemy takes an extra 3к6 piercing damage.
+Когда вы совершаете дальнобойный бросок атаки этим оружием по своему заклятому врагу, вы совершаете бросок с преимуществом. Кроме того, ваша цель не получает преимуществ от укрытия, кроме полного укрытия, и вы не получаете помеху из-за большой дистанции. При попадании ваш заклятый враг получает дополнительно 3к6 колющего урона.
 
-While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
+Пока ваш заклятый враг жив, вы совершаете с помехой броски атаки любым другим оружием.
 
 #### Масло эфирности (Oil of Etherealness)
 
 *Зелье, редкий*
 
-Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the *эфирность* spell for 1 hour.
+Капли этого мутно-серого масла выступают на наружной стороне ёмкости и быстро испаряются. Масло может покрыть Среднее или меньшее существо вместе со снаряжением, которое оно носит и несёт (для каждой категории размера выше Среднего требуется дополнительный флакон). Нанесение масла занимает 10 минут. Затем на существо действует эффект заклинания *эфирность* на 1 час.
 
 #### Масло остроты (Oil of Sharpness)
 
 *Зелье, очень редкий*
 
-This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.
+Это прозрачное желеобразное масло сверкает крошечными, ультратонкими серебряными осколками. Маслом можно покрыть одно рубящее или колющее оружие или до 5 единиц рубящих или колющих боеприпасов. Нанесение масла занимает 1 минуту. В течение 1 часа покрытый предмет является магическим и имеет бонус +3 к броскам атаки и урона.
 
 #### Масло скольжения (Oil of Slipperiness)
 
 *Зелье, необычный*
 
-This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a *свобода перемещения* spell for 8 hours.
+Эта липкая чёрная мазь густая и тяжёлая в ёмкости, но быстро растекается при наливании. Масло может покрыть Среднее или меньшее существо вместе со снаряжением, которое оно носит и несёт (для каждой категории размера выше Среднего требуется дополнительный флакон). Нанесение масла занимает 10 минут. Затем на существо действует эффект заклинания *свобода перемещения* на 8 часов.
 
-Alternatively, the oil can be poured on the ground as an action, where it covers a 10-футовый square, duplicating the effect of the *скольжение* spell in that area for 8 hours.
+В качестве альтернативы масло можно вылить на землю действием, где оно покрывает квадрат 10 футов, дублируя эффект заклинания *скольжение* в этой области на 8 часов.
 
 #### Жемчужина силы (Pearl of Power)
 
 *Чудесный предмет, необычный (требуется настройка заклинателем)*
 
-While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can't be used again until the next dawn.
+Пока эта жемчужина при вас, вы можете действием произнести командное слово и восстановить одну потраченную ячейку заклинания. Если потраченная ячейка была 4-го уровня или выше, новая ячейка будет 3-го уровня. Использовав жемчужину, вы не можете использовать её снова до следующего рассвета.
 
 #### Кулон здоровья (Periapt of Health)
 
 *Чудесный предмет, необычный*
 
-You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed you while you wear the pendant.
+Вы имеете иммунитет к заражению любой болезнью, пока носите этот кулон. Если вы уже заражены болезнью, эффекты болезни подавляются, пока вы носите кулон.
 
 #### Кулон защиты от яда (Periapt of Proof against Poison)
 
 *Чудесный предмет, редкий*
 
-This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.
+Эта тонкая серебряная цепочка имеет подвеску с бриллиантовой огранкой из чёрного камня. Пока вы её носите, яды не действуют на вас. Вы имеете иммунитет к состоянию отравления и иммунитет к урону ядом.
 
 #### Кулон заживления ран (Periapt of Wound Closure)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
+Пока вы носите этот кулон, вы стабилизируетесь всякий раз, когда умираете в начале своего хода. Кроме того, когда вы бросаете Кость Хитов для восстановления хитов, удвойте количество восстанавливаемых хитов.
 
 #### Приворотное зелье (Philter of Love)
 
 *Зелье, необычный*
 
-The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.
+Когда вы в следующий раз увидите существо в течение 10 минут после выпивания этого зелья, вы становитесь очарованным этим существом на 1 час. Если существо принадлежит к виду и полу, который вас обычно привлекает, вы считаете его своей истинной любовью, пока очарованы. Розоватая, шипучая жидкость этого зелья содержит один легко пропускаемый пузырёк в форме сердца.
 
 #### Флейта преследования (Pipes of Haunting)
 
 *Чудесный предмет, необычный*
 
-You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 футов of you that hears you play must succeed on a СЛ 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren't hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours. The pipes regain 1к3 expended charges daily at dawn.
+Вы должны владеть духовыми инструментами, чтобы использовать эту флейту. У неё 3 заряда. Вы можете действием играть на ней и потратить 1 заряд, чтобы создать жуткую, завораживающую мелодию. Каждое существо в пределах 30 футов от вас, которое слышит вашу игру, должно преуспеть в спасброске Мудрости СЛ 15, иначе будет испугано вами на 1 минуту. Если вы хотите, все существа в области, не враждебные к вам, автоматически преуспевают в спасброске. Существо, провалившее спасбросок, может повторять его в конце каждого своего хода, оканчивая эффект на себе при успехе. Существо, преуспевшее в спасброске, имеет иммунитет к эффекту этой флейты на 24 часа. Флейта восстанавливает 1к3 потраченных заряда ежедневно на рассвете.
 
 #### Свирель канализации (Pipes of the Sewers)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
+Вы должны владеть духовыми инструментами, чтобы использовать эту свирель. Пока вы настроены на свирель, обычные крысы и гигантские крысы безразличны к вам и не атакуют вас, если вы не угрожаете им и не причиняете вреда.
 
-The pipes have 3 charges. If you play the pipes as an action, you can use a bonus action to expend 1 to 3 charges, calling forth one swarm of rats with each expended charge, provided that enough rats are within half a mile of you to be called in this fashion (as determined by the GM). If there aren't enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren't under your control otherwise. The pipes regain 1к3 expended charges daily at dawn.
+У свирели 3 заряда. Если вы играете на свирели действием, вы можете бонусным действием потратить от 1 до 3 зарядов, призывая один рой крыс за каждый потраченный заряд, при условии, что в пределах полумили от вас достаточно крыс для призыва таким способом (по решению Мастера). Если крыс недостаточно для формирования роя, заряд тратится впустую. Призванные рои движутся к музыке кратчайшим доступным путём, но в остальном не находятся под вашим контролем. Свирель восстанавливает 1к3 потраченных заряда ежедневно на рассвете.
 
-Whenever a swarm of rats that isn't under another creature's control comes within 30 футов of you while you are playing the pipes, you can make a Charisma check contested by the swarm's Wisdom check. If you lose the contest, the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes' music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can't hear the pipes' music, your control over that swarm ends, and the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours.
+Когда рой крыс, не находящийся под контролем другого существа, оказывается в пределах 30 футов от вас, пока вы играете на свирели, вы можете совершить проверку Харизмы, противопоставленную проверке Мудрости роя. Если вы проиграете состязание, рой ведёт себя как обычно и не поддаётся музыке свирели в течение следующих 24 часов. Если вы победите, рой подчиняется музыке свирели и становится дружелюбным к вам и вашим спутникам, пока вы продолжаете играть на свирели каждый раунд действием. Дружелюбный рой подчиняется вашим командам. Если вы не отдаёте команд дружелюбному рою, он защищается, но не предпринимает других действий. Если дружелюбный рой начинает свой ход и не может слышать музыку свирели, ваш контроль над этим роем заканчивается, и рой ведёт себя как обычно и не поддаётся музыке свирели в течение следующих 24 часов.
 
 #### Латный доспех эфирности (Plate Armor of Etherealness)
 
 *Доспех (латный доспех), легендарный (требуется настройка)*
 
-While you're wearing this armor, you can speak its command word as an action to gain the effect of the *эфирность* spell, which last for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can't be used again until the next dawn.
+Пока вы носите этот доспех, вы можете действием произнести командное слово, чтобы получить эффект заклинания *эфирность*, который длится 10 минут или до тех пор, пока вы не снимете доспех или не произнесёте командное слово действием снова. Это свойство доспеха не может быть использовано снова до следующего рассвета.
 
 #### Переносная дыра (Portable Hole)
 
 *Чудесный предмет, редкий*
 
-This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 футов in diameter.
+Эта тонкая чёрная ткань, мягкая как шёлк, сложена до размеров носового платка. Она разворачивается в круглое полотно диаметром 6 футов.
 
-You can use an action to unfold a *Переносная дыра* and place it on or against a solid surface, whereupon the *Переносная дыра* creates an extradimensional hole 10 футов deep. The cylindrical space within the hole exists on a different plane, so it can't be used to create open passages. Any creature inside an open *Переносная дыра* can exit the hole by climbing out of it.
+Вы можете действием развернуть *переносную дыру* и положить её на твёрдую поверхность или прислонить к ней, после чего *переносная дыра* создаёт экстрапространственную яму глубиной 10 футов. Цилиндрическое пространство внутри ямы существует на другом плане, поэтому его нельзя использовать для создания открытых проходов. Любое существо внутри открытой *переносной дыры* может выйти из ямы, выбравшись наружу.
 
-You can use an action to close a *Переносная дыра* by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.
+Вы можете действием закрыть *переносную дыру*, взявшись за края ткани и сложив её. Складывание ткани закрывает яму, и все существа или объекты внутри остаются в экстрапространстве. Что бы ни находилось внутри, дыра почти ничего не весит.
 
-If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a СЛ 10 Strength check. On a successful check, the creature forces its way out and appears within 5 футов of the *Переносная дыра* or the creature carrying it. A breathing creature within a closed *Переносная дыра* can survive for up to 10 minutes, after which time it begins to suffocate.
+Если дыра сложена, существо в экстрапространстве дыры может действием совершить проверку Силы СЛ 10. При успехе существо выбирается наружу и появляется в пределах 5 футов от *переносной дыры* или существа, несущего её. Дышащее существо внутри закрытой *переносной дыры* может выжить до 10 минут, после чего начинает задыхаться.
 
-Placing a *Переносная дыра* inside an extradimensional space created by a *Сумка вместимости*, *Практичный рюкзак*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 футов of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Помещение *переносной дыры* внутрь экстрапространства, созданного *сумкой вместимости*, *практичным рюкзаком* или подобным предметом, мгновенно уничтожает оба предмета и открывает врата на Астральный План. Врата возникают в месте, где один предмет был помещён внутрь другого. Любое существо в пределах 10 футов от врат втягивается через них и оказывается в случайном месте на Астральном Плане. Затем врата закрываются. Врата односторонние и не могут быть открыты повторно.
 
 #### Зелье дружбы с животными (Potion of Animal Friendship)
 
 *Зелье, необычный*
 
-When you drink this potion, you can cast the *дружба с животными* spell (save СЛ 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.
+Выпив это зелье, вы можете сотворять заклинание *дружба с животными* (СЛ спасброска 13) в течение 1 часа по желанию. При взбалтывании мутной жидкости становятся видны мелкие частицы: рыбья чешуйка, язык колибри, кошачий коготь или беличий волос.
 
 #### Зелье ясновидения (Potion of Clairvoyance)
 
 *Зелье, редкий*
 
-When you drink this potion, you gain the effect of the *ясновидение* spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
+Выпив это зелье, вы получаете эффект заклинания *ясновидение*. В этой желтоватой жидкости покачивается глазное яблоко, которое исчезает, когда зелье открывают.
 
 #### Зелье лазания (Potion of Climbing)
 
 *Зелье, обычный*
 
-When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
+Выпив это зелье, вы получаете скорость лазания, равную вашей скорости ходьбы, на 1 час. В течение этого времени вы совершаете с преимуществом проверки Силы (Атлетика) для лазания. Зелье разделено на коричневый, серебряный и серый слои, напоминающие полосы камня. Встряхивание бутылки не смешивает цвета.
 
 #### Зелье уменьшения (Potion of Diminution)
 
 *Зелье, редкий*
 
-When you drink this potion, you gain the "reduce" effect of the *увеличение/уменьшение* spell for 1к4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
+Выпив это зелье, вы получаете эффект «уменьшение» заклинания *увеличение/уменьшение* на 1к4 часов (концентрация не требуется). Красный цвет в жидкости зелья непрерывно сжимается до крошечной бусины, а затем расширяется, окрашивая прозрачную жидкость вокруг. Встряхивание бутылки не прерывает этот процесс.
 
 #### Зелье полёта (Potion of Flying)
 
 *Зелье, очень редкий*
 
-When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.
+Выпив это зелье, вы получаете скорость полёта, равную вашей скорости ходьбы, на 1 час и можете парить. Если вы находитесь в воздухе, когда действие зелья заканчивается, вы падаете, если у вас нет другого способа оставаться в воздухе. Прозрачная жидкость этого зелья плавает наверху ёмкости, и в ней дрейфуют мутные белые примеси.
 
 #### Зелье газообразной формы (Potion of Gaseous Form)
 
 *Зелье, редкий*
 
-When you drink this potion, you gain the effect of the *газообразная форма* spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.
+Выпив это зелье, вы получаете эффект заклинания *газообразная форма* на 1 час (концентрация не требуется) или до тех пор, пока вы не окончите эффект бонусным действием. Ёмкость этого зелья, кажется, содержит туман, который движется и льётся как вода.
 
 #### Зелье силы великана (Potion of Giant Strength)
 
-*Зелье, Rarity варьируется*
+*Зелье, редкость варьируется*
 
-When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score (see the table below). The potion has no effect on you if your Strength is equal to or greater than that score.
+Выпив это зелье, ваше значение Силы меняется на 1 час. Тип великана определяет значение (см. таблицу ниже). Зелье не действует на вас, если ваша Сила равна или превышает это значение.
 
-This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type. The *potion of frost giant strength* and the *potion of stone giant strength* have the same effect.
+Прозрачная жидкость этого зелья содержит плавающий в ней обломок ногтя великана соответствующего типа. *Зелье силы ледяного великана* и *зелье силы каменного великана* имеют одинаковый эффект.
 
 Таблица: Зелье силы великана
 
-| Type of Giant     | Сила | Редкость    |
+| Тип великана           | Сила | Редкость       |
 |---|---|---|
-| Hill giant        | 21       | Uncommon  |
-| Frost/stone giant | 23       | Rare      |
-| Огонь giant        | 25       | Rare      |
-| Cloud giant       | 27       | Very rare |
-| Storm giant       | 29       | Legendary |
+| Холмовой великан       | 21   | Необычный      |
+| Ледяной/каменный великан | 23 | Редкий         |
+| Огненный великан       | 25   | Редкий         |
+| Облачный великан       | 27   | Очень редкий   |
+| Штормовой великан      | 29   | Легендарный    |
 
 #### Зелье роста (Potion of Growth)
 
 *Зелье, необычный*
 
-When you drink this potion, you gain the "enlarge" effect of the *увеличение/уменьшение* spell for 1к4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
+Выпив это зелье, вы получаете эффект «увеличение» заклинания *увеличение/уменьшение* на 1к4 часов (концентрация не требуется). Красный цвет в жидкости зелья непрерывно расширяется от крошечной бусины, окрашивая прозрачную жидкость вокруг, а затем сжимается. Встряхивание бутылки не прерывает этот процесс.
 
 #### Зелье лечения (Potion of Healing)
 
-*Зелье, Rarity варьируется*
+*Зелье, редкость варьируется*
 
-You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.
+Вы восстанавливаете хиты, выпив это зелье. Количество хитов зависит от редкости зелья, как показано в таблице зелий лечения. Какова бы ни была его сила, красная жидкость зелья мерцает при встряхивании.
 
 Таблица: Зелья лечения
 
-| Potion of ...    | Редкость    | HP Regained |
+| Зелье ...               | Редкость       | Восстановленные хиты |
 |---|---|---|
-| Healing          | Common    | 2к4 + 2       |
-| Greater healing  | Uncommon  | 4к4 + 4       |
-| Superior healing | Rare      | 8к4 + 8       |
-| Supreme healing  | Very rare | 10к4 + 20     |
+| Лечения                 | Обычный        | 2к4 + 2              |
+| Большего лечения        | Необычный      | 4к4 + 4              |
+| Превосходного лечения   | Редкий         | 8к4 + 8              |
+| Высшего лечения         | Очень редкий   | 10к4 + 20            |
 
 #### Зелье героизма (Potion of Heroism)
 
 *Зелье, редкий*
 
-For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the *благословение* spell (no concentration required). This blue potion bubbles and steams as if boiling.
+В течение 1 часа после выпивания вы получаете 10 временных хитов, длящихся 1 час. На ту же длительность вы находитесь под эффектом заклинания *благословение* (концентрация не требуется). Это синее зелье пузырится и парит, как будто кипит.
 
 #### Зелье невидимости (Potion of Invisibility)
 
 *Зелье, очень редкий*
 
-This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.
+Ёмкость этого зелья выглядит пустой, но на ощупь кажется, что в ней есть жидкость. Выпив его, вы становитесь невидимым на 1 час. Всё, что вы носите или несёте, становится невидимым вместе с вами. Эффект заканчивается досрочно, если вы атакуете или сотворите заклинание.
 
 #### Зелье чтения мыслей (Potion of Mind Reading)
 
 *Зелье, редкий*
 
-When you drink this potion, you gain the effect of the *обнаружение мыслей* spell (save СЛ 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.
+Выпив это зелье, вы получаете эффект заклинания *обнаружение мыслей* (СЛ спасброска 13). Густая фиолетовая жидкость зелья содержит плавающее в ней овальное розовое облачко.
 
 #### Зелье яда (Potion of Poison)
 
 *Зелье, необычный*
 
-This concoction looks, smells, and tastes like a *Зелье лечения* or other beneficial potion. However, it is actually poison masked by illusion magic. An *опознание* spell reveals its true nature.
+Это снадобье выглядит, пахнет и на вкус как *Зелье лечения* или другое благотворное зелье. Однако на самом деле это яд, замаскированный магией иллюзий. Заклинание *опознание* раскрывает его истинную природу.
 
-If you drink it, you take 3к6 poison damage, and you must succeed on a СЛ 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3к6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1к6. The poison ends when the damage decreases to 0.
+Если вы его выпьете, вы получаете 3к6 урона ядом, и вы должны преуспеть в спасброске Телосложения СЛ 13 или стать отравленным. В начале каждого вашего хода, пока вы отравлены таким образом, вы получаете 3к6 урона ядом. В конце каждого вашего хода вы можете повторить спасбросок. При успехе урон ядом, который вы получаете в последующих ходах, уменьшается на 1к6. Яд заканчивается, когда урон снижается до 0.
 
 #### Зелье сопротивления (Potion of Resistance)
 
 *Зелье, необычный*
 
-When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
+Когда вы выпиваете это зелье, вы получаете сопротивление одному типу урона на 1 час. Мастер выбирает тип или определяет его случайным образом из вариантов ниже.
 
 Таблица: Зелье сопротивления
 
@@ -1873,567 +1873,567 @@ When you drink this potion, you gain resistance to one type of damage for 1 hour
 
 *Зелье, очень редкий*
 
-When you drink this potion, you gain the effect of the *ускорение* spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own.
+Когда вы выпиваете это зелье, вы получаете эффект заклинания *ускорение* на 1 минуту (концентрация не требуется). Жёлтая жидкость зелья испещрена чёрными полосами и кружится сама по себе.
 
 #### Зелье водного дыхания (Potion of Water Breathing)
 
 *Зелье, необычный*
 
-You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
+Вы можете дышать под водой в течение 1 часа после того, как выпьете это зелье. Его мутная зелёная жидкость пахнет морем и содержит плавающий в ней пузырь, похожий на медузу.
 
 #### Восстановительная мазь (Restorative Ointment)
 
 *Чудесный предмет, необычный*
 
-This glass jar, 3 inches in diameter, contains 1к4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh ½ pound.
+Эта стеклянная банка диаметром 3 дюйма содержит 1к4 + 1 доз густой смеси, слегка пахнущей алоэ. Банка и её содержимое весят ½ фунта.
 
-As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2к8 + 2 hit points, ceases to be poisoned, and is cured of any disease.
+Действием одну дозу мази можно проглотить или нанести на кожу. Существо, получившее её, восстанавливает 2к8 + 2 хита, перестаёт быть отравленным и излечивается от любой болезни.
 
 #### Кольцо власти над животными (Ring of Animal Influence)
 
 *Кольцо, редкий*
 
-This ring has 3 charges, and it regains 1к3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells:
+У этого кольца есть 3 заряда, и оно ежедневно восстанавливает 1к3 потраченных заряда на рассвете. Нося кольцо, вы можете действием потратить 1 заряд, чтобы наложить одно из следующих заклинаний:
 
-- Animal friendship (save СЛ 13)
-- Fear (save СЛ 13), targeting only beasts that have an Intelligence of 3 or lower
-- Speak with animals
+- *Дружба с животными* (СЛ спасброска 13)
+- *Устрашение* (СЛ спасброска 13), нацеленное только на зверей с Интеллектом 3 или ниже
+- *Разговор с животными*
 
 #### Кольцо призыва джинна (Ring of Djinni Summoning)
 
 *Кольцо, легендарный (требуется настройка)*
 
-While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 футов of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane.
+Нося это кольцо, вы можете действием произнести его командное слово, чтобы призвать конкретного джинна из Стихийного Плана Воздуха. Джинн появляется в незанятом пространстве по вашему выбору в пределах 120 футов от вас. Он остаётся, пока вы поддерживаете концентрацию (как при концентрации на заклинании), максимум 1 час, или пока его хиты не упадут до 0. Затем он возвращается в свой родной план.
 
-While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
+Пока джинн призван, он дружелюбен к вам и вашим спутникам. Он выполняет любые ваши команды, на каком бы языке вы ни говорили. Если вы не отдаёте ему команд, джинн защищается от нападающих, но не совершает других действий.
 
-After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
+После ухода джинна его нельзя призвать снова в течение 24 часов, и кольцо становится немагическим, если джинн умирает.
 
 #### Кольцо повеления стихиями (Ring of Elemental Command)
 
 *Кольцо, легендарный (требуется настройка)*
 
-This ring is linked to one of the four Elemental Planes. The GM chooses or randomly determines the linked plane.
+Это кольцо связано с одним из четырёх Стихийных Планов. Мастер выбирает или случайным образом определяет связанный план.
 
-While wearing this ring, you have advantage on attack rolls against elementals from the linked plane, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked plane.
+Нося это кольцо, вы совершаете с преимуществом броски атаки по элементалям из связанного плана, а они совершают с помехой броски атаки по вам. Кроме того, вы получаете доступ к свойствам, зависящим от связанного плана.
 
-The ring has 5 charges. It regains 1к4 + 1 expended charges daily at dawn. Spells cast from the ring have a save СЛ of 17.
+У кольца есть 5 зарядов. Оно ежедневно восстанавливает 1к4 + 1 потраченных заряда на рассвете. Заклинания, наложенные из кольца, имеют СЛ спасброска 17.
 
-**_Ring of Air Elemental Command._** You can expend 2 of the ring's charges to cast *подчинение чудовища* on an air elemental. In addition, when you fall, you descend 60 футов per round and take no damage from falling. You can also speak and understand Auran.
+**_Кольцо повелителя воздушной стихии._** Вы можете потратить 2 заряда кольца, чтобы наложить *подчинение чудовища* на воздушного элементаля. Кроме того, когда вы падаете, вы снижаетесь со скоростью 60 футов за раунд и не получаете урона от падения. Вы также можете говорить и понимать Ауран.
 
-If you help slay an air elemental while attuned to the ring, you gain access to the following additional properties:
+Если вы помогли убить воздушного элементаля, будучи настроенным на кольцо, вы получаете доступ к следующим дополнительным свойствам:
 
-- You have resistance to lightning damage.
-- You have a flying speed equal to your walking speed and can hover.
-- You can cast the following spells from the ring, expending the necessary number of charges: *цепная молния* (3 charges), *порыв ветра* (2 charges), or *стена ветра* (1 charge).
+- Вы обладаете сопротивлением к урону электричеством.
+- У вас есть скорость полёта, равная вашей скорости ходьбы, и вы можете парить.
+- Вы можете накладывать следующие заклинания из кольца, тратя необходимое количество зарядов: *цепная молния* (3 заряда), *порыв ветра* (2 заряда) или *стена ветра* (1 заряд).
 
-**_Ring of Earth Elemental Command._** You can expend 2 of the ring's charges to cast *подчинение чудовища* on an earth elemental. In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
+**_Кольцо повелителя земной стихии._** Вы можете потратить 2 заряда кольца, чтобы наложить *подчинение чудовища* на земляного элементаля. Кроме того, вы можете перемещаться по труднопроходимой местности, состоящей из обломков, камней или грязи, как по обычной местности. Вы также можете говорить и понимать Терран.
 
-If you help slay an earth elemental while attuned to the ring, you gain access to the following additional properties:
+Если вы помогли убить земляного элементаля, будучи настроенным на кольцо, вы получаете доступ к следующим дополнительным свойствам:
 
-- You have resistance to acid damage.
-- You can move through solid earth or rock as if those areas were difficult terrain. If you end your turn there, you are shunted out to the nearest unoccupied space you last occupied.
-- You can cast the following spells from the ring, expending the necessary number of charges: *stone shape* (2 charges), *каменная кожа* (3 charges), or *каменная стена* (3 charges).
+- Вы обладаете сопротивлением к урону кислотой.
+- Вы можете проходить сквозь твёрдую землю или камень, как если бы эти области были труднопроходимой местностью. Если вы заканчиваете свой ход там, вас выталкивает в ближайшее незанятое пространство, которое вы занимали последним.
+- Вы можете накладывать следующие заклинания из кольца, тратя необходимое количество зарядов: *изменение формы камня* (2 заряда), *каменная кожа* (3 заряда) или *каменная стена* (3 заряда).
 
-**_Ring of Fire Elemental Command._** You can expend 2 of the ring's charges to cast *подчинение чудовища* on a fire elemental. In addition, you have resistance to fire damage. You can also speak and understand Ignan.
+**_Кольцо повелителя огненной стихии._** Вы можете потратить 2 заряда кольца, чтобы наложить *подчинение чудовища* на огненного элементаля. Кроме того, вы обладаете сопротивлением к урону огнём. Вы также можете говорить и понимать Игнан.
 
-If you help slay a fire elemental while attuned to the ring, you gain access to the following additional properties:
+Если вы помогли убить огненного элементаля, будучи настроенным на кольцо, вы получаете доступ к следующим дополнительным свойствам:
 
-- You are immune to fire damage.
-- You can cast the following spells from the ring, expending the necessary number of charges: *огненные руки* (1 charge), *огненный шар* (2 charges), and *стена огня* (3 charges).
+- Вы обладаете иммунитетом к урону огнём.
+- Вы можете накладывать следующие заклинания из кольца, тратя необходимое количество зарядов: *огненные руки* (1 заряд), *огненный шар* (2 заряда) и *стена огня* (3 заряда).
 
-**_Ring of Water Elemental Command._** You can expend 2 of the ring's charges to cast *подчинение чудовища* on a water elemental. In addition, you can stand on and walk across liquid surfaces as if they were solid ground. You can also speak and understand Aquan.
+**_Кольцо повелителя водной стихии._** Вы можете потратить 2 заряда кольца, чтобы наложить *подчинение чудовища* на водного элементаля. Кроме того, вы можете стоять на поверхности жидкости и ходить по ней, как по твёрдой земле. Вы также можете говорить и понимать Аквран.
 
-If you help slay a water elemental while attuned to the ring, you gain access to the following additional properties:
+Если вы помогли убить водного элементаля, будучи настроенным на кольцо, вы получаете доступ к следующим дополнительным свойствам:
 
-- You can breathe underwater and have a swimming speed equal to your walking speed.
-- You can cast the following spells from the ring, expending the necessary number of charges: *сотворение или уничтожение воды* (1 charge), *власть над водой* (3 charges), *град* (2 charges), or *стена льда* (3 charges).
+- Вы можете дышать под водой и обладаете скоростью плавания, равной вашей скорости ходьбы.
+- Вы можете накладывать следующие заклинания из кольца, тратя необходимое количество зарядов: *сотворение или уничтожение воды* (1 заряд), *власть над водой* (3 заряда), *град* (2 заряда) или *стена льда* (3 заряда).
 
 #### Кольцо уклонения (Ring of Evasion)
 
 *Кольцо, редкий (требуется настройка)*
 
-This ring has 3 charges, and it regains 1к3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
+У этого кольца есть 3 заряда, и оно ежедневно восстанавливает 1к3 потраченных заряда на рассвете. Когда вы проваливаете спасбросок Ловкости, нося его, вы можете реакцией потратить 1 заряд, чтобы вместо этого преуспеть в этом спасброске.
 
 #### Кольцо падения пёрышком (Ring of Feather Falling)
 
 *Кольцо, редкий (требуется настройка)*
 
-When you fall while wearing this ring, you descend 60 футов per round and take no damage from falling.
+Когда вы падаете, нося это кольцо, вы снижаетесь со скоростью 60 футов за раунд и не получаете урона от падения.
 
 #### Кольцо свободного действия (Ring of Free Action)
 
 *Кольцо, редкий (требуется настройка)*
 
-While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.
+Пока вы носите это кольцо, труднопроходимая местность не требует от вас дополнительного перемещения. Кроме того, магия не может ни уменьшить вашу скорость, ни вызвать у вас паралич или обездвиживание.
 
 #### Кольцо невидимости (Ring of Invisibility)
 
 *Кольцо, легендарный (требуется настройка)*
 
-While wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.
+Нося это кольцо, вы можете действием стать невидимым. Всё, что вы носите или несёте, становится невидимым вместе с вами. Вы остаётесь невидимым, пока кольцо не будет снято, пока вы не атакуете или не наложите заклинание, или пока вы бонусным действием не станете снова видимым.
 
 #### Кольцо прыжков (Ring of Jumping)
 
 *Кольцо, необычный (требуется настройка)*
 
-While wearing this ring, you can cast the *прыжок* spell from it as a bonus action at will, but can target only yourself when you do so.
+Нося это кольцо, вы можете по желанию бонусным действием накладывать из него заклинание *прыжок*, но можете нацеливать только себя.
 
 #### Кольцо защиты разума (Ring of Mind Shielding)
 
 *Кольцо, необычный (требуется настройка)*
 
-While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
+Нося это кольцо, вы обладаете иммунитетом к магии, позволяющей другим существам читать ваши мысли, определять, лжёте ли вы, узнавать ваше мировоззрение или ваш тип существа. Существа могут телепатически общаться с вами, только если вы это позволяете.
 
-You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die.
+Вы можете действием сделать кольцо невидимым, пока не используете другое действие, чтобы сделать его видимым, пока не снимете кольцо или пока не умрёте.
 
-If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication.
+Если вы умираете, нося кольцо, ваша душа входит в него, если в нём уже нет другой души. Вы можете остаться в кольце или отправиться в загробную жизнь. Пока ваша душа находится в кольце, вы можете телепатически общаться с любым существом, носящим его. Носитель не может предотвратить эту телепатическую связь.
 
 #### Кольцо защиты (Ring of Protection)
 
 *Кольцо, редкий (требуется настройка)*
 
-You gain a +1 bonus to КД and saving throws while wearing this ring.
+Вы получаете бонус +1 к КД и спасброскам, нося это кольцо.
 
 #### Кольцо регенерации (Ring of Regeneration)
 
 *Кольцо, очень редкий (требуется настройка)*
 
-While wearing this ring, you regain 1к6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1к6 + 1 days if you have at least 1 hit point the whole time.
+Нося это кольцо, вы восстанавливаете 1к6 хитов каждые 10 минут, при условии, что у вас есть хотя бы 1 хит. Если вы теряете часть тела, кольцо заставляет недостающую часть отрасти и полностью восстановить функциональность через 1к6 + 1 дней, если у вас есть хотя бы 1 хит всё это время.
 
 #### Кольцо сопротивления (Ring of Resistance)
 
 *Кольцо, редкий (требуется настройка)*
 
-You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
+Нося это кольцо, вы обладаете сопротивлением одному типу урона. Драгоценный камень в кольце указывает на тип, который Мастер выбирает или определяет случайным образом.
 
 Таблица: Кольцо сопротивления
 
-| 1к10 | Тип урона | Gem        |
+| 1к10 | Тип урона      | Камень     |
 |---|---|---|
-| 1   | Кислота        | Pearl      |
-| 2   | Холод        | Tourmaline |
-| 3   | Огонь        | Garnet     |
-| 4   | Силовое поле       | Sapphire   |
-| 5   | Электричество   | Citrine    |
-| 6   | Некротический    | Jet        |
-| 7   | Яд      | Amethyst   |
-| 8   | Психический     | Jade       |
-| 9   | Излучение     | Topaz      |
-| 10  | Гром     | Spinel     |
+| 1   | Кислота        | Жемчуг     |
+| 2   | Холод          | Турмалин   |
+| 3   | Огонь          | Гранат     |
+| 4   | Силовое поле   | Сапфир     |
+| 5   | Электричество  | Цитрин     |
+| 6   | Некротический  | Гагат      |
+| 7   | Яд             | Аметист    |
+| 8   | Психический    | Нефрит     |
+| 9   | Излучение      | Топаз      |
+| 10  | Гром           | Шпинель    |
 
 #### Кольцо стрельбы звёздами (Ring of Shooting Stars)
 
 *Кольцо, очень редкий (требуется настройка на открытом воздухе ночью)*
 
-While wearing this ring in dim light or darkness, you can cast *танцующие огоньки* and *свет* from the ring at will. Casting either spell from the ring requires an action.
+Нося это кольцо в тусклом свете или темноте, вы можете по желанию накладывать из кольца заклинания *танцующие огоньки* и *свет*. Наложение любого из этих заклинаний из кольца требует действия.
 
-The ring has 6 charges for the following other properties. The ring regains 1к6 expended charges daily at dawn.
+У кольца есть 6 зарядов для следующих дополнительных свойств. Кольцо ежедневно восстанавливает 1к6 потраченных зарядов на рассвете.
 
-**_Faerie Fire._** You can expend 1 charge as an action to cast *огонь фей* from the ring.
+**_Огонь фей._** Вы можете действием потратить 1 заряд, чтобы наложить из кольца заклинание *огонь фей*.
 
-**_Ball Lightning._** You can expend 2 charges as an action to create one to four 3-футовый diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
+**_Шаровая молния._** Вы можете действием потратить 2 заряда, чтобы создать от одной до четырёх сфер молнии диаметром 3 фута. Чем больше сфер вы создаёте, тем менее мощной будет каждая из них.
 
-Each sphere appears in an unoccupied space you can see within 120 футов of you. The spheres last as long as you concentrate (as if concentrating on a spell), up to 1 minute. Each sphere sheds dim light in a 30-футовый radius.
+Каждая сфера появляется в незанятом пространстве, которое вы видите, в пределах 120 футов от вас. Сферы существуют, пока вы поддерживаете концентрацию (как при концентрации на заклинании), до 1 минуты. Каждая сфера испускает тусклый свет в радиусе 30 футов.
 
-As a bonus action, you can move each sphere up to 30 футов, but no farther than 120 футов away from you. When a creature other than you comes within 5 футов of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a СЛ 15 Dexterity saving throw. On a failed save, the creature takes lightning damage based on the number of spheres you created.
+Бонусным действием вы можете переместить каждую сферу на расстояние до 30 футов, но не далее 120 футов от вас. Когда существо, кроме вас, оказывается в пределах 5 футов от сферы, сфера разряжает молнию в это существо и исчезает. Это существо должно совершить спасбросок Ловкости СЛ 15. При провале существо получает урон электричеством в зависимости от количества созданных вами сфер.
 
 Таблица: Кольцо стрельбы звёздами
 
-| Spheres | Электричество Damage |
+| Сферы   | Урон электричеством |
 |---|---|
-| 4       | 2к4              |
-| 3       | 2к6              |
-| 2       | 5к4              |
-| 1       | 4к12             |
+| 4       | 2к4                 |
+| 3       | 2к6                 |
+| 2       | 5к4                 |
+| 1       | 4к12                |
 
-**_Shooting Stars._** You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 футов of you. Each creature within a 15-футовый cube originating from that point is showered in sparks and must make a СЛ 15 Dexterity saving throw, taking 5к4 fire damage on a failed save, or half as much damage on a successful one.
+**_Стрельба звёздами._** Вы можете действием потратить от 1 до 3 зарядов. За каждый потраченный заряд вы запускаете светящуюся искру из кольца в точку, которую видите, в пределах 60 футов от вас. Каждое существо в кубе со стороной 15 футов, исходящем из этой точки, осыпается искрами и должно совершить спасбросок Ловкости СЛ 15, получая 5к4 урона огнём при провале или половину урона при успехе.
 
 #### Кольцо хранения заклинаний (Ring of Spell Storing)
 
 *Кольцо, редкий (требуется настройка)*
 
-This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1к6 - 1 levels of stored spells chosen by the GM.
+Это кольцо хранит заклинания, наложенные в него, удерживая их, пока настроенный носитель не использует их. Кольцо может хранить заклинания общей стоимостью до 5 уровней одновременно. При обнаружении оно содержит 1к6 - 1 уровней хранимых заклинаний, выбранных Мастером.
 
-Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
+Любое существо может наложить заклинание 1-го — 5-го уровня в кольцо, касаясь кольца при наложении заклинания. Заклинание не оказывает никакого эффекта, кроме сохранения в кольце. Если кольцо не может вместить заклинание, заклинание расходуется без эффекта. Уровень ячейки, использованной для наложения заклинания, определяет, сколько места оно занимает.
 
-While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save СЛ, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
+Нося это кольцо, вы можете наложить любое хранимое в нём заклинание. Заклинание использует уровень ячейки, СЛ спасброска, бонус атаки заклинанием и заклинательную характеристику изначального заклинателя, но в остальном считается, что заклинание наложили вы. Наложенное из кольца заклинание больше не хранится в нём, освобождая место.
 
 #### Кольцо отражения заклинаний (Ring of Spell Turning)
 
 *Кольцо, легендарный (требуется настройка)*
 
-While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save СЛ, attack bonus, and spellcasting ability of the caster.
+Нося это кольцо, вы совершаете с преимуществом спасброски от любого заклинания, нацеленного только на вас (не по области). Кроме того, если вы выбросили 20 на спасброске и заклинание 7-го уровня или ниже, заклинание не оказывает на вас эффекта и вместо этого нацеливается на заклинателя, используя уровень ячейки, СЛ спасброска, бонус атаки и заклинательную характеристику заклинателя.
 
 #### Кольцо плавания (Ring of Swimming)
 
 *Кольцо, необычный*
 
-You have a swimming speed of 40 футов while wearing this ring.
+Нося это кольцо, вы обладаете скоростью плавания 40 футов.
 
 #### Кольцо телекинеза (Ring of Telekinesis)
 
 *Кольцо, очень редкий (требуется настройка)*
 
-While wearing this ring, you can cast the *телекинез* spell at will, but you can target only objects that aren't being worn or carried.
+Нося это кольцо, вы можете по желанию накладывать заклинание *телекинез*, но можете нацеливать только предметы, которые никто не носит и не несёт.
 
 #### Кольцо тарана (Ring of the Ram)
 
 *Кольцо, редкий (требуется настройка)*
 
-This ring has 3 charges, and it regains 1к3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 футов of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2к10 force damage and is pushed 5 футов away from you.
+У этого кольца есть 3 заряда, и оно ежедневно восстанавливает 1к3 потраченных заряда на рассвете. Нося кольцо, вы можете действием потратить от 1 до 3 зарядов, чтобы атаковать одно существо, которое вы видите, в пределах 60 футов от вас. Кольцо создаёт призрачную голову барана и совершает бросок атаки с бонусом +7. При попадании за каждый потраченный заряд цель получает 2к10 урона силовым полем и отталкивается на 5 футов от вас.
 
-Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 футов of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
+Альтернативно, вы можете действием потратить от 1 до 3 зарядов кольца, чтобы попытаться сломать предмет, который вы видите, в пределах 60 футов от вас, который никто не носит и не несёт. Кольцо совершает проверку Силы с бонусом +5 за каждый потраченный заряд.
 
 #### Кольцо трёх желаний (Ring of Three Wishes)
 
 *Кольцо, легендарный*
 
-While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the *исполнение желаний* spell from it. The ring becomes nonmagical when you use the last charge.
+Нося это кольцо, вы можете действием потратить 1 из его 3 зарядов, чтобы наложить из него заклинание *исполнение желаний*. Кольцо становится немагическим, когда вы используете последний заряд.
 
 #### Кольцо тепла (Ring of Warmth)
 
 *Кольцо, необычный (требуется настройка)*
 
-While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit.
+Нося это кольцо, вы обладаете сопротивлением к урону холодом. Кроме того, вы и всё, что вы носите и несёте, не страдаете от температур до -50 градусов по Фаренгейту.
 
 #### Кольцо хождения по воде (Ring of Water Walking)
 
 *Кольцо, необычный*
 
-While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
+Нося это кольцо, вы можете стоять на любой жидкой поверхности и перемещаться по ней, как по твёрдой земле.
 
 #### Кольцо рентгеновского зрения (Ring of X-ray Vision)
 
 *Кольцо, редкий (требуется настройка)*
 
-While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 футов. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 фут of stone, 1 inch of common metal, or up to 3 футов of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.
+Нося это кольцо, вы можете действием произнести его командное слово. Когда вы это делаете, вы можете видеть сквозь твёрдую материю в течение 1 минуты. Это зрение имеет радиус 30 футов. Для вас твёрдые предметы в этом радиусе выглядят прозрачными и не препятствуют прохождению света. Зрение проникает сквозь 1 фут камня, 1 дюйм обычного металла или до 3 футов дерева или земли. Более толстые материалы блокируют зрение, как и тонкий лист свинца.
 
-Whenever you use the ring again before taking a long rest, you must succeed on a СЛ 15 Constitution saving throw or gain one level of exhaustion.
+Каждый раз, когда вы используете кольцо снова до совершения продолжительного отдыха, вы должны преуспеть в спасброске Телосложения СЛ 15 или получить один уровень истощения.
 
 #### Мантия глаз (Robe of Eyes)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
+Эта мантия украшена узорами в виде глаз. Пока вы носите мантию, вы получаете следующие преимущества:
 
-- The robe lets you see in all directions, and you have advantage on Wisdom (Perception) checks that rely on sight.
-- You have darkvision out to a range of 120 футов.
-- You can see invisible creatures and objects, as well as see into the Ethereal Plane, out to a range of 120 футов.
+- Мантия позволяет вам видеть во всех направлениях, и вы совершаете с преимуществом проверки Мудрости (Внимательность), основанные на зрении.
+- Вы обладаете тёмным зрением в радиусе 120 футов.
+- Вы можете видеть невидимых существ и предметы, а также видеть Эфирный План в радиусе 120 футов.
 
-The eyes on the robe can't be closed or averted. Although you can close or avert your own eyes, you are never considered to be doing so while wearing this robe.
+Глаза на мантии нельзя закрыть или отвернуть. Хотя вы можете закрыть или отвернуть собственные глаза, считается, что вы никогда этого не делаете, пока носите эту мантию.
 
-A *свет* spell cast on the robe or a *дневной свет* spell cast within 5 футов of the robe causes you to be blinded for 1 minute. At the end of each of your turns, you can make a Constitution saving throw (СЛ 11 for *свет* or СЛ 15 for *дневной свет*), ending the blindness on a success.
+Заклинание *свет*, наложенное на мантию, или заклинание *дневной свет*, наложенное в пределах 5 футов от мантии, ослепляет вас на 1 минуту. В конце каждого вашего хода вы можете совершить спасбросок Телосложения (СЛ 11 для *света* или СЛ 15 для *дневного света*), оканчивая ослепление при успехе.
 
 #### Мантия мерцающих цветов (Robe of Scintillating Colors)
 
 *Чудесный предмет, очень редкий (требуется настройка)*
 
-This robe has 3 charges, and it regains 1к3 expended charges daily at dawn. While you wear it, you can use an action and expend 1 charge to cause the garment to display a shifting pattern of dazzling hues until the end of your next turn. During this time, the robe sheds bright light in a 30-футовый radius and dim light for an additional 30 футов. Creatures that can see you have disadvantage on attack rolls against you. In addition, any creature in the bright light that can see you when the robe's power is activated must succeed on a СЛ 15 Wisdom saving throw or become stunned until the effect ends.
+У этой мантии есть 3 заряда, и она ежедневно восстанавливает 1к3 потраченных заряда на рассвете. Пока вы её носите, вы можете действием потратить 1 заряд, чтобы заставить одеяние отображать переливающийся узор ослепительных оттенков до конца вашего следующего хода. В это время мантия испускает яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов. Существа, которые вас видят, совершают с помехой броски атаки по вам. Кроме того, любое существо в ярком свете, которое видит вас, когда сила мантии активирована, должно преуспеть в спасброске Мудрости СЛ 15 или стать ошеломлённым до окончания эффекта.
 
 #### Мантия звёзд (Robe of Stars)
 
 *Чудесный предмет, очень редкий (требуется настройка)*
 
-This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
+Эта чёрная или тёмно-синяя мантия расшита маленькими белыми или серебряными звёздами. Вы получаете бонус +1 к спасброскам, пока носите её.
 
-Six stars, located on the robe's upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast *магическая стрела* as a 5th-level spell. Daily at dusk, 1к6 removed stars reappear on the robe.
+Шесть звёзд, расположенных на верхней передней части мантии, особенно крупные. Нося эту мантию, вы можете действием оторвать одну из звёзд и использовать её, чтобы наложить *магическую стрелу* как заклинание 5-го уровня. Ежедневно на закате 1к6 удалённых звёзд появляются на мантии снова.
 
-While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.
+Нося мантию, вы можете действием войти в Астральный План вместе со всем, что вы носите и несёте. Вы остаётесь там, пока не используете действие, чтобы вернуться на план, на котором были. Вы появляетесь в последнем занимаемом вами пространстве, или, если оно занято, в ближайшем незанятом пространстве.
 
 #### Мантия архимага (Robe of the Archmagi)
 
 *Чудесный предмет, легендарный (требуется настройка чародеем, колдуном или волшебником)*
 
-This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a *Мантия архимага* that doesn't correspond to your alignment.
+Это элегантное одеяние сшито из изысканной ткани белого, серого или чёрного цвета и украшено серебряными рунами. Цвет мантии соответствует мировоззрению, для которого был создан предмет. Белая мантия создана для добра, серая — для нейтралитета, а чёрная — для зла. Вы не можете настроиться на *Мантию архимага*, не соответствующую вашему мировоззрению.
 
-You gain these benefits while wearing the robe:
+Вы получаете следующие преимущества, нося мантию:
 
-- If you aren't wearing armor, your base Armor Class is 15+your Dexterity modifier.
-- You have advantage on saving throws against spells and other magical effects.
-- Your spell save СЛ and spell attack bonus each increase by 2.
+- Если вы не носите доспех, ваш базовый Класс Доспеха равен 15 + ваш модификатор Ловкости.
+- Вы совершаете с преимуществом спасброски от заклинаний и других магических эффектов.
+- Ваша СЛ спасброска от заклинаний и ваш бонус атаки заклинанием увеличиваются на 2.
 
 #### Мантия полезных вещей (Robe of Useful Items)
 
 *Чудесный предмет, необычный*
 
-This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
+Эта мантия покрыта тканевыми заплатками различных форм и цветов. Нося мантию, вы можете действием отсоединить одну из заплаток, превращая её в предмет или существо, которое она изображает. Когда последняя заплатка удалена, мантия становится обычной одеждой.
 
-The robe has two of each of the following patches:
+У мантии есть по две штуки каждой из следующих заплаток:
 
-- Dagger
-- Bullseye lantern (filled and lit)
-- Steel mirror
-- 10-футовый pole
-- Hempen rope (50 футов, coiled)
-- Sack
+- Кинжал
+- Направленный фонарь (заправленный и зажжённый)
+- Стальное зеркало
+- Шест длиной 10 футов
+- Пеньковая верёвка (50 футов, свёрнутая)
+- Мешок
 
-In addition, the robe has 4к4 other patches. The GM chooses the patches or determines them randomly.
+Кроме того, у мантии есть 4к4 других заплаток. Мастер выбирает заплатки или определяет их случайным образом.
 
 Таблица: Мантия полезных вещей
 
-| 1к100   | Patch                                                                                                                                                                                             |
+| 1к100   | Заплатка                                                                                                                                                                                            |
 |---|---|
-| 01-08  | Bag of 100 зм                                                                                                                                                                                     |
-| 09-15  | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 зм                                                                                                                                  |
-| 16-22  | Iron door (up to 10 футов wide and 10 футов high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
-| 23-30  | 10 gems worth 100 зм each                                                                                                                                                                         |
-| 31-44  | Wooden ladder (24 футов long) 45-51 A riding horse with saddle bags                                                                                                                                |
-| 52-59  | Pit (a cube 10 футов on a side), which you can place on the ground within 10 футов of you                                                                                                           |
-| 60-68  | 4 potions of healing                                                                                                                                                                              |
-| 69-75  | Rowboat (12 футов long)                                                                                                                                                                            |
-| 76-83  | Spell scroll containing one spell of 1st to 3rd level                                                                                                                                             |
-| 84-90  | 2 mastiffs                                                                                                                                                                                        |
-| 91-96  | Window (2 футов by 4 футов, up to 2 футов deep), which you can place on a vertical surface you can reach                                                                                             |
-| 97-100 | Portable ram                                                                                                                                                                                      |
+| 01-08  | Сумка со 100 зм                                                                                                                                                                                     |
+| 09-15  | Серебряный ларец (1 фут длиной, 6 дюймов шириной и глубиной) стоимостью 500 зм                                                                                                                      |
+| 16-22  | Железная дверь (до 10 футов шириной и 10 футов высотой, с засовом с одной стороны на ваш выбор), которую вы можете поместить в проём, до которого можете дотянуться; она подгоняется под проём, крепится и оснащается петлями |
+| 23-30  | 10 самоцветов стоимостью 100 зм каждый                                                                                                                                                               |
+| 31-44  | Деревянная лестница (24 фута длиной) 45-51 Верховая лошадь с переметными сумками                                                                                                                     |
+| 52-59  | Яма (куб со стороной 10 футов), которую вы можете поместить на землю в пределах 10 футов от вас                                                                                                       |
+| 60-68  | 4 зелья лечения                                                                                                                                                                                      |
+| 69-75  | Гребная лодка (12 футов длиной)                                                                                                                                                                      |
+| 76-83  | Свиток заклинания, содержащий одно заклинание 1-го — 3-го уровня                                                                                                                                     |
+| 84-90  | 2 мастифа                                                                                                                                                                                            |
+| 91-96  | Окно (2 фута на 4 фута, до 2 футов глубиной), которое вы можете поместить на вертикальную поверхность, до которой можете дотянуться                                                                   |
+| 97-100 | Переносной таран                                                                                                                                                                                     |
 
 #### Жезл поглощения (Rod of Absorption)
 
 *Жезл, очень редкий (требуется настройка)*
 
-While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell's energy-not the spell itself-is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can't absorb more. If you are targeted by a spell that the rod can't store, the rod has no effect on that spell.
+Держа этот жезл, вы можете реакцией поглотить заклинание, нацеленное только на вас и не являющееся областным эффектом. Эффект поглощённого заклинания отменяется, а энергия заклинания — не само заклинание — сохраняется в жезле. Энергия имеет тот же уровень, что и заклинание при его наложении. Жезл может поглотить и сохранить до 50 уровней энергии за всё время своего существования. Когда жезл поглотит 50 уровней энергии, он больше не может поглощать. Если вы являетесь целью заклинания, которое жезл не может сохранить, жезл не оказывает влияния на это заклинание.
 
-When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.
+Когда вы настраиваетесь на жезл, вы узнаёте, сколько уровней энергии жезл поглотил за всё время своего существования и сколько уровней энергии заклинаний он хранит в данный момент.
 
-If you are a spellcaster holding the rod, you can convert energy stored in it into spell slots to cast spells you have prepared or know. You can create spell slots only of a level equal to or lower than your own spell slots, up to a maximum of 5th level. You use the stored levels in place of your slots, but otherwise cast the spell as normal. For example, you can use 3 levels stored in the rod as a 3rd-level spell slot.
+Если вы заклинатель, держащий жезл, вы можете преобразовать хранимую в нём энергию в ячейки заклинаний для наложения подготовленных или известных вам заклинаний. Вы можете создавать ячейки заклинаний только того уровня, который равен или ниже уровня ваших собственных ячеек, максимум 5-го уровня. Вы используете хранимые уровни вместо своих ячеек, но в остальном накладываете заклинание как обычно. Например, вы можете использовать 3 уровня, хранимых в жезле, как ячейку заклинания 3-го уровня.
 
-A newly found rod has 1к10 levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
+Недавно найденный жезл уже содержит 1к10 уровней энергии заклинаний. Жезл, который больше не может поглощать энергию заклинаний и не имеет оставшейся энергии, становится немагическим.
 
 #### Жезл бдительности (Rod of Alertness)
 
 *Жезл, очень редкий (требуется настройка)*
 
-This rod has a flanged head and the following properties.
+У этого жезла фланцевая головка и следующие свойства.
 
-**_Alertness._** While holding the rod, you have advantage on Wisdom (Perception) checks and on rolls for initiative.
+**_Бдительность._** Держа жезл, вы совершаете с преимуществом проверки Мудрости (Внимательность) и броски инициативы.
 
-**_Заклинания._** While holding the rod, you can use an action to cast one of the following spells from it: *обнаружение добра и зла*, *обнаружение магии*, *обнаружение яда и болезни*, or *see invisibility.*
+**_Заклинания._** Держа жезл, вы можете действием наложить из него одно из следующих заклинаний: *обнаружение добра и зла*, *обнаружение магии*, *обнаружение яда и болезни* или *невидимость для нежити.*
 
-**_Protective Aura._** As an action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds bright light in a 60-футовый radius and dim light for an additional 60 футов. While in that bright light, you and any creature that is friendly to you gain a +1 bonus to КД and saving throws and can sense the location of any invisible hostile creature that is also in the bright light.
+**_Защитная аура._** Действием вы можете воткнуть рукоятку жезла в землю, после чего головка жезла начинает испускать яркий свет в радиусе 60 футов и тусклый свет ещё на 60 футов. Находясь в этом ярком свете, вы и любое дружественное к вам существо получаете бонус +1 к КД и спасброскам и можете ощущать местоположение любого невидимого враждебного существа, также находящегося в ярком свете.
 
-The rod's head stops glowing and the effect ends after 10 minutes, or when a creature uses an action to pull the rod from the ground. This property can't be used again until the next dawn.
+Головка жезла перестаёт светиться, и эффект оканчивается через 10 минут или когда существо действием вытащит жезл из земли. Это свойство нельзя использовать снова до следующего рассвета.
 
 #### Жезл владычества (Rod of Lordly Might)
 
 *Жезл, легендарный (требуется настройка)*
 
-This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
+У этого жезла фланцевая головка, и он работает как магическая булава, дающая бонус +3 к броскам атаки и урона, совершаемым им. У жезла есть свойства, связанные с шестью различными кнопками, расположенными в ряд вдоль рукоятки. У него также есть три других свойства, описанных ниже.
 
-**_Six Buttons._** You can press one of the rod's six buttons as a bonus action. A button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
+**_Шесть кнопок._** Вы можете бонусным действием нажать одну из шести кнопок жезла. Эффект кнопки длится, пока вы не нажмёте другую кнопку или ту же кнопку снова, что заставляет жезл вернуться в обычную форму.
 
-If you press **button 1**, the rod becomes a *Пламенный язык*, as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
+Если вы нажимаете **кнопку 1**, жезл становится *Пламенным языком*, поскольку огненный клинок вырастает из конца, противоположного фланцевой головке жезла (вы выбираете тип меча).
 
-If you press **button 2**, the rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
+Если вы нажимаете **кнопку 2**, фланцевая головка жезла складывается, и два серповидных лезвия выскакивают наружу, превращая жезл в магический боевой топор, дающий бонус +3 к броскам атаки и урона, совершаемым им.
 
-If you press **button 3**, the rod's flanged head folds down, a spear point springs from the rod's tip, and the rod's handle lengthens into a 6-футовый haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.
+Если вы нажимаете **кнопку 3**, фланцевая головка жезла складывается, наконечник копья выскакивает из кончика жезла, а рукоять удлиняется до 6-футового древка, превращая жезл в магическое копьё, дающее бонус +3 к броскам атаки и урона, совершаемым им.
 
-If you press **button 4**, the rod transforms into a climbing pole up to 50 футов long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 фут apart, forming a ladder. The pole can bear up to 4,000 pounds. More weight or lack of solid anchoring causes the rod to revert to its normal form.
+Если вы нажимаете **кнопку 4**, жезл превращается в шест для лазания длиной до 50 футов, как вы укажете. В поверхностях твёрдых, как гранит, шип на дне и три крюка наверху закрепляют шест. Горизонтальные перекладины длиной 3 дюйма выдвигаются по бокам через каждый 1 фут, образуя лестницу. Шест выдерживает до 4000 фунтов. Больший вес или отсутствие надёжного крепления заставляет жезл вернуться в обычную форму.
 
-If you press **button 5**, the rod transforms into a handheld battering ram and grants its user a +10 bonus to Strength checks made to break through doors, barricades, and other barriers.
+Если вы нажимаете **кнопку 5**, жезл превращается в ручной таран и даёт своему пользователю бонус +10 к проверкам Силы, совершаемым для пролома дверей, баррикад и других преград.
 
-If you press **button 6**, the rod assumes or remains in its normal form and indicates magnetic north. (Nothing happens if this function of the rod is used in a location that has no magnetic north.) The rod also gives you knowledge of your approximate depth beneath the ground or your height above it.
+Если вы нажимаете **кнопку 6**, жезл принимает или остаётся в своей обычной форме и указывает на магнитный север. (Ничего не происходит, если эта функция жезла используется в месте, где нет магнитного севера.) Жезл также сообщает вам приблизительную глубину под землёй или высоту над ней.
 
-**_Drain Life._** When you hit a creature with a melee attack using the rod, you can force the target to make a СЛ 17 Constitution saving throw. On a failure, the target takes an extra 4к6 necrotic damage, and you regain a number of hit points equal to half that necrotic damage. This property can't be used again until the next dawn.
+**_Высасывание жизни._** Когда вы попадаете по существу рукопашной атакой с помощью жезла, вы можете заставить цель совершить спасбросок Телосложения СЛ 17. При провале цель получает дополнительно 4к6 урона некротической энергией, и вы восстанавливаете количество хитов, равное половине этого некротического урона. Это свойство нельзя использовать снова до следующего рассвета.
 
-**_Paralyze._** When you hit a creature with a melee attack using the rod, you can force the target to make a СЛ 17 Strength saving throw. On a failure, the target is paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
+**_Паралич._** Когда вы попадаете по существу рукопашной атакой с помощью жезла, вы можете заставить цель совершить спасбросок Силы СЛ 17. При провале цель становится парализованной на 1 минуту. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе. Это свойство нельзя использовать снова до следующего рассвета.
 
-**_Terrify._** While holding the rod, you can use an action to force each creature you can see within 30 футов of you to make a СЛ 17 Wisdom saving throw. On a failure, a target is frightened of you for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
+**_Устрашение._** Держа жезл, вы можете действием заставить каждое существо, которое вы видите в пределах 30 футов от вас, совершить спасбросок Мудрости СЛ 17. При провале цель становится испуганной вами на 1 минуту. Испуганная цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Это свойство нельзя использовать снова до следующего рассвета.
 
 #### Жезл повелителя (Rod of Rulership)
 
 *Жезл, редкий (требуется настройка)*
 
-You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 футов of you. Each target must succeed on a СЛ 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn.
+Вы можете действием предъявить жезл и потребовать подчинения от каждого существа на ваш выбор, которое вы видите в пределах 120 футов от вас. Каждая цель должна преуспеть в спасброске Мудрости СЛ 15 или стать очарованной вами на 8 часов. Будучи очарованным таким образом, существо считает вас своим доверенным лидером. Если вы или ваши спутники причиняете ему вред или приказываете сделать что-то, противоречащее его природе, цель перестаёт быть очарованной. Жезл нельзя использовать снова до следующего рассвета.
 
 #### Жезл безопасности (Rod of Security)
 
 *Жезл, очень редкий*
 
-While holding this rod, you can use an action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a paradise that exists in an extraplanar space. You choose the form that the paradise takes. It could be a tranquil garden, lovely glade, cheery tavern, immense palace, tropical island, fantastic carnival, or whatever else you can imagine. Regardless of its nature, the paradise contains enough water and food to sustain its visitors. Everything else that can be interacted with inside the extraplanar space can exist only there. For example, a flower picked from a garden in the paradise disappears if it is taken outside the extraplanar space.
+Держа этот жезл, вы можете действием активировать его. Жезл мгновенно переносит вас и до 199 других согласных существ, которых вы видите, в рай, существующий во внепланарном пространстве. Вы выбираете форму, которую принимает этот рай. Это может быть спокойный сад, прекрасная поляна, уютная таверна, огромный дворец, тропический остров, фантастический карнавал или всё, что вы можете себе представить. Независимо от своей природы, рай содержит достаточно воды и пищи для поддержания своих посетителей. Всё остальное, с чем можно взаимодействовать внутри внепланарного пространства, может существовать только там. Например, цветок, сорванный в саду рая, исчезает, если его вынести из внепланарного пространства.
 
-For each hour spent in the paradise, a visitor regains hit points as if it had spent 1 Hit Die. Also, creatures don't age while in the paradise, although time passes normally. Visitors can remain in the paradise for up to 200 days divided by the number of creatures present (round down).
+За каждый час, проведённый в раю, посетитель восстанавливает хиты, как если бы потратил 1 Кость Хитов. Кроме того, существа не стареют, находясь в раю, хотя время течёт нормально. Посетители могут оставаться в раю до 200 дней, разделённых на количество присутствующих существ (с округлением вниз).
 
-When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed.
+Когда время истекает или вы действием оканчиваете эффект, все посетители снова появляются в месте, которое они занимали, когда вы активировали жезл, или в ближайшем незанятом пространстве. Жезл нельзя использовать снова, пока не пройдёт десять дней.
 
 #### Верёвка лазания (Rope of Climbing)
 
 *Чудесный предмет, необычный*
 
-This 60-футовый length of silk rope weighs 3 pounds and can hold up to 3,000 pounds. If you hold one end of the rope and use an action to speak the command word, the rope animates. As a bonus action, you can command the other end to move toward a destination you choose. That end moves 10 футов on your turn when you first command it and 10 футов on each of your turns until reaching its destination, up to its maximum length away, or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
+Этот 60-футовый отрезок шёлковой верёвки весит 3 фунта и выдерживает до 3000 фунтов. Если вы держите один конец верёвки и используете действие для произнесения командного слова, верёвка оживает. Бонусным действием вы можете приказать другому концу двигаться к выбранному вами месту назначения. Этот конец перемещается на 10 футов в ваш ход, когда вы впервые отдаёте команду, и на 10 футов в каждый ваш последующий ход, пока не достигнет места назначения, максимальной длины или пока вы не прикажете ему остановиться. Вы также можете приказать верёвке надёжно прикрепиться к предмету или открепиться, завязаться или развязаться в узлы, или свернуться для переноски.
 
-If you tell the rope to knot, large knots appear at 1-футовый intervals along the rope. While knotted, the rope shortens to a 50-футовый length and grants advantage on checks made to climb it.
+Если вы прикажете верёвке завязаться, крупные узлы появляются через каждый 1 фут по всей верёвке. В завязанном виде верёвка укорачивается до 50 футов и даёт преимущество на проверки, совершаемые для лазания по ней.
 
-The rope has КД 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
+У верёвки КД 20 и 20 хитов. Она восстанавливает 1 хит каждые 5 минут, пока у неё есть хотя бы 1 хит. Если хиты верёвки падают до 0, она уничтожается.
 
 #### Верёвка опутывания (Rope of Entanglement)
 
 *Чудесный предмет, редкий*
 
-This rope is 30 футов long and weighs 3 pounds. If you hold one end of the rope and use an action to speak its command word, the other end darts forward to entangle a creature you can see within 20 футов of you. The target must succeed on a СЛ 15 Dexterity saving throw or become restrained.
+Эта верёвка длиной 30 футов весит 3 фунта. Если вы держите один конец верёвки и используете действие для произнесения командного слова, другой конец устремляется вперёд, чтобы опутать существо, которое вы видите в пределах 20 футов от вас. Цель должна преуспеть в спасброске Ловкости СЛ 15 или стать обездвиженной.
 
-You can release the creature by using a bonus action to speak a second command word. A target restrained by the rope can use an action to make a СЛ 15 Strength or Dexterity check (target's choice). On a success, the creature is no longer restrained by the rope.
+Вы можете освободить существо, бонусным действием произнеся второе командное слово. Цель, обездвиженная верёвкой, может действием совершить проверку Силы или Ловкости СЛ 15 (на выбор цели). При успехе существо больше не обездвижено верёвкой.
 
-The rope has КД 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
+У верёвки КД 20 и 20 хитов. Она восстанавливает 1 хит каждые 5 минут, пока у неё есть хотя бы 1 хит. Если хиты верёвки падают до 0, она уничтожается.
 
 #### Скарабей защиты (Scarab of Protection)
 
 *Чудесный предмет, легендарный (требуется настройка)*
 
-If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:
+Если вы держите этот медальон в форме жука в руке в течение 1 раунда, на его поверхности появляется надпись, раскрывающая его магическую природу. Он даёт два преимущества, пока находится при вас:
 
-- You have advantage on saving throws against spells.
-- The scarab has 12 charges. If you fail a saving throw against a necromancy spell or a harmful effect originating from an undead creature, you can use your reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.
+- Вы совершаете с преимуществом спасброски от заклинаний.
+- У скарабея есть 12 зарядов. Если вы проваливаете спасбросок от заклинания школы некромантии или вредоносного эффекта, исходящего от нежити, вы можете реакцией потратить 1 заряд и превратить проваленный спасбросок в успешный. Скарабей рассыпается в порошок и уничтожается, когда потрачен его последний заряд.
 
 #### Скимитар скорости (Scimitar of Speed)
 
 *Оружие (скимитар), очень редкий (требуется настройка)*
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
+Вы получаете бонус +2 к броскам атаки и урона, совершаемым этим магическим оружием. Кроме того, вы можете бонусным действием совершить одну атаку им в каждый свой ход.
 
 #### Щит ловли стрел (Shield of Missile Attraction)
 
 *Доспех (щит), редкий (требуется настройка)*
 
-While holding this shield, you have resistance to damage from ranged weapon attacks.
+Держа этот щит, вы обладаете сопротивлением к урону от дальнобойных атак оружием.
 
-**_Проклятие._** This shield is cursed. Attuning to it curses you until you are targeted by the *снятие проклятия* spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 футов of you, the curse causes you to become the target instead.
+**_Проклятие._** Этот щит проклят. Настройка на него проклинает вас, пока вы не станете целью заклинания *снятие проклятия* или подобной магии. Снятие щита не снимает с вас проклятие. Каждый раз, когда дальнобойная атака оружием совершается по цели в пределах 10 футов от вас, проклятие делает вас целью вместо неё.
 
 #### Щит, +1, +2 или +3 (Shield, +1, +2, or +3)
 
 *Доспех (щит), необычный (+1), редкий (+2) или очень редкий (+3)*
 
-While holding this shield, you have a bonus to КД determined by the shield's rarity. This bonus is in addition to the shield's normal bonus to КД.
+Держа этот щит, вы получаете бонус к КД, определяемый редкостью щита. Этот бонус добавляется к обычному бонусу щита к КД.
 
 #### Тапочки паучьего лазания (Slippers of Spider Climbing)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While you wear these light shoes, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. You have a climbing speed equal to your walking speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
+Нося эти лёгкие туфли, вы можете перемещаться вверх, вниз и по вертикальным поверхностям, а также вверх ногами по потолкам, оставляя руки свободными. У вас есть скорость лазания, равная вашей скорости ходьбы. Однако тапочки не позволяют двигаться таким образом по скользкой поверхности, например, покрытой льдом или маслом.
 
 #### Суверенный клей (Sovereign Glue)
 
 *Чудесный предмет, легендарный*
 
-This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with *Масло скольжения*. When found, a container contains 1к6 + 1 ounces.
+Это вязкое молочно-белое вещество может образовывать постоянное клеевое соединение между любыми двумя предметами. Его нужно хранить в банке или фляге, покрытой изнутри *Маслом скольжения*. При обнаружении контейнер содержит 1к6 + 1 унций.
 
-One ounce of the glue can cover a 1-футовый square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of *Универсальный растворитель* or *Масло эфирности*, or with a *исполнение желаний* spell.
+Одна унция клея может покрыть квадратную поверхность со стороной 1 фут. Клею нужна 1 минута, чтобы застыть. После этого созданное им соединение можно разрушить только с помощью *Универсального растворителя* или *Масла эфирности*, или заклинанием *исполнение желаний*.
 
 #### Свиток заклинания (Spell Scroll)
 
 *Свиток, варьируется*
 
-A *Свиток заклинания* bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.
+*Свиток заклинания* содержит слова одного заклинания, записанные мистическим шифром. Если заклинание есть в списке заклинаний вашего класса, вы можете действием прочитать свиток и наложить его заклинание, не предоставляя компонентов заклинания. В противном случае свиток неразборчив.
 
-If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The СЛ equals 10+the spell's level. On a failed check, the spell disappears from the scroll with no other effect. Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.
+Если заклинание есть в списке заклинаний вашего класса, но его уровень выше того, что вы обычно можете накладывать, вы должны совершить проверку характеристики, используя вашу заклинательную характеристику, чтобы определить, успешно ли вы его наложили. СЛ равна 10 + уровень заклинания. При провале проверки заклинание исчезает со свитка без какого-либо другого эффекта. После наложения заклинания слова на свитке тускнеют, и сам свиток рассыпается в пыль.
 
-The level of the spell on the scroll determines the spell's saving throw СЛ and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
+Уровень заклинания на свитке определяет СЛ спасброска заклинания и бонус атаки, а также редкость свитка, как показано в таблице «Свиток заклинания».
 
 Таблица: Свиток заклинания
 
 | Уровень заклинания | Редкость    | СЛ спасения | Бонус атаки |
 |---|---|---|---|
-| Cantrip     | Common    | 13      | +5           |
-| 1st         | Common    | 13      | +5           |
-| 2nd         | Uncommon  | 13      | +5           |
-| 3rd         | Uncommon  | 15      | +7           |
-| 4th         | Rare      | 15      | +7           |
-| 5th         | Rare      | 17      | +9           |
-| 6th         | Very rare | 17      | +9           |
-| 7th         | Very rare | 18      | +10          |
-| 8th         | Very rare | 18      | +10          |
-| 9th         | Legendary | 19      | +11          |
+| Заговор      | Обычный     | 13      | +5           |
+| 1-й         | Обычный     | 13      | +5           |
+| 2-й         | Необычный   | 13      | +5           |
+| 3-й         | Необычный   | 15      | +7           |
+| 4-й         | Редкий      | 15      | +7           |
+| 5-й         | Редкий      | 17      | +9           |
+| 6-й         | Очень редкий| 17      | +9           |
+| 7-й         | Очень редкий| 18      | +10          |
+| 8-й         | Очень редкий| 18      | +10          |
+| 9-й         | Легендарный | 19      | +11          |
 
-A wizard spell on a *Свиток заклинания* can be copied just as spells in spellbooks can be copied. When a spell is copied from a the copier must succeed on an Intelligence (Arcana) check with a СЛ equal to 10+the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *Свиток заклинания* is destroyed.
+Заклинание волшебника на *Свитке заклинания* можно скопировать так же, как копируются заклинания в книгах заклинаний. При копировании заклинания переписчик должен преуспеть в проверке Интеллекта (Магия) с СЛ, равной 10 + уровень заклинания. При успехе проверки заклинание успешно скопировано. Независимо от того, успешна проверка или нет, *Свиток заклинания* уничтожается.
 
 #### Щит защиты от заклинаний (Spellguard Shield)
 
 *Доспех (щит), очень редкий (требуется настройка)*
 
-While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
+Держа этот щит, вы совершаете с преимуществом спасброски от заклинаний и других магических эффектов, а атаки заклинаниями совершаются по вам с помехой.
 
 #### Сфера уничтожения (Sphere of Annihilation)
 
 *Чудесный предмет, легендарный*
 
-This 2-футовый diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
+Эта чёрная сфера диаметром 2 фута является дырой в мультивселенной, парящей в пространстве и стабилизированной окружающим её магическим полем.
 
-The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an artifact is susceptible to damage from a *Сфера уничтожения*, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 4к10 force damage.
+Сфера уничтожает всю материю, через которую проходит, и всю материю, которая проходит через неё. Артефакты являются исключением. Если артефакт не уязвим к урону от *Сферы уничтожения*, он проходит сквозь сферу невредимым. Всё остальное, что касается сферы, но не поглощается и не уничтожается ею полностью, получает 4к10 урона силовым полем.
 
-The sphere is stationary until someone controls it. If you are within 60 футов of an uncontrolled sphere, you can use an action to make a СЛ 25 Intelligence (Arcana) check. On a success, the sphere levitates in one direction of your choice, up to a number of футов equal to 5 × your Intelligence modifier (minimum 5 футов). On a failure, the sphere moves 10 футов toward you. A creature whose space the sphere enters must succeed on a СЛ 13 Dexterity saving throw or be touched by it, taking 4к10 force damage.
+Сфера неподвижна, пока кто-нибудь не начнёт ею управлять. Если вы находитесь в пределах 60 футов от неуправляемой сферы, вы можете действием совершить проверку Интеллекта (Магия) СЛ 25. При успехе сфера левитирует в выбранном вами направлении на количество футов, равное 5 × ваш модификатор Интеллекта (минимум 5 футов). При провале сфера перемещается на 10 футов к вам. Существо, в чьё пространство входит сфера, должно преуспеть в спасброске Ловкости СЛ 13 или быть затронутым ею, получая 4к10 урона силовым полем.
 
-If you attempt to control a sphere that is under another creature's control, you make an Intelligence (Arcana) check contested by the other creature's Intelligence (Arcana) check. The winner of the contest gains control of the sphere and can levitate it as normal.
+Если вы пытаетесь управлять сферой, находящейся под контролем другого существа, вы совершаете проверку Интеллекта (Магия), состязательную с проверкой Интеллекта (Магия) другого существа. Победитель состязания получает контроль над сферой и может левитировать её как обычно.
 
-If the sphere comes into contact with a planar portal, such as that created by the *врата* spell, or an extradimensional space, such as that within a *Переносная дыра*, the GM determines randomly what happens, using the following table.
+Если сфера соприкасается с межпланарным порталом, таким как созданный заклинанием *врата*, или с внемерным пространством, таким как *Переносная дыра*, Мастер случайным образом определяет, что произойдёт, используя следующую таблицу.
 
 Таблица: Сфера уничтожения
 
-| 1к100  | Result                                                                                                                             |
+| 1к100  | Результат                                                                                                                              |
 |---|---|
-| 01-50 | The sphere is destroyed.                                                                                                           |
-| 51-85 | The sphere moves through the portal or into the extradimensional space.                                                            |
-| 86-00 | A spatial rift sends each creature and object within 180 футов of the sphere, including the sphere, to a random plane of existence. |
+| 01-50 | Сфера уничтожается.                                                                                                                    |
+| 51-85 | Сфера проходит через портал или во внемерное пространство.                                                                              |
+| 86-00 | Пространственный разлом отправляет каждое существо и предмет в пределах 180 футов от сферы, включая сферу, на случайный план существования. |
 
 #### Посох очарования (Staff of Charming)
 
 *Посох, редкий (требуется настройка бардом, жрецом, друидом, чародеем, колдуном или волшебником)*
 
-While holding this staff, you can use an action to expend 1 of its 10 charges to cast *очарование личности*, *приказ*, *or comprehend languages* from it using your spell save СЛ. The staff can also be used as a magic quarterstaff.
+Держа этот посох, вы можете действием потратить 1 из его 10 зарядов, чтобы наложить *очарование личности*, *приказ* или *понимание языков* из него, используя вашу СЛ спасброска от заклинаний. Посох также можно использовать как магический боевой посох.
 
-If you are holding the staff and fail a saving throw against an enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn. If you succeed on a save against an enchantment spell that targets only you, with or without the staff's intervention, you can use your reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
+Если вы держите посох и проваливаете спасбросок от заклинания школы очарования, нацеленного только на вас, вы можете превратить проваленный спасбросок в успешный. Вы не можете использовать это свойство посоха снова до следующего рассвета. Если вы преуспели в спасброске от заклинания школы очарования, нацеленного только на вас, с помощью посоха или без неё, вы можете реакцией потратить 1 заряд посоха и обратить заклинание на его заклинателя, как если бы вы наложили это заклинание.
 
-The staff regains 1к8 + 2 expended charges daily at dawn. If you expend the last charge, roll a к20. On a 1, the staff becomes a nonmagical quarterstaff.
+Посох ежедневно восстанавливает 1к8 + 2 потраченных заряда на рассвете. Если вы тратите последний заряд, бросьте к20. При результате 1 посох становится немагическим боевым посохом.
 
 #### Посох огня (Staff of Fire)
 
 *Посох, очень редкий (требуется настройка друидом, чародеем, колдуном или волшебником)*
 
-You have resistance to fire damage while you hold this staff.
+Пока вы держите этот посох, вы обладаете сопротивлением к урону огнём.
 
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save СЛ: *огненные руки* (1 charge), *огненный шар* (3 charges), or *стена огня* (4 charges).
+У посоха есть 10 зарядов. Держа его, вы можете действием потратить 1 или более зарядов, чтобы наложить из него одно из следующих заклинаний, используя вашу СЛ спасброска от заклинаний: *огненные руки* (1 заряд), *огненный шар* (3 заряда) или *стена огня* (4 заряда).
 
-The staff regains 1к6 + 4 expended charges daily at dawn. If you expend the last charge, roll a к20. On a 1, the staff blackens, crumbles into cinders, and is destroyed.
+Посох ежедневно восстанавливает 1к6 + 4 потраченных заряда на рассвете. Если вы тратите последний заряд, бросьте к20. При результате 1 посох чернеет, рассыпается в угли и уничтожается.
 
 #### Посох мороза (Staff of Frost)
 
 *Посох, очень редкий (требуется настройка друидом, чародеем, колдуном или волшебником)*
 
-You have resistance to cold damage while you hold this staff.
+Пока вы держите этот посох, вы обладаете сопротивлением к урону холодом.
 
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save СЛ: *конус холода* (5 charges), *туманное облако* (1 charge), *град* (4 charges), or *стена льда* (4 charges).
+У посоха есть 10 зарядов. Держа его, вы можете действием потратить 1 или более зарядов, чтобы наложить из него одно из следующих заклинаний, используя вашу СЛ спасброска от заклинаний: *конус холода* (5 зарядов), *туманное облако* (1 заряд), *град* (4 заряда) или *стена льда* (4 заряда).
 
-The staff regains 1к6 + 4 expended charges daily at dawn. If you expend the last charge, roll a к20. On a 1, the staff turns to water and is destroyed.
+Посох ежедневно восстанавливает 1к6 + 4 потраченных заряда на рассвете. Если вы тратите последний заряд, бросьте к20. При результате 1 посох превращается в воду и уничтожается.
 
 #### Посох исцеления (Staff of Healing)
 
 *Посох, редкий (требуется настройка бардом, жрецом или друидом)*
 
-This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save СЛ and spellcasting ability modifier: *лечение ран* (1 charge per spell level, up to 4th), *малое восстановление* (2 charges), or *массовое исцеление ран* (5 charges).
+У этого посоха есть 10 зарядов. Держа его, вы можете действием потратить 1 или более зарядов, чтобы наложить из него одно из следующих заклинаний, используя вашу СЛ спасброска от заклинаний и модификатор заклинательной характеристики: *лечение ран* (1 заряд за уровень заклинания, до 4-го), *малое восстановление* (2 заряда) или *массовое исцеление ран* (5 зарядов).
 
-The staff regains 1к6 + 4 expended charges daily at dawn. If you expend the last charge, roll a к20. On a 1, the staff vanishes in a flash of light, lost forever.
+Посох ежедневно восстанавливает 1к6 + 4 потраченных заряда на рассвете. Если вы тратите последний заряд, бросьте к20. При результате 1 посох исчезает во вспышке света, потерянный навсегда.
 
 #### Посох силы (Staff of Power)
 
 *Посох, очень редкий (требуется настройка чародеем, колдуном или волшебником)*
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
+Этот посох можно использовать как магический боевой посох, дающий бонус +2 к броскам атаки и урона, совершаемым им. Пока вы его держите, вы получаете бонус +2 к Классу Доспеха, спасброскам и броскам атаки заклинаниями.
 
-The staff has 20 charges for the following properties. The staff regains 2к8 + 4 expended charges daily at dawn. If you expend the last charge, roll a к20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1к8 + 2 charges.
+У посоха есть 20 зарядов для следующих свойств. Посох ежедневно восстанавливает 2к8 + 4 потраченных заряда на рассвете. Если вы тратите последний заряд, бросьте к20. При результате 1 посох сохраняет бонус +2 к броскам атаки и урона, но теряет все остальные свойства. При результате 20 посох восстанавливает 1к8 + 2 заряда.
 
-**_Power Strike._** When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1к6 force damage to the target.
+**_Силовой удар._** Когда вы попадаете рукопашной атакой с помощью посоха, вы можете потратить 1 заряд, чтобы нанести цели дополнительно 1к6 урона силовым полем.
 
-**_Заклинания._** While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save СЛ and spell attack bonus: *конус холода* (5 charges), *огненный шар* (5th-level version, 5 charges), *сфера неуязвимости* (6 charges), *удержание чудовища* (5 charges), *левитация* (2 charges), *молния* (5th-level version, 5 charges), *магическая стрела* (1 charge), *луч ослабления* (1 charge), or *стена силы* (5 charges).
+**_Заклинания._** Держа этот посох, вы можете действием потратить 1 или более зарядов, чтобы наложить из него одно из следующих заклинаний, используя вашу СЛ спасброска от заклинаний и бонус атаки заклинанием: *конус холода* (5 зарядов), *огненный шар* (версия 5-го уровня, 5 зарядов), *сфера неуязвимости* (6 зарядов), *удержание чудовища* (5 зарядов), *левитация* (2 заряда), *молния* (версия 5-го уровня, 5 зарядов), *магическая стрела* (1 заряд), *луч ослабления* (1 заряд) или *стена силы* (5 зарядов).
 
-**_Retributive Strike._** You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-футовый radius sphere centered on it.
+**_Карающий удар._** Вы можете действием сломать посох о колено или о твёрдую поверхность, совершая карающий удар. Посох уничтожается и высвобождает оставшуюся магию во взрыве, заполняющем сферу радиусом 30 футов с центром на нём.
 
-You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a СЛ 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
+У вас есть 50-процентный шанс мгновенно переместиться на случайный план существования, избежав взрыва. Если вам не удаётся избежать эффекта, вы получаете урон силовым полем, равный 16 × количество зарядов в посохе. Каждое другое существо в области должно совершить спасбросок Ловкости СЛ 17. При провале существо получает количество урона в зависимости от расстояния до точки происхождения, как показано в следующей таблице. При успехе существо получает половину урона.
 
 Таблица: Посох силы
 
-| Distance from Origin  | Damage                                 |
+| Расстояние от источника | Урон                                           |
 |---|---|
-| 10 фт. away or closer | 8 × the number of charges in the staff |
-| 11 to 20 фт. away     | 6 × the number of charges in the staff |
-| 21 to 30 фт. away     | 4 × the number of charges in the staff |
+| 10 фт. или ближе       | 8 × количество зарядов в посохе                |
+| от 11 до 20 фт.        | 6 × количество зарядов в посохе                |
+| от 21 до 30 фт.        | 4 × количество зарядов в посохе                |
 
 #### Посох поражения (Staff of Striking)
 
@@ -2457,355 +2457,355 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 
 *Посох, легендарный (требуется настройка чародеем, колдуном или волшебником)*
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
+Этот посох можно использовать как магический боевой посох, дающий бонус +2 к броскам атаки и урона, совершаемым им. Пока вы его держите, вы получаете бонус +2 к броскам атаки заклинаниями.
 
-The staff has 50 charges for the following properties. It regains 4к6 + 2 expended charges daily at dawn. If you expend the last charge, roll a к20. On a 20, the staff regains 1к12 + 1 charges.
+У посоха есть 50 зарядов для следующих свойств. Он ежедневно восстанавливает 4к6 + 2 потраченных заряда на рассвете. Если вы тратите последний заряд, бросьте к20. При результате 20 посох восстанавливает 1к12 + 1 заряд.
 
-**_Spell Absorption._** While holding the staff, you have advantage on saving throws against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell's level. However, if doing so brings the staff's total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).
+**_Поглощение заклинаний._** Пока вы держите посох, вы совершаете с преимуществом спасброски от заклинаний. Кроме того, вы можете реакцией воспользоваться этим свойством, когда другое существо накладывает заклинание, нацеленное только на вас. Если вы это делаете, посох поглощает магию заклинания, отменяя его эффект и получая количество зарядов, равное уровню поглощённого заклинания. Однако если это приводит к тому, что общее количество зарядов посоха превышает 50, посох взрывается, как если бы вы активировали его карающий удар (см. ниже).
 
-**_Заклинания._** While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save СЛ and spellcasting ability: *сотворение элементаля* (7 charges), *рассеивание магии* (3 charges), *огненный шар* (7th-level version, 7 charges), *пылающая сфера* (2 charges), *град* (4 charges), *невидимость* (2 charges), *открывание* (2 charges), *молния* (7th-level version, 7 charges), *проход* (5 charges), *переход между планами* (7 charges), *телекинез* (5 charges), *стена огня* (4 charges), or *паутина* (2 charges).
+**_Заклинания._** Пока вы держите посох, вы можете действием потратить несколько зарядов, чтобы наложить одно из следующих заклинаний, используя вашу СЛ спасбросков и заклинательную характеристику: *сотворение элементаля* (7 зарядов), *рассеивание магии* (3 заряда), *огненный шар* (версия 7-го уровня, 7 зарядов), *пылающая сфера* (2 заряда), *град* (4 заряда), *невидимость* (2 заряда), *открывание* (2 заряда), *молния* (версия 7-го уровня, 7 зарядов), *проход* (5 зарядов), *переход между планами* (7 зарядов), *телекинез* (5 зарядов), *стена огня* (4 заряда) или *паутина* (2 заряда).
 
-You can also use an action to cast one of the following spells from the staff without using any charges: *арканный замок*, *обнаружение магии*, *увеличение/уменьшение*, *свет*, *волшебная рука*, or *protection from evil and good.*
+Вы также можете действием наложить одно из следующих заклинаний из посоха без траты зарядов: *арканный замок*, *обнаружение магии*, *увеличение/уменьшение*, *свет*, *волшебная рука* или *защита от добра и зла.*
 
-**_Retributive Strike._** You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-футовый radius sphere centered on it.
+**_Карающий удар._** Вы можете действием сломать посох о колено или о твёрдую поверхность, совершая карающий удар. Посох уничтожается и высвобождает оставшуюся магию во взрыве, заполняющем сферу радиусом 30 футов с центром на нём.
 
-You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a СЛ 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
+У вас есть 50-процентный шанс мгновенно переместиться на случайный план существования, избежав взрыва. Если вам не удаётся избежать эффекта, вы получаете урон силовым полем, равный 16 × количество зарядов в посохе. Каждое другое существо в области должно совершить спасбросок Ловкости СЛ 17. При провале существо получает количество урона в зависимости от расстояния до точки происхождения, как показано в следующей таблице. При успехе существо получает половину урона.
 
 Таблица: Посох мага
 
-| Distance from Origin  | Damage                                 |
+| Расстояние от источника | Урон                                           |
 |---|---|
-| 10 фт. away or closer | 8 × the number of charges in the staff |
-| 11 to 20 фт. away     | 6 × the number of charges in the staff |
-| 21 to 30 фт. away     | 4 × the number of charges in the staff |
+| 10 фт. или ближе       | 8 × количество зарядов в посохе                |
+| от 11 до 20 фт.        | 6 × количество зарядов в посохе                |
+| от 21 до 30 фт.        | 4 × количество зарядов в посохе                |
 
 #### Посох питона (Staff of the Python)
 
 *Посох, необычный (требуется настройка жрецом, друидом или колдуном)*
 
-You can use an action to speak this staff's command word and throw the staff on the ground within 10 футов of you. The staff becomes a giant constrictor snake under your control and acts on its own initiative count. By using a bonus action to speak the command word again, you return the staff to its normal form in a space formerly occupied by the snake.
+Вы можете действием произнести командное слово этого посоха и бросить его на землю в пределах 10 футов от вас. Посох превращается в гигантскую удавку под вашим контролем и действует по своему собственному счёту инициативы. Бонусным действием произнеся командное слово снова, вы возвращаете посох в обычную форму в пространстве, ранее занимаемом змеёй.
 
-On your turn, you can mentally command the snake if it is within 60 футов of you and you aren't incapacitated. You decide what action the snake takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location.
+В свой ход вы можете мысленно командовать змеёй, если она находится в пределах 60 футов от вас и вы не недееспособны. Вы решаете, какое действие предпримет змея и куда переместится в свой следующий ход, или вы можете отдать ей общий приказ, например, атаковать ваших врагов или охранять место.
 
-If the snake is reduced to 0 hit points, it dies and reverts to its staff form. The staff then shatters and is destroyed. If the snake reverts to staff form before losing all its hit points, it regains all of them.
+Если хиты змеи снижаются до 0, она умирает и возвращается в форму посоха. Затем посох разлетается на осколки и уничтожается. Если змея возвращается в форму посоха до потери всех хитов, она восстанавливает их все.
 
 #### Посох леса (Staff of the Woodlands)
 
 *Посох, редкий (требуется настройка друидом)*
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
+Этот посох можно использовать как магический боевой посох, дающий бонус +2 к броскам атаки и урона, совершаемым им. Пока вы его держите, вы получаете бонус +2 к броскам атаки заклинаниями.
 
-The staff has 10 charges for the following properties. It regains 1к6 + 4 expended charges daily at dawn. If you expend the last charge, roll a к20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
+У посоха есть 10 зарядов для следующих свойств. Он ежедневно восстанавливает 1к6 + 4 потраченных заряда на рассвете. Если вы тратите последний заряд, бросьте к20. При результате 1 посох теряет свои свойства и становится немагическим боевым посохом.
 
-**_Заклинания._** You can use an action to expend 1 or more of the staff's charges to cast one of the following spells from it, using your spell save СЛ: *дружба с животными* (1 charge), *пробуждение* (5 charges), *кора* (2 charges), *locate animals or plants* (2 charges), *разговор с животными* (1 charge), *разговор с растениями* (3 charges), or *стена тернов* (6 charges).
+**_Заклинания._** Вы можете действием потратить 1 или более зарядов посоха, чтобы наложить одно из следующих заклинаний, используя вашу СЛ спасбросков: *дружба с животными* (1 заряд), *пробуждение* (5 зарядов), *кора* (2 заряда), *поиск животных или растений* (2 заряда), *разговор с животными* (1 заряд), *разговор с растениями* (3 заряда) или *стена тернов* (6 зарядов).
 
-You can also use an action to cast the *бесследное передвижение* spell from the staff without using any charges.
+Вы также можете действием наложить заклинание *бесследное передвижение* из посоха без траты зарядов.
 
-**_Tree Form._** You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 футов tall and has a 5-футовый diameter trunk, and its branches at the top spread out in a 20-футовый radius.
+**_Форма дерева._** Вы можете действием воткнуть один конец посоха в плодородную землю и потратить 1 заряд, чтобы превратить посох в здоровое дерево. Дерево имеет высоту 60 футов и диаметр ствола 5 футов, а его ветви на вершине раскидываются в радиусе 20 футов.
 
-The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by *обнаружение магии*. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
+Дерево выглядит обычным, но излучает слабую ауру магии преобразования, если на него нацелено заклинание *обнаружение магии*. Касаясь дерева и используя ещё одно действие для произнесения командного слова, вы возвращаете посох в обычную форму. Любое существо на дереве падает, когда оно возвращается в форму посоха.
 
 #### Посох грома и молнии (Staff of Thunder and Lightning)
 
 *Посох, очень редкий (требуется настройка)*
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
+Этот посох можно использовать как магический боевой посох, дающий бонус +2 к броскам атаки и урона, совершаемым им. Он также обладает следующими дополнительными свойствами. Когда одно из этих свойств использовано, его нельзя использовать снова до следующего рассвета.
 
-**_Lightning._** When you hit with a melee attack using the staff, you can cause the target to take an extra 2к6 lightning damage.
+**_Молния._** Когда вы попадаете рукопашной атакой с помощью посоха, вы можете нанести цели дополнительно 2к6 урона электричеством.
 
-**_Thunder._** When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 футов. The target you hit must succeed on a СЛ 17 Constitution saving throw or become stunned until the end of your next turn.
+**_Гром._** Когда вы попадаете рукопашной атакой с помощью посоха, вы можете заставить посох издать раскат грома, слышимый на расстоянии до 300 футов. Цель, по которой вы попали, должна преуспеть в спасброске Телосложения СЛ 17 или стать оглушённой до конца вашего следующего хода.
 
-**_Lightning Strike._** You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 футов wide and 120 футов long. Each creature in that line must make a СЛ 17 Dexterity saving throw, taking 9к6 lightning damage on a failed save, or half as much damage on a successful one.
+**_Удар молнией._** Вы можете действием вызвать разряд молнии, бьющий из наконечника посоха линией шириной 5 футов и длиной 120 футов. Каждое существо на этой линии должно совершить спасбросок Ловкости СЛ 17, получая 9к6 урона электричеством при провале или половину урона при успехе.
 
-**_Thunderclap._** You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 футов. Each creature within 60 футов of you (not including you) must make a СЛ 17 Constitution saving throw. On a failed save, a creature takes 2к6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn't deafened.
+**_Раскат грома._** Вы можете действием заставить посох издать оглушительный раскат грома, слышимый на расстоянии до 600 футов. Каждое существо в пределах 60 футов от вас (не включая вас) должно совершить спасбросок Телосложения СЛ 17. При провале существо получает 2к6 урона громом и становится оглохшим на 1 минуту. При успехе существо получает половину урона и не оглохает.
 
-**_Thunder and Lightning._** You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
+**_Гром и молния._** Вы можете действием использовать свойства Удар молнией и Раскат грома одновременно. Это не расходует ежедневное использование этих свойств, только использование данного свойства.
 
 #### Посох увядания (Staff of Withering)
 
 *Посох, редкий (требуется настройка жрецом, друидом или колдуном)*
 
-This staff has 3 charges and regains 1к3 expended charges daily at dawn.
+У этого посоха есть 3 заряда, и он ежедневно восстанавливает 1к3 потраченных заряда на рассвете.
 
-The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2к10 necrotic damage to the target. In addition, the target must succeed on a СЛ 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
+Посох можно использовать как магический боевой посох. При попадании он наносит урон как обычный боевой посох, и вы можете потратить 1 заряд, чтобы нанести цели дополнительно 2к10 урона некротической энергией. Кроме того, цель должна преуспеть в спасброске Телосложения СЛ 15 или получить помеху на 1 час ко всем проверкам характеристик и спасброскам, использующим Силу или Телосложение.
 
 #### Камень управления земными элементалями (Stone of Controlling Earth Elementals)
 
 *Чудесный предмет, редкий*
 
-If the stone is touching the ground, you can use an action to speak its command word and summon an earth elemental, as if you had cast the *сотворение элементаля* spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds.
+Если камень касается земли, вы можете действием произнести его командное слово и призвать земляного элементаля, как если бы вы наложили заклинание *сотворение элементаля*. Камень нельзя использовать таким образом снова до следующего рассвета. Камень весит 5 фунтов.
 
 #### Камень удачи (Камень везения) (Stone of Good Luck (Luckstone))
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
+Пока этот полированный агат находится при вас, вы получаете бонус +1 к проверкам характеристик и спасброскам.
 
 #### Солнечный клинок (Sun Blade)
 
 *Оружие (длинный меч), редкий (требуется настройка)*
 
-This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortswords or longswords, you are proficient with the *Солнечный клинок*.
+Этот предмет выглядит как рукоять длинного меча. Держа рукоять, вы можете бонусным действием создать клинок из чистого сияния или заставить его исчезнуть. Пока клинок существует, этот магический длинный меч обладает свойством фехтовальное. Если вы владеете короткими или длинными мечами, вы владеете *Солнечным клинком*.
 
-You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra 1к8 radiant damage.
+Вы получаете бонус +2 к броскам атаки и урона, совершаемым этим оружием, которое наносит урон излучением вместо рубящего урона. Когда вы попадаете по нежити, цель получает дополнительно 1к8 урона излучением.
 
-The sword's luminous blade emits bright light in a 15-футовый radius and dim light for an additional 15 футов. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 футов each, to a maximum of 30 футов each or a minimum of 10 футов each.
+Светящийся клинок меча испускает яркий свет в радиусе 15 футов и тусклый свет ещё на 15 футов. Этот свет является солнечным. Пока клинок существует, вы можете действием увеличить или уменьшить радиус яркого и тусклого света на 5 футов каждый, до максимума 30 футов каждый или минимума 10 футов каждый.
 
 #### Меч похищения жизни (Sword of Life Stealing)
 
 *Оружие (любой меч), редкий (требуется настройка)*
 
-When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3к6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.
+Когда вы атакуете существо этим магическим оружием и выбрасываете 20 на броске атаки, цель получает дополнительно 3к6 урона некротической энергией, при условии, что цель не является конструктом или нежитью. Вы получаете временные хиты, равные нанесённому дополнительному урону.
 
 #### Меч остроты (Sword of Sharpness)
 
-*Оружие (Any Sword That Deals Slashing Damage), очень редкий (требуется настройка)*
+*Оружие (любой меч, наносящий рубящий урон), очень редкий (требуется настройка)*
 
-When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
+Когда вы атакуете объект этим магическим мечом и попадаете, максимизируйте кости урона оружия против цели.
 
-When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4к6 slashing damage. Then roll another к20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.
+Когда вы атакуете существо этим оружием и выбрасываете 20 на броске атаки, цель получает дополнительно 4к6 рубящего урона. Затем бросьте ещё один к20. Если вы выбросите 20, вы отрубаете одну из конечностей цели, и эффект такой потери определяется Мастером. Если у существа нет конечности, которую можно отсечь, вы отрубаете часть его тела.
 
-In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-футовый radius and dim light for an additional 10 футов. Speaking the command word again or sheathing the sword puts out the light.
+Кроме того, вы можете произнести командное слово меча, чтобы клинок начал испускать яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов. Повторное произнесение командного слова или вкладывание меча в ножны гасит свет.
 
 #### Меч ран (Sword of Wounding)
 
 *Оружие (любой меч), редкий (требуется настройка)*
 
-Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
+Хиты, потерянные от урона этого оружия, можно восстановить только коротким или продолжительным отдыхом, а не регенерацией, магией или другими средствами.
 
-Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1к4 necrotic damage for each time you've wounded it, and it can then make a СЛ 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 футов of it, can use an action to make a СЛ 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
+Один раз в ход, когда вы попадаете по существу атакой этим магическим оружием, вы можете ранить цель. В начале каждого хода раненого существа оно получает 1к4 урона некротической энергией за каждый раз, когда вы его ранили, и затем может совершить спасбросок Телосложения СЛ 15, прекращая эффект всех таких ран на себе при успехе. Альтернативно, раненое существо или существо в пределах 5 футов от него может действием совершить проверку Мудрости (Медицина) СЛ 15, прекращая эффект таких ран на нём при успехе.
 
 #### Талисман чистого добра (Talisman of Pure Good)
 
 *Чудесный предмет, легендарный (требуется настройка существом доброго мировоззрения)*
 
-This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6к6 radiant damage upon touching the talisman. An evil creature takes 8к6 radiant damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
+Этот талисман является могущественным символом добра. Существо, которое не является ни добрым, ни злым по мировоззрению, получает 6к6 урона излучением при прикосновении к талисману. Злое существо получает 8к6 урона излучением при прикосновении к талисману. Оба вида существ получают урон снова каждый раз, когда заканчивают свой ход, держа или нося талисман.
 
-If you are a good cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.
+Если вы добрый жрец или паладин, вы можете использовать талисман в качестве священного символа и получаете бонус +2 к броскам атаки заклинаниями, пока носите или держите его.
 
-The talisman has 7 charges. If you are wearing or holding it, you can use an action to expend 1 charge from it and choose one creature you can see on the ground within 120 футов of you. If the target is of evil alignment, a flaming fissure opens under it. The target must succeed on a СЛ 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed.
+У талисмана есть 7 зарядов. Если вы носите или держите его, вы можете действием потратить 1 заряд и выбрать одно существо, которое видите на земле в пределах 120 футов от вас. Если цель злого мировоззрения, под ней открывается пылающая расщелина. Цель должна преуспеть в спасброске Ловкости СЛ 20 или упасть в расщелину и быть уничтоженной, не оставив останков. Затем расщелина закрывается, не оставляя следов своего существования. Когда вы тратите последний заряд, талисман рассеивается в виде золотистых искр света и уничтожается.
 
 #### Талисман сферы (Talisman of the Sphere)
 
 *Чудесный предмет, легендарный (требуется настройка)*
 
-When you make an Intelligence (Arcana) check to control a *Сфера уничтожения* while you are holding this talisman, you double your proficiency bonus on the check. In addition, when you start your turn with control over a *Сфера уничтожения*, you can use an action to levitate it 10 футов plus a number of additional футов equal to 10 × your Intelligence modifier.
+Когда вы совершаете проверку Интеллекта (Магия), чтобы контролировать *Сферу уничтожения*, держа этот талисман, вы удваиваете свой бонус мастерства к проверке. Кроме того, когда вы начинаете свой ход с контролем над *Сферой уничтожения*, вы можете действием левитировать её на 10 футов плюс дополнительное количество футов, равное 10 × ваш модификатор Интеллекта.
 
 #### Талисман абсолютного зла (Talisman of Ultimate Evil)
 
 *Чудесный предмет, легендарный (требуется настройка существом злого мировоззрения)*
 
-This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes 6к6 necrotic damage upon touching the talisman. A good creature takes 8к6 necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
+Этот предмет символизирует нераскаянное зло. Существо, которое не является ни добрым, ни злым по мировоззрению, получает 6к6 урона некротической энергией при прикосновении к талисману. Доброе существо получает 8к6 урона некротической энергией при прикосновении к талисману. Оба вида существ получают урон снова каждый раз, когда заканчивают свой ход, держа или нося талисман.
 
-If you are an evil cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.
+Если вы злой жрец или паладин, вы можете использовать талисман в качестве священного символа и получаете бонус +2 к броскам атаки заклинаниями, пока носите или держите его.
 
-The talisman has 6 charges. If you are wearing or holding it, you can use an action to expend 1 charge from the talisman and choose one creature you can see on the ground within 120 футов of you. If the target is of good alignment, a flaming fissure opens under it. The target must succeed on a СЛ 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.
+У талисмана есть 6 зарядов. Если вы носите или держите его, вы можете действием потратить 1 заряд и выбрать одно существо, которое видите на земле в пределах 120 футов от вас. Если цель доброго мировоззрения, под ней открывается пылающая расщелина. Цель должна преуспеть в спасброске Ловкости СЛ 20 или упасть в расщелину и быть уничтоженной, не оставив останков. Затем расщелина закрывается, не оставляя следов своего существования. Когда вы тратите последний заряд, талисман растворяется в зловонную слизь и уничтожается.
 
 #### Том ясной мысли (Tome of Clear Thought)
 
 *Чудесный предмет, очень редкий*
 
-This book contains memory and logic exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Intelligence score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
+Эта книга содержит упражнения для памяти и логики, и её слова заряжены магией. Если вы потратите 48 часов в течение 6 или менее дней на изучение содержимого книги и выполнение её рекомендаций, ваш показатель Интеллекта увеличивается на 2, как и ваш максимум для этого показателя. Затем руководство теряет свою магию, но восстанавливает её через столетие.
 
 #### Том лидерства и влияния (Tome of Leadership and Influence)
 
 *Чудесный предмет, очень редкий*
 
-This book contains guidelines for influencing and charming others, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Charisma score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
+Эта книга содержит рекомендации по влиянию на других и очарованию их, и её слова заряжены магией. Если вы потратите 48 часов в течение 6 или менее дней на изучение содержимого книги и выполнение её рекомендаций, ваш показатель Харизмы увеличивается на 2, как и ваш максимум для этого показателя. Затем руководство теряет свою магию, но восстанавливает её через столетие.
 
 #### Том понимания (Tome of Understanding)
 
 *Чудесный предмет, очень редкий*
 
-This book contains intuition and insight exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Wisdom score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
+Эта книга содержит упражнения для интуиции и проницательности, и её слова заряжены магией. Если вы потратите 48 часов в течение 6 или менее дней на изучение содержимого книги и выполнение её рекомендаций, ваш показатель Мудрости увеличивается на 2, как и ваш максимум для этого показателя. Затем руководство теряет свою магию, но восстанавливает её через столетие.
 
 #### Трезубец повелителя рыб (Trident of Fish Command)
 
 *Оружие (трезубец), необычный (требуется настройка)*
 
-This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast *подчинение зверя* (save СЛ 15) from it on a beast that has an innate swimming speed. The trident regains 1к3 expended charges daily at dawn.
+Этот трезубец является магическим оружием. У него есть 3 заряда. Пока вы его несёте, вы можете действием потратить 1 заряд, чтобы наложить заклинание *подчинение зверя* (СЛ спасброска 15) на зверя, имеющего врождённую скорость плавания. Трезубец ежедневно восстанавливает 1к3 потраченных заряда на рассвете.
 
 #### Универсальный растворитель (Universal Solvent)
 
 *Чудесный предмет, легендарный*
 
-This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square фут of adhesive it touches, including *sovereign glue.*
+Эта трубка содержит молочную жидкость с сильным спиртовым запахом. Вы можете действием вылить содержимое трубки на поверхность в пределах досягаемости. Жидкость мгновенно растворяет до 1 квадратного фута клея, которого касается, включая *суверенный клей.*
 
 #### Жестокое оружие (Vicious Weapon)
 
 *Оружие (любое), редкий*
 
-When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2к6 damage of the weapon's type.
+Когда вы выбрасываете 20 на броске атаки этим магическим оружием, ваш критический удар наносит дополнительно 2к6 урона типа этого оружия.
 
 #### Ворпальный меч (Vorpal Sword)
 
-*Оружие (Any Sword That Deals Slashing Damage), легендарный (требуется настройка)*
+*Оружие (любой меч, наносящий рубящий урон), легендарный (требуется настройка)*
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
+Вы получаете бонус +3 к броскам атаки и урона, совершаемым этим магическим оружием. Кроме того, оружие игнорирует сопротивление к рубящему урону.
 
-When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6к8 slashing damage from the hit.
+Когда вы атакуете этим оружием существо, имеющее хотя бы одну голову, и выбрасываете 20 на броске атаки, вы отрубаете одну из голов существа. Существо умирает, если не может выжить без потерянной головы. Существо невосприимчиво к этому эффекту, если оно невосприимчиво к рубящему урону, не имеет или не нуждается в голове, имеет легендарные действия или Мастер решает, что существо слишком велико, чтобы его голову можно было отрубить этим оружием. Такое существо вместо этого получает дополнительно 6к8 рубящего урона от удара.
 
 #### Волшебная палочка связывания (Wand of Binding)
 
 *Палочка, редкий (требуется настройка заклинателем)*
 
-This wand has 7 charges for the following properties. It regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+У этой палочки есть 7 зарядов для следующих свойств. Она ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
-**_Заклинания._** While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save СЛ 17): *удержание чудовища* (5 charges) or *удержание личности* (2 charges).
+**_Заклинания._** Пока вы держите палочку, вы можете действием потратить несколько зарядов, чтобы наложить одно из следующих заклинаний (СЛ спасброска 17): *удержание чудовища* (5 зарядов) или *удержание личности* (2 заряда).
 
-**_Assisted Escape._** While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being paralyzed or restrained, or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
+**_Помощь в побеге._** Пока вы держите палочку, вы можете реакцией потратить 1 заряд и получить преимущество к спасброску, который вы совершаете, чтобы избежать паралича или удержания, или вы можете потратить 1 заряд и получить преимущество к любой проверке, которую совершаете для высвобождения из захвата.
 
 #### Волшебная палочка обнаружения врагов (Wand of Enemy Detection)
 
 *Палочка, редкий (требуется настройка)*
 
-This wand has 7 charges. While holding it, you can use an action and expend 1 charge to speak its command word. For the next minute, you know the direction of the nearest creature hostile to you within 60 футов, but not its distance from you. The wand can sense the presence of hostile creatures that are ethereal, invisible, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
+У этой палочки есть 7 зарядов. Пока вы её держите, вы можете действием потратить 1 заряд, чтобы произнести её командное слово. В течение следующей минуты вы знаете направление к ближайшему враждебному к вам существу в пределах 60 футов, но не расстояние до него. Палочка может чувствовать присутствие враждебных существ, которые эфирны, невидимы, замаскированы или спрятаны, а также тех, что находятся на виду. Эффект заканчивается, если вы перестаёте держать палочку.
 
-The wand regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+Палочка ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
 #### Волшебная палочка страха (Wand of Fear)
 
 *Палочка, редкий (требуется настройка)*
 
-This wand has 7 charges for the following properties. It regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+У этой палочки есть 7 зарядов для следующих свойств. Она ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
-**_Command._** While holding the wand, you can use an action to expend 1 charge and command another creature to flee or grovel, as with the *приказ* spell (save СЛ 15).
+**_Приказ._** Пока вы держите палочку, вы можете действием потратить 1 заряд и приказать другому существу бежать или пасть ниц, как при заклинании *приказ* (СЛ спасброска 15).
 
-**_Cone of Fear._** While holding the wand, you can use an action to expend 2 charges, causing the wand's tip to emit a 60-футовый cone of amber light. Each creature in the cone must succeed on a СЛ 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 футов of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
+**_Конус страха._** Пока вы держите палочку, вы можете действием потратить 2 заряда, заставив наконечник палочки испустить конус янтарного света длиной 60 футов. Каждое существо в конусе должно преуспеть в спасброске Мудрости СЛ 15 или стать напуганным вами на 1 минуту. Будучи напуганным таким образом, существо должно тратить свои ходы, пытаясь переместиться как можно дальше от вас, и не может добровольно переместиться в пространство в пределах 30 футов от вас. Оно также не может совершать реакции. В качестве действия оно может использовать только Рывок или попытаться высвободиться от эффекта, который не позволяет ему двигаться. Если ему некуда двигаться, существо может использовать действие Уклонение. В конце каждого своего хода существо может повторить спасбросок, прекращая эффект на себе при успехе.
 
 #### Волшебная палочка огненных шаров (Wand of Fireballs)
 
 *Палочка, редкий (требуется настройка заклинателем)*
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *огненный шар* spell (save СЛ 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+У этой палочки есть 7 зарядов. Пока вы её держите, вы можете действием потратить 1 или более зарядов, чтобы наложить заклинание *огненный шар* (СЛ спасброска 15). За 1 заряд вы накладываете версию заклинания 3-го уровня. Вы можете увеличить уровень ячейки заклинания на один за каждый дополнительный потраченный заряд.
 
-The wand regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+Палочка ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
 #### Волшебная палочка молний (Wand of Lightning Bolts)
 
 *Палочка, редкий (требуется настройка заклинателем)*
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *молния* spell (save СЛ 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+У этой палочки есть 7 зарядов. Пока вы её держите, вы можете действием потратить 1 или более зарядов, чтобы наложить заклинание *молния* (СЛ спасброска 15). За 1 заряд вы накладываете версию заклинания 3-го уровня. Вы можете увеличить уровень ячейки заклинания на один за каждый дополнительный потраченный заряд.
 
-The wand regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+Палочка ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
 #### Волшебная палочка обнаружения магии (Wand of Magic Detection)
 
 *Палочка, необычный*
 
-This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the *обнаружение магии* spell from it. The wand regains 1к3 expended charges daily at dawn.
+У этой палочки есть 3 заряда. Пока вы её держите, вы можете действием потратить 1 заряд, чтобы наложить заклинание *обнаружение магии*. Палочка ежедневно восстанавливает 1к3 потраченных заряда на рассвете.
 
 #### Волшебная палочка волшебных стрел (Wand of Magic Missiles)
 
 *Палочка, необычный*
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *магическая стрела* spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+У этой палочки есть 7 зарядов. Пока вы её держите, вы можете действием потратить 1 или более зарядов, чтобы наложить заклинание *магическая стрела*. За 1 заряд вы накладываете версию заклинания 1-го уровня. Вы можете увеличить уровень ячейки заклинания на один за каждый дополнительный потраченный заряд.
 
-The wand regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+Палочка ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
 #### Волшебная палочка паралича (Wand of Paralysis)
 
 *Палочка, редкий (требуется настройка заклинателем)*
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a thin blue ray to streak from the tip toward a creature you can see within 60 футов of you. The target must succeed on a СЛ 15 Constitution saving throw or be paralyzed for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the effect on itself on a success.
+У этой палочки есть 7 зарядов. Пока вы её держите, вы можете действием потратить 1 заряд, чтобы тонкий голубой луч вылетел из наконечника к существу, которое вы видите в пределах 60 футов от вас. Цель должна преуспеть в спасброске Телосложения СЛ 15 или стать парализованной на 1 минуту. В конце каждого хода цели она может повторить спасбросок, прекращая эффект на себе при успехе.
 
-The wand regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+Палочка ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
 #### Волшебная палочка превращения (Wand of Polymorph)
 
 *Палочка, очень редкий (требуется настройка заклинателем)*
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the *превращение* spell (save СЛ 15) from it.
+У этой палочки есть 7 зарядов. Пока вы её держите, вы можете действием потратить 1 заряд, чтобы наложить заклинание *превращение* (СЛ спасброска 15).
 
-The wand regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+Палочка ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
 #### Волшебная палочка секретов (Wand of Secrets)
 
 *Палочка, необычный*
 
-The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 футов of you, the wand pulses and points at the one nearest to you. The wand regains 1к3 expended charges daily at dawn.
+У палочки есть 3 заряда. Пока вы её держите, вы можете действием потратить 1 заряд, и если тайная дверь или ловушка находится в пределах 30 футов от вас, палочка пульсирует и указывает на ближайшую к вам. Палочка ежедневно восстанавливает 1к3 потраченных заряда на рассвете.
 
 #### Волшебная палочка боевого мага, +1, +2 или +3 (Wand of the War Mage, +1, +2, or +3)
 
 *Палочка, необычный (+1), редкий (+2) или очень редкий (+3) (требуется настройка заклинателем)*
 
-While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
+Пока вы держите эту палочку, вы получаете бонус к броскам атаки заклинаниями, определяемый редкостью палочки. Кроме того, вы игнорируете укрытие на половину при совершении атаки заклинанием.
 
 #### Волшебная палочка паутины (Wand of Web)
 
 *Палочка, необычный (требуется настройка заклинателем)*
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the *паутина* spell (save СЛ 15) from it.
+У этой палочки есть 7 зарядов. Пока вы её держите, вы можете действием потратить 1 заряд, чтобы наложить заклинание *паутина* (СЛ спасброска 15).
 
-The wand regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into ashes and is destroyed.
+Палочка ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в пепел и уничтожается.
 
 #### Волшебная палочка чудес (Wand of Wonder)
 
 *Палочка, редкий (требуется настройка заклинателем)*
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 футов of you. The target can be a creature, an object, or a point in space. Roll к100 and consult the following table to discover what happens.
+У этой палочки есть 7 зарядов. Пока вы её держите, вы можете действием потратить 1 заряд и выбрать цель в пределах 120 футов от вас. Целью может быть существо, объект или точка в пространстве. Бросьте к100 и сверьтесь со следующей таблицей, чтобы узнать, что произойдёт.
 
-If the effect causes you to cast a spell from the wand, the spell's save СЛ is 15. If the spell normally has a range expressed in футов, its range becomes 120 футов if it isn't already.
+Если эффект заставляет вас наложить заклинание из палочки, СЛ спасброска заклинания равна 15. Если заклинание обычно имеет дальность, выраженную в футах, его дальность становится 120 футов, если она уже не такая.
 
-If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.
+Если эффект покрывает область, вы должны центрировать заклинание на цели и включить её. Если у эффекта есть несколько возможных субъектов, Мастер случайным образом определяет, кто подвергается воздействию.
 
-The wand regains 1к6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a к20. On a 1, the wand crumbles into dust and is destroyed.
+Палочка ежедневно восстанавливает 1к6 + 1 потраченных заряда на рассвете. Если вы тратите последний заряд палочки, бросьте к20. При результате 1 палочка рассыпается в прах и уничтожается.
 
 Таблица: Волшебная палочка чудес
 
-| 1к100   | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| к100    | Эффект                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---|---|
-| 01-05  | You cast slow. 06-10 You cast faerie fire.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 11-15  | You are stunned until the start of your next turn, believing something awesome just happened. 16-20 You cast gust of wind.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 21-25  | You cast detect thoughts on the target you chose. If you didn't target a creature, you instead take 1к6 psychic damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 26-30  | You cast stinking cloud.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 31-33  | Heavy rain falls in a 60-foot radius centered on the target. The area becomes lightly obscured. The rain falls until the start of your next turn.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 34-36  | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a к100 to determine which animal appears. On a 01-25, a rhinoceros appears; on a 26-50, an elephant appears; and on a 51-100, a rat appears.                                                                                                                                                                                                                                                                                                                       |
-| 37-46  | You cast lightning bolt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 47-49  | A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes.                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 50-53  | You enlarge the target as if you had cast enlarge/reduce. If the target can't be affected by that spell, or if you didn't target a creature, you become the target.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 54-58  | You cast darkness.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 59-62  | Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute.                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 63-65  | An object of the GM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 футов of the target, and no larger than 10 футов in any dimension.                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 66-69  | You shrink yourself as if you had cast enlarge/reduce on yourself.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 70-79  | You cast fireball.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 80-84  | You cast invisibility on yourself.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 85-87  | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours.                                                                                                                                                                                                                                                                                                                                                                                          |
-| 88-90  | A stream of 1к4 × 10 gems, each worth 1 зм, shoots from the wand's tip in a line 30 футов long and 5 футов wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the line.                                                                                                                                                                                                                                                                                                                                                                 |
-| 91-95  | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a СЛ 15 Constitution saving throw or become blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.                                                                                                                                                                                                                                                                            |
-| 96-97  | The target's skin turns bright blue for 1к10 days. If you chose a point in space, the creature nearest to that point is affected.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 98-100 | If you targeted a creature, it must make a СЛ 15 Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly petrified. On any other failed save, the target is restrained and begins to turn to stone. While restrained in this way, the target must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic. |
+| 01-05  | Вы накладываете *замедление*. 06-10 Вы накладываете *огонь фей*.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 11-15  | Вы оглушены до начала вашего следующего хода, считая, что только что произошло нечто потрясающее. 16-20 Вы накладываете *порыв ветра*.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 21-25  | Вы накладываете *обнаружение мыслей* на выбранную вами цель. Если вы не нацелились на существо, вместо этого вы получаете 1к6 урона психической энергией.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 26-30  | Вы накладываете *удушающее облако*.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 31-33  | Сильный дождь выпадает в радиусе 60 футов с центром на цели. Область становится слабо заслонённой. Дождь идёт до начала вашего следующего хода.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 34-36  | Животное появляется в ближайшем незанятом пространстве к цели. Животное не находится под вашим контролем и действует как обычно. Бросьте к100, чтобы определить, какое животное появится. При 01-25 появляется носорог; при 26-50 появляется слон; при 51-100 появляется крыса.                                                                                                                                                                                                                                                                                                                         |
+| 37-46  | Вы накладываете *молнию*.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 47-49  | Облако из 600 огромных бабочек заполняет радиус 30 футов с центром на цели. Область становится сильно заслонённой. Бабочки остаются 10 минут.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 50-53  | Вы увеличиваете цель, как если бы наложили *увеличение/уменьшение*. Если цель не может быть затронута этим заклинанием, или если вы не нацелились на существо, вы становитесь целью.                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 54-58  | Вы накладываете *тьму*.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 59-62  | Трава вырастает на земле в радиусе 60 футов с центром на цели. Если трава уже есть, она вырастает в десять раз больше обычного размера и остаётся разросшейся 1 минуту.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 63-65  | Объект по выбору Мастера исчезает в Эфирном Плане. Объект не должен быть надетым или несомым, должен находиться в пределах 120 футов от цели и быть не более 10 футов в любом измерении.                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 66-69  | Вы уменьшаете себя, как если бы наложили *увеличение/уменьшение* на себя.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 70-79  | Вы накладываете *огненный шар*.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 80-84  | Вы накладываете *невидимость* на себя.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 85-87  | Листья вырастают на цели. Если вы выбрали точку в пространстве в качестве цели, листья прорастают на ближайшем к этой точке существе. Если их не сорвать, листья буреют и опадают через 24 часа.                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 88-90  | Поток из 1к4 × 10 самоцветов, каждый стоимостью 1 зм, вылетает из наконечника палочки линией длиной 30 футов и шириной 5 футов. Каждый самоцвет наносит 1 дробящий урон, и общий урон от самоцветов делится поровну между всеми существами на линии.                                                                                                                                                                                                                                                                                                                                                      |
+| 91-95  | Вспышка разноцветного мерцающего света распространяется от вас в радиусе 30 футов. Вы и каждое существо в области, которое может видеть, должны преуспеть в спасброске Телосложения СЛ 15 или стать ослеплёнными на 1 минуту. Существо может повторить спасбросок в конце каждого своего хода, прекращая эффект на себе при успехе.                                                                                                                                                                                                                                                                      |
+| 96-97  | Кожа цели становится ярко-синей на 1к10 дней. Если вы выбрали точку в пространстве, эффекту подвергается ближайшее к этой точке существо.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 98-100 | Если вы нацелились на существо, оно должно совершить спасбросок Телосложения СЛ 15. Если вы не нацелились на существо, вы становитесь целью и должны совершить спасбросок. Если спасбросок проваливается на 5 или более, цель мгновенно окаменевает. При любом другом проваленном спасброске цель удержана и начинает превращаться в камень. Будучи удержанной таким образом, цель должна повторить спасбросок в конце своего следующего хода, окаменевая при провале или прекращая эффект при успехе. Окаменение длится, пока цель не будет освобождена заклинанием *высшее восстановление* или аналогичной магией. |
 
 #### Оружие, +1, +2 или +3 (Weapon, +1, +2, or +3)
 
 *Оружие (любое), необычный (+1), редкий (+2) или очень редкий (+3)*
 
-You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon's rarity.
+Вы получаете бонус к броскам атаки и урона, совершаемым этим магическим оружием. Бонус определяется редкостью оружия.
 
 #### Колодец многих миров (Well of Many Worlds)
 
 *Чудесный предмет, легендарный*
 
-This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 футов in diameter.
+Эта тонкая чёрная ткань, мягкая как шёлк, сложена до размеров носового платка. Она разворачивается в круглый лоскут диаметром 6 футов.
 
-You can use an action to unfold and place the *Колодец многих миров* on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the GM decides where it leads. You can use an action to close an open portal by taking hold of the edges of the cloth and folding it up. Once *Колодец многих миров* has opened a portal, it can't do so again for 1к8 hours.
+Вы можете действием развернуть и разместить *Колодец многих миров* на твёрдой поверхности, после чего он создаёт двусторонний портал в другой мир или план существования. Каждый раз, когда предмет открывает портал, Мастер решает, куда он ведёт. Вы можете действием закрыть открытый портал, взявшись за края ткани и свернув её. После того как *Колодец многих миров* открыл портал, он не может сделать это снова в течение 1к8 часов.
 
 #### Ветряной веер (Wind Fan)
 
 *Чудесный предмет, необычный*
 
-While holding this fan, you can use an action to cast the *порыв ветра* spell (save СЛ 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.
+Пока вы держите этот веер, вы можете действием наложить заклинание *порыв ветра* (СЛ спасброска 13). После использования веер не следует использовать снова до следующего рассвета. Каждый раз, когда он используется до этого, существует совокупный 20-процентный шанс, что он не сработает и разорвётся на бесполезные немагические клочья.
 
 #### Крылатые сапоги (Winged Boots)
 
 *Чудесный предмет, необычный (требуется настройка)*
 
-While you wear these boots, you have a flying speed equal to your walking speed. You can use the boots to fly for up to 4 hours, all at once or in several shorter flights, each one using a minimum of 1 minute from the duration. If you are flying when the duration expires, you descend at a rate of 30 футов per round until you land.
+Пока вы носите эти сапоги, вы обладаете скоростью полёта, равной вашей скорости ходьбы. Вы можете использовать сапоги для полёта до 4 часов, все сразу или несколькими более короткими перелётами, каждый из которых использует минимум 1 минуту из продолжительности. Если вы летите, когда продолжительность истекает, вы снижаетесь со скоростью 30 футов за раунд, пока не приземлитесь.
 
-The boots regain 2 hours of flying capability for every 12 hours they aren't in use.
+Сапоги восстанавливают 2 часа способности к полёту за каждые 12 часов, когда они не используются.
 
 #### Крылья полёта (Wings of Flying)
 
 *Чудесный предмет, редкий (требуется настройка)*
 
-While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 футов. When they disappear, you can't use them again for 1к12 hours.
+Пока вы носите этот плащ, вы можете действием произнести его командное слово. Это превращает плащ в пару крыльев летучей мыши или птицы на вашей спине на 1 час или пока вы не повторите командное слово действием. Крылья дают вам скорость полёта 60 футов. Когда они исчезают, вы не можете использовать их снова в течение 1к12 часов.
