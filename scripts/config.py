@@ -6,19 +6,39 @@ SOURCES = [
     {"ver": "srd52", "lang": "ru", "type": "monster",     "file": "srd-5.2/ru/12_MonstersA-Z.md",  "h": 3},
     {"ver": "srd52", "lang": "ru", "type": "magic_item",  "file": "srd-5.2/ru/10_MagicItems.md",   "h": 4, "after": "## Магические предметы от А до Я"},
     {"ver": "srd52", "lang": "ru", "type": "monster",     "file": "srd-5.2/ru/13_Animals.md",      "h": 3, "out": "animals"},
+    {"ver": "srd52", "lang": "ru", "type": "weapon",      "file": "srd-5.2/ru/06_Equipment.md",    "h": 0},
+    {"ver": "srd52", "lang": "ru", "type": "armor",       "file": "srd-5.2/ru/06_Equipment.md",    "h": 0},
+    {"ver": "srd52", "lang": "ru", "type": "equipment",   "file": "srd-5.2/ru/06_Equipment.md",    "h": 4, "after": "## Инструменты"},
+    {"ver": "srd52", "lang": "ru", "type": "condition",   "file": "srd-5.2/ru/08_RulesGlossary.md","h": 4},
+    {"ver": "srd52", "lang": "ru", "type": "feat",        "file": "srd-5.2/ru/05_Feats.md",        "h": 4, "after": "## Описания черт"},
     # SRD 5.2 EN
     {"ver": "srd52", "lang": "en", "type": "spell",      "file": "srd-5.2/en/07_Spells.md",       "h": 3},
     {"ver": "srd52", "lang": "en", "type": "monster",     "file": "srd-5.2/en/12_MonstersA-Z.md",  "h": 3},
     {"ver": "srd52", "lang": "en", "type": "magic_item",  "file": "srd-5.2/en/10_MagicItems.md",   "h": 4, "after": "## Magic Items A\u2013Z"},
     {"ver": "srd52", "lang": "en", "type": "monster",     "file": "srd-5.2/en/13_Animals.md",      "h": 3, "out": "animals"},
+    {"ver": "srd52", "lang": "en", "type": "weapon",      "file": "srd-5.2/en/06_Equipment.md",    "h": 0},
+    {"ver": "srd52", "lang": "en", "type": "armor",       "file": "srd-5.2/en/06_Equipment.md",    "h": 0},
+    {"ver": "srd52", "lang": "en", "type": "equipment",   "file": "srd-5.2/en/06_Equipment.md",    "h": 4, "after": "## Tools"},
+    {"ver": "srd52", "lang": "en", "type": "condition",   "file": "srd-5.2/en/08_RulesGlossary.md","h": 4},
+    {"ver": "srd52", "lang": "en", "type": "feat",        "file": "srd-5.2/en/05_Feats.md",        "h": 4, "after": "## Feat Descriptions"},
     # SRD 5.1 RU
     {"ver": "srd51", "lang": "ru", "type": "spell",      "file": "srd-5.1/ru/10_Spells.md",       "h": 3},
     {"ver": "srd51", "lang": "ru", "type": "monster",     "file": "srd-5.1/ru/15_MonstersA-Z.md",  "h": 3},
     {"ver": "srd51", "lang": "ru", "type": "magic_item",  "file": "srd-5.1/ru/13_MagicItems.md",   "h": 4},
+    {"ver": "srd51", "lang": "ru", "type": "weapon",      "file": "srd-5.1/ru/09_Equipment.md",    "h": 0},
+    {"ver": "srd51", "lang": "ru", "type": "armor",       "file": "srd-5.1/ru/09_Equipment.md",    "h": 0},
+    {"ver": "srd51", "lang": "ru", "type": "equipment",  "file": "srd-5.1/ru/09_Equipment.md",    "h": 0},
+    {"ver": "srd51", "lang": "ru", "type": "condition",   "file": "srd-5.1/ru/11_Conditions.md",   "h": 4},
+    {"ver": "srd51", "lang": "ru", "type": "feat",        "file": "srd-5.1/ru/08_Feats.md",        "h": 4},
     # SRD 5.1 EN
     {"ver": "srd51", "lang": "en", "type": "spell",      "file": "srd-5.1/en/10_Spells.md",       "h": 3},
     {"ver": "srd51", "lang": "en", "type": "monster",     "file": "srd-5.1/en/15_MonstersA-Z.md",  "h": 3},
     {"ver": "srd51", "lang": "en", "type": "magic_item",  "file": "srd-5.1/en/13_MagicItems.md",   "h": 4},
+    {"ver": "srd51", "lang": "en", "type": "weapon",      "file": "srd-5.1/en/09_Equipment.md",    "h": 0},
+    {"ver": "srd51", "lang": "en", "type": "armor",       "file": "srd-5.1/en/09_Equipment.md",    "h": 0},
+    {"ver": "srd51", "lang": "en", "type": "equipment",  "file": "srd-5.1/en/09_Equipment.md",    "h": 0},
+    {"ver": "srd51", "lang": "en", "type": "condition",   "file": "srd-5.1/en/11_Conditions.md",   "h": 4},
+    {"ver": "srd51", "lang": "en", "type": "feat",        "file": "srd-5.1/en/08_Feats.md",        "h": 4},
 ]
 
 # Heading patterns that are NOT entity entries (section headers, rules text, etc.)
@@ -50,9 +70,51 @@ SKIP_HEADINGS_MONSTER = {
     "Customizing NPCs", "Настройка НИП",
 }
 
+# Equipment: non-item #### headings (weapon/armor properties, rules, etc.)
+SKIP_HEADINGS_EQUIPMENT = {
+    # EN — weapon properties
+    "Ammunition", "Finesse", "Heavy", "Light", "Loading", "Range", "Reach",
+    "Thrown", "Two-Handed", "Versatile",
+    # EN — mastery properties
+    "Cleave", "Graze", "Nick", "Push", "Sap", "Slow", "Topple", "Vex",
+    # EN — armor rules
+    "Light, Medium, or Heavy Armor", "Shield",
+    # EN — vehicle/mount rules
+    "Speed", "Crew", "Passengers", "Damage Threshold", "Ship Repair",
+    # EN — magic item rules
+    "Attune during a Short Rest", "No More Than Three Items",
+    "Ending Attunement", "Multiple Items of the Same Kind", "Paired Items",
+    # RU — weapon properties
+    "Боеприпас", "Фехтовальное", "Тяжёлое", "Лёгкое", "Перезарядка",
+    "Дистанция", "Досягаемость", "Метательное", "Двуручное", "Универсальное",
+    # RU — mastery properties
+    "Рассечение", "Скольжение", "Порез", "Толчок", "Оглушение",
+    "Замедление", "Опрокидывание", "Досаждение",
+    # RU — armor rules
+    "Лёгкие, средние или тяжёлые доспехи", "Щит",
+    # RU — vehicle/mount rules
+    "Скорость", "Экипаж", "Пассажиры", "Порог урона", "Ремонт корабля",
+    # RU — magic item rules
+    "Настройка во время короткого отдыха", "Не более трёх предметов",
+    "Окончание настройки", "Несколько предметов одного вида", "Парные предметы",
+}
+
+# Feat: non-feat #### headings inside feat files
+SKIP_HEADINGS_FEAT = {
+    # EN — parts of feat description
+    "Parts of a Feat",
+    # RU
+    "Составляющие черты",
+}
+
 # Resource type to output directory name mapping
 RESOURCE_DIR = {
     "spell": "spells",
     "monster": "monsters",
     "magic_item": "magic-items",
+    "weapon": "weapons",
+    "armor": "armor",
+    "equipment": "equipment",
+    "condition": "conditions",
+    "feat": "feats",
 }
