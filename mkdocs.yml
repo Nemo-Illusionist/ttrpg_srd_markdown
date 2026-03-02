@@ -9,6 +9,9 @@ theme:
   name: material
   language: ru
   custom_dir: overrides
+  favicon: assets/favicon.svg
+  icon:
+    logo: material/dice-d20
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
