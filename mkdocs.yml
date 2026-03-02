@@ -1,12 +1,14 @@
 site_name: TTRPG SRD
 site_url: https://nemo-illusionist.github.io/ttrpg_srd_markdown/
-site_description: System Reference Documents for tabletop role-playing games
+site_description: "D&D SRD 5.2 и 5.1 на русском и английском языках — заклинания, монстры, магические предметы, классы и правила"
+site_author: Nemo Illusionist
 
 docs_dir: docs
 
 theme:
   name: material
   language: ru
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
