@@ -31,6 +31,8 @@
 | :calendar: | Pathfinder 2e | Paizo | [ORC](https://paizo.com/orclicense) | [Web](https://2e.aonprd.com/) |
 | :calendar: | Starfinder 2e | Paizo | [ORC](https://paizo.com/orclicense) | [Web](https://2e.aonsrd.com/) |
 | :calendar: | Basic Roleplaying (BRP) | Chaosium | [ORC](https://www.chaosium.com/orclicense/) | [PDF](https://www.chaosium.com/brp-system-reference-document/) |
+| :calendar: | Year Zero Engine | Free League | [FTL](https://freeleaguepublishing.com/community-content/free-tabletop-licenses/) | [PDF](https://freeleaguepublishing.com/wp-content/uploads/2023/11/YZE-Standard-Reference-Document.pdf) |
+| :grey_question: | Dragonbane | Free League | [3rd Party License](https://freeleaguepublishing.com/community-content/free-tabletop-licenses/) | PDF |
 | :grey_question: | Fate Core / FAE | Evil Hat Productions | CC BY 3.0 | [Web](https://fate-srd.com/), [Markdown](https://github.com/amazingrando/fate-srd-content) |
 | :grey_question: | Blades in the Dark | One Seven Design | CC BY 3.0 | [Web](https://bladesinthedark.com/), [Markdown](https://github.com/amazingrando/blades-in-the-dark-srd-content) |
 | :grey_question: | Dungeon World | Sage LaTorra | CC BY 3.0 | [Web](https://www.dungeonworldsrd.com/), [GitHub](https://github.com/Sagelt/Dungeon-World) |
