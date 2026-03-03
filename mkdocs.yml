@@ -93,9 +93,7 @@ plugins:
             Инструментарий мастера: Gamemastering Toolbox
             "Конвертация в SRD 5.2.1": "Converting to SRD 5.2.1"
             Введение: Introduction
-            Создание персонажа (DH): Character Creation
             Домены: Domains
-            Классы (DH): Classes
             Происхождения: Ancestries
             Сообщества: Communities
             Основные механики: Core Mechanics
@@ -202,9 +200,9 @@ nav:
   - Daggerheart:
       - SRD 1.0:
           - Введение: daggerheart/srd-1.0/00_Introduction.md
-          - Создание персонажа (DH): daggerheart/srd-1.0/01_CharacterCreation.md
+          - Создание персонажа: daggerheart/srd-1.0/01_CharacterCreation.md
           - Домены: daggerheart/srd-1.0/02_Domains.md
-          - Классы (DH):
+          - Классы:
               - Бард: daggerheart/srd-1.0/03_Classes/01_Bard.md
               - Друид: daggerheart/srd-1.0/03_Classes/02_Druid.md
               - Страж: daggerheart/srd-1.0/03_Classes/03_Guardian.md
