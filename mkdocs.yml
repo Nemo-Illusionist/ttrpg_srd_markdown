@@ -206,6 +206,7 @@ nav:
       - "Конвертация в SRD 5.2.1": dnd/converting-srd-5.2/converting-to-srd-5.2.1.md
   - Daggerheart:
       - SRD 1.0:
+          - Правовая информация: daggerheart/srd-1.0/00_Legal.md
           - Введение: daggerheart/srd-1.0/00_Introduction.md
           - Создание персонажа: daggerheart/srd-1.0/01_CharacterCreation.md
           - Домены: daggerheart/srd-1.0/02_Domains.md

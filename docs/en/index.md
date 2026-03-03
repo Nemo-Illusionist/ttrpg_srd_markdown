@@ -16,7 +16,7 @@ hide:
 
 ## Daggerheart
 
-- **[SRD 1.0](daggerheart/srd-1.0/00_Introduction.md)** — Daggerheart core rules, published under the [DPCGL](https://darringtonpress.com/license) license. © 2025 Critical Role LLC.
+- **[SRD 1.0](daggerheart/srd-1.0/00_Legal.md)** — Daggerheart core rules, published under the [DPCGL](https://darringtonpress.com/license) license. © 2025 Critical Role LLC.
 
 ---
 
