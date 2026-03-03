@@ -11,6 +11,7 @@
 | NPC | Nonplayer Character |
 | PB | Proficiency |
 | PC | Player Character |
+| SC | Spellcast Trait |
 | phy | Physical Damage |
 
 ---
