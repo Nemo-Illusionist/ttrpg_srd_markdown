@@ -207,37 +207,37 @@ nav:
   - Daggerheart:
       - SRD 1.0:
           - Правовая информация: daggerheart/srd-1.0/00_Legal.md
-          - Введение: daggerheart/srd-1.0/00_Introduction.md
-          - Создание персонажа: daggerheart/srd-1.0/01_CharacterCreation.md
-          - Домены: daggerheart/srd-1.0/02_Domains.md
+          - Введение: daggerheart/srd-1.0/01_Introduction.md
+          - Создание персонажа: daggerheart/srd-1.0/02_CharacterCreation.md
+          - Домены: daggerheart/srd-1.0/03_Domains.md
           - Классы:
-              - Бард: daggerheart/srd-1.0/03_Classes/01_Bard.md
-              - Друид: daggerheart/srd-1.0/03_Classes/02_Druid.md
-              - Страж: daggerheart/srd-1.0/03_Classes/03_Guardian.md
-              - Следопыт: daggerheart/srd-1.0/03_Classes/04_Ranger.md
-              - Плут: daggerheart/srd-1.0/03_Classes/05_Rogue.md
-              - Серафим: daggerheart/srd-1.0/03_Classes/06_Seraph.md
-              - Чародей: daggerheart/srd-1.0/03_Classes/07_Sorcerer.md
-              - Воитель: daggerheart/srd-1.0/03_Classes/08_Warrior.md
-              - Волшебник: daggerheart/srd-1.0/03_Classes/09_Wizard.md
-          - Происхождения: daggerheart/srd-1.0/04_Ancestries.md
-          - Сообщества: daggerheart/srd-1.0/05_Communities.md
-          - Основные механики: daggerheart/srd-1.0/06_CoreMechanics.md
-          - Оружие: daggerheart/srd-1.0/07_Weapons.md
-          - Броня: daggerheart/srd-1.0/08_Armor.md
-          - Добыча: daggerheart/srd-1.0/09_Loot.md
-          - Расходники: daggerheart/srd-1.0/10_Consumables.md
-          - Руководство мастера: daggerheart/srd-1.0/11_GMGuide.md
-          - Противники: daggerheart/srd-1.0/12_Adversaries.md
-          - Окружения: daggerheart/srd-1.0/13_Environments.md
-          - Витервилд: daggerheart/srd-1.0/14_Witherwild.md
-          - Справочник доменных карт: daggerheart/srd-1.0/15_DomainCardReference.md
+              - Бард: daggerheart/srd-1.0/04_Classes/01_Bard.md
+              - Друид: daggerheart/srd-1.0/04_Classes/02_Druid.md
+              - Страж: daggerheart/srd-1.0/04_Classes/03_Guardian.md
+              - Следопыт: daggerheart/srd-1.0/04_Classes/04_Ranger.md
+              - Плут: daggerheart/srd-1.0/04_Classes/05_Rogue.md
+              - Серафим: daggerheart/srd-1.0/04_Classes/06_Seraph.md
+              - Чародей: daggerheart/srd-1.0/04_Classes/07_Sorcerer.md
+              - Воитель: daggerheart/srd-1.0/04_Classes/08_Warrior.md
+              - Волшебник: daggerheart/srd-1.0/04_Classes/09_Wizard.md
+          - Происхождения: daggerheart/srd-1.0/05_Ancestries.md
+          - Сообщества: daggerheart/srd-1.0/06_Communities.md
+          - Основные механики: daggerheart/srd-1.0/07_CoreMechanics.md
+          - Оружие: daggerheart/srd-1.0/08_Weapons.md
+          - Броня: daggerheart/srd-1.0/09_Armor.md
+          - Добыча: daggerheart/srd-1.0/10_Loot.md
+          - Расходники: daggerheart/srd-1.0/11_Consumables.md
+          - Руководство мастера: daggerheart/srd-1.0/12_GMGuide.md
+          - Противники: daggerheart/srd-1.0/13_Adversaries.md
+          - Окружения: daggerheart/srd-1.0/14_Environments.md
+          - Витервилд: daggerheart/srd-1.0/15_Witherwild.md
+          - Справочник доменных карт: daggerheart/srd-1.0/16_DomainCardReference.md
           - Глоссарий:
-              - Термины: daggerheart/srd-1.0/16_Glossary/00_Glossary.md
-              - "Способности (справочник)": daggerheart/srd-1.0/16_Glossary/01_Abilities.md
-              - "Противники (справочник)": daggerheart/srd-1.0/16_Glossary/02_Adversaries.md
-              - "Оружие (справочник)": daggerheart/srd-1.0/16_Glossary/03_Weapons.md
-              - "Броня (справочник)": daggerheart/srd-1.0/16_Glossary/04_Armor.md
-              - "Происхождения (справочник)": daggerheart/srd-1.0/16_Glossary/05_Ancestries.md
-              - "Предметы (справочник)": daggerheart/srd-1.0/16_Glossary/06_Items.md
-              - "Расходники (справочник)": daggerheart/srd-1.0/16_Glossary/07_Consumables.md
+              - Термины: daggerheart/srd-1.0/17_Glossary/00_Glossary.md
+              - "Способности (справочник)": daggerheart/srd-1.0/17_Glossary/01_Abilities.md
+              - "Противники (справочник)": daggerheart/srd-1.0/17_Glossary/02_Adversaries.md
+              - "Оружие (справочник)": daggerheart/srd-1.0/17_Glossary/03_Weapons.md
+              - "Броня (справочник)": daggerheart/srd-1.0/17_Glossary/04_Armor.md
+              - "Происхождения (справочник)": daggerheart/srd-1.0/17_Glossary/05_Ancestries.md
+              - "Предметы (справочник)": daggerheart/srd-1.0/17_Glossary/06_Items.md
+              - "Расходники (справочник)": daggerheart/srd-1.0/17_Glossary/07_Consumables.md
