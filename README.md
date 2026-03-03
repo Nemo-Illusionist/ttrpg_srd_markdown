@@ -19,6 +19,35 @@
 
 - [marker](https://github.com/VikParuchuri/marker) — конвертация PDF в Markdown
 
+## Планы
+
+### В работе / планируется
+
+| Статус | Система | Издатель | Лицензия | Формат SRD |
+|:---:|---|---|---|---|
+| :white_check_mark: | D&D SRD 5.2.1 | Wizards of the Coast | CC BY 4.0 | [PDF](https://www.dndbeyond.com/srd) |
+| :white_check_mark: | D&D SRD 5.1 | Wizards of the Coast | CC BY 4.0 | [PDF](https://www.dndbeyond.com/srd) |
+| :calendar: | Daggerheart | Darrington Press | [DPCGL](https://darringtonpress.com/license/) | [PDF](https://www.daggerheart.com/srd/), [Markdown](https://github.com/seansbox/daggerheart-srd) |
+| :calendar: | Pathfinder 2e | Paizo | [ORC](https://paizo.com/orclicense) | [Web](https://2e.aonprd.com/) |
+| :calendar: | Starfinder 2e | Paizo | [ORC](https://paizo.com/orclicense) | [Web](https://2e.aonsrd.com/) |
+| :calendar: | Basic Roleplaying (BRP) | Chaosium | [ORC](https://www.chaosium.com/orclicense/) | [PDF](https://www.chaosium.com/brp-system-reference-document/) |
+| :grey_question: | Fate Core / FAE | Evil Hat Productions | CC BY 3.0 | [Web](https://fate-srd.com/), [Markdown](https://github.com/amazingrando/fate-srd-content) |
+| :grey_question: | Blades in the Dark | One Seven Design | CC BY 3.0 | [Web](https://bladesinthedark.com/), [Markdown](https://github.com/amazingrando/blades-in-the-dark-srd-content) |
+| :grey_question: | Dungeon World | Sage LaTorra | CC BY 3.0 | [Web](https://www.dungeonworldsrd.com/), [GitHub](https://github.com/Sagelt/Dungeon-World) |
+| :grey_question: | 13th Age (Archmage Engine) | Pelgrane Press | OGL 1.0a | [Web](https://www.13thagesrd.com/), [PDF](https://pelgranepress.com/media/SRD/13thAgeArchmageEngineSRD.pdf) |
+| :grey_question: | MORK BORG | Free League | [3rd Party License](https://morkborg.com/license/) | [Web](https://morkborg.com/content/) |
+| :grey_question: | Worlds Without Number | Sine Nomine | CC0 | PDF (DriveThruRPG) |
+| :grey_question: | Cypher System | Monte Cook Games | [CSOL](https://www.montecookgames.com/cypher-system-open-license/) | [Web](https://callmepartario.github.io/og-csrd/) |
+
+> :white_check_mark: — готово, :calendar: — планируется, :grey_question: — рассматривается
+
+### Лицензия не позволяет
+
+| Система | Издатель | Причина |
+|---|---|---|
+| World of Darkness (VtM, WtA, DtD...) | Paradox Interactive | Нет открытого SRD. [Dark Pack](https://worldofdarkness.com/dark-pack) только для бесплатного фанатского контента |
+| 2d20 (Dune, Fallout, Star Trek...) | Modiphius | SRD существует, но [World Builders](https://modiphius.net/en-us/pages/2d20worldbuilders) привязан к DriveThruRPG. Свободное распространение запрещено |
+
 ## Лицензии
 
 Каждый SRD распространяется под собственной лицензией. См. `LICENSE.md` в соответствующей папке.
@@ -27,4 +56,4 @@
 
 ---
 
-*Это неофициальный фанатский проект. Dungeons & Dragons и D&D являются товарными знаками Wizards of the Coast LLC.*
+*Это неофициальный фанатский проект. Все торговые знаки принадлежат их правообладателям.*
