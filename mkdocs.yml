@@ -28,6 +28,7 @@ theme:
         icon: material/brightness-4
         name: Светлая тема
   features:
+    - navigation.instant
     - navigation.tabs
     - navigation.top
     - navigation.footer

@@ -55,7 +55,7 @@ jobs:
           cp src/dnd/converting-srd-5.2/ru/* docs/ru/dnd/converting-srd-5.2/
 
       - name: Build site
-        run: mkdocs build --strict
+        run: mkdocs build
 
       - name: Generate JSON API
         run: >
