@@ -30,15 +30,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install mkdocs-material mkdocs-static-i18n jsonschema mkdocs-minify-plugin mkdocs-git-revision-date-localized-plugin
+        run: pip install mkdocs-material mkdocs-static-i18n jsonschema mkdocs-minify-plugin
 
       - name: Copy source files to docs
         run: |
