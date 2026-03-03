@@ -36,7 +36,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install mkdocs-material mkdocs-static-i18n jsonschema
+        run: pip install mkdocs-material mkdocs-static-i18n jsonschema mkdocs-minify-plugin mkdocs-git-revision-date-localized-plugin
 
       - name: Copy source files to docs
         run: |
