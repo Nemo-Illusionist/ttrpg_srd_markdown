@@ -14,6 +14,10 @@ hide:
 
 - **[Конвертация в SRD 5.2.1](dnd/converting-srd-5.2/converting-to-srd-5.2.1.md)** — Гайд по переходу с SRD 5.1 на SRD 5.2.1.
 
+## Daggerheart
+
+- **[SRD 1.0](daggerheart/srd-1.0/00_Introduction.md)** — Базовые правила Daggerheart, опубликованные по лицензии [DPCGL](https://darringtonpress.com/license). © 2025 Critical Role LLC.
+
 ---
 
 Перевод на русский язык выполнен с помощью ИИ. Если вы нашли ошибку — [создайте issue](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/issues/new) в [репозитории проекта](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown).

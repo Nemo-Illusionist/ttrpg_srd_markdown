@@ -1,6 +1,6 @@
 site_name: TTRPG SRD
 site_url: https://nemo-illusionist.github.io/ttrpg_srd_markdown/
-site_description: "D&D SRD 5.2 и 5.1 на русском и английском языках — заклинания, монстры, магические предметы, классы и правила"
+site_description: "D&D SRD 5.2, 5.1 и Daggerheart SRD на русском и английском — заклинания, монстры, классы, правила"
 site_author: Nemo Illusionist
 
 docs_dir: docs
@@ -92,6 +92,25 @@ plugins:
             Состояния: Conditions
             Инструментарий мастера: Gamemastering Toolbox
             "Конвертация в SRD 5.2.1": "Converting to SRD 5.2.1"
+            Введение: Introduction
+            Создание персонажа (DH): Character Creation
+            Домены: Domains
+            Классы (DH): Classes
+            Происхождения: Ancestries
+            Сообщества: Communities
+            Основные механики: Core Mechanics
+            Оружие: Weapons
+            Броня: Armor
+            Добыча: Loot
+            Расходники: Consumables
+            Руководство мастера: GM Guide
+            Противники: Adversaries
+            Окружения: Environments
+            Витервилд: The Witherwild
+            Справочник доменных карт: Domain Card Reference
+            Страж: Guardian
+            Серафим: Seraph
+            Воитель: Warrior
   - search:
       lang:
         - ru
@@ -180,3 +199,30 @@ nav:
               - "Магические предметы (справочник)": dnd/srd-5.1/16_Glossary/03_MagicItems.md
               - "Монстры (справочник)": dnd/srd-5.1/16_Glossary/04_Monsters.md
       - "Конвертация в SRD 5.2.1": dnd/converting-srd-5.2/converting-to-srd-5.2.1.md
+  - Daggerheart:
+      - SRD 1.0:
+          - Введение: daggerheart/srd-1.0/00_Introduction.md
+          - Создание персонажа (DH): daggerheart/srd-1.0/01_CharacterCreation.md
+          - Домены: daggerheart/srd-1.0/02_Domains.md
+          - Классы (DH):
+              - Бард: daggerheart/srd-1.0/03_Classes/01_Bard.md
+              - Друид: daggerheart/srd-1.0/03_Classes/02_Druid.md
+              - Страж: daggerheart/srd-1.0/03_Classes/03_Guardian.md
+              - Следопыт: daggerheart/srd-1.0/03_Classes/04_Ranger.md
+              - Плут: daggerheart/srd-1.0/03_Classes/05_Rogue.md
+              - Серафим: daggerheart/srd-1.0/03_Classes/06_Seraph.md
+              - Чародей: daggerheart/srd-1.0/03_Classes/07_Sorcerer.md
+              - Воитель: daggerheart/srd-1.0/03_Classes/08_Warrior.md
+              - Волшебник: daggerheart/srd-1.0/03_Classes/09_Wizard.md
+          - Происхождения: daggerheart/srd-1.0/04_Ancestries.md
+          - Сообщества: daggerheart/srd-1.0/05_Communities.md
+          - Основные механики: daggerheart/srd-1.0/06_CoreMechanics.md
+          - Оружие: daggerheart/srd-1.0/07_Weapons.md
+          - Броня: daggerheart/srd-1.0/08_Armor.md
+          - Добыча: daggerheart/srd-1.0/09_Loot.md
+          - Расходники: daggerheart/srd-1.0/10_Consumables.md
+          - Руководство мастера: daggerheart/srd-1.0/11_GMGuide.md
+          - Противники: daggerheart/srd-1.0/12_Adversaries.md
+          - Окружения: daggerheart/srd-1.0/13_Environments.md
+          - Витервилд: daggerheart/srd-1.0/14_Witherwild.md
+          - Справочник доменных карт: daggerheart/srd-1.0/15_DomainCardReference.md
