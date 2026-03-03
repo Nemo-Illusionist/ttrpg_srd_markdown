@@ -1,5 +1,3 @@
-## Weapons
-
 | Weapon | Category | Tier | Trait | Range | Damage | Burden | Feature |
 |---|---|---|---|---|---|---|---|
 | Arcane-Frame Wheelchair | Primary | 1 | Spellcast | Far | d6 mag | One-Handed | Reliable: +1 to attack rolls |

@@ -1,5 +1,3 @@
-## Magic Items
-
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 | Adamantine Armor | Armor (medium or heavy, but not hide) | Uncommon |  |

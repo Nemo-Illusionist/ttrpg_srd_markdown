@@ -1,5 +1,3 @@
-## Spells
-
 | Spell | Level | School | Classes |
 |---|---|---|---|
 | Acid Splash | Cantrip | Conjuration | Sorcerer, Wizard |

@@ -1,5 +1,3 @@
-## Abilities
-
 | Ability | Level | Domain | Type | Recall Cost |
 |---|---|---|---|---|
 | A Soldier's Bond | 2 | Blade | Ability | 1 |

@@ -1,5 +1,3 @@
-## Animals
-
 | Animal | Size | Type | CR | AC | HP |
 |---|---|---|---|---|---|
 | Allosaurus | Large | Beast (Dinosaur) | 2 | 13 | 51 |

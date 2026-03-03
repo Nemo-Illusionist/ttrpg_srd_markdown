@@ -1,5 +1,3 @@
-## Monsters
-
 | Monster | Size | Type | Alignment | CR | AC | HP |
 |---|---|---|---|---|---|---|
 | Aboleth | Large | Aberration | Lawful Evil | 10 | 17 | 150 |

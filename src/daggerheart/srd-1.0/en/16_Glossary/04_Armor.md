@@ -1,5 +1,3 @@
-## Armor
-
 | Armor | Tier | Base Thresholds | Armor Score | Armor Slots | Feature |
 |---|---|---|---|---|---|
 | Chainmail Armor | 1 | 7 / 15 | 4 | 4 | **_Heavy:_** -1 to Evasion |

@@ -1,11 +1,5 @@
 # Glossary
 
-## Terms
-
-Reference terms for D&D SRD 5.1.
-
----
-
 ### Abbreviations
 
 | Abbr. | Full Term |

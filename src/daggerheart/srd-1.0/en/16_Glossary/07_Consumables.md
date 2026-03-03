@@ -1,5 +1,3 @@
-## Consumables
-
 | Consumable | Tier | Type | Cost | Description |
 |---|---|---|---|---|
 | Acidpaste | Rare | Paste | 1–2 Bags | Eats away walls and surfaces in bright flashes |

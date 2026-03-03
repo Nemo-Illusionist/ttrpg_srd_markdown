@@ -1,11 +1,5 @@
 # Glossary
 
-## Terms
-
-Reference terms for Daggerheart SRD 1.0.
-
----
-
 ### Abbreviations
 
 | Abbr. | Full Term |

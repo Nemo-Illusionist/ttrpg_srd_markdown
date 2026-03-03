@@ -1,5 +1,3 @@
-## Adversaries
-
 | Adversary | Tier | Type | Difficulty | Thresholds | HP | Stress | ATK |
 |---|---|---|---|---|---|---|---|
 | Acid Burrower | 1 | Solo | 14 | 8/15 | 8 | 3 | +3 |

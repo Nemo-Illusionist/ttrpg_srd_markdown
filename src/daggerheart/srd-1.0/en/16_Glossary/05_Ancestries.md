@@ -1,5 +1,3 @@
-## Ancestries
-
 | Ancestry | Feature 1 | Feature 2 |
 |---|---|---|
 | Clank | Purposeful Design: Permanent +1 to a chosen Experience | Efficient: Choose a long rest move on short rest |

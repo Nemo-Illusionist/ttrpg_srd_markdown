@@ -1,5 +1,3 @@
-## Items
-
 | Item | Tier | Type | Cost | Description |
 |---|---|---|---|---|
 | Airblade Charm | Rare | Charm | 1–2 Bags | 3x/rest attack Close range with a Melee weapon |
