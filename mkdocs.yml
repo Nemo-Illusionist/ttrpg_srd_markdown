@@ -113,6 +113,7 @@ plugins:
             "Происхождения (справочник)": "Ancestries (Reference)"
             "Предметы (справочник)": "Items (Reference)"
             "Расходники (справочник)": "Consumables (Reference)"
+            "Сообщества (справочник)": "Communities (Reference)"
             Страж: Guardian
             Серафим: Seraph
             Воитель: Warrior
@@ -241,3 +242,4 @@ nav:
               - "Происхождения (справочник)": daggerheart/srd-1.0/17_Glossary/05_Ancestries.md
               - "Предметы (справочник)": daggerheart/srd-1.0/17_Glossary/06_Items.md
               - "Расходники (справочник)": daggerheart/srd-1.0/17_Glossary/07_Consumables.md
+              - "Сообщества (справочник)": daggerheart/srd-1.0/17_Glossary/08_Communities.md
