@@ -16,6 +16,8 @@ hide:
 
 ## Daggerheart
 
+[:material-download: Скачать](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q=dh-srd)
+
 - **[SRD 1.0](daggerheart/srd-1.0/00_Legal.md)** — Базовые правила Daggerheart, опубликованные по лицензии [DPCGL](https://darringtonpress.com/license). © 2025 Critical Role LLC.
 
 ---
