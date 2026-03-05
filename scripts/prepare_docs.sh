@@ -33,8 +33,9 @@ cp -r src/daggerheart/srd-1.0/en/* docs/ru/daggerheart/srd-1.0/
 cp -r src/daggerheart/srd-1.0/ru/* docs/ru/daggerheart/srd-1.0/
 
 # BRP SRD 1.0
-mkdir -p docs/en/brp/srd-1.0 docs/ru/brp/srd-1.0
+mkdir -p docs/en/brp/srd-1.0/09_Glossary docs/ru/brp/srd-1.0/09_Glossary
 cp -r src/brp/srd-1.0/en/* docs/en/brp/srd-1.0/
 cp -r src/brp/srd-1.0/en/* docs/ru/brp/srd-1.0/
+cp -r src/brp/srd-1.0/ru/* docs/ru/brp/srd-1.0/
 
 echo "docs/ prepared from src/"
