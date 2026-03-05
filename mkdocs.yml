@@ -122,6 +122,7 @@ plugins:
             Особые правила: Spot Rules
             Пример противника: Sample Foe
             Создание персонажа (BRP): Character Creation
+            Лист персонажа: Character Sheet
   - search:
       lang:
         - ru
@@ -258,3 +259,4 @@ nav:
           - Бой: brp/srd-1.0/05_Combat.md
           - Особые правила: brp/srd-1.0/06_SpotRules.md
           - Пример противника: brp/srd-1.0/07_SampleFoe.md
+          - Лист персонажа: brp/srd-1.0/08_CharacterSheet.md
