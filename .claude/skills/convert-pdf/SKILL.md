@@ -1,6 +1,6 @@
 ---
 description: "Конвертация PDF в сырой markdown тремя инструментами (marker + pymupdf4llm + docling)"
-user_invocable: true
+user-invocable: true
 ---
 
 # /convert-pdf — Конвертация PDF в markdown

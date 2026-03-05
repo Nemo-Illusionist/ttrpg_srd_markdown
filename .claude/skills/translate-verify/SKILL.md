@@ -1,6 +1,6 @@
 ---
 description: "Верификация RU глоссария командой из 3 агентов — минимум 3 раунда"
-user_invocable: true
+user-invocable: true
 ---
 
 # /translate-verify — Верификация глоссария

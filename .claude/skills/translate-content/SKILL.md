@@ -1,6 +1,6 @@
 ---
 description: "Перевод контентных файлов SRD строго по глоссарию"
-user_invocable: true
+user-invocable: true
 ---
 
 # /translate-content — Перевод контента по глоссарию

@@ -1,6 +1,6 @@
 ---
 description: "Сведение результатов трёх конвертеров + разбивка на файлы + чистка артефактов PDF"
-user_invocable: true
+user-invocable: true
 ---
 
 # /cleanup-artifacts — Сведение, разбивка и чистка

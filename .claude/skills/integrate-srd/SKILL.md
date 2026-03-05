@@ -1,6 +1,6 @@
 ---
 description: "Интеграция переведённого SRD в сайт — скрипты, CI, навигация"
-user_invocable: true
+user-invocable: true
 ---
 
 # /integrate-srd — Интеграция SRD в сайт

@@ -1,6 +1,6 @@
 ---
 description: "Создание EN глоссария из исходников SRD — извлечение терминов и сущностей"
-user_invocable: true
+user-invocable: true
 ---
 
 # /build-glossary — Создание EN глоссария

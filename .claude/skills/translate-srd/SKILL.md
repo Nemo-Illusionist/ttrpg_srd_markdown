@@ -1,6 +1,6 @@
 ---
 description: "Оркестратор полного пайплайна перевода SRD — от глоссария до интеграции в сайт"
-user_invocable: true
+user-invocable: true
 ---
 
 # /translate-srd — Полный пайплайн перевода SRD

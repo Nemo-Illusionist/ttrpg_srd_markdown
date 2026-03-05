@@ -1,6 +1,6 @@
 ---
 description: "Перевод EN глоссария в RU — с сохранением оригинальных EN имён"
-user_invocable: true
+user-invocable: true
 ---
 
 # /translate-glossary — Перевод глоссария EN→RU

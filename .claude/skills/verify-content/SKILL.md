@@ -1,6 +1,6 @@
 ---
 description: "Верификация перевода контента — циклическая проверка до полной чистоты"
-user_invocable: true
+user-invocable: true
 ---
 
 # /verify-content — Верификация перевода контента

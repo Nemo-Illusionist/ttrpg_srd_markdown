@@ -1,6 +1,6 @@
 ---
 description: "Оркестратор полного пайплайна импорта PDF → markdown → сайт"
-user_invocable: true
+user-invocable: true
 ---
 
 # /import-srd — Полный пайплайн импорта SRD

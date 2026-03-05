@@ -1,6 +1,6 @@
 ---
 description: "Верификация полноты импорта — сверка markdown с оригинальным PDF, циклическая"
-user_invocable: true
+user-invocable: true
 ---
 
 # /verify-import — Верификация полноты импорта
