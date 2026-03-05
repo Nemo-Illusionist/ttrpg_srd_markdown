@@ -20,4 +20,4 @@ hide:
 
 ---
 
-Russian translation was made with the help of AI. If you find an error, please [create an issue](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/issues/new) in the [project repository](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown).
+If you find an error, please [create an issue](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/issues/new) in the [project repository](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown).
