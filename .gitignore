@@ -1,6 +1,5 @@
 .vscode/
-.claude/*
-!.claude/skills/
+.claude/settings.local.json
 __pycache__/
 DND-SRD-5.2.1-RU.md
 /site/
