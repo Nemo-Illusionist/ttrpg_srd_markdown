@@ -1,6 +1,6 @@
 site_name: TTRPG SRD
 site_url: https://nemo-illusionist.github.io/ttrpg_srd_markdown/
-site_description: "D&D SRD 5.2.1, 5.1 и Daggerheart (Дагерхарт) SRD 1.0 на русском и английском — заклинания, классы, монстры, магические предметы, правила. Скачать PDF или читать онлайн."
+site_description: "D&D SRD 5.2.1, 5.1, Daggerheart SRD 1.0 и BRP SRD 1.0 на русском и английском — заклинания, классы, монстры, магические предметы, правила. Скачать PDF или читать онлайн."
 site_author: Nemo Illusionist
 
 docs_dir: docs
@@ -117,6 +117,11 @@ plugins:
             Страж: Guardian
             Серафим: Seraph
             Воитель: Warrior
+            Система: System
+            Время: Time
+            Особые правила: Spot Rules
+            Пример противника: Sample Foe
+            Создание персонажа (BRP): Character Creation
   - search:
       lang:
         - ru
@@ -243,3 +248,13 @@ nav:
               - "Предметы (справочник)": daggerheart/srd-1.0/17_Glossary/06_Items.md
               - "Расходники (справочник)": daggerheart/srd-1.0/17_Glossary/07_Consumables.md
               - "Сообщества (справочник)": daggerheart/srd-1.0/17_Glossary/08_Communities.md
+  - Basic Roleplaying:
+      - SRD 1.0:
+          - Правовая информация: brp/srd-1.0/00_Legal.md
+          - Введение: brp/srd-1.0/01_Introduction.md
+          - "Создание персонажа (BRP)": brp/srd-1.0/02_CharacterCreation.md
+          - Система: brp/srd-1.0/03_System.md
+          - Время: brp/srd-1.0/04_Time.md
+          - Бой: brp/srd-1.0/05_Combat.md
+          - Особые правила: brp/srd-1.0/06_SpotRules.md
+          - Пример противника: brp/srd-1.0/07_SampleFoe.md
