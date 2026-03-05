@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+  - title
 ---
 
 # TTRPG SRD — настольные ролевые игры на русском
