@@ -46,6 +46,21 @@
 .brp-sheet td { border-bottom: 1px solid #ddd; padding: 2px 4px; }
 .brp-sheet td input { border: none; width: 100%; font-size: 10px; background: transparent; }
 
+/* Dark theme (MkDocs Material slate) */
+[data-md-color-scheme="slate"] .brp-sheet { color: #e0e0e0; }
+[data-md-color-scheme="slate"] .brp-top > div,
+[data-md-color-scheme="slate"] .brp-skills,
+[data-md-color-scheme="slate"] .brp-bottom > div { border-color: #555; }
+[data-md-color-scheme="slate"] .brp-field input[type="text"],
+[data-md-color-scheme="slate"] .brp-char-grid input,
+[data-md-color-scheme="slate"] .brp-skill input[type="text"],
+[data-md-color-scheme="slate"] .brp-sheet td input { border-bottom-color: #666; color: #e0e0e0; }
+[data-md-color-scheme="slate"] .brp-boxes span { border-color: #888; background: #2e2e2e; color: #ccc; }
+[data-md-color-scheme="slate"] .brp-sheet th { border-bottom-color: #666; color: #ccc; }
+[data-md-color-scheme="slate"] .brp-sheet td { border-bottom-color: #444; }
+[data-md-color-scheme="slate"] .brp-skill .pct { color: #999; }
+[data-md-color-scheme="slate"] .brp-skill .xp { border-color: #888; }
+
 /* Print */
 @media print {
   .brp-sheet { max-width: 100%; page-break-inside: avoid; }
