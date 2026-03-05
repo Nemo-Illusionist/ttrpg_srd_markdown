@@ -97,47 +97,22 @@ user_invocable: true
 
 ### Phase 7: Интеграция в сайт
 
-Выполни вручную (без отдельного skill):
-
-#### 7.1 Скрипт prepare_docs.sh
-
-1. Прочитай `scripts/prepare_docs.sh`
-2. Добавь cp-команды для нового SRD по образцу существующих:
-
-```bash
-# {Game} {Version}
-cp -r src/{game}/{version}/en/* docs/en/{game}/{version}/
-cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
+```
+→ /integrate-srd {game} {version}
 ```
 
-3. Коммит: `Интеграция {game} {version}: prepare_docs.sh`
+Вызови skill `integrate-srd` с аргументами `{game} {version}`.
 
-#### 7.2 GitHub Actions workflow
+Это включает:
+- `scripts/prepare_docs.sh` — команды копирования
+- `.github/workflows/pages.yml` — CI деплой
+- `mkdocs.yml` — навигация + nav_translations
+- `.github/workflows/release-{game}.yml` — release workflow
+- Релизный тег + push (с подтверждением пользователя)
 
-1. Прочитай `.github/workflows/pages.yml`
-2. Добавь в секцию "Copy source files" (по образцу):
-
-```yaml
-- name: Copy {game} {version} sources
-  run: |
-    cp -r src/{game}/{version}/en/* docs/en/{game}/{version}/
-    cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
+После завершения:
 ```
-
-3. Коммит: `Интеграция {game} {version}: pages.yml`
-
-#### 7.3 Навигация в mkdocs.yml
-
-1. Прочитай `mkdocs.yml`
-2. Добавь навигацию для нового SRD в секцию `nav:`:
-   - Определи структуру по файлам в `src/{game}/{version}/ru/`
-   - Следуй существующему паттерну навигации
-3. Коммит: `Интеграция {game} {version}: навигация mkdocs.yml`
-
-#### 7.4 Финальный отчёт
-
-```
-✓ Phase 7 завершена: интеграция в сайт
+✓ Phase 7 завершена: интеграция в сайт + релиз
 
 Полный пайплайн завершён для {game} {version}:
 - Phase 1: EN глоссарий ✓
@@ -146,9 +121,7 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 - Phase 4: Ручная проверка ✓
 - Phase 5: Перевод контента (K файлов) ✓
 - Phase 6: Верификация контента ✓
-- Phase 7: Интеграция в сайт ✓
-
-Всего коммитов: ~X
+- Phase 7: Интеграция + релиз ✓
 ```
 
 ## Восстановление после сбоя
@@ -159,6 +132,7 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 - RU глоссарий есть → начни с `/translate-verify`
 - Контент не переведён → начни с `/translate-content`
 - Контент есть → начни с `/verify-content`
+- Всё переведено и проверено → начни с `/integrate-srd`
 
 ## Технические требования
 
