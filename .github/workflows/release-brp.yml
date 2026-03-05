@@ -1,0 +1,49 @@
+name: Build and Release BRP
+
+on:
+  push:
+    tags:
+      - 'brp-srd-v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build combined EN document
+        uses: ./.github/actions/build-markdown
+        with:
+          source-dir: src/brp/srd-1.0/en
+          output-file: BRP-SRD-1.0-EN.md
+
+      - name: Install pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-extra texlive-lang-cyrillic fonts-liberation
+
+      - name: Convert EN to PDF
+        uses: ./.github/actions/build-pdf
+        with:
+          input-file: BRP-SRD-1.0-EN.md
+          output-file: BRP-SRD-1.0-EN.pdf
+          lang: en
+          toc-title: "Table of Contents"
+
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: "Basic Roleplaying SRD — EN ${{ github.ref_name }}"
+          body: |
+            Basic Roleplaying System Reference Document
+
+            ## SRD 1.0
+            - `BRP-SRD-1.0-EN.md` — Markdown (English)
+            - `BRP-SRD-1.0-EN.pdf` — PDF (English)
+          files: |
+            BRP-SRD-1.0-EN.md
+            BRP-SRD-1.0-EN.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
