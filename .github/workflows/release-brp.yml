@@ -13,6 +13,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Build combined RU document
+        uses: ./.github/actions/build-markdown
+        with:
+          source-dir: src/brp/srd-1.0/ru
+          output-file: BRP-SRD-1.0-RU.md
+
       - name: Build combined EN document
         uses: ./.github/actions/build-markdown
         with:
@@ -23,6 +29,14 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex texlive-fonts-extra texlive-lang-cyrillic fonts-liberation
+
+      - name: Convert RU to PDF
+        uses: ./.github/actions/build-pdf
+        with:
+          input-file: BRP-SRD-1.0-RU.md
+          output-file: BRP-SRD-1.0-RU.pdf
+          lang: ru
+          toc-title: "Содержание"
 
       - name: Convert EN to PDF
         uses: ./.github/actions/build-pdf
@@ -35,14 +49,18 @@ jobs:
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
-          name: "Basic Roleplaying SRD — EN ${{ github.ref_name }}"
+          name: "Basic Roleplaying SRD — RU + EN ${{ github.ref_name }}"
           body: |
             Basic Roleplaying System Reference Document
 
             ## SRD 1.0
+            - `BRP-SRD-1.0-RU.md` — Markdown (русский)
+            - `BRP-SRD-1.0-RU.pdf` — PDF (русский)
             - `BRP-SRD-1.0-EN.md` — Markdown (English)
             - `BRP-SRD-1.0-EN.pdf` — PDF (English)
           files: |
+            BRP-SRD-1.0-RU.md
+            BRP-SRD-1.0-RU.pdf
             BRP-SRD-1.0-EN.md
             BRP-SRD-1.0-EN.pdf
         env:
