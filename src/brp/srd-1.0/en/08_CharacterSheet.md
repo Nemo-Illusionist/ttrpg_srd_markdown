@@ -2,7 +2,7 @@
 
 <style>
 /* BRP Character Sheet — screen + print */
-.brp-sheet { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; max-width: 800px; margin: 0 auto; color: #222; }
+.brp-sheet { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; min-width: 800px; max-width: 800px; margin: 0 auto; color: #222; overflow-x: auto; }
 .brp-sheet * { box-sizing: border-box; }
 .brp-sheet h2 { font-size: 18px; text-align: center; margin: 0 0 8px; color: #b71c1c; text-transform: uppercase; letter-spacing: 2px; }
 .brp-sheet .section-title { font-size: 12px; font-weight: bold; color: #b71c1c; text-transform: uppercase; margin: 8px 0 4px; border-bottom: 2px solid #b71c1c; padding-bottom: 2px; }
