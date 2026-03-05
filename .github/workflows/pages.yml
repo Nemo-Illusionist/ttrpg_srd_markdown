@@ -60,6 +60,9 @@ jobs:
       - name: Build site
         run: mkdocs build
 
+      - name: Split sitemap into index
+        run: python3 scripts/split_sitemap.py
+
       - name: Generate JSON API
         run: >
           python3 scripts/generate_api.py
