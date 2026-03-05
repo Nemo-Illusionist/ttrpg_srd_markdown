@@ -22,6 +22,12 @@ hide:
 
 - **[SRD 1.0](daggerheart/srd-1.0/00_Legal.md)** — Базовые правила Daggerheart (Дагерхарт / Даггерхарт) на русском языке: классы, домены, происхождения, противники, оружие, броня. Перевод опубликован по лицензии [DPCGL](https://darringtonpress.com/license). © 2025 Critical Role LLC.
 
+## Basic Roleplaying
+
+[:material-download: Скачать](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q=brp-srd)
+
+- **[SRD 1.0](brp/srd-1.0/00_Legal.md)** — Basic Roleplaying System Reference Document (BRP) — универсальная d100 система от Chaosium (ядро Call of Cthulhu, RuneQuest и др.). Опубликовано по лицензии [BRP OGL](https://www.chaosium.com/brp-system-reference-document/).
+
 ---
 
 Перевод на русский язык выполнен с помощью ИИ. Если вы нашли ошибку — [создайте issue](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/issues/new) в [репозитории проекта](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown).

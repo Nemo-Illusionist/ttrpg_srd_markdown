@@ -22,7 +22,23 @@ user_invocable: true
 3. Определи номер глоссария (`*_Glossary/`)
 4. Выведи структуру пользователю для подтверждения
 
-### Шаг 2: `scripts/prepare_docs.sh`
+### Шаг 2: Главная страница `src/site/index.md`
+
+1. Прочитай `src/site/index.md`
+2. Добавь блок для нового SRD **по образцу существующих** (D&D, Daggerheart):
+
+```markdown
+## {Game Title}
+
+[:material-download: Скачать](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q={short}-srd)
+
+- **[SRD {ver}]({game}/{version}/00_Legal.md)** — Описание SRD. Опубликовано по лицензии [название](url).
+```
+
+3. Добавь перед разделителем `---`
+4. **Коммит:** `Интеграция {game} {version}: главная страница`
+
+### Шаг 3: `scripts/prepare_docs.sh`
 
 1. Прочитай `scripts/prepare_docs.sh`
 2. Добавь блок для нового SRD **по образцу существующих** (Daggerheart, D&D):
@@ -41,7 +57,7 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 3. `mkdir -p` для каждой подпапки (классы, глоссарий и т.д.)
 4. **Коммит:** `Интеграция {game} {version}: prepare_docs.sh`
 
-### Шаг 3: `.github/workflows/pages.yml`
+### Шаг 4: `.github/workflows/pages.yml`
 
 1. Прочитай `.github/workflows/pages.yml`
 2. В секции "Copy source files to docs" (`run: |`) добавь **те же команды** что и в prepare_docs.sh:
@@ -57,7 +73,7 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 3. Команды должны быть **идентичны** prepare_docs.sh (единый источник правды)
 4. **Коммит:** `Интеграция {game} {version}: pages.yml`
 
-### Шаг 4: `mkdocs.yml` — навигация
+### Шаг 5: `mkdocs.yml` — навигация
 
 1. Прочитай `mkdocs.yml`
 2. Определи RU-имена для навигации:
@@ -82,7 +98,7 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 4. Добавь nav_translations для новых RU-имён в секцию `plugins.i18n.languages[en].nav_translations`
 5. **Коммит:** `Интеграция {game} {version}: навигация mkdocs.yml`
 
-### Шаг 5: Release workflow
+### Шаг 6: Release workflow
 
 1. Определи короткий префикс для тега по образцу существующих:
    - `dnd` → `dnd-srd-v*`
@@ -163,7 +179,7 @@ jobs:
 
 4. **Коммит:** `Интеграция {game} {version}: release workflow`
 
-### Шаг 6: Создание релизного тега
+### Шаг 7: Создание релизного тега
 
 1. Определи версию тега: `{short}-srd-v1.0.0` (первый релиз для этой игры)
 2. Если тег уже существует — инкрементируй patch: `v1.0.1`, `v1.0.2` и т.д.
@@ -185,7 +201,7 @@ git push origin {tag}
   git push origin {tag}
 ```
 
-### Шаг 7: Проверка
+### Шаг 8: Проверка
 
 1. Запусти `bash scripts/prepare_docs.sh` и проверь что файлы появились в `docs/`
 2. Проверь структуру:
