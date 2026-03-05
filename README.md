@@ -30,7 +30,7 @@
 | :white_check_mark: | Daggerheart SRD 1.0 | Darrington Press | [DPCGL](https://darringtonpress.com/license/) | [PDF](https://www.daggerheart.com/srd/), [Markdown](https://github.com/seansbox/daggerheart-srd) |
 | :calendar: | Pathfinder 2e | Paizo | [ORC](https://paizo.com/orclicense) | [Web](https://2e.aonprd.com/) |
 | :calendar: | Starfinder 2e | Paizo | [ORC](https://paizo.com/orclicense) | [Web](https://2e.aonsrd.com/) |
-| :calendar: | Basic Roleplaying (BRP) | Chaosium | [ORC](https://www.chaosium.com/orclicense/) | [PDF](https://www.chaosium.com/brp-system-reference-document/) |
+| :white_check_mark: | Basic Roleplaying (BRP) | Chaosium | [ORC](https://www.chaosium.com/orclicense/) | [PDF](https://www.chaosium.com/brp-system-reference-document/) |
 | :calendar: | Year Zero Engine | Free League | [FTL](https://freeleaguepublishing.com/community-content/free-tabletop-licenses/) | [PDF](https://freeleaguepublishing.com/wp-content/uploads/2023/11/YZE-Standard-Reference-Document.pdf) |
 | :grey_question: | Dragonbane | Free League | [3rd Party License](https://freeleaguepublishing.com/community-content/free-tabletop-licenses/) | PDF |
 | :grey_question: | Fate Core / FAE | Evil Hat Productions | CC BY 3.0 | [Web](https://fate-srd.com/), [Markdown](https://github.com/amazingrando/fate-srd-content) |
