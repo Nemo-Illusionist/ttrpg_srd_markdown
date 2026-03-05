@@ -2,15 +2,18 @@
 hide:
   - navigation
   - toc
+description: "D&D SRD 5.2.1, SRD 5.1 и Daggerheart (Дагерхарт) SRD 1.0 на русском языке — заклинания, классы, монстры, магические предметы, правила. Читать онлайн или скачать PDF."
 ---
+
+# TTRPG SRD — настольные ролевые игры на русском
 
 ## Dungeons & Dragons
 
 [:material-download: Скачать](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q=dnd-srd)
 
-- **[SRD 5.2.1](dnd/srd-5.2/00_Legal.md)** — Базовые правила D&D 5-й редакции (2024), опубликованные по лицензии [Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode).
+- **[SRD 5.2.1](dnd/srd-5.2/00_Legal.md)** — Базовые правила D&D 5-й редакции (2024) на русском языке: заклинания, классы, монстры, магические предметы, снаряжение. Перевод опубликован по лицензии [Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode). Читать онлайн или скачать PDF.
 
-- **[SRD 5.1](dnd/srd-5.1/00_Legal.md)** — Базовые правила D&D 5-й редакции (2014), опубликованные по лицензии [Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode).
+- **[SRD 5.1](dnd/srd-5.1/00_Legal.md)** — Базовые правила D&D 5e (2014) на русском языке, опубликованные по лицензии [Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 - **[Конвертация в SRD 5.2.1](dnd/converting-srd-5.2/converting-to-srd-5.2.1.md)** — Гайд по переходу с SRD 5.1 на SRD 5.2.1.
 
@@ -18,7 +21,7 @@ hide:
 
 [:material-download: Скачать](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q=dh-srd)
 
-- **[SRD 1.0](daggerheart/srd-1.0/00_Legal.md)** — Базовые правила Daggerheart, опубликованные по лицензии [DPCGL](https://darringtonpress.com/license). © 2025 Critical Role LLC.
+- **[SRD 1.0](daggerheart/srd-1.0/00_Legal.md)** — Базовые правила Daggerheart (Дагерхарт / Даггерхарт) на русском языке: классы, домены, происхождения, противники, оружие, броня. Перевод опубликован по лицензии [DPCGL](https://darringtonpress.com/license). © 2025 Critical Role LLC.
 
 ---
 
