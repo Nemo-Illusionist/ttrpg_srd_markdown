@@ -29,13 +29,11 @@ cp src/dnd/converting-srd-5.2/ru/* docs/ru/dnd/converting-srd-5.2/
 mkdir -p docs/en/daggerheart/srd-1.0/04_Classes docs/en/daggerheart/srd-1.0/17_Glossary
 mkdir -p docs/ru/daggerheart/srd-1.0/04_Classes docs/ru/daggerheart/srd-1.0/17_Glossary
 cp -r src/daggerheart/srd-1.0/en/* docs/en/daggerheart/srd-1.0/
-cp -r src/daggerheart/srd-1.0/en/* docs/ru/daggerheart/srd-1.0/
 cp -r src/daggerheart/srd-1.0/ru/* docs/ru/daggerheart/srd-1.0/
 
 # BRP SRD 1.0
 mkdir -p docs/en/brp/srd-1.0/09_Glossary docs/ru/brp/srd-1.0/09_Glossary
 cp -r src/brp/srd-1.0/en/* docs/en/brp/srd-1.0/
-cp -r src/brp/srd-1.0/en/* docs/ru/brp/srd-1.0/
 cp -r src/brp/srd-1.0/ru/* docs/ru/brp/srd-1.0/
 
 echo "docs/ prepared from src/"
