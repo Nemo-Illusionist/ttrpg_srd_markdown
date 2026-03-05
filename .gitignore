@@ -2,8 +2,6 @@
 .claude/
 __pycache__/
 DND-SRD-5.2.1-RU.md
-site/
-docs/ru/
-docs/en/*/
-!docs/en/index.md
+/site/
+docs/
 firebase-debug.log
