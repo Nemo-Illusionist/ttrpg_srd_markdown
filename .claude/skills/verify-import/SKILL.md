@@ -13,6 +13,12 @@ user-invocable: true
 
 Пример: `/verify-import brp srd-1.0`
 
+## Правила проверки
+
+Чеклист: **`.claude/rules/verify-import.md`** — классификация проблем, формат отчёта, hard failure rule.
+
+Агент ОБЯЗАН прочитать этот файл перед началом проверки.
+
 ## Предварительные условия
 
 EN файлы должны существовать: `src/{game}/{version}/en/*.md`
