@@ -91,13 +91,13 @@
 <div>
 <div class="section-title">Характеристики</div>
 <div class="brp-char-grid">
-<label>СИЛ</label><input type="text"><label>Бросок Усилия</label><input type="text">
-<label>ТЕЛ</label><input type="text"><label>Бросок Выносливости</label><input type="text">
+<label>СИЛ</label><input type="text"><label>Бросок Силы</label><input type="text">
+<label>ВЫН</label><input type="text"><label>Бросок Выносливости</label><input type="text">
 <label>РАЗ</label><input type="text"><label></label><input type="text" style="visibility:hidden">
-<label>ИНТ</label><input type="text"><label>Бросок Идеи</label><input type="text">
-<label>ВОЛ</label><input type="text"><label>Бросок Удачи</label><input type="text">
-<label>ЛОВ</label><input type="text"><label>Бросок Проворства</label><input type="text">
-<label>ВНШ</label><input type="text"><label>Бросок Обаяния</label><input type="text">
+<label>ИНТ</label><input type="text"><label>Бросок Интеллекта</label><input type="text">
+<label>ВОЛ</label><input type="text"><label>Бросок Воли</label><input type="text">
+<label>ЛОВ</label><input type="text"><label>Бросок Ловкости</label><input type="text">
+<label>ВНШ</label><input type="text"><label>Бросок Внешности</label><input type="text">
 </div>
 </div>
 
@@ -216,7 +216,7 @@
 <div>
 <div class="section-title">Оружие и щиты</div>
 <table>
-<tr><th>Оружие</th><th>%</th><th>Урон</th><th>Руки</th><th>ХТ</th><th>Дальность</th></tr>
+<tr><th>Оружие</th><th>%</th><th>Урон</th><th>Руки</th><th>ХП</th><th>Дальность</th></tr>
 <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
 <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
 <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
