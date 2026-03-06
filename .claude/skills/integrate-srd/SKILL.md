@@ -22,11 +22,11 @@ user-invocable: true
 3. Определи номер глоссария (`*_Glossary/`)
 4. Выведи структуру пользователю для подтверждения
 
-### Шаг 2: Главная страница `src/site/index.md` и `src/site/index.en.md`
+### Шаг 2: Главная страница `src/site/index.md` и `src/site/en/index.md`
 
-**ВАЖНО:** Главная страница существует в двух версиях — RU (`index.md`) и EN (`index.en.md`). Нужно добавить блок в ОБА файла.
+**ВАЖНО:** Главная страница существует в двух версиях — RU (`src/site/index.md`) и EN (`src/site/en/index.md`). Нужно добавить блок в ОБА файла.
 
-1. Прочитай `src/site/index.md` (RU) и `src/site/index.en.md` (EN)
+1. Прочитай `src/site/index.md` (RU) и `src/site/en/index.md` (EN)
 2. Добавь блок для нового SRD **по образцу существующих** (D&D, Daggerheart):
 
 **RU (`index.md`):**
@@ -38,7 +38,7 @@ user-invocable: true
 - **[SRD {ver}]({game}/{version}/00_Legal.md)** — Описание SRD на русском. Опубликовано по лицензии [название](url).
 ```
 
-**EN (`index.en.md`):**
+**EN (`en/index.md`):**
 ```markdown
 ## {Game Title EN}
 

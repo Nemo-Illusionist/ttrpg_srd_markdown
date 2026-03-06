@@ -6,7 +6,7 @@ hide:
 
 ## Dungeons & Dragons
 
-[:material-download: Download](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases/latest)
+[:material-download: Download](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q=dnd-srd)
 
 - **[SRD 5.2.1](dnd/srd-5.2/00_Legal.md)** — D&D 5th Edition core rules (2024), published under the [Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
@@ -16,7 +16,15 @@ hide:
 
 ## Daggerheart
 
+[:material-download: Download](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q=dh-srd)
+
 - **[SRD 1.0](daggerheart/srd-1.0/00_Legal.md)** — Daggerheart core rules, published under the [DPCGL](https://darringtonpress.com/license) license. © 2025 Critical Role LLC.
+
+## Basic Roleplaying
+
+[:material-download: Download](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q=brp-srd)
+
+- **[SRD 1.0](brp/srd-1.0/00_Legal.md)** — Basic Roleplaying System Reference Document (BRP) — a universal d100 system by Chaosium (the core of Call of Cthulhu, RuneQuest, and others). Published under the [BRP OGL](https://www.chaosium.com/brp-system-reference-document/) license.
 
 ---
 
