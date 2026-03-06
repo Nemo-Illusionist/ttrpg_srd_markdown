@@ -22,21 +22,33 @@ user-invocable: true
 3. Определи номер глоссария (`*_Glossary/`)
 4. Выведи структуру пользователю для подтверждения
 
-### Шаг 2: Главная страница `src/site/index.md`
+### Шаг 2: Главная страница `src/site/index.md` и `src/site/index.en.md`
 
-1. Прочитай `src/site/index.md`
+**ВАЖНО:** Главная страница существует в двух версиях — RU (`index.md`) и EN (`index.en.md`). Нужно добавить блок в ОБА файла.
+
+1. Прочитай `src/site/index.md` (RU) и `src/site/index.en.md` (EN)
 2. Добавь блок для нового SRD **по образцу существующих** (D&D, Daggerheart):
 
+**RU (`index.md`):**
 ```markdown
-## {Game Title}
+## {Game Title RU}
 
 [:material-download: Скачать](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q={short}-srd)
 
-- **[SRD {ver}]({game}/{version}/00_Legal.md)** — Описание SRD. Опубликовано по лицензии [название](url).
+- **[SRD {ver}]({game}/{version}/00_Legal.md)** — Описание SRD на русском. Опубликовано по лицензии [название](url).
 ```
 
-3. Добавь перед разделителем `---`
-4. **Коммит:** `Интеграция {game} {version}: главная страница`
+**EN (`index.en.md`):**
+```markdown
+## {Game Title EN}
+
+[:material-download: Download](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases?q={short}-srd)
+
+- **[SRD {ver}]({game}/{version}/00_Legal.md)** — Description in English. Published under [License Name](url).
+```
+
+3. Добавь перед разделителем `---` в каждом файле
+4. **Коммит:** `Интеграция {game} {version}: главная страница (RU + EN)`
 
 ### Шаг 3: `scripts/prepare_docs.sh`
 
