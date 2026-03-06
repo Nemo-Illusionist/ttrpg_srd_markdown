@@ -1,3 +1,12 @@
+---
+paths:
+  - ".claude/skills/cleanup-artifacts/**"
+  - "/tmp/*_merged.md"
+  - "/tmp/*_marker.md"
+  - "/tmp/*_pymupdf.md"
+  - "/tmp/*_docling.md"
+---
+
 # Правила восстановления структуры документа (Layout Recovery)
 
 Фаза B скилла `/cleanup-artifacts`. Восстановление структуры документа после PDF-извлечения.

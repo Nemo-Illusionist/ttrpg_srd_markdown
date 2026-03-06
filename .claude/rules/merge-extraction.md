@@ -1,3 +1,12 @@
+---
+paths:
+  - ".claude/skills/cleanup-artifacts/**"
+  - "/tmp/*_merged.md"
+  - "/tmp/*_marker.md"
+  - "/tmp/*_pymupdf.md"
+  - "/tmp/*_docling.md"
+---
+
 # Правила сведения результатов PDF-конвертеров
 
 Единый чеклист для Фазы A скилла `/cleanup-artifacts`. Агент ОБЯЗАН прочитать этот файл перед началом сведения.

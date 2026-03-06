@@ -1,3 +1,9 @@
+---
+paths:
+  - ".claude/skills/cleanup-artifacts/**"
+  - "src/**/en/**"
+---
+
 # Правила нормализации Markdown (Markdown Normalization)
 
 Фаза C скилла `/cleanup-artifacts`. Механическая чистка форматирования после восстановления структуры.

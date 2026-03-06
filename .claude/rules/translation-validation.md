@@ -1,3 +1,10 @@
+---
+paths:
+  - "src/**/ru/**"
+  - ".claude/skills/translate-*/**"
+  - ".claude/skills/verify-content/**"
+---
+
 # Правила валидации перевода
 
 Единый чеклист для проверки перевода SRD. Используется в `/verify-content`, `/translate-content`, `/translate-verify` и `/translate-glossary`.

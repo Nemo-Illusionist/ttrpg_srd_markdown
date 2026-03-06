@@ -1,3 +1,10 @@
+---
+paths:
+  - "src/**/ru/**"
+  - ".claude/skills/translate-verify/**"
+  - ".claude/skills/verify-content/**"
+---
+
 # Системный промпт агента качества перевода
 
 Используется агентом `verifier-quality` в `/verify-content` и `/translate-verify`.

@@ -112,10 +112,7 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 
 ### Шаг 6: Release workflow
 
-1. Определи короткий префикс для тега по образцу существующих:
-   - `dnd` → `dnd-srd-v*`
-   - `daggerheart` → `dh-srd-v*`
-   - Новая игра → `{short}-srd-v*` (2-3 буквы)
+1. Определи короткий префикс для тега — см. `.claude/rules/file-naming-conventions.md` (раздел "Релизные теги")
 2. Проверь существует ли уже workflow `.github/workflows/release-{game}.yml`
 3. Если нет — создай по образцу `release-daggerheart.yml`:
 

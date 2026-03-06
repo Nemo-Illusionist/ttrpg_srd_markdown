@@ -23,33 +23,17 @@ user-invocable: true
 
 ### Шаг 2: Определение директории глоссария
 
+Именование и формат: **`.claude/rules/glossary-format.md`** + **`.claude/rules/file-naming-conventions.md`**
+
 1. Найди последний нумерованный файл/папку в `src/{game}/{version}/en/` (формат `NN_Name`)
 2. Вычисли следующий номер: `{последний + 1}`
 3. Создай директорию `src/{game}/{version}/en/{NN}_Glossary/`
-4. Формат номера: двузначный с ведущим нулём (01, 02, ..., 10, 11, ...)
 
 ### Шаг 3: Создание `00_Glossary.md` — основные термины
 
 1. Прочитай ВСЕ EN-файлы (большие — чанками с offset/limit, максимум 3000 строк за раз)
-2. Извлеки повторяющиеся игровые термины, группируя по категориям:
-   - Характеристики (Abilities/Attributes)
-   - Условия/состояния (Conditions)
-   - Типы урона (Damage Types)
-   - Классы (Classes)
-   - Расы/происхождения (Species/Ancestries)
-   - Навыки (Skills)
-   - Типы существ (Creature Types)
-   - Ключевые слова механик (Keywords)
-   - Другие категории специфичные для конкретной игры
-3. Оформи каждую категорию как таблицу:
-
-```markdown
-## Conditions
-
-| Condition | Description |
-|---|---|
-| Blinded | Cannot see... |
-```
+2. Извлеки повторяющиеся игровые термины, группируя по категориям (см. `.claude/rules/glossary-format.md`)
+3. Оформи каждую категорию как таблицу по формату из rules
 
 4. Сохрани в `src/{game}/{version}/en/{NN}_Glossary/00_Glossary.md`
 5. **Коммит:** `Глоссарий EN {game} {version}: 00_Glossary.md`
@@ -63,29 +47,7 @@ user-invocable: true
    - Блоки статистик (blockquote `>`) → монстры/существа
    - Таблицы с уровнями/школами → заклинания
 2. Создай файл `{NN}_{EntityType}.md` (нумерация: 01, 02, 03...)
-3. Формат таблицы зависит от типа сущности:
-
-**Заклинания:**
-```markdown
-| Spell | Level | School | Classes |
-|---|---|---|---|
-| Acid Splash | Cantrip | Evocation | Sorcerer, Wizard |
-```
-
-**Монстры:**
-```markdown
-| Monster | CR | Type | Size |
-|---|---|---|---|
-| Aboleth | 10 | Aberration | Large |
-```
-
-**Магические предметы:**
-```markdown
-| Item | Type | Rarity | Attunement |
-|---|---|---|---|
-| Amulet of Health | Wondrous Item | Rare | Yes |
-```
-
+3. Формат таблицы — по типу сущности (примеры в `.claude/rules/glossary-format.md`)
 4. Адаптируй колонки под конкретную игру — не все SRD имеют одинаковую структуру
 5. **Коммит после КАЖДОГО файла:** `Глоссарий EN {game} {version}: {filename}`
 
