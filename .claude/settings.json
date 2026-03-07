@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit",
+      "WebSearch",
+      "WebFetch(*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)",
+      "Bash(grep:*)",
+      "Bash(sort:*)",
+      "Bash(diff:*)",
+      "Bash(comm:*)",
+      "Bash(echo:*)",
+      "Bash(awk:*)",
+      "Bash(sed:*)",
+      "Bash(perl:*)",
+      "Bash(xxd:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(bash:*)",
+      "Bash(for:*)",
+      "Bash(mkdir:*)",
+      "Bash(chmod:*)"
+    ]
+  }
+}
