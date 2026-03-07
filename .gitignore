@@ -4,5 +4,7 @@ __pycache__/
 .DS_Store
 DND-SRD-5.2.1-RU.md
 /site/
-docs/
+/docs/
+/mkdocs.yml
+/overrides/
 firebase-debug.log

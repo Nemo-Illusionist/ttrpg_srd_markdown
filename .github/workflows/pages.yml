@@ -5,8 +5,8 @@ on:
     branches: [main]
     paths:
       - "src/**"
-      - "overrides/**"
-      - "mkdocs.yml"
+      - ".github/overrides/**"
+      - ".github/mkdocs.yml"
       - ".github/scripts/**"
   workflow_dispatch:
     inputs:
@@ -36,6 +36,11 @@ jobs:
 
       - name: Install dependencies
         run: pip install mkdocs-material mkdocs-static-i18n jsonschema mkdocs-minify-plugin
+
+      - name: Prepare build environment
+        run: |
+          cp .github/mkdocs.yml mkdocs.yml
+          cp -r .github/overrides overrides
 
       - name: Copy source files to docs
         run: |
