@@ -28,7 +28,7 @@ user-invocable: true
 
 1. Найди EN контент: `src/{game}/{version}/en/**/*.md` (исключая `*_Glossary/`)
 2. Найди RU контент: `src/{game}/{version}/ru/**/*.md` (исключая `*_Glossary/`)
-3. Построй словарь терминов из RU глоссария (как в `/translate-content`)
+3. Построй словарь терминов из `src/{game}/translate/` и `src/translate/` (см. `.claude/rules/translate-dictionaries.md`)
 4. Если RU контент не найден — предложи сначала `/translate-content`
 5. Определи режим:
    - `[file]` указан → **режим одной страницы**
@@ -77,6 +77,7 @@ user-invocable: true
        - Ошибки качества: [список]
     4. ЕСЛИ есть ошибки:
        - Исправить все найденные проблемы
+       - Если исправление меняет перевод термина → добавить запись в `src/{game}/translate/00_log.md`
        - Коммит: "Верификация контента {game} {version}: раунд {N}"
        - раунд += 1
        - ПРОДОЛЖИТЬ цикл
