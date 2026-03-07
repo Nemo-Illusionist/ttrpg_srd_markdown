@@ -74,6 +74,12 @@ src/site/                      — исходники сайта (index, assets,
 | `translation-validation.md` | Чеклист валидации перевода (структура, термины, оформление) | `src/**/ru/**`, translate-*/verify-content |
 | `translation-quality-review.md` | Системный промт агента качества (жёсткая редакторская проверка) | `src/**/ru/**`, translate-verify/verify-content |
 
+### Общие
+
+| Правило | Описание | Подключается к |
+|---|---|---|
+| `quality-gates.md` | Блокирующие условия по этапам (error/warning/note) | Все pipeline-скиллы, validate-markdown |
+
 ## Пайплайн импорта
 
 ```
@@ -101,6 +107,11 @@ bash .github/scripts/prepare_docs.sh --clean  # очистка
 
 Скрипт: `src/site/mkdocs.yml` и `overrides/` → корень, `src/` → `docs/{en,ru}/`.
 CI (`pages.yml`) вызывает тот же скрипт.
+
+## Терминологические решения
+
+Спорные переводческие решения и их обоснования: `.claude/terminology-decisions.md`.
+Глоссарий фиксирует **что** переводить как, decisions log — **почему**.
 
 ## Технические детали
 
