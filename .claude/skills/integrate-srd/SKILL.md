@@ -87,7 +87,7 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 
 ### Шаг 5: `mkdocs.yml` — навигация
 
-1. Прочитай `mkdocs.yml`
+1. Прочитай `src/site/mkdocs.yml`
 2. Определи RU-имена для навигации:
    - Из глоссария `00_Glossary.md` (RU имена категорий)
    - Из заголовков `#` в каждом файле
@@ -108,7 +108,7 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 ```
 
 4. Добавь nav_translations для новых RU-имён в секцию `plugins.i18n.languages[en].nav_translations`
-5. **Коммит:** `Интеграция {game} {version}: навигация mkdocs.yml`
+5. **Коммит:** `Интеграция {game} {version}: навигация src/site/mkdocs.yml`
 
 ### Шаг 6: Release workflow
 
@@ -227,8 +227,8 @@ ls docs/ru/{game}/{version}/
 Интеграция {game} {version} завершена:
 - .github/scripts/prepare_docs.sh ✓
 - .github/workflows/pages.yml ✓
-- mkdocs.yml — навигация ✓
-- mkdocs.yml — nav_translations ✓
+- src/site/mkdocs.yml — навигация ✓
+- src/site/mkdocs.yml — nav_translations ✓
 - Release workflow: .github/workflows/release-{game}.yml ✓
 - Релизный тег: {tag} ✓ / (ожидает ручного создания)
 - Проверка: docs/ структура корректна ✓

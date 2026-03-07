@@ -80,7 +80,7 @@ user-invocable: true
 Это включает:
 - `.github/scripts/prepare_docs.sh` — команды копирования
 - `.github/workflows/pages.yml` — CI деплой
-- `mkdocs.yml` — навигация + nav_translations
+- `src/site/mkdocs.yml` — навигация + nav_translations
 - `.github/workflows/release-{game}.yml` — release workflow
 - Релизный тег + push (с подтверждением пользователя)
 
