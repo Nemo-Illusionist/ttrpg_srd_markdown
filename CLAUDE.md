@@ -8,7 +8,7 @@
 src/{game}/{version}/en/       — EN оригинал (markdown)
 src/{game}/{version}/ru/       — RU перевод
 src/{game}/{version}/ru/*_Glossary/  — глоссарий (словарь терминов)
-src/{game}/translate/          — переводческие артефакты (decisions.md, ...)
+src/{game}/translate/          — словари и лог решений (00_log, 01_dictionary_base, ...)
 src/translate/                 — общие переводческие артефакты (все системы)
 src/site/                      — исходники сайта (index, assets, mkdocs.yml, overrides)
 .github/scripts/               — скрипты сборки и генерации
@@ -115,10 +115,10 @@ CI (`pages.yml`) вызывает тот же скрипт.
 ## Терминологические решения
 
 Спорные переводческие решения и их обоснования:
-- `src/{game}/translate/decisions.md` — решения для конкретной системы
-- `src/translate/decisions.md` — общие решения (все системы)
+- `src/{game}/translate/00_log.md` — решения для конкретной системы
+- `src/translate/00_log.md` — общие решения (все системы)
 
-Глоссарий фиксирует **что** переводить как, decisions log — **почему**.
+Словари фиксируют **что** переводить как, лог — **почему**.
 
 ## Технические детали
 

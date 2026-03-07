@@ -11,7 +11,7 @@
 | Оригинал | Источник | Перевод | Комментарий |
 |---|---|---|---|
 | Appearance | srd-1.0 | Внешность (ВНШ) | APP, 3D6 |
-| Constitution | srd-1.0 | Выносливость (ВЫН) | CON, 3D6. Не "Телосложение" — см. decisions.md |
+| Constitution | srd-1.0 | Выносливость (ВЫН) | CON, 3D6. Не "Телосложение" — см. 00_log.md |
 | Dexterity | srd-1.0 | Ловкость (ЛОВ) | DEX, 3D6 |
 | Intelligence | srd-1.0 | Интеллект (ИНТ) | INT, 2D6+6 |
 | Power | srd-1.0 | Воля (ВОЛ) | POW, 3D6 |
@@ -34,7 +34,7 @@
 | Оригинал | Источник | Перевод | Комментарий |
 |---|---|---|---|
 | Damage Bonus (db) | srd-1.0 | Бонус урона (бу) | Таблица СИЛ + РАЗ |
-| Hit Points (HP) | srd-1.0 | Хиты (ХП) | (ВЫН + РАЗ) / 2. Не "ХТ" — см. decisions.md |
+| Hit Points (HP) | srd-1.0 | Хиты (ХП) | (ВЫН + РАЗ) / 2. Не "ХТ" — см. 00_log.md |
 | Move (MOV) | srd-1.0 | Перемещение (ПЕР) | 10 для людей |
 | Power Points (PP) | srd-1.0 | Очки Воли (ОВ) | Равны ВОЛ |
 
@@ -173,10 +173,10 @@
 | Allegiance | srd-1.0 | Верность | |
 | Campaign | srd-1.0 | Кампания | |
 | Experience Check | srd-1.0 | Отметка опыта | |
-| Gamemaster (GM) | srd-1.0 | Мастер игры (МГ) | Не "Ведущий" — см. decisions.md |
+| Gamemaster (GM) | srd-1.0 | Мастер игры (МГ) | Не "Ведущий" — см. 00_log.md |
 | Non-Player Character (NPC) | srd-1.0 | Неигровой персонаж (НИП) | |
 | Opposed Skill Roll | srd-1.0 | Противоборствующий бросок навыка | |
-| Player Character (PC) | srd-1.0 | Персонаж игрока (ПИ) | Не "Игровой персонаж" — см. decisions.md |
+| Player Character (PC) | srd-1.0 | Персонаж игрока (ПИ) | Не "Игровой персонаж" — см. 00_log.md |
 | Power (setting) | srd-1.0 | Сверхъестественная способность | Контекст: сеттинг |
 | Resistance Table | srd-1.0 | Таблица сопротивления | |
 | Sanity | srd-1.0 | Рассудок | |
