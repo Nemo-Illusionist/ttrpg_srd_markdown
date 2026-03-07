@@ -1,17 +1,32 @@
 #!/usr/bin/env bash
-# Prepare docs/ from src/ for local mkdocs serve/build.
-# Mirrors the CI copy logic from .github/workflows/pages.yml.
+# Единый скрипт подготовки окружения для MkDocs.
+# Используется локально и в CI (pages.yml).
+#
+# Что делает:
+#   1. Копирует mkdocs.yml и overrides/ из src/site/ в корень
+#   2. Собирает docs/ из src/site/ + src/{game}/{version}/{en,ru}
+#
+# Использование:
+#   bash .github/scripts/prepare_docs.sh          — подготовка
+#   bash .github/scripts/prepare_docs.sh --clean   — очистка сгенерированных файлов
 set -euo pipefail
 cd "$(git rev-parse --show-toplevel)"
 
-# MkDocs config and overrides (from src/site/ to root)
+if [[ "${1:-}" == "--clean" ]]; then
+  rm -rf docs/ site/ mkdocs.yml overrides/
+  echo "Cleaned: docs/ site/ mkdocs.yml overrides/"
+  exit 0
+fi
+
+# 1. MkDocs config и overrides → корень
 cp src/site/mkdocs.yml mkdocs.yml
 cp -r src/site/overrides overrides
 
-# Site-level files (index pages, assets, robots.txt)
+# 2. Site-level файлы (index, assets, robots.txt)
 mkdir -p docs/
 cp -r src/site/* docs/
 
+# 3. SRD контент → docs/{en,ru}/
 # D&D SRD 5.2
 mkdir -p docs/ru/dnd/srd-5.2/03_Classes docs/ru/dnd/srd-5.2/14_Glossary
 mkdir -p docs/en/dnd/srd-5.2/03_Classes docs/en/dnd/srd-5.2/14_Glossary
@@ -40,4 +55,4 @@ mkdir -p docs/en/brp/srd-1.0/09_Glossary docs/ru/brp/srd-1.0/09_Glossary
 cp -r src/brp/srd-1.0/en/* docs/en/brp/srd-1.0/
 cp -r src/brp/srd-1.0/ru/* docs/ru/brp/srd-1.0/
 
-echo "docs/ prepared from src/"
+echo "Ready: mkdocs.yml, overrides/, docs/ prepared from src/"
