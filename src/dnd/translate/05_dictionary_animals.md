@@ -4,100 +4,100 @@
 
 ---
 
-| Оригинал | Источник | Перевод | Комментарий |
-|---|---|---|---|
-| Allosaurus | srd-5.2 | Аллозавр | |
-| Ankylosaurus | srd-5.2 | Анкилозавр | |
-| Ape | srd-5.2 | Обезьяна | |
-| Archelon | srd-5.2 | Архелон | |
-| Baboon | srd-5.2 | Бабуин | |
-| Badger | srd-5.2 | Барсук | |
-| Bat | srd-5.2 | Летучая мышь | |
-| Black Bear | srd-5.2 | Чёрный медведь | |
-| Blood Hawk | srd-5.2 | Кровавый ястреб | |
-| Boar | srd-5.2 | Кабан | |
-| Brown Bear | srd-5.2 | Бурый медведь | |
-| Camel | srd-5.2 | Верблюд | |
-| Cat | srd-5.2 | Кошка | |
-| Constrictor Snake | srd-5.2 | Удав | |
-| Crab | srd-5.2 | Краб | |
-| Crocodile | srd-5.2 | Крокодил | |
-| Deer | srd-5.2 | Олень | |
-| Dire Wolf | srd-5.2 | Лютый волк | |
-| Draft Horse | srd-5.2 | Тягловая лошадь | |
-| Eagle | srd-5.2 | Орёл | |
-| Elephant | srd-5.2 | Слон | |
-| Elk | srd-5.2 | Лось | |
-| Flying Snake | srd-5.2 | Летающая змея | |
-| Frog | srd-5.2 | Лягушка | |
-| Giant Ape | srd-5.2 | Гигантская обезьяна | |
-| Giant Badger | srd-5.2 | Гигантский барсук | |
-| Giant Bat | srd-5.2 | Гигантская летучая мышь | |
-| Giant Boar | srd-5.2 | Гигантский кабан | |
-| Giant Centipede | srd-5.2 | Гигантская сороконожка | |
-| Giant Constrictor Snake | srd-5.2 | Гигантский удав | |
-| Giant Crab | srd-5.2 | Гигантский краб | |
-| Giant Crocodile | srd-5.2 | Гигантский крокодил | |
-| Giant Eagle | srd-5.2 | Гигантский орёл | |
-| Giant Elk | srd-5.2 | Гигантский лось | |
-| Giant Fire Beetle | srd-5.2 | Гигантский огненный жук | |
-| Giant Frog | srd-5.2 | Гигантская лягушка | |
-| Giant Goat | srd-5.2 | Гигантский козёл | |
-| Giant Hyena | srd-5.2 | Гигантская гиена | |
-| Giant Lizard | srd-5.2 | Гигантская ящерица | |
-| Giant Octopus | srd-5.2 | Гигантский осьминог | |
-| Giant Owl | srd-5.2 | Гигантская сова | |
-| Giant Rat | srd-5.2 | Гигантская крыса | |
-| Giant Scorpion | srd-5.2 | Гигантский скорпион | |
-| Giant Seahorse | srd-5.2 | Гигантский морской конёк | |
-| Giant Shark | srd-5.2 | Гигантская акула | |
-| Giant Spider | srd-5.2 | Гигантский паук | |
-| Giant Toad | srd-5.2 | Гигантская жаба | |
-| Giant Venomous Snake | srd-5.2 | Гигантская ядовитая змея | |
-| Giant Vulture | srd-5.2 | Гигантский гриф | |
-| Giant Wasp | srd-5.2 | Гигантская оса | |
-| Giant Weasel | srd-5.2 | Гигантская ласка | |
-| Giant Wolf Spider | srd-5.2 | Гигантский паук-волк | |
-| Goat | srd-5.2 | Козёл | |
-| Hawk | srd-5.2 | Ястреб | |
-| Hippopotamus | srd-5.2 | Гиппопотам | |
-| Hunter Shark | srd-5.2 | Акула-охотник | |
-| Hyena | srd-5.2 | Гиена | |
-| Jackal | srd-5.2 | Шакал | |
-| Killer Whale | srd-5.2 | Косатка | |
-| Lion | srd-5.2 | Лев | |
-| Lizard | srd-5.2 | Ящерица | |
-| Mammoth | srd-5.2 | Мамонт | |
-| Mastiff | srd-5.2 | Мастиф | |
-| Mule | srd-5.2 | Мул | |
-| Octopus | srd-5.2 | Осьминог | |
-| Owl | srd-5.2 | Сова | |
-| Panther | srd-5.2 | Пантера | |
-| Piranha | srd-5.2 | Пиранья | |
-| Plesiosaurus | srd-5.2 | Плезиозавр | |
-| Polar Bear | srd-5.2 | Белый медведь | |
-| Pony | srd-5.2 | Пони | |
-| Pteranodon | srd-5.2 | Птеранодон | |
-| Rat | srd-5.2 | Крыса | |
-| Raven | srd-5.2 | Ворон | |
-| Reef Shark | srd-5.2 | Рифовая акула | |
-| Rhinoceros | srd-5.2 | Носорог | |
-| Riding Horse | srd-5.2 | Верховая лошадь | |
-| Saber-Toothed Tiger | srd-5.2 | Саблезубый тигр | |
-| Scorpion | srd-5.2 | Скорпион | |
-| Seahorse | srd-5.2 | Морской конёк | |
-| Spider | srd-5.2 | Паук | |
-| Swarm of Bats | srd-5.2 | Рой летучих мышей | |
-| Swarm of Insects | srd-5.2 | Рой насекомых | |
-| Swarm of Piranhas | srd-5.2 | Рой пираний | |
-| Swarm of Rats | srd-5.2 | Рой крыс | |
-| Swarm of Ravens | srd-5.2 | Рой воронов | |
-| Swarm of Venomous Snakes | srd-5.2 | Рой ядовитых змей | |
-| Tiger | srd-5.2 | Тигр | |
-| Triceratops | srd-5.2 | Трицератопс | |
-| Tyrannosaurus Rex | srd-5.2 | Тираннозавр | |
-| Venomous Snake | srd-5.2 | Ядовитая змея | |
-| Vulture | srd-5.2 | Гриф | |
-| Warhorse | srd-5.2 | Боевой конь | |
-| Weasel | srd-5.2 | Ласка | |
-| Wolf | srd-5.2 | Волк | |
+| Оригинал | Перевод | Источник 5.2 | Источник 5.1 | Комментарий |
+|---|---|---|---|---|
+| Allosaurus | Аллозавр | srd-5.2 | — | |
+| Ankylosaurus | Анкилозавр | srd-5.2 | — | |
+| Ape | Обезьяна | srd-5.2 | — | |
+| Archelon | Архелон | srd-5.2 | — | |
+| Baboon | Бабуин | srd-5.2 | — | |
+| Badger | Барсук | srd-5.2 | — | |
+| Bat | Летучая мышь | srd-5.2 | — | |
+| Black Bear | Чёрный медведь | srd-5.2 | — | |
+| Blood Hawk | Кровавый ястреб | srd-5.2 | — | |
+| Boar | Кабан | srd-5.2 | — | |
+| Brown Bear | Бурый медведь | srd-5.2 | — | |
+| Camel | Верблюд | srd-5.2 | — | |
+| Cat | Кошка | srd-5.2 | — | |
+| Constrictor Snake | Удав | srd-5.2 | — | |
+| Crab | Краб | srd-5.2 | — | |
+| Crocodile | Крокодил | srd-5.2 | — | |
+| Deer | Олень | srd-5.2 | — | |
+| Dire Wolf | Лютый волк | srd-5.2 | — | |
+| Draft Horse | Тягловая лошадь | srd-5.2 | — | |
+| Eagle | Орёл | srd-5.2 | — | |
+| Elephant | Слон | srd-5.2 | — | |
+| Elk | Лось | srd-5.2 | — | |
+| Flying Snake | Летающая змея | srd-5.2 | — | |
+| Frog | Лягушка | srd-5.2 | — | |
+| Giant Ape | Гигантская обезьяна | srd-5.2 | — | |
+| Giant Badger | Гигантский барсук | srd-5.2 | — | |
+| Giant Bat | Гигантская летучая мышь | srd-5.2 | — | |
+| Giant Boar | Гигантский кабан | srd-5.2 | — | |
+| Giant Centipede | Гигантская сороконожка | srd-5.2 | — | |
+| Giant Constrictor Snake | Гигантский удав | srd-5.2 | — | |
+| Giant Crab | Гигантский краб | srd-5.2 | — | |
+| Giant Crocodile | Гигантский крокодил | srd-5.2 | — | |
+| Giant Eagle | Гигантский орёл | srd-5.2 | — | |
+| Giant Elk | Гигантский лось | srd-5.2 | — | |
+| Giant Fire Beetle | Гигантский огненный жук | srd-5.2 | — | |
+| Giant Frog | Гигантская лягушка | srd-5.2 | — | |
+| Giant Goat | Гигантский козёл | srd-5.2 | — | |
+| Giant Hyena | Гигантская гиена | srd-5.2 | — | |
+| Giant Lizard | Гигантская ящерица | srd-5.2 | — | |
+| Giant Octopus | Гигантский осьминог | srd-5.2 | — | |
+| Giant Owl | Гигантская сова | srd-5.2 | — | |
+| Giant Rat | Гигантская крыса | srd-5.2 | — | |
+| Giant Scorpion | Гигантский скорпион | srd-5.2 | — | |
+| Giant Seahorse | Гигантский морской конёк | srd-5.2 | — | |
+| Giant Shark | Гигантская акула | srd-5.2 | — | |
+| Giant Spider | Гигантский паук | srd-5.2 | — | |
+| Giant Toad | Гигантская жаба | srd-5.2 | — | |
+| Giant Venomous Snake | Гигантская ядовитая змея | srd-5.2 | — | |
+| Giant Vulture | Гигантский гриф | srd-5.2 | — | |
+| Giant Wasp | Гигантская оса | srd-5.2 | — | |
+| Giant Weasel | Гигантская ласка | srd-5.2 | — | |
+| Giant Wolf Spider | Гигантский паук-волк | srd-5.2 | — | |
+| Goat | Козёл | srd-5.2 | — | |
+| Hawk | Ястреб | srd-5.2 | — | |
+| Hippopotamus | Гиппопотам | srd-5.2 | — | |
+| Hunter Shark | Акула-охотник | srd-5.2 | — | |
+| Hyena | Гиена | srd-5.2 | — | |
+| Jackal | Шакал | srd-5.2 | — | |
+| Killer Whale | Косатка | srd-5.2 | — | |
+| Lion | Лев | srd-5.2 | — | |
+| Lizard | Ящерица | srd-5.2 | — | |
+| Mammoth | Мамонт | srd-5.2 | — | |
+| Mastiff | Мастиф | srd-5.2 | — | |
+| Mule | Мул | srd-5.2 | — | |
+| Octopus | Осьминог | srd-5.2 | — | |
+| Owl | Сова | srd-5.2 | — | |
+| Panther | Пантера | srd-5.2 | — | |
+| Piranha | Пиранья | srd-5.2 | — | |
+| Plesiosaurus | Плезиозавр | srd-5.2 | — | |
+| Polar Bear | Белый медведь | srd-5.2 | — | |
+| Pony | Пони | srd-5.2 | — | |
+| Pteranodon | Птеранодон | srd-5.2 | — | |
+| Rat | Крыса | srd-5.2 | — | |
+| Raven | Ворон | srd-5.2 | — | |
+| Reef Shark | Рифовая акула | srd-5.2 | — | |
+| Rhinoceros | Носорог | srd-5.2 | — | |
+| Riding Horse | Верховая лошадь | srd-5.2 | — | |
+| Saber-Toothed Tiger | Саблезубый тигр | srd-5.2 | — | |
+| Scorpion | Скорпион | srd-5.2 | — | |
+| Seahorse | Морской конёк | srd-5.2 | — | |
+| Spider | Паук | srd-5.2 | — | |
+| Swarm of Bats | Рой летучих мышей | srd-5.2 | — | |
+| Swarm of Insects | Рой насекомых | srd-5.2 | — | |
+| Swarm of Piranhas | Рой пираний | srd-5.2 | — | |
+| Swarm of Rats | Рой крыс | srd-5.2 | — | |
+| Swarm of Ravens | Рой воронов | srd-5.2 | — | |
+| Swarm of Venomous Snakes | Рой ядовитых змей | srd-5.2 | — | |
+| Tiger | Тигр | srd-5.2 | — | |
+| Triceratops | Трицератопс | srd-5.2 | — | |
+| Tyrannosaurus Rex | Тираннозавр | srd-5.2 | — | |
+| Venomous Snake | Ядовитая змея | srd-5.2 | — | |
+| Vulture | Гриф | srd-5.2 | — | |
+| Warhorse | Боевой конь | srd-5.2 | — | |
+| Weasel | Ласка | srd-5.2 | — | |
+| Wolf | Волк | srd-5.2 | — | |

@@ -4,337 +4,337 @@
 
 ---
 
-| Оригинал 5.2 | Оригинал 5.1 | Источник | Перевод | Комментарий |
-|---|---|---|---|---|
-| Aboleth | Aboleth | srd-5.1, srd-5.2 | Аболет |  |
-| Adult Black Dragon | - | srd-5.2 | Взрослый чёрный дракон |  |
-| Adult Blue Dragon | - | srd-5.2 | Взрослый синий дракон |  |
-| Adult Brass Dragon | - | srd-5.2 | Взрослый латунный дракон |  |
-| Adult Bronze Dragon | - | srd-5.2 | Взрослый бронзовый дракон |  |
-| Adult Copper Dragon | - | srd-5.2 | Взрослый медный дракон |  |
-| Adult Gold Dragon | - | srd-5.2 | Взрослый золотой дракон |  |
-| Adult Green Dragon | - | srd-5.2 | Взрослый зелёный дракон |  |
-| Adult Red Dragon | - | srd-5.2 | Взрослый красный дракон |  |
-| Adult Silver Dragon | - | srd-5.2 | Взрослый серебряный дракон |  |
-| Adult White Dragon | - | srd-5.2 | Взрослый белый дракон |  |
-| Air Elemental | Air Elemental | srd-5.1, srd-5.2 | Воздушный элементаль |  |
-| Ancient Black Dragon | - | srd-5.2 | Древний чёрный дракон |  |
-| Ancient Blue Dragon | - | srd-5.2 | Древний синий дракон |  |
-| Ancient Brass Dragon | - | srd-5.2 | Древний латунный дракон |  |
-| Ancient Bronze Dragon | - | srd-5.2 | Древний бронзовый дракон |  |
-| Ancient Copper Dragon | - | srd-5.2 | Древний медный дракон |  |
-| Ancient Gold Dragon | - | srd-5.2 | Древний золотой дракон |  |
-| Ancient Green Dragon | - | srd-5.2 | Древний зелёный дракон |  |
-| Ancient Red Dragon | - | srd-5.2 | Древний красный дракон |  |
-| Ancient Silver Dragon | - | srd-5.2 | Древний серебряный дракон |  |
-| Ancient White Dragon | - | srd-5.2 | Древний белый дракон |  |
-| Animated Armor | Animated Armor (Animated Object) | srd-5.1, srd-5.2 | Оживлённый доспех |  |
-| Animated Flying Sword | Flying Sword (Animated Object) | srd-5.1, srd-5.2 | Оживлённый летающий меч |  |
-| Animated Rug of Smothering | Rug of Smothering (Animated Object) | srd-5.1, srd-5.2 | Оживлённый ковёр-душитель |  |
-| Ankheg | Ankheg | srd-5.1, srd-5.2 | Анхег |  |
-| - | Ape | srd-5.1 | Обезьяна |  |
-| Archmage | Archmage | srd-5.1, srd-5.2 | Архимаг |  |
-| Assassin | Assassin | srd-5.1, srd-5.2 | Убийца |  |
-| Awakened Shrub | Awakened Shrub | srd-5.1, srd-5.2 | Пробуждённый куст |  |
-| Awakened Tree | Awakened Tree | srd-5.1, srd-5.2 | Пробуждённое дерево |  |
-| Axe Beak | Axe Beak | srd-5.1, srd-5.2 | Топорник |  |
-| Azer Sentinel | Azer | srd-5.1, srd-5.2 | Страж-азер | 5.1: Азер |
-| - | Baboon | srd-5.1 | Бабуин |  |
-| - | Badger | srd-5.1 | Барсук |  |
-| Balor | Balor (Demon) | srd-5.1, srd-5.2 | Балор |  |
-| Bandit | Bandit | srd-5.1, srd-5.2 | Бандит |  |
-| Bandit Captain | Bandit Captain | srd-5.1, srd-5.2 | Капитан бандитов |  |
-| Barbed Devil | Barbed Devil | srd-5.1, srd-5.2 | Шипастый дьявол |  |
-| Basilisk | Basilisk | srd-5.1, srd-5.2 | Василиск |  |
-| - | Bat | srd-5.1 | Летучая мышь |  |
-| Bearded Devil | Bearded Devil | srd-5.1, srd-5.2 | Бородатый дьявол |  |
-| Behir | Behir | srd-5.1, srd-5.2 | Бехир |  |
-| Berserker | Berserker | srd-5.1, srd-5.2 | Берсерк |  |
-| - | Black Bear | srd-5.1 | Чёрный медведь |  |
-| Black Dragon Wyrmling | - | srd-5.2 | Детёныш чёрного дракона |  |
-| Black Pudding | Black Pudding (Ooze) | srd-5.1, srd-5.2 | Чёрная слизь |  |
-| Blink Dog | Blink Dog | srd-5.1, srd-5.2 | Мигающий пёс |  |
-| - | Blood Hawk | srd-5.1 | Кровавый ястреб |  |
-| Blue Dragon Wyrmling | - | srd-5.2 | Детёныш синего дракона |  |
-| - | Boar | srd-5.1 | Кабан |  |
-| Bone Devil | Bone Devil | srd-5.1, srd-5.2 | Костяной дьявол |  |
-| Brass Dragon Wyrmling | - | srd-5.2 | Детёныш латунного дракона |  |
-| Bronze Dragon Wyrmling | - | srd-5.2 | Детёныш бронзового дракона |  |
-| - | Brown Bear | srd-5.1 | Бурый медведь |  |
-| Bugbear Stalker | - | srd-5.2 | Багбир-охотник |  |
-| Bugbear Warrior | Bugbear | srd-5.1, srd-5.2 | Багбир-воин | 5.1: Багбир |
-| Bulette | Bulette | srd-5.1, srd-5.2 | Бюлетт |  |
-| - | Camel | srd-5.1 | Верблюд |  |
-| - | Cat | srd-5.1 | Кошка |  |
-| Centaur Trooper | Centaur | srd-5.1, srd-5.2 | Кентавр-солдат | 5.1: Кентавр |
-| Chain Devil | Chain Devil | srd-5.1, srd-5.2 | Цепной дьявол |  |
-| Chimera | Chimera | srd-5.1, srd-5.2 | Химера |  |
-| Chuul | Chuul | srd-5.1, srd-5.2 | Чуул |  |
-| Clay Golem | Clay Golem | srd-5.1, srd-5.2 | Глиняный голем |  |
-| Cloaker | Cloaker | srd-5.1, srd-5.2 | Плащеносец |  |
-| Cloud Giant | Cloud Giant | srd-5.1, srd-5.2 | Облачный великан |  |
-| Cockatrice | Cockatrice | srd-5.1, srd-5.2 | Кокатрис |  |
-| Commoner | Commoner | srd-5.1, srd-5.2 | Обыватель |  |
-| - | Constrictor Snake | srd-5.1 | Удав |  |
-| Copper Dragon Wyrmling | - | srd-5.2 | Детёныш медного дракона |  |
-| Couatl | Couatl | srd-5.1, srd-5.2 | Коатль |  |
-| - | Crab | srd-5.1 | Краб |  |
-| - | Crocodile | srd-5.1 | Крокодил |  |
-| Cultist | Cultist | srd-5.1, srd-5.2 | Культист |  |
-| Cultist Fanatic | Cult Fanatic | srd-5.1, srd-5.2 | Фанатик-культист | 5.1: Фанатик культа |
-| Darkmantle | Darkmantle | srd-5.1, srd-5.2 | Тёмная мантия |  |
-| Death Dog | Death Dog | srd-5.1, srd-5.2 | Пёс смерти |  |
-| - | Deer | srd-5.1 | Олень |  |
-| Deva | Deva (Angel) | srd-5.1, srd-5.2 | Дэва |  |
-| - | Dire Wolf | srd-5.1 | Лютый волк |  |
-| Djinni | Djinni (Genie) | srd-5.1, srd-5.2 | Джинн |  |
-| Doppelganger | Doppelganger | srd-5.1, srd-5.2 | Доппельгангер |  |
-| - | Draft Horse | srd-5.1 | Тягловая лошадь |  |
-| Dragon Turtle | Dragon Turtle | srd-5.1, srd-5.2 | Драконья черепаха |  |
-| Dretch | Dretch (Demon) | srd-5.1, srd-5.2 | Дретч |  |
-| Drider | Drider | srd-5.1, srd-5.2 | Драйдер |  |
-| Druid | Druid | srd-5.1, srd-5.2 | Друид |  |
-| Dryad | Dryad | srd-5.1, srd-5.2 | Дриада |  |
-| - | Duergar | srd-5.1 | Дуэргар |  |
-| Dust Mephit | Dust Mephit | srd-5.1, srd-5.2 | Пылевой мефит |  |
-| - | Eagle | srd-5.1 | Орёл |  |
-| Earth Elemental | Earth Elemental | srd-5.1, srd-5.2 | Земляной элементаль |  |
-| Efreeti | Efreeti (Genie) | srd-5.1, srd-5.2 | Ифрит |  |
-| - | Elephant | srd-5.1 | Слон |  |
-| - | Elf, Drow | srd-5.1 | Эльф, дроу |  |
-| - | Elk | srd-5.1 | Лось |  |
-| Erinyes | Erinyes (Devil) | srd-5.1, srd-5.2 | Эриния |  |
-| Ettercap | Ettercap | srd-5.1, srd-5.2 | Эттеркап |  |
-| Ettin | Ettin | srd-5.1, srd-5.2 | Эттин |  |
-| Fire Elemental | Fire Elemental | srd-5.1, srd-5.2 | Огненный элементаль |  |
-| Fire Giant | Fire Giant | srd-5.1, srd-5.2 | Огненный великан |  |
-| Flesh Golem | Flesh Golem | srd-5.1, srd-5.2 | Голем из плоти |  |
-| - | Flying Snake | srd-5.1 | Летающая змея |  |
-| - | Frog | srd-5.1 | Лягушка |  |
-| Frost Giant | Frost Giant | srd-5.1, srd-5.2 | Ледяной великан |  |
-| Gargoyle | Gargoyle | srd-5.1, srd-5.2 | Горгулья |  |
-| Gelatinous Cube | Gelatinous Cube (Ooze) | srd-5.1, srd-5.2 | Желатиновый куб |  |
-| Ghast | Ghast (Ghoul) | srd-5.1, srd-5.2 | Гаст |  |
-| Ghost | Ghost | srd-5.1, srd-5.2 | Призрак |  |
-| Ghoul | Ghoul | srd-5.1, srd-5.2 | Упырь |  |
-| - | Giant Ape | srd-5.1 | Гигантская обезьяна |  |
-| - | Giant Badger | srd-5.1 | Гигантский барсук |  |
-| - | Giant Bat | srd-5.1 | Гигантская летучая мышь |  |
-| - | Giant Boar | srd-5.1 | Гигантский кабан |  |
-| - | Giant Centipede | srd-5.1 | Гигантская сороконожка |  |
-| - | Giant Constrictor Snake | srd-5.1 | Гигантский удав |  |
-| - | Giant Crab | srd-5.1 | Гигантский краб |  |
-| - | Giant Crocodile | srd-5.1 | Гигантский крокодил |  |
-| - | Giant Eagle | srd-5.1 | Гигантский орёл |  |
-| - | Giant Elk | srd-5.1 | Гигантский лось |  |
-| - | Giant Fire Beetle | srd-5.1 | Гигантский огненный жук |  |
-| - | Giant Frog | srd-5.1 | Гигантская лягушка |  |
-| - | Giant Goat | srd-5.1 | Гигантский козёл |  |
-| - | Giant Hyena | srd-5.1 | Гигантская гиена |  |
-| - | Giant Lizard | srd-5.1 | Гигантская ящерица |  |
-| - | Giant Octopus | srd-5.1 | Гигантский осьминог |  |
-| - | Giant Owl | srd-5.1 | Гигантская сова |  |
-| - | Giant Poisonous Snake | srd-5.1 | Гигантская ядовитая змея |  |
-| - | Giant Rat | srd-5.1 | Гигантская крыса |  |
-| - | Giant Scorpion | srd-5.1 | Гигантский скорпион |  |
-| - | Giant Sea Horse | srd-5.1 | Гигантский морской конёк |  |
-| - | Giant Shark | srd-5.1 | Гигантская акула |  |
-| - | Giant Spider | srd-5.1 | Гигантский паук |  |
-| - | Giant Toad | srd-5.1 | Гигантская жаба |  |
-| - | Giant Vulture | srd-5.1 | Гигантский гриф |  |
-| - | Giant Wasp | srd-5.1 | Гигантская оса |  |
-| - | Giant Weasel | srd-5.1 | Гигантская ласка |  |
-| - | Giant Wolf Spider | srd-5.1 | Гигантский паук-волк |  |
-| Gibbering Mouther | Gibbering Mouther | srd-5.1, srd-5.2 | Бормочущая пасть |  |
-| Glabrezu | Glabrezu (Demon) | srd-5.1, srd-5.2 | Глабрезу |  |
-| Gladiator | Gladiator | srd-5.1, srd-5.2 | Гладиатор |  |
-| Gnoll Warrior | Gnoll | srd-5.1, srd-5.2 | Гнолл-воин | 5.1: Гнолл |
-| - | Gnome, Deep (Svirfneblin) | srd-5.1 | Гном глубинный (свирфнеблин) |  |
-| - | Goat | srd-5.1 | Козёл |  |
-| Goblin Boss | - | srd-5.2 | Гоблин-босс |  |
-| Goblin Minion | - | srd-5.2 | Гоблин-миньон |  |
-| Goblin Warrior | Goblin | srd-5.1, srd-5.2 | Гоблин-воин | 5.1: Гоблин |
-| Gold Dragon Wyrmling | - | srd-5.2 | Детёныш золотого дракона |  |
-| Gorgon | Gorgon | srd-5.1, srd-5.2 | Горгона |  |
-| Gray Ooze | Gray Ooze | srd-5.1, srd-5.2 | Серая слизь |  |
-| Green Dragon Wyrmling | - | srd-5.2 | Детёныш зелёного дракона |  |
-| Green Hag | Green Hag | srd-5.1, srd-5.2 | Зелёная карга |  |
-| Grick | Grick | srd-5.1, srd-5.2 | Грик |  |
-| Griffon | Griffon | srd-5.1, srd-5.2 | Грифон |  |
-| Grimlock | Grimlock | srd-5.1, srd-5.2 | Гримлок |  |
-| Guard | Guard | srd-5.1, srd-5.2 | Стражник |  |
-| Guard Captain | - | srd-5.2 | Капитан стражи |  |
-| Guardian Naga | Guardian Naga | srd-5.1, srd-5.2 | Нага-страж |  |
-| Half-Dragon | Half-Red Dragon Veteran | srd-5.1, srd-5.2 | Полудракон | 5.1: Полудракон-ветеран |
-| Harpy | Harpy | srd-5.1, srd-5.2 | Гарпия |  |
-| - | Hawk | srd-5.1 | Ястреб |  |
-| Hell Hound | Hell Hound | srd-5.1, srd-5.2 | Адская гончая |  |
-| Hezrou | Hezrou (Demon) | srd-5.1, srd-5.2 | Хезроу |  |
-| Hill Giant | Hill Giant | srd-5.1, srd-5.2 | Холмовой великан |  |
-| Hippogriff | Hippogriff | srd-5.1, srd-5.2 | Гиппогриф |  |
-| Hobgoblin Captain | - | srd-5.2 | Хобгоблин-капитан |  |
-| Hobgoblin Warrior | Hobgoblin | srd-5.1, srd-5.2 | Хобгоблин-воин | 5.1: Хобгоблин |
-| Homunculus | Homunculus | srd-5.1, srd-5.2 | Гомункул |  |
-| Horned Devil | Horned Devil | srd-5.1, srd-5.2 | Рогатый дьявол |  |
-| - | Hunter Shark | srd-5.1 | Акула-охотник |  |
-| Hydra | Hydra | srd-5.1, srd-5.2 | Гидра |  |
-| - | Hyena | srd-5.1 | Гиена |  |
-| Ice Devil | Ice Devil | srd-5.1, srd-5.2 | Ледяной дьявол |  |
-| Ice Mephit | Ice Mephit | srd-5.1, srd-5.2 | Ледяной мефит |  |
-| Imp | Imp (Devil) | srd-5.1, srd-5.2 | Имп |  |
-| Incubus | Succubus/Incubus | srd-5.1, srd-5.2 | Инкуб | 5.1: Суккуб/Инкуб |
-| Invisible Stalker | Invisible Stalker | srd-5.1, srd-5.2 | Невидимый охотник |  |
-| Iron Golem | Iron Golem | srd-5.1, srd-5.2 | Железный голем |  |
-| - | Jackal | srd-5.1 | Шакал |  |
-| - | Killer Whale | srd-5.1 | Косатка |  |
-| Knight | Knight | srd-5.1, srd-5.2 | Рыцарь |  |
-| Kobold Warrior | Kobold | srd-5.1, srd-5.2 | Кобольд-воин | 5.1: Кобольд |
-| Kraken | Kraken | srd-5.1, srd-5.2 | Кракен |  |
-| Lamia | Lamia | srd-5.1, srd-5.2 | Ламия |  |
-| Lemure | Lemure (Devil) | srd-5.1, srd-5.2 | Лемур |  |
-| Lich | Lich | srd-5.1, srd-5.2 | Лич |  |
-| - | Lion | srd-5.1 | Лев |  |
-| - | Lizard | srd-5.1 | Ящерица |  |
-| - | Lizardfolk | srd-5.1 | Ящеролюд |  |
-| Mage | Mage | srd-5.1, srd-5.2 | Маг |  |
-| Magma Mephit | Magma Mephit | srd-5.1, srd-5.2 | Магмовый мефит |  |
-| Magmin | Magmin | srd-5.1, srd-5.2 | Магмин |  |
-| - | Mammoth | srd-5.1 | Мамонт |  |
-| Manticore | Manticore | srd-5.1, srd-5.2 | Мантикора |  |
-| Marilith | Marilith (Demon) | srd-5.1, srd-5.2 | Марилит |  |
-| - | Mastiff | srd-5.1 | Мастиф |  |
-| Medusa | Medusa | srd-5.1, srd-5.2 | Медуза |  |
-| Merfolk Skirmisher | Merfolk | srd-5.1, srd-5.2 | Мерфолк-застрельщик | 5.1: Мерфолк |
-| Merrow | Merrow | srd-5.1, srd-5.2 | Мерроу |  |
-| Mimic | Mimic | srd-5.1, srd-5.2 | Мимик |  |
-| Minotaur of Baphomet | Minotaur | srd-5.1, srd-5.2 | Минотавр Бафомета | 5.1: Минотавр |
-| Minotaur Skeleton | Minotaur Skeleton | srd-5.1, srd-5.2 | Скелет минотавра |  |
-| - | Mule | srd-5.1 | Мул |  |
-| Mummy | Mummy | srd-5.1, srd-5.2 | Мумия |  |
-| Mummy Lord | Mummy Lord | srd-5.1, srd-5.2 | Повелитель мумий |  |
-| Nalfeshnee | Nalfeshnee (Demon) | srd-5.1, srd-5.2 | Налфешни |  |
-| Night Hag | Night Hag | srd-5.1, srd-5.2 | Ночная карга |  |
-| Nightmare | Nightmare | srd-5.1, srd-5.2 | Кошмар |  |
-| Noble | Noble | srd-5.1, srd-5.2 | Дворянин |  |
-| Ochre Jelly | Ochre Jelly (Ooze) | srd-5.1, srd-5.2 | Охровый студень |  |
-| - | Octopus | srd-5.1 | Осьминог |  |
-| Ogre | Ogre | srd-5.1, srd-5.2 | Огр |  |
-| Ogre Zombie | Ogre Zombie | srd-5.1, srd-5.2 | Огр-зомби |  |
-| Oni | Oni | srd-5.1, srd-5.2 | Они |  |
-| - | Orc | srd-5.1 | Орк |  |
-| Otyugh | Otyugh | srd-5.1, srd-5.2 | Отиуг |  |
-| - | Owl | srd-5.1 | Сова |  |
-| Owlbear | Owlbear | srd-5.1, srd-5.2 | Совомедведь |  |
-| - | Panther | srd-5.1 | Пантера |  |
-| Pegasus | Pegasus | srd-5.1, srd-5.2 | Пегас |  |
-| Phase Spider | Phase Spider | srd-5.1, srd-5.2 | Фазовый паук |  |
-| Pirate | - | srd-5.2 | Пират |  |
-| Pirate Captain | - | srd-5.2 | Капитан пиратов |  |
-| Pit Fiend | Pit Fiend (Devil) | srd-5.1, srd-5.2 | Ямный дьявол |  |
-| Planetar | Planetar (Angel) | srd-5.1, srd-5.2 | Планетар |  |
-| - | Plesiosaurus (Dinosaur) | srd-5.1 | Плезиозавр |  |
-| - | Poisonous Snake | srd-5.1 | Ядовитая змея |  |
-| - | Polar Bear | srd-5.1 | Белый медведь |  |
-| - | Pony | srd-5.1 | Пони |  |
-| Priest | Priest | srd-5.1, srd-5.2 | Жрец |  |
-| Priest Acolyte | Acolyte | srd-5.1, srd-5.2 | Жрец-послушник | 5.1: Послушник |
-| Pseudodragon | Pseudodragon | srd-5.1, srd-5.2 | Псевдодракон |  |
-| Purple Worm | Purple Worm | srd-5.1, srd-5.2 | Пурпурный червь |  |
-| Quasit | Quasit (Demon) | srd-5.1, srd-5.2 | Квазит |  |
-| - | Quipper | srd-5.1 | Пиранья |  |
-| Rakshasa | Rakshasa | srd-5.1, srd-5.2 | Ракшас |  |
-| - | Rat | srd-5.1 | Крыса |  |
-| - | Raven | srd-5.1 | Ворон |  |
-| Red Dragon Wyrmling | - | srd-5.2 | Детёныш красного дракона |  |
-| - | Reef Shark | srd-5.1 | Рифовая акула |  |
-| Remorhaz | Remorhaz | srd-5.1, srd-5.2 | Реморхаз |  |
-| - | Rhinoceros | srd-5.1 | Носорог |  |
-| - | Riding Horse | srd-5.1 | Верховая лошадь |  |
-| Roc | Roc | srd-5.1, srd-5.2 | Рух |  |
-| Roper | Roper | srd-5.1, srd-5.2 | Веревник |  |
-| Rust Monster | Rust Monster | srd-5.1, srd-5.2 | Ржавник |  |
-| - | Saber-Toothed Tiger | srd-5.1 | Саблезубый тигр |  |
-| Sahuagin Warrior | Sahuagin | srd-5.1, srd-5.2 | Сахуагин-воин | 5.1: Сахуагин |
-| Salamander | Salamander | srd-5.1, srd-5.2 | Саламандра |  |
-| Satyr | Satyr | srd-5.1, srd-5.2 | Сатир |  |
-| - | Scorpion | srd-5.1 | Скорпион |  |
-| Scout | Scout | srd-5.1, srd-5.2 | Разведчик |  |
-| Sea Hag | Sea Hag | srd-5.1, srd-5.2 | Морская карга |  |
-| - | Sea Horse | srd-5.1 | Морской конёк |  |
-| Shadow | Shadow | srd-5.1, srd-5.2 | Тень |  |
-| Shambling Mound | Shambling Mound | srd-5.1, srd-5.2 | Шатающийся холм |  |
-| Shield Guardian | Shield Guardian | srd-5.1, srd-5.2 | Страж-щит |  |
-| Shrieker Fungus | Shrieker (Fungi) | srd-5.1, srd-5.2 | Визгун |  |
-| Silver Dragon Wyrmling | - | srd-5.2 | Детёныш серебряного дракона |  |
-| Skeleton | Skeleton | srd-5.1, srd-5.2 | Скелет |  |
-| Solar | Solar (Angel) | srd-5.1, srd-5.2 | Солар |  |
-| Specter | Specter | srd-5.1, srd-5.2 | Спектр |  |
-| - | Spider | srd-5.1 | Паук |  |
-| Sphinx of Lore | Gynosphinx (Sphinx) | srd-5.1, srd-5.2 | Сфинкс знаний | 5.1: Гиносфинкс |
-| Sphinx of Valor | Androsphinx (Sphinx) | srd-5.1, srd-5.2 | Сфинкс доблести | 5.1: Андросфинкс |
-| Sphinx of Wonder | - | srd-5.2 | Сфинкс чудес |  |
-| Spirit Naga | Spirit Naga | srd-5.1, srd-5.2 | Духовная нага |  |
-| Sprite | Sprite | srd-5.1, srd-5.2 | Спрайт |  |
-| Spy | Spy | srd-5.1, srd-5.2 | Шпион |  |
-| Steam Mephit | Steam Mephit | srd-5.1, srd-5.2 | Паровой мефит |  |
-| Stirge | Stirge | srd-5.1, srd-5.2 | Стирж |  |
-| Stone Giant | Stone Giant | srd-5.1, srd-5.2 | Каменный великан |  |
-| Stone Golem | Stone Golem | srd-5.1, srd-5.2 | Каменный голем |  |
-| Storm Giant | Storm Giant | srd-5.1, srd-5.2 | Штормовой великан |  |
-| Succubus | Succubus/Incubus | srd-5.1, srd-5.2 | Суккуб | 5.1: Суккуб/Инкуб |
-| - | Swarm of Bats | srd-5.1 | Рой летучих мышей |  |
-| Swarm of Crawling Claws | - | srd-5.2 | Рой ползучих когтей |  |
-| - | Swarm of Insects | srd-5.1 | Рой насекомых |  |
-| - | Swarm of Poisonous Snakes | srd-5.1 | Рой ядовитых змей |  |
-| - | Swarm of Quippers | srd-5.1 | Рой пираний |  |
-| - | Swarm of Rats | srd-5.1 | Рой крыс |  |
-| - | Swarm of Ravens | srd-5.1 | Рой воронов |  |
-| Tarrasque | Tarrasque | srd-5.1, srd-5.2 | Тарраска |  |
-| - | Tiger | srd-5.1 | Тигр |  |
-| Tough | Thug | srd-5.1, srd-5.2 | Головорез |  |
-| Tough Boss | - | srd-5.2 | Главарь головорезов |  |
-| Treant | Treant | srd-5.1, srd-5.2 | Древень |  |
-| - | Triceratops (Dinosaur) | srd-5.1 | Трицератопс |  |
-| Troll | Troll | srd-5.1, srd-5.2 | Тролль |  |
-| Troll Limb | - | srd-5.2 | Конечность тролля |  |
-| - | Tyrannosaurus Rex (Dinosaur) | srd-5.1 | Тираннозавр |  |
-| Unicorn | Unicorn | srd-5.1, srd-5.2 | Единорог |  |
-| Vampire | Vampire | srd-5.1, srd-5.2 | Вампир |  |
-| Vampire Familiar | - | srd-5.2 | Фамильяр вампира |  |
-| Vampire Spawn | Vampire Spawn | srd-5.1, srd-5.2 | Порождение вампира |  |
-| Violet Fungus | Violet Fungus (Fungi) | srd-5.1, srd-5.2 | Фиолетовый гриб |  |
-| Vrock | Vrock (Demon) | srd-5.1, srd-5.2 | Врок |  |
-| - | Vulture | srd-5.1 | Гриф |  |
-| - | Warhorse | srd-5.1 | Боевой конь |  |
-| Warhorse Skeleton | Warhorse Skeleton | srd-5.1, srd-5.2 | Скелет боевого коня |  |
-| Warrior Infantry | Tribal Warrior | srd-5.1, srd-5.2 | Пехотинец-воин | 5.1: Воин племени |
-| Warrior Veteran | Veteran | srd-5.1, srd-5.2 | Ветеран-воин | 5.1: Ветеран |
-| Water Elemental | Water Elemental | srd-5.1, srd-5.2 | Водяной элементаль |  |
-| - | Weasel | srd-5.1 | Ласка |  |
-| Werebear | Werebear (Lycanthrope) | srd-5.1, srd-5.2 | Вермедведь |  |
-| Wereboar | Wereboar (Lycanthrope) | srd-5.1, srd-5.2 | Вервепрь |  |
-| Wererat | Wererat (Lycanthrope) | srd-5.1, srd-5.2 | Веркрыса |  |
-| Weretiger | Weretiger (Lycanthrope) | srd-5.1, srd-5.2 | Вертигр |  |
-| Werewolf | Werewolf (Lycanthrope) | srd-5.1, srd-5.2 | Вервольф |  |
-| White Dragon Wyrmling | - | srd-5.2 | Детёныш белого дракона |  |
-| Wight | Wight | srd-5.1, srd-5.2 | Умертвие |  |
-| Will-o'-Wisp | Will-o'-Wisp | srd-5.1, srd-5.2 | Блуждающий огонёк |  |
-| Winter Wolf | Winter Wolf | srd-5.1, srd-5.2 | Зимний волк |  |
-| - | Wolf | srd-5.1 | Волк |  |
-| Worg | Worg | srd-5.1, srd-5.2 | Ворг |  |
-| Wraith | Wraith | srd-5.1, srd-5.2 | Тень смерти |  |
-| Wyvern | Wyvern | srd-5.1, srd-5.2 | Виверна |  |
-| Xorn | Xorn | srd-5.1, srd-5.2 | Зорн |  |
-| Young Black Dragon | - | srd-5.2 | Молодой чёрный дракон |  |
-| Young Blue Dragon | - | srd-5.2 | Молодой синий дракон |  |
-| Young Brass Dragon | - | srd-5.2 | Молодой латунный дракон |  |
-| Young Bronze Dragon | - | srd-5.2 | Молодой бронзовый дракон |  |
-| Young Copper Dragon | - | srd-5.2 | Молодой медный дракон |  |
-| Young Gold Dragon | - | srd-5.2 | Молодой золотой дракон |  |
-| Young Green Dragon | - | srd-5.2 | Молодой зелёный дракон |  |
-| Young Red Dragon | - | srd-5.2 | Молодой красный дракон |  |
-| Young Silver Dragon | - | srd-5.2 | Молодой серебряный дракон |  |
-| Young White Dragon | - | srd-5.2 | Молодой белый дракон |  |
-| Zombie | Zombie | srd-5.1, srd-5.2 | Зомби |  |
+| Оригинал 5.2 | Оригинал 5.1 | Перевод | Источник 5.2 | Источник 5.1 | Комментарий |
+|---|---|---|---|---|---|
+| Aboleth | Aboleth | Аболет | srd-5.2 | srd-5.1 |  |
+| Adult Black Dragon | - | Взрослый чёрный дракон | srd-5.2 | — |  |
+| Adult Blue Dragon | - | Взрослый синий дракон | srd-5.2 | — |  |
+| Adult Brass Dragon | - | Взрослый латунный дракон | srd-5.2 | — |  |
+| Adult Bronze Dragon | - | Взрослый бронзовый дракон | srd-5.2 | — |  |
+| Adult Copper Dragon | - | Взрослый медный дракон | srd-5.2 | — |  |
+| Adult Gold Dragon | - | Взрослый золотой дракон | srd-5.2 | — |  |
+| Adult Green Dragon | - | Взрослый зелёный дракон | srd-5.2 | — |  |
+| Adult Red Dragon | - | Взрослый красный дракон | srd-5.2 | — |  |
+| Adult Silver Dragon | - | Взрослый серебряный дракон | srd-5.2 | — |  |
+| Adult White Dragon | - | Взрослый белый дракон | srd-5.2 | — |  |
+| Air Elemental | Air Elemental | Воздушный элементаль | srd-5.2 | srd-5.1 |  |
+| Ancient Black Dragon | - | Древний чёрный дракон | srd-5.2 | — |  |
+| Ancient Blue Dragon | - | Древний синий дракон | srd-5.2 | — |  |
+| Ancient Brass Dragon | - | Древний латунный дракон | srd-5.2 | — |  |
+| Ancient Bronze Dragon | - | Древний бронзовый дракон | srd-5.2 | — |  |
+| Ancient Copper Dragon | - | Древний медный дракон | srd-5.2 | — |  |
+| Ancient Gold Dragon | - | Древний золотой дракон | srd-5.2 | — |  |
+| Ancient Green Dragon | - | Древний зелёный дракон | srd-5.2 | — |  |
+| Ancient Red Dragon | - | Древний красный дракон | srd-5.2 | — |  |
+| Ancient Silver Dragon | - | Древний серебряный дракон | srd-5.2 | — |  |
+| Ancient White Dragon | - | Древний белый дракон | srd-5.2 | — |  |
+| Animated Armor | Animated Armor (Animated Object) | Оживлённый доспех | srd-5.2 | srd-5.1 |  |
+| Animated Flying Sword | Flying Sword (Animated Object) | Оживлённый летающий меч | srd-5.2 | srd-5.1 |  |
+| Animated Rug of Smothering | Rug of Smothering (Animated Object) | Оживлённый ковёр-душитель | srd-5.2 | srd-5.1 |  |
+| Ankheg | Ankheg | Анхег | srd-5.2 | srd-5.1 |  |
+| - | Ape | Обезьяна | — | srd-5.1 |  |
+| Archmage | Archmage | Архимаг | srd-5.2 | srd-5.1 |  |
+| Assassin | Assassin | Убийца | srd-5.2 | srd-5.1 |  |
+| Awakened Shrub | Awakened Shrub | Пробуждённый куст | srd-5.2 | srd-5.1 |  |
+| Awakened Tree | Awakened Tree | Пробуждённое дерево | srd-5.2 | srd-5.1 |  |
+| Axe Beak | Axe Beak | Топорник | srd-5.2 | srd-5.1 |  |
+| Azer Sentinel | Azer | Страж-азер | srd-5.2 | srd-5.1 | 5.1: Азер |
+| - | Baboon | Бабуин | — | srd-5.1 |  |
+| - | Badger | Барсук | — | srd-5.1 |  |
+| Balor | Balor (Demon) | Балор | srd-5.2 | srd-5.1 |  |
+| Bandit | Bandit | Бандит | srd-5.2 | srd-5.1 |  |
+| Bandit Captain | Bandit Captain | Капитан бандитов | srd-5.2 | srd-5.1 |  |
+| Barbed Devil | Barbed Devil | Шипастый дьявол | srd-5.2 | srd-5.1 |  |
+| Basilisk | Basilisk | Василиск | srd-5.2 | srd-5.1 |  |
+| - | Bat | Летучая мышь | — | srd-5.1 |  |
+| Bearded Devil | Bearded Devil | Бородатый дьявол | srd-5.2 | srd-5.1 |  |
+| Behir | Behir | Бехир | srd-5.2 | srd-5.1 |  |
+| Berserker | Berserker | Берсерк | srd-5.2 | srd-5.1 |  |
+| - | Black Bear | Чёрный медведь | — | srd-5.1 |  |
+| Black Dragon Wyrmling | - | Детёныш чёрного дракона | srd-5.2 | — |  |
+| Black Pudding | Black Pudding (Ooze) | Чёрная слизь | srd-5.2 | srd-5.1 |  |
+| Blink Dog | Blink Dog | Мигающий пёс | srd-5.2 | srd-5.1 |  |
+| - | Blood Hawk | Кровавый ястреб | — | srd-5.1 |  |
+| Blue Dragon Wyrmling | - | Детёныш синего дракона | srd-5.2 | — |  |
+| - | Boar | Кабан | — | srd-5.1 |  |
+| Bone Devil | Bone Devil | Костяной дьявол | srd-5.2 | srd-5.1 |  |
+| Brass Dragon Wyrmling | - | Детёныш латунного дракона | srd-5.2 | — |  |
+| Bronze Dragon Wyrmling | - | Детёныш бронзового дракона | srd-5.2 | — |  |
+| - | Brown Bear | Бурый медведь | — | srd-5.1 |  |
+| Bugbear Stalker | - | Багбир-охотник | srd-5.2 | — |  |
+| Bugbear Warrior | Bugbear | Багбир-воин | srd-5.2 | srd-5.1 | 5.1: Багбир |
+| Bulette | Bulette | Бюлетт | srd-5.2 | srd-5.1 |  |
+| - | Camel | Верблюд | — | srd-5.1 |  |
+| - | Cat | Кошка | — | srd-5.1 |  |
+| Centaur Trooper | Centaur | Кентавр-солдат | srd-5.2 | srd-5.1 | 5.1: Кентавр |
+| Chain Devil | Chain Devil | Цепной дьявол | srd-5.2 | srd-5.1 |  |
+| Chimera | Chimera | Химера | srd-5.2 | srd-5.1 |  |
+| Chuul | Chuul | Чуул | srd-5.2 | srd-5.1 |  |
+| Clay Golem | Clay Golem | Глиняный голем | srd-5.2 | srd-5.1 |  |
+| Cloaker | Cloaker | Плащеносец | srd-5.2 | srd-5.1 |  |
+| Cloud Giant | Cloud Giant | Облачный великан | srd-5.2 | srd-5.1 |  |
+| Cockatrice | Cockatrice | Кокатрис | srd-5.2 | srd-5.1 |  |
+| Commoner | Commoner | Обыватель | srd-5.2 | srd-5.1 |  |
+| - | Constrictor Snake | Удав | — | srd-5.1 |  |
+| Copper Dragon Wyrmling | - | Детёныш медного дракона | srd-5.2 | — |  |
+| Couatl | Couatl | Коатль | srd-5.2 | srd-5.1 |  |
+| - | Crab | Краб | — | srd-5.1 |  |
+| - | Crocodile | Крокодил | — | srd-5.1 |  |
+| Cultist | Cultist | Культист | srd-5.2 | srd-5.1 |  |
+| Cultist Fanatic | Cult Fanatic | Фанатик-культист | srd-5.2 | srd-5.1 | 5.1: Фанатик культа |
+| Darkmantle | Darkmantle | Тёмная мантия | srd-5.2 | srd-5.1 |  |
+| Death Dog | Death Dog | Пёс смерти | srd-5.2 | srd-5.1 |  |
+| - | Deer | Олень | — | srd-5.1 |  |
+| Deva | Deva (Angel) | Дэва | srd-5.2 | srd-5.1 |  |
+| - | Dire Wolf | Лютый волк | — | srd-5.1 |  |
+| Djinni | Djinni (Genie) | Джинн | srd-5.2 | srd-5.1 |  |
+| Doppelganger | Doppelganger | Доппельгангер | srd-5.2 | srd-5.1 |  |
+| - | Draft Horse | Тягловая лошадь | — | srd-5.1 |  |
+| Dragon Turtle | Dragon Turtle | Драконья черепаха | srd-5.2 | srd-5.1 |  |
+| Dretch | Dretch (Demon) | Дретч | srd-5.2 | srd-5.1 |  |
+| Drider | Drider | Драйдер | srd-5.2 | srd-5.1 |  |
+| Druid | Druid | Друид | srd-5.2 | srd-5.1 |  |
+| Dryad | Dryad | Дриада | srd-5.2 | srd-5.1 |  |
+| - | Duergar | Дуэргар | — | srd-5.1 |  |
+| Dust Mephit | Dust Mephit | Пылевой мефит | srd-5.2 | srd-5.1 |  |
+| - | Eagle | Орёл | — | srd-5.1 |  |
+| Earth Elemental | Earth Elemental | Земляной элементаль | srd-5.2 | srd-5.1 |  |
+| Efreeti | Efreeti (Genie) | Ифрит | srd-5.2 | srd-5.1 |  |
+| - | Elephant | Слон | — | srd-5.1 |  |
+| - | Elf, Drow | Эльф, дроу | — | srd-5.1 |  |
+| - | Elk | Лось | — | srd-5.1 |  |
+| Erinyes | Erinyes (Devil) | Эриния | srd-5.2 | srd-5.1 |  |
+| Ettercap | Ettercap | Эттеркап | srd-5.2 | srd-5.1 |  |
+| Ettin | Ettin | Эттин | srd-5.2 | srd-5.1 |  |
+| Fire Elemental | Fire Elemental | Огненный элементаль | srd-5.2 | srd-5.1 |  |
+| Fire Giant | Fire Giant | Огненный великан | srd-5.2 | srd-5.1 |  |
+| Flesh Golem | Flesh Golem | Голем из плоти | srd-5.2 | srd-5.1 |  |
+| - | Flying Snake | Летающая змея | — | srd-5.1 |  |
+| - | Frog | Лягушка | — | srd-5.1 |  |
+| Frost Giant | Frost Giant | Ледяной великан | srd-5.2 | srd-5.1 |  |
+| Gargoyle | Gargoyle | Горгулья | srd-5.2 | srd-5.1 |  |
+| Gelatinous Cube | Gelatinous Cube (Ooze) | Желатиновый куб | srd-5.2 | srd-5.1 |  |
+| Ghast | Ghast (Ghoul) | Гаст | srd-5.2 | srd-5.1 |  |
+| Ghost | Ghost | Призрак | srd-5.2 | srd-5.1 |  |
+| Ghoul | Ghoul | Упырь | srd-5.2 | srd-5.1 |  |
+| - | Giant Ape | Гигантская обезьяна | — | srd-5.1 |  |
+| - | Giant Badger | Гигантский барсук | — | srd-5.1 |  |
+| - | Giant Bat | Гигантская летучая мышь | — | srd-5.1 |  |
+| - | Giant Boar | Гигантский кабан | — | srd-5.1 |  |
+| - | Giant Centipede | Гигантская сороконожка | — | srd-5.1 |  |
+| - | Giant Constrictor Snake | Гигантский удав | — | srd-5.1 |  |
+| - | Giant Crab | Гигантский краб | — | srd-5.1 |  |
+| - | Giant Crocodile | Гигантский крокодил | — | srd-5.1 |  |
+| - | Giant Eagle | Гигантский орёл | — | srd-5.1 |  |
+| - | Giant Elk | Гигантский лось | — | srd-5.1 |  |
+| - | Giant Fire Beetle | Гигантский огненный жук | — | srd-5.1 |  |
+| - | Giant Frog | Гигантская лягушка | — | srd-5.1 |  |
+| - | Giant Goat | Гигантский козёл | — | srd-5.1 |  |
+| - | Giant Hyena | Гигантская гиена | — | srd-5.1 |  |
+| - | Giant Lizard | Гигантская ящерица | — | srd-5.1 |  |
+| - | Giant Octopus | Гигантский осьминог | — | srd-5.1 |  |
+| - | Giant Owl | Гигантская сова | — | srd-5.1 |  |
+| - | Giant Poisonous Snake | Гигантская ядовитая змея | — | srd-5.1 |  |
+| - | Giant Rat | Гигантская крыса | — | srd-5.1 |  |
+| - | Giant Scorpion | Гигантский скорпион | — | srd-5.1 |  |
+| - | Giant Sea Horse | Гигантский морской конёк | — | srd-5.1 |  |
+| - | Giant Shark | Гигантская акула | — | srd-5.1 |  |
+| - | Giant Spider | Гигантский паук | — | srd-5.1 |  |
+| - | Giant Toad | Гигантская жаба | — | srd-5.1 |  |
+| - | Giant Vulture | Гигантский гриф | — | srd-5.1 |  |
+| - | Giant Wasp | Гигантская оса | — | srd-5.1 |  |
+| - | Giant Weasel | Гигантская ласка | — | srd-5.1 |  |
+| - | Giant Wolf Spider | Гигантский паук-волк | — | srd-5.1 |  |
+| Gibbering Mouther | Gibbering Mouther | Бормочущая пасть | srd-5.2 | srd-5.1 |  |
+| Glabrezu | Glabrezu (Demon) | Глабрезу | srd-5.2 | srd-5.1 |  |
+| Gladiator | Gladiator | Гладиатор | srd-5.2 | srd-5.1 |  |
+| Gnoll Warrior | Gnoll | Гнолл-воин | srd-5.2 | srd-5.1 | 5.1: Гнолл |
+| - | Gnome, Deep (Svirfneblin) | Гном глубинный (свирфнеблин) | — | srd-5.1 |  |
+| - | Goat | Козёл | — | srd-5.1 |  |
+| Goblin Boss | - | Гоблин-босс | srd-5.2 | — |  |
+| Goblin Minion | - | Гоблин-миньон | srd-5.2 | — |  |
+| Goblin Warrior | Goblin | Гоблин-воин | srd-5.2 | srd-5.1 | 5.1: Гоблин |
+| Gold Dragon Wyrmling | - | Детёныш золотого дракона | srd-5.2 | — |  |
+| Gorgon | Gorgon | Горгона | srd-5.2 | srd-5.1 |  |
+| Gray Ooze | Gray Ooze | Серая слизь | srd-5.2 | srd-5.1 |  |
+| Green Dragon Wyrmling | - | Детёныш зелёного дракона | srd-5.2 | — |  |
+| Green Hag | Green Hag | Зелёная карга | srd-5.2 | srd-5.1 |  |
+| Grick | Grick | Грик | srd-5.2 | srd-5.1 |  |
+| Griffon | Griffon | Грифон | srd-5.2 | srd-5.1 |  |
+| Grimlock | Grimlock | Гримлок | srd-5.2 | srd-5.1 |  |
+| Guard | Guard | Стражник | srd-5.2 | srd-5.1 |  |
+| Guard Captain | - | Капитан стражи | srd-5.2 | — |  |
+| Guardian Naga | Guardian Naga | Нага-страж | srd-5.2 | srd-5.1 |  |
+| Half-Dragon | Half-Red Dragon Veteran | Полудракон | srd-5.2 | srd-5.1 | 5.1: Полудракон-ветеран |
+| Harpy | Harpy | Гарпия | srd-5.2 | srd-5.1 |  |
+| - | Hawk | Ястреб | — | srd-5.1 |  |
+| Hell Hound | Hell Hound | Адская гончая | srd-5.2 | srd-5.1 |  |
+| Hezrou | Hezrou (Demon) | Хезроу | srd-5.2 | srd-5.1 |  |
+| Hill Giant | Hill Giant | Холмовой великан | srd-5.2 | srd-5.1 |  |
+| Hippogriff | Hippogriff | Гиппогриф | srd-5.2 | srd-5.1 |  |
+| Hobgoblin Captain | - | Хобгоблин-капитан | srd-5.2 | — |  |
+| Hobgoblin Warrior | Hobgoblin | Хобгоблин-воин | srd-5.2 | srd-5.1 | 5.1: Хобгоблин |
+| Homunculus | Homunculus | Гомункул | srd-5.2 | srd-5.1 |  |
+| Horned Devil | Horned Devil | Рогатый дьявол | srd-5.2 | srd-5.1 |  |
+| - | Hunter Shark | Акула-охотник | — | srd-5.1 |  |
+| Hydra | Hydra | Гидра | srd-5.2 | srd-5.1 |  |
+| - | Hyena | Гиена | — | srd-5.1 |  |
+| Ice Devil | Ice Devil | Ледяной дьявол | srd-5.2 | srd-5.1 |  |
+| Ice Mephit | Ice Mephit | Ледяной мефит | srd-5.2 | srd-5.1 |  |
+| Imp | Imp (Devil) | Имп | srd-5.2 | srd-5.1 |  |
+| Incubus | Succubus/Incubus | Инкуб | srd-5.2 | srd-5.1 | 5.1: Суккуб/Инкуб |
+| Invisible Stalker | Invisible Stalker | Невидимый охотник | srd-5.2 | srd-5.1 |  |
+| Iron Golem | Iron Golem | Железный голем | srd-5.2 | srd-5.1 |  |
+| - | Jackal | Шакал | — | srd-5.1 |  |
+| - | Killer Whale | Косатка | — | srd-5.1 |  |
+| Knight | Knight | Рыцарь | srd-5.2 | srd-5.1 |  |
+| Kobold Warrior | Kobold | Кобольд-воин | srd-5.2 | srd-5.1 | 5.1: Кобольд |
+| Kraken | Kraken | Кракен | srd-5.2 | srd-5.1 |  |
+| Lamia | Lamia | Ламия | srd-5.2 | srd-5.1 |  |
+| Lemure | Lemure (Devil) | Лемур | srd-5.2 | srd-5.1 |  |
+| Lich | Lich | Лич | srd-5.2 | srd-5.1 |  |
+| - | Lion | Лев | — | srd-5.1 |  |
+| - | Lizard | Ящерица | — | srd-5.1 |  |
+| - | Lizardfolk | Ящеролюд | — | srd-5.1 |  |
+| Mage | Mage | Маг | srd-5.2 | srd-5.1 |  |
+| Magma Mephit | Magma Mephit | Магмовый мефит | srd-5.2 | srd-5.1 |  |
+| Magmin | Magmin | Магмин | srd-5.2 | srd-5.1 |  |
+| - | Mammoth | Мамонт | — | srd-5.1 |  |
+| Manticore | Manticore | Мантикора | srd-5.2 | srd-5.1 |  |
+| Marilith | Marilith (Demon) | Марилит | srd-5.2 | srd-5.1 |  |
+| - | Mastiff | Мастиф | — | srd-5.1 |  |
+| Medusa | Medusa | Медуза | srd-5.2 | srd-5.1 |  |
+| Merfolk Skirmisher | Merfolk | Мерфолк-застрельщик | srd-5.2 | srd-5.1 | 5.1: Мерфолк |
+| Merrow | Merrow | Мерроу | srd-5.2 | srd-5.1 |  |
+| Mimic | Mimic | Мимик | srd-5.2 | srd-5.1 |  |
+| Minotaur of Baphomet | Minotaur | Минотавр Бафомета | srd-5.2 | srd-5.1 | 5.1: Минотавр |
+| Minotaur Skeleton | Minotaur Skeleton | Скелет минотавра | srd-5.2 | srd-5.1 |  |
+| - | Mule | Мул | — | srd-5.1 |  |
+| Mummy | Mummy | Мумия | srd-5.2 | srd-5.1 |  |
+| Mummy Lord | Mummy Lord | Повелитель мумий | srd-5.2 | srd-5.1 |  |
+| Nalfeshnee | Nalfeshnee (Demon) | Налфешни | srd-5.2 | srd-5.1 |  |
+| Night Hag | Night Hag | Ночная карга | srd-5.2 | srd-5.1 |  |
+| Nightmare | Nightmare | Кошмар | srd-5.2 | srd-5.1 |  |
+| Noble | Noble | Дворянин | srd-5.2 | srd-5.1 |  |
+| Ochre Jelly | Ochre Jelly (Ooze) | Охровый студень | srd-5.2 | srd-5.1 |  |
+| - | Octopus | Осьминог | — | srd-5.1 |  |
+| Ogre | Ogre | Огр | srd-5.2 | srd-5.1 |  |
+| Ogre Zombie | Ogre Zombie | Огр-зомби | srd-5.2 | srd-5.1 |  |
+| Oni | Oni | Они | srd-5.2 | srd-5.1 |  |
+| - | Orc | Орк | — | srd-5.1 |  |
+| Otyugh | Otyugh | Отиуг | srd-5.2 | srd-5.1 |  |
+| - | Owl | Сова | — | srd-5.1 |  |
+| Owlbear | Owlbear | Совомедведь | srd-5.2 | srd-5.1 |  |
+| - | Panther | Пантера | — | srd-5.1 |  |
+| Pegasus | Pegasus | Пегас | srd-5.2 | srd-5.1 |  |
+| Phase Spider | Phase Spider | Фазовый паук | srd-5.2 | srd-5.1 |  |
+| Pirate | - | Пират | srd-5.2 | — |  |
+| Pirate Captain | - | Капитан пиратов | srd-5.2 | — |  |
+| Pit Fiend | Pit Fiend (Devil) | Ямный дьявол | srd-5.2 | srd-5.1 |  |
+| Planetar | Planetar (Angel) | Планетар | srd-5.2 | srd-5.1 |  |
+| - | Plesiosaurus (Dinosaur) | Плезиозавр | — | srd-5.1 |  |
+| - | Poisonous Snake | Ядовитая змея | — | srd-5.1 |  |
+| - | Polar Bear | Белый медведь | — | srd-5.1 |  |
+| - | Pony | Пони | — | srd-5.1 |  |
+| Priest | Priest | Жрец | srd-5.2 | srd-5.1 |  |
+| Priest Acolyte | Acolyte | Жрец-послушник | srd-5.2 | srd-5.1 | 5.1: Послушник |
+| Pseudodragon | Pseudodragon | Псевдодракон | srd-5.2 | srd-5.1 |  |
+| Purple Worm | Purple Worm | Пурпурный червь | srd-5.2 | srd-5.1 |  |
+| Quasit | Quasit (Demon) | Квазит | srd-5.2 | srd-5.1 |  |
+| - | Quipper | Пиранья | — | srd-5.1 |  |
+| Rakshasa | Rakshasa | Ракшас | srd-5.2 | srd-5.1 |  |
+| - | Rat | Крыса | — | srd-5.1 |  |
+| - | Raven | Ворон | — | srd-5.1 |  |
+| Red Dragon Wyrmling | - | Детёныш красного дракона | srd-5.2 | — |  |
+| - | Reef Shark | Рифовая акула | — | srd-5.1 |  |
+| Remorhaz | Remorhaz | Реморхаз | srd-5.2 | srd-5.1 |  |
+| - | Rhinoceros | Носорог | — | srd-5.1 |  |
+| - | Riding Horse | Верховая лошадь | — | srd-5.1 |  |
+| Roc | Roc | Рух | srd-5.2 | srd-5.1 |  |
+| Roper | Roper | Веревник | srd-5.2 | srd-5.1 |  |
+| Rust Monster | Rust Monster | Ржавник | srd-5.2 | srd-5.1 |  |
+| - | Saber-Toothed Tiger | Саблезубый тигр | — | srd-5.1 |  |
+| Sahuagin Warrior | Sahuagin | Сахуагин-воин | srd-5.2 | srd-5.1 | 5.1: Сахуагин |
+| Salamander | Salamander | Саламандра | srd-5.2 | srd-5.1 |  |
+| Satyr | Satyr | Сатир | srd-5.2 | srd-5.1 |  |
+| - | Scorpion | Скорпион | — | srd-5.1 |  |
+| Scout | Scout | Разведчик | srd-5.2 | srd-5.1 |  |
+| Sea Hag | Sea Hag | Морская карга | srd-5.2 | srd-5.1 |  |
+| - | Sea Horse | Морской конёк | — | srd-5.1 |  |
+| Shadow | Shadow | Тень | srd-5.2 | srd-5.1 |  |
+| Shambling Mound | Shambling Mound | Шатающийся холм | srd-5.2 | srd-5.1 |  |
+| Shield Guardian | Shield Guardian | Страж-щит | srd-5.2 | srd-5.1 |  |
+| Shrieker Fungus | Shrieker (Fungi) | Визгун | srd-5.2 | srd-5.1 |  |
+| Silver Dragon Wyrmling | - | Детёныш серебряного дракона | srd-5.2 | — |  |
+| Skeleton | Skeleton | Скелет | srd-5.2 | srd-5.1 |  |
+| Solar | Solar (Angel) | Солар | srd-5.2 | srd-5.1 |  |
+| Specter | Specter | Спектр | srd-5.2 | srd-5.1 |  |
+| - | Spider | Паук | — | srd-5.1 |  |
+| Sphinx of Lore | Gynosphinx (Sphinx) | Сфинкс знаний | srd-5.2 | srd-5.1 | 5.1: Гиносфинкс |
+| Sphinx of Valor | Androsphinx (Sphinx) | Сфинкс доблести | srd-5.2 | srd-5.1 | 5.1: Андросфинкс |
+| Sphinx of Wonder | - | Сфинкс чудес | srd-5.2 | — |  |
+| Spirit Naga | Spirit Naga | Духовная нага | srd-5.2 | srd-5.1 |  |
+| Sprite | Sprite | Спрайт | srd-5.2 | srd-5.1 |  |
+| Spy | Spy | Шпион | srd-5.2 | srd-5.1 |  |
+| Steam Mephit | Steam Mephit | Паровой мефит | srd-5.2 | srd-5.1 |  |
+| Stirge | Stirge | Стирж | srd-5.2 | srd-5.1 |  |
+| Stone Giant | Stone Giant | Каменный великан | srd-5.2 | srd-5.1 |  |
+| Stone Golem | Stone Golem | Каменный голем | srd-5.2 | srd-5.1 |  |
+| Storm Giant | Storm Giant | Штормовой великан | srd-5.2 | srd-5.1 |  |
+| Succubus | Succubus/Incubus | Суккуб | srd-5.2 | srd-5.1 | 5.1: Суккуб/Инкуб |
+| - | Swarm of Bats | Рой летучих мышей | — | srd-5.1 |  |
+| Swarm of Crawling Claws | - | Рой ползучих когтей | srd-5.2 | — |  |
+| - | Swarm of Insects | Рой насекомых | — | srd-5.1 |  |
+| - | Swarm of Poisonous Snakes | Рой ядовитых змей | — | srd-5.1 |  |
+| - | Swarm of Quippers | Рой пираний | — | srd-5.1 |  |
+| - | Swarm of Rats | Рой крыс | — | srd-5.1 |  |
+| - | Swarm of Ravens | Рой воронов | — | srd-5.1 |  |
+| Tarrasque | Tarrasque | Тарраска | srd-5.2 | srd-5.1 |  |
+| - | Tiger | Тигр | — | srd-5.1 |  |
+| Tough | Thug | Головорез | srd-5.2 | srd-5.1 |  |
+| Tough Boss | - | Главарь головорезов | srd-5.2 | — |  |
+| Treant | Treant | Древень | srd-5.2 | srd-5.1 |  |
+| - | Triceratops (Dinosaur) | Трицератопс | — | srd-5.1 |  |
+| Troll | Troll | Тролль | srd-5.2 | srd-5.1 |  |
+| Troll Limb | - | Конечность тролля | srd-5.2 | — |  |
+| - | Tyrannosaurus Rex (Dinosaur) | Тираннозавр | — | srd-5.1 |  |
+| Unicorn | Unicorn | Единорог | srd-5.2 | srd-5.1 |  |
+| Vampire | Vampire | Вампир | srd-5.2 | srd-5.1 |  |
+| Vampire Familiar | - | Фамильяр вампира | srd-5.2 | — |  |
+| Vampire Spawn | Vampire Spawn | Порождение вампира | srd-5.2 | srd-5.1 |  |
+| Violet Fungus | Violet Fungus (Fungi) | Фиолетовый гриб | srd-5.2 | srd-5.1 |  |
+| Vrock | Vrock (Demon) | Врок | srd-5.2 | srd-5.1 |  |
+| - | Vulture | Гриф | — | srd-5.1 |  |
+| - | Warhorse | Боевой конь | — | srd-5.1 |  |
+| Warhorse Skeleton | Warhorse Skeleton | Скелет боевого коня | srd-5.2 | srd-5.1 |  |
+| Warrior Infantry | Tribal Warrior | Пехотинец-воин | srd-5.2 | srd-5.1 | 5.1: Воин племени |
+| Warrior Veteran | Veteran | Ветеран-воин | srd-5.2 | srd-5.1 | 5.1: Ветеран |
+| Water Elemental | Water Elemental | Водяной элементаль | srd-5.2 | srd-5.1 |  |
+| - | Weasel | Ласка | — | srd-5.1 |  |
+| Werebear | Werebear (Lycanthrope) | Вермедведь | srd-5.2 | srd-5.1 |  |
+| Wereboar | Wereboar (Lycanthrope) | Вервепрь | srd-5.2 | srd-5.1 |  |
+| Wererat | Wererat (Lycanthrope) | Веркрыса | srd-5.2 | srd-5.1 |  |
+| Weretiger | Weretiger (Lycanthrope) | Вертигр | srd-5.2 | srd-5.1 |  |
+| Werewolf | Werewolf (Lycanthrope) | Вервольф | srd-5.2 | srd-5.1 |  |
+| White Dragon Wyrmling | - | Детёныш белого дракона | srd-5.2 | — |  |
+| Wight | Wight | Умертвие | srd-5.2 | srd-5.1 |  |
+| Will-o'-Wisp | Will-o'-Wisp | Блуждающий огонёк | srd-5.2 | srd-5.1 |  |
+| Winter Wolf | Winter Wolf | Зимний волк | srd-5.2 | srd-5.1 |  |
+| - | Wolf | Волк | — | srd-5.1 |  |
+| Worg | Worg | Ворг | srd-5.2 | srd-5.1 |  |
+| Wraith | Wraith | Тень смерти | srd-5.2 | srd-5.1 |  |
+| Wyvern | Wyvern | Виверна | srd-5.2 | srd-5.1 |  |
+| Xorn | Xorn | Зорн | srd-5.2 | srd-5.1 |  |
+| Young Black Dragon | - | Молодой чёрный дракон | srd-5.2 | — |  |
+| Young Blue Dragon | - | Молодой синий дракон | srd-5.2 | — |  |
+| Young Brass Dragon | - | Молодой латунный дракон | srd-5.2 | — |  |
+| Young Bronze Dragon | - | Молодой бронзовый дракон | srd-5.2 | — |  |
+| Young Copper Dragon | - | Молодой медный дракон | srd-5.2 | — |  |
+| Young Gold Dragon | - | Молодой золотой дракон | srd-5.2 | — |  |
+| Young Green Dragon | - | Молодой зелёный дракон | srd-5.2 | — |  |
+| Young Red Dragon | - | Молодой красный дракон | srd-5.2 | — |  |
+| Young Silver Dragon | - | Молодой серебряный дракон | srd-5.2 | — |  |
+| Young White Dragon | - | Молодой белый дракон | srd-5.2 | — |  |
+| Zombie | Zombie | Зомби | srd-5.2 | srd-5.1 |  |
 
 Всего: 318 монстров.

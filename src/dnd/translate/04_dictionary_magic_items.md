@@ -4,267 +4,267 @@
 
 ---
 
-| Оригинал 5.2 | Оригинал 5.1 | Источник | Перевод | Комментарий |
-|---|---|---|---|---|
-| Adamantine Armor | Adamantine Armor | srd-5.1, srd-5.2 | Адамантиновый доспех |  |
-| Ammunition of Slaying | Arrow of Slaying | srd-5.1, srd-5.2 | Боеприпасы убийства | 5.1: Стрела убийства |
-| Ammunition, +1, +2, or +3 | Ammunition, +1, +2, or +3 | srd-5.1, srd-5.2 | Боеприпасы, +1, +2 или +3 |  |
-| Amulet of Health | Amulet of Health | srd-5.1, srd-5.2 | Амулет здоровья |  |
-| Amulet of Proof against Detection and Location | Amulet of Proof Against Detection and Location | srd-5.1, srd-5.2 | Амулет защиты от обнаружения и локации | Разница в капитализации |
-| Amulet of the Planes | Amulet of the Planes | srd-5.1, srd-5.2 | Амулет планов |  |
-| Animated Shield | Animated Shield | srd-5.1, srd-5.2 | Анимированный щит |  |
-| Apparatus of the Crab | Apparatus of the Crab | srd-5.1, srd-5.2 | Аппарат краба |  |
-| Armor of Invulnerability | Armor of Invulnerability | srd-5.1, srd-5.2 | Доспех неуязвимости |  |
-| Armor of Resistance | Armor of Resistance | srd-5.1, srd-5.2 | Доспех сопротивления |  |
-| Armor of Vulnerability | Armor of Vulnerability | srd-5.1, srd-5.2 | Доспех уязвимости |  |
-| Armor, +1, +2, or +3 | Armor, +1, +2, or +3 | srd-5.1, srd-5.2 | Доспех, +1, +2 или +3 |  |
-| Arrow-Catching Shield | Arrow-Catching Shield | srd-5.1, srd-5.2 | Щит притяжения снарядов |  |
-| Bag of Beans | Bag of Beans | srd-5.1, srd-5.2 | Сумка фасоли |  |
-| Bag of Devouring | Bag of Devouring | srd-5.1, srd-5.2 | Сумка пожирания |  |
-| Bag of Holding | Bag of Holding | srd-5.1, srd-5.2 | Сумка вместимости |  |
-| Bag of Tricks | Bag of Tricks | srd-5.1, srd-5.2 | Сумка фокусов |  |
-| Bead of Force | Bead of Force | srd-5.1, srd-5.2 | Бусина силы |  |
-| Bead of Nourishment | - | srd-5.2 | Бусина питания |  |
-| Belt of Dwarvenkind | Belt of Dwarvenkind | srd-5.1, srd-5.2 | Пояс дварфов |  |
-| Belt of Giant Strength | Belt of Giant Strength | srd-5.1, srd-5.2 | Пояс силы великана |  |
-| Berserker Axe | Berserker Axe | srd-5.1, srd-5.2 | Топор берсерка |  |
-| Boots of Elvenkind | Boots of Elvenkind | srd-5.1, srd-5.2 | Сапоги эльфа |  |
-| Boots of Levitation | Boots of Levitation | srd-5.1, srd-5.2 | Сапоги левитации |  |
-| Boots of Speed | Boots of Speed | srd-5.1, srd-5.2 | Сапоги скорости |  |
-| Boots of Striding and Springing | Boots of Striding and Springing | srd-5.1, srd-5.2 | Сапоги шага и прыжка |  |
-| Boots of the Winterlands | Boots of the Winterlands | srd-5.1, srd-5.2 | Сапоги зимних земель |  |
-| Bowl of Commanding Water Elementals | Bowl of Commanding Water Elementals | srd-5.1, srd-5.2 | Чаша призыва водных элементалей |  |
-| Bracers of Archery | Bracers of Archery | srd-5.1, srd-5.2 | Наручи стрельбы |  |
-| Bracers of Defense | Bracers of Defense | srd-5.1, srd-5.2 | Наручи защиты |  |
-| Brazier of Commanding Fire Elementals | Brazier of Commanding Fire Elementals | srd-5.1, srd-5.2 | Чаша призыва огненных элементалей |  |
-| Brooch of Shielding | Brooch of Shielding | srd-5.1, srd-5.2 | Брошь защиты |  |
-| Broom of Flying | Broom of Flying | srd-5.1, srd-5.2 | Метла полёта |  |
-| Candle of Invocation | Candle of Invocation | srd-5.1, srd-5.2 | Свеча призыва |  |
-| Cape of the Mountebank | Cape of the Mountebank | srd-5.1, srd-5.2 | Плащ шарлатана |  |
-| Carpet of Flying | Carpet of Flying | srd-5.1, srd-5.2 | Ковёр-самолёт |  |
-| Censer of Controlling Air Elementals | Censer of Controlling Air Elementals | srd-5.1, srd-5.2 | Чаша управления воздушными элементалями |  |
-| Chime of Opening | Chime of Opening | srd-5.1, srd-5.2 | Колокольчик открывания |  |
-| Circlet of Blasting | Circlet of Blasting | srd-5.1, srd-5.2 | Обруч излучения |  |
-| Cloak of Arachnida | Cloak of Arachnida | srd-5.1, srd-5.2 | Мантия паучьего лазания |  |
-| Cloak of Displacement | Cloak of Displacement | srd-5.1, srd-5.2 | Мантия смещения |  |
-| Cloak of Elvenkind | Cloak of Elvenkind | srd-5.1, srd-5.2 | Плащ эльфа |  |
-| Cloak of Invisibility | - | srd-5.2 | Плащ невидимости |  |
-| Cloak of Protection | Cloak of Protection | srd-5.1, srd-5.2 | Плащ защиты |  |
-| Cloak of the Bat | Cloak of the Bat | srd-5.1, srd-5.2 | Плащ летучей мыши |  |
-| Cloak of the Manta Ray | Cloak of the Manta Ray | srd-5.1, srd-5.2 | Плащ манты |  |
-| Crystal Ball | Crystal Ball | srd-5.1, srd-5.2 | Кристальный шар |  |
-| Crystal Ball of Mind Reading | - | srd-5.2 | Кристальный шар чтения мыслей |  |
-| Crystal Ball of Telepathy | - | srd-5.2 | Кристальный шар телепатии |  |
-| Crystal Ball of True Seeing | - | srd-5.2 | Кристальный шар истинного зрения |  |
-| Cube of Force | Cube of Force | srd-5.1, srd-5.2 | Силовой куб |  |
-| Cubic Gate | Cubic Gate | srd-5.1, srd-5.2 | Кубический портал |  |
-| Dagger of Venom | Dagger of Venom | srd-5.1, srd-5.2 | Кинжал яда |  |
-| Dancing Sword | Dancing Sword | srd-5.1, srd-5.2 | Танцующий меч |  |
-| Decanter of Endless Water | Decanter of Endless Water | srd-5.1, srd-5.2 | Графин бесконечной воды |  |
-| Deck of Illusions | Deck of Illusions | srd-5.1, srd-5.2 | Колода иллюзий |  |
-| - | - | srd-5.1 | Колода многих вещей |  |
-| Defender | Defender | srd-5.1, srd-5.2 | Защитник |  |
-| Demon Armor | Demon Armor | srd-5.1, srd-5.2 | Демонический доспех |  |
-| Dimensional Shackles | Dimensional Shackles | srd-5.1, srd-5.2 | Межпространственные кандалы |  |
-| Dragon Orb | - | srd-5.2 | Сферы драконов |  |
-| Dragon Scale Mail | Dragon Scale Mail | srd-5.1, srd-5.2 | Драконья чешуйчатая кольчуга |  |
-| Dragon Slayer | Dragon Slayer | srd-5.1, srd-5.2 | Дракоборческое оружие |  |
-| Dust of Disappearance | Dust of Disappearance | srd-5.1, srd-5.2 | Пыль исчезновения |  |
-| Dust of Dryness | Dust of Dryness | srd-5.1, srd-5.2 | Пыль сухости |  |
-| Dust of Sneezing and Choking | Dust of Sneezing and Choking | srd-5.1, srd-5.2 | Пыль чихания и удушья |  |
-| Dwarven Plate | Dwarven Plate | srd-5.1, srd-5.2 | Дварфийский латный доспех |  |
-| Dwarven Thrower | Dwarven Thrower | srd-5.1, srd-5.2 | Дварфийский метатель |  |
-| Efreeti Bottle | Efreeti Bottle | srd-5.1, srd-5.2 | Бутылка ифрита |  |
-| Efficient Quiver | Efficient Quiver | srd-5.1, srd-5.2 | Эффективный колчан |  |
-| Elemental Gem | Elemental Gem | srd-5.1, srd-5.2 | Сферы стихий |  |
-| Elixir of Health | - | srd-5.2 | Эликсир здоровья |  |
-| Elven Chain | Elven Chain | srd-5.1, srd-5.2 | Эльфийская кольчуга |  |
-| Energy Bow | - | srd-5.2 | Энергетический лук |  |
-| Eversmoking Bottle | Eversmoking Bottle | srd-5.1, srd-5.2 | Колба вечного дыма |  |
-| Eyes of Charming | Eyes of Charming | srd-5.1, srd-5.2 | Глаза очарования |  |
-| Eyes of Minute Seeing | Eyes of Minute Seeing | srd-5.1, srd-5.2 | Очки мелкого зрения |  |
-| Eyes of the Eagle | Eyes of the Eagle | srd-5.1, srd-5.2 | Глаза орла |  |
-| Feather Token | Feather Token | srd-5.1, srd-5.2 | Перо-талисман |  |
-| Figurine of Wondrous Power | Figurine of Wondrous Power | srd-5.1, srd-5.2 | Образная фигурка чудесной силы |  |
-| Flame Tongue | Flame Tongue | srd-5.1, srd-5.2 | Пламенный язык |  |
-| Folding Boat | Folding Boat | srd-5.1, srd-5.2 | Складная лодка |  |
-| Frost Brand | Frost Brand | srd-5.1, srd-5.2 | Морозный клинок |  |
-| Gauntlets of Ogre Power | Gauntlets of Ogre Power | srd-5.1, srd-5.2 | Перчатки силы огра |  |
-| Gem of Brightness | Gem of Brightness | srd-5.1, srd-5.2 | Самоцвет сияния |  |
-| Gem of Seeing | Gem of Seeing | srd-5.1, srd-5.2 | Самоцвет видения |  |
-| Giant Slayer | Giant Slayer | srd-5.1, srd-5.2 | Убийца великанов |  |
-| Glamoured Studded Leather | Glamoured Studded Leather | srd-5.1, srd-5.2 | Гламурная клёпаная кожа |  |
-| Gloves of Missile Snaring | Gloves of Missile Snaring | srd-5.1, srd-5.2 | Перчатки похищения снарядов |  |
-| Gloves of Swimming and Climbing | Gloves of Swimming and Climbing | srd-5.1, srd-5.2 | Перчатки плавания и лазания |  |
-| Gloves of Thievery | - | srd-5.2 | Воровские перчатки |  |
-| Goggles of Night | Goggles of Night | srd-5.1, srd-5.2 | Очки ночного видения |  |
-| Hammer of Thunderbolts | Hammer of Thunderbolts | srd-5.1, srd-5.2 | Молот громовержца |  |
-| Handy Haversack | Handy Haversack | srd-5.1, srd-5.2 | Практичный рюкзак |  |
-| Hat of Disguise | Hat of Disguise | srd-5.1, srd-5.2 | Шляпа маскировки |  |
-| Hat of Many Spells | - | srd-5.2 | Шляпа множества заклинаний |  |
-| Headband of Intellect | Headband of Intellect | srd-5.1, srd-5.2 | Обруч интеллекта |  |
-| Helm of Brilliance | Helm of Brilliance | srd-5.1, srd-5.2 | Шлем сияния |  |
-| Helm of Comprehending Languages | Helm of Comprehending Languages | srd-5.1, srd-5.2 | Шлем понимания языков |  |
-| Helm of Telepathy | Helm of Telepathy | srd-5.1, srd-5.2 | Шлем телепатии |  |
-| Helm of Teleportation | Helm of Teleportation | srd-5.1, srd-5.2 | Шлем телепортации |  |
-| Holy Avenger | Holy Avenger | srd-5.1, srd-5.2 | Святой заступник |  |
-| Horn of Blasting | Horn of Blasting | srd-5.1, srd-5.2 | Рог взрыва |  |
-| Horn of Valhalla | Horn of Valhalla | srd-5.1, srd-5.2 | Рог Валгаллы |  |
-| Horseshoes of a Zephyr | Horseshoes of a Zephyr | srd-5.1, srd-5.2 | Подковы зефира |  |
-| Horseshoes of Speed | Horseshoes of Speed | srd-5.1, srd-5.2 | Подковы скорости |  |
-| Immovable Rod | Immovable Rod | srd-5.1, srd-5.2 | Недвижимый жезл |  |
-| Instant Fortress | Instant Fortress | srd-5.1, srd-5.2 | Мгновенная крепость |  |
-| Ioun Stone | Ioun Stone | srd-5.1, srd-5.2 | Боевой камень Иуна |  |
-| Iron Bands | Iron Bands of Binding | srd-5.1, srd-5.2 | Железные оковы |  |
-| Iron Flask | Iron Flask | srd-5.1, srd-5.2 | Железная фляга |  |
-| Javelin of Lightning | Javelin of Lightning | srd-5.1, srd-5.2 | Копьё молнии |  |
-| Lantern of Revealing | Lantern of Revealing | srd-5.1, srd-5.2 | Фонарь раскрытия |  |
-| Luck Blade | Luck Blade | srd-5.1, srd-5.2 | Удача (клинок) |  |
-| Mace of Disruption | Mace of Disruption | srd-5.1, srd-5.2 | Булава разрушения |  |
-| Mace of Smiting | Mace of Smiting | srd-5.1, srd-5.2 | Булава крушения |  |
-| Mace of Terror | Mace of Terror | srd-5.1, srd-5.2 | Булава ужаса |  |
-| Mantle of Spell Resistance | Mantle of Spell Resistance | srd-5.1, srd-5.2 | Мантия сопротивления заклинаниям |  |
-| Manual of Bodily Health | Manual of Bodily Health | srd-5.1, srd-5.2 | Мануал Бодрого Здоровья |  |
-| Manual of Gainful Exercise | Manual of Gainful Exercise | srd-5.1, srd-5.2 | Мануал Полезных Упражнений |  |
-| Manual of Golems | Manual of Golems | srd-5.1, srd-5.2 | Мануал Големов |  |
-| Manual of Quickness of Action | Manual of Quickness of Action | srd-5.1, srd-5.2 | Мануал Быстроты Действий |  |
-| Marvelous Pigments | Marvelous Pigments | srd-5.1, srd-5.2 | Волшебные краски |  |
-| Medallion of Thoughts | Medallion of Thoughts | srd-5.1, srd-5.2 | Медальон мыслей |  |
-| Mirror of Life Trapping | Mirror of Life Trapping | srd-5.1, srd-5.2 | Зеркало заточения |  |
-| Mithral Armor | Mithral Armor | srd-5.1, srd-5.2 | Мифриловый доспех |  |
-| Mysterious Deck | - | srd-5.2 | Таинственная колода |  |
-| Necklace of Adaptation | Necklace of Adaptation | srd-5.1, srd-5.2 | Ожерелье адаптации |  |
-| Necklace of Fireballs | Necklace of Fireballs | srd-5.1, srd-5.2 | Ожерелье огненных шаров |  |
-| Necklace of Prayer Beads | Necklace of Prayer Beads | srd-5.1, srd-5.2 | Ожерелье молитвенных бусин |  |
-| Nine Lives Stealer | Nine Lives Stealer | srd-5.1, srd-5.2 | Девятижизненный похититель |  |
-| Oathbow | Oathbow | srd-5.1, srd-5.2 | Клятвенный лук |  |
-| Oil of Etherealness | Oil of Etherealness | srd-5.1, srd-5.2 | Масло эфирности |  |
-| Oil of Sharpness | Oil of Sharpness | srd-5.1, srd-5.2 | Масло остроты |  |
-| Oil of Slipperiness | Oil of Slipperiness | srd-5.1, srd-5.2 | Масло скольжения |  |
-| Pearl of Power | Pearl of Power | srd-5.1, srd-5.2 | Жемчужина силы |  |
-| Periapt of Health | Periapt of Health | srd-5.1, srd-5.2 | Кулон здоровья |  |
-| Periapt of Proof against Poison | Periapt of Proof against Poison | srd-5.1, srd-5.2 | Кулон защиты от яда |  |
-| Periapt of Wound Closure | Periapt of Wound Closure | srd-5.1, srd-5.2 | Кулон заживления ран |  |
-| Philter of Love | Philter of Love | srd-5.1, srd-5.2 | Приворотное зелье |  |
-| Pipes of Haunting | Pipes of Haunting | srd-5.1, srd-5.2 | Флейта преследования |  |
-| Pipes of the Sewers | Pipes of the Sewers | srd-5.1, srd-5.2 | Свирель канализации |  |
-| Plate Armor of Etherealness | Plate Armor of Etherealness | srd-5.1, srd-5.2 | Латный доспех эфирности |  |
-| Portable Hole | Portable Hole | srd-5.1, srd-5.2 | Переносная дыра |  |
-| Potion of Animal Friendship | Potion of Animal Friendship | srd-5.1, srd-5.2 | Зелье дружбы с животными |  |
-| Potion of Clairvoyance | Potion of Clairvoyance | srd-5.1, srd-5.2 | Зелье ясновидения |  |
-| Potion of Climbing | Potion of Climbing | srd-5.1, srd-5.2 | Зелье лазания |  |
-| Potion of Diminution | Potion of Diminution | srd-5.1, srd-5.2 | Зелье уменьшения |  |
-| Potion of Flying | Potion of Flying | srd-5.1, srd-5.2 | Зелье полёта |  |
-| Potion of Gaseous Form | Potion of Gaseous Form | srd-5.1, srd-5.2 | Зелье газообразной формы |  |
-| Potion of Giant Strength | Potion of Giant Strength | srd-5.1, srd-5.2 | Зелье силы великана |  |
-| Potion of Growth | Potion of Growth | srd-5.1, srd-5.2 | Зелье роста |  |
-| Potion of Heroism | Potion of Heroism | srd-5.1, srd-5.2 | Зелье героизма |  |
-| Potion of Invisibility | Potion of Invisibility | srd-5.1, srd-5.2 | Зелье невидимости |  |
-| Potion of Invulnerability | - | srd-5.2 | Зелье неуязвимости |  |
-| Potion of Longevity | - | srd-5.2 | Зелье долголетия |  |
-| Potion of Mind Reading | Potion of Mind Reading | srd-5.1, srd-5.2 | Зелье чтения мыслей |  |
-| Potion of Poison | Potion of Poison | srd-5.1, srd-5.2 | Зелье яда |  |
-| Potion of Resistance | Potion of Resistance | srd-5.1, srd-5.2 | Зелье сопротивления |  |
-| Potion of Speed | Potion of Speed | srd-5.1, srd-5.2 | Зелье скорости |  |
-| Potion of Vitality | - | srd-5.2 | Зелье жизненной силы |  |
-| Potion of Water Breathing | Potion of Water Breathing | srd-5.1, srd-5.2 | Зелье водного дыхания |  |
-| Potions of Healing | Potion of Healing | srd-5.1, srd-5.2 | Зелья лечения | 5.1: Зелье лечения |
-| Quarterstaff of the Acrobat | - | srd-5.2 | Боевой посох акробата |  |
-| - | - | srd-5.1 | Восстановительная мазь |  |
-| Ring of Animal Influence | Ring of Animal Influence | srd-5.1, srd-5.2 | Кольцо власти над животными |  |
-| Ring of Djinni Summoning | Ring of Djinni Summoning | srd-5.1, srd-5.2 | Кольцо призыва джинна |  |
-| Ring of Elemental Command | Ring of Elemental Command | srd-5.1, srd-5.2 | Кольцо повеления стихиями |  |
-| Ring of Evasion | Ring of Evasion | srd-5.1, srd-5.2 | Кольцо уклонения |  |
-| Ring of Feather Falling | Ring of Feather Falling | srd-5.1, srd-5.2 | Кольцо падения пёрышком |  |
-| Ring of Free Action | Ring of Free Action | srd-5.1, srd-5.2 | Кольцо свободного действия |  |
-| Ring of Invisibility | Ring of Invisibility | srd-5.1, srd-5.2 | Кольцо невидимости |  |
-| Ring of Jumping | Ring of Jumping | srd-5.1, srd-5.2 | Кольцо прыжков |  |
-| Ring of Mind Shielding | Ring of Mind Shielding | srd-5.1, srd-5.2 | Кольцо защиты разума |  |
-| Ring of Protection | Ring of Protection | srd-5.1, srd-5.2 | Кольцо защиты |  |
-| Ring of Regeneration | Ring of Regeneration | srd-5.1, srd-5.2 | Кольцо регенерации |  |
-| Ring of Resistance | Ring of Resistance | srd-5.1, srd-5.2 | Кольцо сопротивления |  |
-| Ring of Shooting Stars | Ring of Shooting Stars | srd-5.1, srd-5.2 | Кольцо стрельбы звёздами |  |
-| Ring of Spell Storing | Ring of Spell Storing | srd-5.1, srd-5.2 | Кольцо хранения заклинаний |  |
-| Ring of Spell Turning | Ring of Spell Turning | srd-5.1, srd-5.2 | Кольцо отражения заклинаний |  |
-| Ring of Swimming | Ring of Swimming | srd-5.1, srd-5.2 | Кольцо плавания |  |
-| Ring of Telekinesis | Ring of Telekinesis | srd-5.1, srd-5.2 | Кольцо телекинеза |  |
-| Ring of the Ram | Ring of the Ram | srd-5.1, srd-5.2 | Кольцо тарана |  |
-| Ring of Three Wishes | Ring of Three Wishes | srd-5.1, srd-5.2 | Кольцо трёх желаний |  |
-| Ring of Warmth | Ring of Warmth | srd-5.1, srd-5.2 | Кольцо тепла |  |
-| Ring of Water Walking | Ring of Water Walking | srd-5.1, srd-5.2 | Кольцо хождения по воде |  |
-| Ring of X-ray Vision | Ring of X-ray Vision | srd-5.1, srd-5.2 | Кольцо рентгеновского зрения |  |
-| Robe of Eyes | Robe of Eyes | srd-5.1, srd-5.2 | Мантия глаз |  |
-| Robe of Scintillating Colors | Robe of Scintillating Colors | srd-5.1, srd-5.2 | Мантия мерцающих цветов |  |
-| Robe of Stars | Robe of Stars | srd-5.1, srd-5.2 | Мантия звёзд |  |
-| Robe of Useful Items | Robe of Useful Items | srd-5.1, srd-5.2 | Мантия полезных вещей |  |
-| Robe of the Archmagi | Robe of the Archmagi | srd-5.1, srd-5.2 | Мантия архимага |  |
-| Rod of Absorption | Rod of Absorption | srd-5.1, srd-5.2 | Жезл поглощения |  |
-| Rod of Alertness | Rod of Alertness | srd-5.1, srd-5.2 | Жезл бдительности |  |
-| Rod of Lordly Might | Rod of Lordly Might | srd-5.1, srd-5.2 | Жезл владычества |  |
-| Rod of Resurrection | - | srd-5.2 | Жезл воскрешения |  |
-| Rod of Rulership | Rod of Rulership | srd-5.1, srd-5.2 | Жезл повелителя |  |
-| Rod of Security | Rod of Security | srd-5.1, srd-5.2 | Жезл безопасности |  |
-| Rope of Climbing | Rope of Climbing | srd-5.1, srd-5.2 | Верёвка лазания |  |
-| Rope of Entanglement | Rope of Entanglement | srd-5.1, srd-5.2 | Верёвка опутывания |  |
-| Scarab of Protection | Scarab of Protection | srd-5.1, srd-5.2 | Скарабей защиты |  |
-| Scimitar of Speed | Scimitar of Speed | srd-5.1, srd-5.2 | Скимитар скорости |  |
-| Sending Stones | - | srd-5.2 | Камни послания |  |
-| Sentinel Shield | - | srd-5.2 | Страж-щит |  |
-| Shield of Missile Attraction | Shield of Missile Attraction | srd-5.1, srd-5.2 | Щит ловли стрел |  |
-| Shield of the Cavalier | - | srd-5.2 | Щит кавалериста |  |
-| Shield, +1, +2, or +3 | Shield, +1, +2, or +3 | srd-5.1, srd-5.2 | Щит, +1, +2 или +3 |  |
-| Slippers of Spider Climbing | Slippers of Spider Climbing | srd-5.1, srd-5.2 | Тапочки паучьего лазания |  |
-| Sovereign Glue | Sovereign Glue | srd-5.1, srd-5.2 | Суверенный клей |  |
-| Spell Scroll | Spell Scroll | srd-5.1, srd-5.2 | Свиток заклинания |  |
-| Spellguard Shield | Spellguard Shield | srd-5.1, srd-5.2 | Щит защиты от заклинаний |  |
-| Sphere of Annihilation | Sphere of Annihilation | srd-5.1, srd-5.2 | Сфера уничтожения |  |
-| Staff of Charming | Staff of Charming | srd-5.1, srd-5.2 | Посох очарования |  |
-| Staff of Fire | Staff of Fire | srd-5.1, srd-5.2 | Посох огня |  |
-| Staff of Frost | Staff of Frost | srd-5.1, srd-5.2 | Посох мороза |  |
-| Staff of Healing | Staff of Healing | srd-5.1, srd-5.2 | Посох исцеления |  |
-| Staff of Power | Staff of Power | srd-5.1, srd-5.2 | Посох силы |  |
-| Staff of Striking | Staff of Striking | srd-5.1, srd-5.2 | Посох поражения |  |
-| Staff of Swarming Insects | Staff of Swarming Insects | srd-5.1, srd-5.2 | Посох роя насекомых |  |
-| Staff of Thunder and Lightning | Staff of Thunder and Lightning | srd-5.1, srd-5.2 | Посох грома и молнии |  |
-| Staff of Withering | Staff of Withering | srd-5.1, srd-5.2 | Посох увядания |  |
-| Staff of the Magi | Staff of the Magi | srd-5.1, srd-5.2 | Посох мага |  |
-| Staff of the Python | Staff of the Python | srd-5.1, srd-5.2 | Посох питона |  |
-| Staff of the Woodlands | Staff of the Woodlands | srd-5.1, srd-5.2 | Посох леса |  |
-| Stone of Controlling Earth Elementals | Stone of Controlling Earth Elementals | srd-5.1, srd-5.2 | Камень управления земными элементалями |  |
-| Stone of Good Luck (Luckstone) | Stone of Good Luck (Luckstone) | srd-5.1, srd-5.2 | Камень удачи (Камень везения) |  |
-| Sun Blade | Sun Blade | srd-5.1, srd-5.2 | Солнечный клинок |  |
-| Sword of Life Stealing | Sword of Life Stealing | srd-5.1, srd-5.2 | Меч похищения жизни |  |
-| Sword of Sharpness | Sword of Sharpness | srd-5.1, srd-5.2 | Меч остроты |  |
-| Sword of Wounding | Sword of Wounding | srd-5.1, srd-5.2 | Меч ран |  |
-| Talisman of Pure Good | Talisman of Pure Good | srd-5.1, srd-5.2 | Талисман чистого добра |  |
-| Talisman of Ultimate Evil | Talisman of Ultimate Evil | srd-5.1, srd-5.2 | Талисман абсолютного зла |  |
-| Talisman of the Sphere | Talisman of the Sphere | srd-5.1, srd-5.2 | Талисман сферы |  |
-| Thunderous Greatclub | - | srd-5.2 | Громовая дубина |  |
-| Tome of Clear Thought | Tome of Clear Thought | srd-5.1, srd-5.2 | Том ясной мысли |  |
-| Tome of Leadership and Influence | Tome of Leadership and Influence | srd-5.1, srd-5.2 | Том лидерства и влияния |  |
-| Tome of Understanding | Tome of Understanding | srd-5.1, srd-5.2 | Том понимания |  |
-| Trident of Fish Command | Trident of Fish Command | srd-5.1, srd-5.2 | Трезубец повелителя рыб |  |
-| Universal Solvent | Universal Solvent | srd-5.1, srd-5.2 | Универсальный растворитель |  |
-| Vicious Weapon | Vicious Weapon | srd-5.1, srd-5.2 | Жестокое оружие |  |
-| Vorpal Sword | Vorpal Sword | srd-5.1, srd-5.2 | Ворпальный меч |  |
-| Wand of Binding | Wand of Binding | srd-5.1, srd-5.2 | Волшебная палочка связывания |  |
-| Wand of Enemy Detection | Wand of Enemy Detection | srd-5.1, srd-5.2 | Волшебная палочка обнаружения врагов |  |
-| Wand of Fear | Wand of Fear | srd-5.1, srd-5.2 | Волшебная палочка страха |  |
-| Wand of Fireballs | Wand of Fireballs | srd-5.1, srd-5.2 | Волшебная палочка огненных шаров |  |
-| Wand of Lightning Bolts | Wand of Lightning Bolts | srd-5.1, srd-5.2 | Волшебная палочка молний |  |
-| Wand of Magic Detection | Wand of Magic Detection | srd-5.1, srd-5.2 | Волшебная палочка обнаружения магии |  |
-| Wand of Magic Missiles | Wand of Magic Missiles | srd-5.1, srd-5.2 | Волшебная палочка волшебных стрел |  |
-| Wand of Paralysis | Wand of Paralysis | srd-5.1, srd-5.2 | Волшебная палочка паралича |  |
-| Wand of Polymorph | Wand of Polymorph | srd-5.1, srd-5.2 | Волшебная палочка превращения |  |
-| Wand of Secrets | Wand of Secrets | srd-5.1, srd-5.2 | Волшебная палочка секретов |  |
-| Wand of Web | Wand of Web | srd-5.1, srd-5.2 | Волшебная палочка паутины |  |
-| Wand of Wonder | Wand of Wonder | srd-5.1, srd-5.2 | Волшебная палочка чудес |  |
-| Wand of the War Mage, +1, +2, or +3 | Wand of the War Mage, +1, +2, or +3 | srd-5.1, srd-5.2 | Волшебная палочка боевого мага, +1, +2 или +3 |  |
-| Weapon of Warning | - | srd-5.2 | Оружие предупреждения |  |
-| Weapon, +1, +2, or +3 | Weapon, +1, +2, or +3 | srd-5.1, srd-5.2 | Оружие, +1, +2 или +3 |  |
-| Well of Many Worlds | Well of Many Worlds | srd-5.1, srd-5.2 | Колодец многих миров |  |
-| Wind Fan | Wind Fan | srd-5.1, srd-5.2 | Ветряной веер |  |
-| Winged Boots | Winged Boots | srd-5.1, srd-5.2 | Крылатые сапоги |  |
-| Wings of Flying | Wings of Flying | srd-5.1, srd-5.2 | Крылья полёта |  |
+| Оригинал 5.2 | Оригинал 5.1 | Перевод | Источник 5.2 | Источник 5.1 | Комментарий |
+|---|---|---|---|---|---|
+| Adamantine Armor | Adamantine Armor | Адамантиновый доспех | srd-5.2 | srd-5.1 |  |
+| Ammunition of Slaying | Arrow of Slaying | Боеприпасы убийства | srd-5.2 | srd-5.1 | 5.1: Стрела убийства |
+| Ammunition, +1, +2, or +3 | Ammunition, +1, +2, or +3 | Боеприпасы, +1, +2 или +3 | srd-5.2 | srd-5.1 |  |
+| Amulet of Health | Amulet of Health | Амулет здоровья | srd-5.2 | srd-5.1 |  |
+| Amulet of Proof against Detection and Location | Amulet of Proof Against Detection and Location | Амулет защиты от обнаружения и локации | srd-5.2 | srd-5.1 | Разница в капитализации |
+| Amulet of the Planes | Amulet of the Planes | Амулет планов | srd-5.2 | srd-5.1 |  |
+| Animated Shield | Animated Shield | Анимированный щит | srd-5.2 | srd-5.1 |  |
+| Apparatus of the Crab | Apparatus of the Crab | Аппарат краба | srd-5.2 | srd-5.1 |  |
+| Armor of Invulnerability | Armor of Invulnerability | Доспех неуязвимости | srd-5.2 | srd-5.1 |  |
+| Armor of Resistance | Armor of Resistance | Доспех сопротивления | srd-5.2 | srd-5.1 |  |
+| Armor of Vulnerability | Armor of Vulnerability | Доспех уязвимости | srd-5.2 | srd-5.1 |  |
+| Armor, +1, +2, or +3 | Armor, +1, +2, or +3 | Доспех, +1, +2 или +3 | srd-5.2 | srd-5.1 |  |
+| Arrow-Catching Shield | Arrow-Catching Shield | Щит притяжения снарядов | srd-5.2 | srd-5.1 |  |
+| Bag of Beans | Bag of Beans | Сумка фасоли | srd-5.2 | srd-5.1 |  |
+| Bag of Devouring | Bag of Devouring | Сумка пожирания | srd-5.2 | srd-5.1 |  |
+| Bag of Holding | Bag of Holding | Сумка вместимости | srd-5.2 | srd-5.1 |  |
+| Bag of Tricks | Bag of Tricks | Сумка фокусов | srd-5.2 | srd-5.1 |  |
+| Bead of Force | Bead of Force | Бусина силы | srd-5.2 | srd-5.1 |  |
+| Bead of Nourishment | - | Бусина питания | srd-5.2 | — |  |
+| Belt of Dwarvenkind | Belt of Dwarvenkind | Пояс дварфов | srd-5.2 | srd-5.1 |  |
+| Belt of Giant Strength | Belt of Giant Strength | Пояс силы великана | srd-5.2 | srd-5.1 |  |
+| Berserker Axe | Berserker Axe | Топор берсерка | srd-5.2 | srd-5.1 |  |
+| Boots of Elvenkind | Boots of Elvenkind | Сапоги эльфа | srd-5.2 | srd-5.1 |  |
+| Boots of Levitation | Boots of Levitation | Сапоги левитации | srd-5.2 | srd-5.1 |  |
+| Boots of Speed | Boots of Speed | Сапоги скорости | srd-5.2 | srd-5.1 |  |
+| Boots of Striding and Springing | Boots of Striding and Springing | Сапоги шага и прыжка | srd-5.2 | srd-5.1 |  |
+| Boots of the Winterlands | Boots of the Winterlands | Сапоги зимних земель | srd-5.2 | srd-5.1 |  |
+| Bowl of Commanding Water Elementals | Bowl of Commanding Water Elementals | Чаша призыва водных элементалей | srd-5.2 | srd-5.1 |  |
+| Bracers of Archery | Bracers of Archery | Наручи стрельбы | srd-5.2 | srd-5.1 |  |
+| Bracers of Defense | Bracers of Defense | Наручи защиты | srd-5.2 | srd-5.1 |  |
+| Brazier of Commanding Fire Elementals | Brazier of Commanding Fire Elementals | Чаша призыва огненных элементалей | srd-5.2 | srd-5.1 |  |
+| Brooch of Shielding | Brooch of Shielding | Брошь защиты | srd-5.2 | srd-5.1 |  |
+| Broom of Flying | Broom of Flying | Метла полёта | srd-5.2 | srd-5.1 |  |
+| Candle of Invocation | Candle of Invocation | Свеча призыва | srd-5.2 | srd-5.1 |  |
+| Cape of the Mountebank | Cape of the Mountebank | Плащ шарлатана | srd-5.2 | srd-5.1 |  |
+| Carpet of Flying | Carpet of Flying | Ковёр-самолёт | srd-5.2 | srd-5.1 |  |
+| Censer of Controlling Air Elementals | Censer of Controlling Air Elementals | Чаша управления воздушными элементалями | srd-5.2 | srd-5.1 |  |
+| Chime of Opening | Chime of Opening | Колокольчик открывания | srd-5.2 | srd-5.1 |  |
+| Circlet of Blasting | Circlet of Blasting | Обруч излучения | srd-5.2 | srd-5.1 |  |
+| Cloak of Arachnida | Cloak of Arachnida | Мантия паучьего лазания | srd-5.2 | srd-5.1 |  |
+| Cloak of Displacement | Cloak of Displacement | Мантия смещения | srd-5.2 | srd-5.1 |  |
+| Cloak of Elvenkind | Cloak of Elvenkind | Плащ эльфа | srd-5.2 | srd-5.1 |  |
+| Cloak of Invisibility | - | Плащ невидимости | srd-5.2 | — |  |
+| Cloak of Protection | Cloak of Protection | Плащ защиты | srd-5.2 | srd-5.1 |  |
+| Cloak of the Bat | Cloak of the Bat | Плащ летучей мыши | srd-5.2 | srd-5.1 |  |
+| Cloak of the Manta Ray | Cloak of the Manta Ray | Плащ манты | srd-5.2 | srd-5.1 |  |
+| Crystal Ball | Crystal Ball | Кристальный шар | srd-5.2 | srd-5.1 |  |
+| Crystal Ball of Mind Reading | - | Кристальный шар чтения мыслей | srd-5.2 | — |  |
+| Crystal Ball of Telepathy | - | Кристальный шар телепатии | srd-5.2 | — |  |
+| Crystal Ball of True Seeing | - | Кристальный шар истинного зрения | srd-5.2 | — |  |
+| Cube of Force | Cube of Force | Силовой куб | srd-5.2 | srd-5.1 |  |
+| Cubic Gate | Cubic Gate | Кубический портал | srd-5.2 | srd-5.1 |  |
+| Dagger of Venom | Dagger of Venom | Кинжал яда | srd-5.2 | srd-5.1 |  |
+| Dancing Sword | Dancing Sword | Танцующий меч | srd-5.2 | srd-5.1 |  |
+| Decanter of Endless Water | Decanter of Endless Water | Графин бесконечной воды | srd-5.2 | srd-5.1 |  |
+| Deck of Illusions | Deck of Illusions | Колода иллюзий | srd-5.2 | srd-5.1 |  |
+| - | - | Колода многих вещей | — | srd-5.1 |  |
+| Defender | Defender | Защитник | srd-5.2 | srd-5.1 |  |
+| Demon Armor | Demon Armor | Демонический доспех | srd-5.2 | srd-5.1 |  |
+| Dimensional Shackles | Dimensional Shackles | Межпространственные кандалы | srd-5.2 | srd-5.1 |  |
+| Dragon Orb | - | Сферы драконов | srd-5.2 | — |  |
+| Dragon Scale Mail | Dragon Scale Mail | Драконья чешуйчатая кольчуга | srd-5.2 | srd-5.1 |  |
+| Dragon Slayer | Dragon Slayer | Дракоборческое оружие | srd-5.2 | srd-5.1 |  |
+| Dust of Disappearance | Dust of Disappearance | Пыль исчезновения | srd-5.2 | srd-5.1 |  |
+| Dust of Dryness | Dust of Dryness | Пыль сухости | srd-5.2 | srd-5.1 |  |
+| Dust of Sneezing and Choking | Dust of Sneezing and Choking | Пыль чихания и удушья | srd-5.2 | srd-5.1 |  |
+| Dwarven Plate | Dwarven Plate | Дварфийский латный доспех | srd-5.2 | srd-5.1 |  |
+| Dwarven Thrower | Dwarven Thrower | Дварфийский метатель | srd-5.2 | srd-5.1 |  |
+| Efreeti Bottle | Efreeti Bottle | Бутылка ифрита | srd-5.2 | srd-5.1 |  |
+| Efficient Quiver | Efficient Quiver | Эффективный колчан | srd-5.2 | srd-5.1 |  |
+| Elemental Gem | Elemental Gem | Сферы стихий | srd-5.2 | srd-5.1 |  |
+| Elixir of Health | - | Эликсир здоровья | srd-5.2 | — |  |
+| Elven Chain | Elven Chain | Эльфийская кольчуга | srd-5.2 | srd-5.1 |  |
+| Energy Bow | - | Энергетический лук | srd-5.2 | — |  |
+| Eversmoking Bottle | Eversmoking Bottle | Колба вечного дыма | srd-5.2 | srd-5.1 |  |
+| Eyes of Charming | Eyes of Charming | Глаза очарования | srd-5.2 | srd-5.1 |  |
+| Eyes of Minute Seeing | Eyes of Minute Seeing | Очки мелкого зрения | srd-5.2 | srd-5.1 |  |
+| Eyes of the Eagle | Eyes of the Eagle | Глаза орла | srd-5.2 | srd-5.1 |  |
+| Feather Token | Feather Token | Перо-талисман | srd-5.2 | srd-5.1 |  |
+| Figurine of Wondrous Power | Figurine of Wondrous Power | Образная фигурка чудесной силы | srd-5.2 | srd-5.1 |  |
+| Flame Tongue | Flame Tongue | Пламенный язык | srd-5.2 | srd-5.1 |  |
+| Folding Boat | Folding Boat | Складная лодка | srd-5.2 | srd-5.1 |  |
+| Frost Brand | Frost Brand | Морозный клинок | srd-5.2 | srd-5.1 |  |
+| Gauntlets of Ogre Power | Gauntlets of Ogre Power | Перчатки силы огра | srd-5.2 | srd-5.1 |  |
+| Gem of Brightness | Gem of Brightness | Самоцвет сияния | srd-5.2 | srd-5.1 |  |
+| Gem of Seeing | Gem of Seeing | Самоцвет видения | srd-5.2 | srd-5.1 |  |
+| Giant Slayer | Giant Slayer | Убийца великанов | srd-5.2 | srd-5.1 |  |
+| Glamoured Studded Leather | Glamoured Studded Leather | Гламурная клёпаная кожа | srd-5.2 | srd-5.1 |  |
+| Gloves of Missile Snaring | Gloves of Missile Snaring | Перчатки похищения снарядов | srd-5.2 | srd-5.1 |  |
+| Gloves of Swimming and Climbing | Gloves of Swimming and Climbing | Перчатки плавания и лазания | srd-5.2 | srd-5.1 |  |
+| Gloves of Thievery | - | Воровские перчатки | srd-5.2 | — |  |
+| Goggles of Night | Goggles of Night | Очки ночного видения | srd-5.2 | srd-5.1 |  |
+| Hammer of Thunderbolts | Hammer of Thunderbolts | Молот громовержца | srd-5.2 | srd-5.1 |  |
+| Handy Haversack | Handy Haversack | Практичный рюкзак | srd-5.2 | srd-5.1 |  |
+| Hat of Disguise | Hat of Disguise | Шляпа маскировки | srd-5.2 | srd-5.1 |  |
+| Hat of Many Spells | - | Шляпа множества заклинаний | srd-5.2 | — |  |
+| Headband of Intellect | Headband of Intellect | Обруч интеллекта | srd-5.2 | srd-5.1 |  |
+| Helm of Brilliance | Helm of Brilliance | Шлем сияния | srd-5.2 | srd-5.1 |  |
+| Helm of Comprehending Languages | Helm of Comprehending Languages | Шлем понимания языков | srd-5.2 | srd-5.1 |  |
+| Helm of Telepathy | Helm of Telepathy | Шлем телепатии | srd-5.2 | srd-5.1 |  |
+| Helm of Teleportation | Helm of Teleportation | Шлем телепортации | srd-5.2 | srd-5.1 |  |
+| Holy Avenger | Holy Avenger | Святой заступник | srd-5.2 | srd-5.1 |  |
+| Horn of Blasting | Horn of Blasting | Рог взрыва | srd-5.2 | srd-5.1 |  |
+| Horn of Valhalla | Horn of Valhalla | Рог Валгаллы | srd-5.2 | srd-5.1 |  |
+| Horseshoes of a Zephyr | Horseshoes of a Zephyr | Подковы зефира | srd-5.2 | srd-5.1 |  |
+| Horseshoes of Speed | Horseshoes of Speed | Подковы скорости | srd-5.2 | srd-5.1 |  |
+| Immovable Rod | Immovable Rod | Недвижимый жезл | srd-5.2 | srd-5.1 |  |
+| Instant Fortress | Instant Fortress | Мгновенная крепость | srd-5.2 | srd-5.1 |  |
+| Ioun Stone | Ioun Stone | Боевой камень Иуна | srd-5.2 | srd-5.1 |  |
+| Iron Bands | Iron Bands of Binding | Железные оковы | srd-5.2 | srd-5.1 |  |
+| Iron Flask | Iron Flask | Железная фляга | srd-5.2 | srd-5.1 |  |
+| Javelin of Lightning | Javelin of Lightning | Копьё молнии | srd-5.2 | srd-5.1 |  |
+| Lantern of Revealing | Lantern of Revealing | Фонарь раскрытия | srd-5.2 | srd-5.1 |  |
+| Luck Blade | Luck Blade | Удача (клинок) | srd-5.2 | srd-5.1 |  |
+| Mace of Disruption | Mace of Disruption | Булава разрушения | srd-5.2 | srd-5.1 |  |
+| Mace of Smiting | Mace of Smiting | Булава крушения | srd-5.2 | srd-5.1 |  |
+| Mace of Terror | Mace of Terror | Булава ужаса | srd-5.2 | srd-5.1 |  |
+| Mantle of Spell Resistance | Mantle of Spell Resistance | Мантия сопротивления заклинаниям | srd-5.2 | srd-5.1 |  |
+| Manual of Bodily Health | Manual of Bodily Health | Мануал Бодрого Здоровья | srd-5.2 | srd-5.1 |  |
+| Manual of Gainful Exercise | Manual of Gainful Exercise | Мануал Полезных Упражнений | srd-5.2 | srd-5.1 |  |
+| Manual of Golems | Manual of Golems | Мануал Големов | srd-5.2 | srd-5.1 |  |
+| Manual of Quickness of Action | Manual of Quickness of Action | Мануал Быстроты Действий | srd-5.2 | srd-5.1 |  |
+| Marvelous Pigments | Marvelous Pigments | Волшебные краски | srd-5.2 | srd-5.1 |  |
+| Medallion of Thoughts | Medallion of Thoughts | Медальон мыслей | srd-5.2 | srd-5.1 |  |
+| Mirror of Life Trapping | Mirror of Life Trapping | Зеркало заточения | srd-5.2 | srd-5.1 |  |
+| Mithral Armor | Mithral Armor | Мифриловый доспех | srd-5.2 | srd-5.1 |  |
+| Mysterious Deck | - | Таинственная колода | srd-5.2 | — |  |
+| Necklace of Adaptation | Necklace of Adaptation | Ожерелье адаптации | srd-5.2 | srd-5.1 |  |
+| Necklace of Fireballs | Necklace of Fireballs | Ожерелье огненных шаров | srd-5.2 | srd-5.1 |  |
+| Necklace of Prayer Beads | Necklace of Prayer Beads | Ожерелье молитвенных бусин | srd-5.2 | srd-5.1 |  |
+| Nine Lives Stealer | Nine Lives Stealer | Девятижизненный похититель | srd-5.2 | srd-5.1 |  |
+| Oathbow | Oathbow | Клятвенный лук | srd-5.2 | srd-5.1 |  |
+| Oil of Etherealness | Oil of Etherealness | Масло эфирности | srd-5.2 | srd-5.1 |  |
+| Oil of Sharpness | Oil of Sharpness | Масло остроты | srd-5.2 | srd-5.1 |  |
+| Oil of Slipperiness | Oil of Slipperiness | Масло скольжения | srd-5.2 | srd-5.1 |  |
+| Pearl of Power | Pearl of Power | Жемчужина силы | srd-5.2 | srd-5.1 |  |
+| Periapt of Health | Periapt of Health | Кулон здоровья | srd-5.2 | srd-5.1 |  |
+| Periapt of Proof against Poison | Periapt of Proof against Poison | Кулон защиты от яда | srd-5.2 | srd-5.1 |  |
+| Periapt of Wound Closure | Periapt of Wound Closure | Кулон заживления ран | srd-5.2 | srd-5.1 |  |
+| Philter of Love | Philter of Love | Приворотное зелье | srd-5.2 | srd-5.1 |  |
+| Pipes of Haunting | Pipes of Haunting | Флейта преследования | srd-5.2 | srd-5.1 |  |
+| Pipes of the Sewers | Pipes of the Sewers | Свирель канализации | srd-5.2 | srd-5.1 |  |
+| Plate Armor of Etherealness | Plate Armor of Etherealness | Латный доспех эфирности | srd-5.2 | srd-5.1 |  |
+| Portable Hole | Portable Hole | Переносная дыра | srd-5.2 | srd-5.1 |  |
+| Potion of Animal Friendship | Potion of Animal Friendship | Зелье дружбы с животными | srd-5.2 | srd-5.1 |  |
+| Potion of Clairvoyance | Potion of Clairvoyance | Зелье ясновидения | srd-5.2 | srd-5.1 |  |
+| Potion of Climbing | Potion of Climbing | Зелье лазания | srd-5.2 | srd-5.1 |  |
+| Potion of Diminution | Potion of Diminution | Зелье уменьшения | srd-5.2 | srd-5.1 |  |
+| Potion of Flying | Potion of Flying | Зелье полёта | srd-5.2 | srd-5.1 |  |
+| Potion of Gaseous Form | Potion of Gaseous Form | Зелье газообразной формы | srd-5.2 | srd-5.1 |  |
+| Potion of Giant Strength | Potion of Giant Strength | Зелье силы великана | srd-5.2 | srd-5.1 |  |
+| Potion of Growth | Potion of Growth | Зелье роста | srd-5.2 | srd-5.1 |  |
+| Potion of Heroism | Potion of Heroism | Зелье героизма | srd-5.2 | srd-5.1 |  |
+| Potion of Invisibility | Potion of Invisibility | Зелье невидимости | srd-5.2 | srd-5.1 |  |
+| Potion of Invulnerability | - | Зелье неуязвимости | srd-5.2 | — |  |
+| Potion of Longevity | - | Зелье долголетия | srd-5.2 | — |  |
+| Potion of Mind Reading | Potion of Mind Reading | Зелье чтения мыслей | srd-5.2 | srd-5.1 |  |
+| Potion of Poison | Potion of Poison | Зелье яда | srd-5.2 | srd-5.1 |  |
+| Potion of Resistance | Potion of Resistance | Зелье сопротивления | srd-5.2 | srd-5.1 |  |
+| Potion of Speed | Potion of Speed | Зелье скорости | srd-5.2 | srd-5.1 |  |
+| Potion of Vitality | - | Зелье жизненной силы | srd-5.2 | — |  |
+| Potion of Water Breathing | Potion of Water Breathing | Зелье водного дыхания | srd-5.2 | srd-5.1 |  |
+| Potions of Healing | Potion of Healing | Зелья лечения | srd-5.2 | srd-5.1 | 5.1: Зелье лечения |
+| Quarterstaff of the Acrobat | - | Боевой посох акробата | srd-5.2 | — |  |
+| - | - | Восстановительная мазь | — | srd-5.1 |  |
+| Ring of Animal Influence | Ring of Animal Influence | Кольцо власти над животными | srd-5.2 | srd-5.1 |  |
+| Ring of Djinni Summoning | Ring of Djinni Summoning | Кольцо призыва джинна | srd-5.2 | srd-5.1 |  |
+| Ring of Elemental Command | Ring of Elemental Command | Кольцо повеления стихиями | srd-5.2 | srd-5.1 |  |
+| Ring of Evasion | Ring of Evasion | Кольцо уклонения | srd-5.2 | srd-5.1 |  |
+| Ring of Feather Falling | Ring of Feather Falling | Кольцо падения пёрышком | srd-5.2 | srd-5.1 |  |
+| Ring of Free Action | Ring of Free Action | Кольцо свободного действия | srd-5.2 | srd-5.1 |  |
+| Ring of Invisibility | Ring of Invisibility | Кольцо невидимости | srd-5.2 | srd-5.1 |  |
+| Ring of Jumping | Ring of Jumping | Кольцо прыжков | srd-5.2 | srd-5.1 |  |
+| Ring of Mind Shielding | Ring of Mind Shielding | Кольцо защиты разума | srd-5.2 | srd-5.1 |  |
+| Ring of Protection | Ring of Protection | Кольцо защиты | srd-5.2 | srd-5.1 |  |
+| Ring of Regeneration | Ring of Regeneration | Кольцо регенерации | srd-5.2 | srd-5.1 |  |
+| Ring of Resistance | Ring of Resistance | Кольцо сопротивления | srd-5.2 | srd-5.1 |  |
+| Ring of Shooting Stars | Ring of Shooting Stars | Кольцо стрельбы звёздами | srd-5.2 | srd-5.1 |  |
+| Ring of Spell Storing | Ring of Spell Storing | Кольцо хранения заклинаний | srd-5.2 | srd-5.1 |  |
+| Ring of Spell Turning | Ring of Spell Turning | Кольцо отражения заклинаний | srd-5.2 | srd-5.1 |  |
+| Ring of Swimming | Ring of Swimming | Кольцо плавания | srd-5.2 | srd-5.1 |  |
+| Ring of Telekinesis | Ring of Telekinesis | Кольцо телекинеза | srd-5.2 | srd-5.1 |  |
+| Ring of the Ram | Ring of the Ram | Кольцо тарана | srd-5.2 | srd-5.1 |  |
+| Ring of Three Wishes | Ring of Three Wishes | Кольцо трёх желаний | srd-5.2 | srd-5.1 |  |
+| Ring of Warmth | Ring of Warmth | Кольцо тепла | srd-5.2 | srd-5.1 |  |
+| Ring of Water Walking | Ring of Water Walking | Кольцо хождения по воде | srd-5.2 | srd-5.1 |  |
+| Ring of X-ray Vision | Ring of X-ray Vision | Кольцо рентгеновского зрения | srd-5.2 | srd-5.1 |  |
+| Robe of Eyes | Robe of Eyes | Мантия глаз | srd-5.2 | srd-5.1 |  |
+| Robe of Scintillating Colors | Robe of Scintillating Colors | Мантия мерцающих цветов | srd-5.2 | srd-5.1 |  |
+| Robe of Stars | Robe of Stars | Мантия звёзд | srd-5.2 | srd-5.1 |  |
+| Robe of Useful Items | Robe of Useful Items | Мантия полезных вещей | srd-5.2 | srd-5.1 |  |
+| Robe of the Archmagi | Robe of the Archmagi | Мантия архимага | srd-5.2 | srd-5.1 |  |
+| Rod of Absorption | Rod of Absorption | Жезл поглощения | srd-5.2 | srd-5.1 |  |
+| Rod of Alertness | Rod of Alertness | Жезл бдительности | srd-5.2 | srd-5.1 |  |
+| Rod of Lordly Might | Rod of Lordly Might | Жезл владычества | srd-5.2 | srd-5.1 |  |
+| Rod of Resurrection | - | Жезл воскрешения | srd-5.2 | — |  |
+| Rod of Rulership | Rod of Rulership | Жезл повелителя | srd-5.2 | srd-5.1 |  |
+| Rod of Security | Rod of Security | Жезл безопасности | srd-5.2 | srd-5.1 |  |
+| Rope of Climbing | Rope of Climbing | Верёвка лазания | srd-5.2 | srd-5.1 |  |
+| Rope of Entanglement | Rope of Entanglement | Верёвка опутывания | srd-5.2 | srd-5.1 |  |
+| Scarab of Protection | Scarab of Protection | Скарабей защиты | srd-5.2 | srd-5.1 |  |
+| Scimitar of Speed | Scimitar of Speed | Скимитар скорости | srd-5.2 | srd-5.1 |  |
+| Sending Stones | - | Камни послания | srd-5.2 | — |  |
+| Sentinel Shield | - | Страж-щит | srd-5.2 | — |  |
+| Shield of Missile Attraction | Shield of Missile Attraction | Щит ловли стрел | srd-5.2 | srd-5.1 |  |
+| Shield of the Cavalier | - | Щит кавалериста | srd-5.2 | — |  |
+| Shield, +1, +2, or +3 | Shield, +1, +2, or +3 | Щит, +1, +2 или +3 | srd-5.2 | srd-5.1 |  |
+| Slippers of Spider Climbing | Slippers of Spider Climbing | Тапочки паучьего лазания | srd-5.2 | srd-5.1 |  |
+| Sovereign Glue | Sovereign Glue | Суверенный клей | srd-5.2 | srd-5.1 |  |
+| Spell Scroll | Spell Scroll | Свиток заклинания | srd-5.2 | srd-5.1 |  |
+| Spellguard Shield | Spellguard Shield | Щит защиты от заклинаний | srd-5.2 | srd-5.1 |  |
+| Sphere of Annihilation | Sphere of Annihilation | Сфера уничтожения | srd-5.2 | srd-5.1 |  |
+| Staff of Charming | Staff of Charming | Посох очарования | srd-5.2 | srd-5.1 |  |
+| Staff of Fire | Staff of Fire | Посох огня | srd-5.2 | srd-5.1 |  |
+| Staff of Frost | Staff of Frost | Посох мороза | srd-5.2 | srd-5.1 |  |
+| Staff of Healing | Staff of Healing | Посох исцеления | srd-5.2 | srd-5.1 |  |
+| Staff of Power | Staff of Power | Посох силы | srd-5.2 | srd-5.1 |  |
+| Staff of Striking | Staff of Striking | Посох поражения | srd-5.2 | srd-5.1 |  |
+| Staff of Swarming Insects | Staff of Swarming Insects | Посох роя насекомых | srd-5.2 | srd-5.1 |  |
+| Staff of Thunder and Lightning | Staff of Thunder and Lightning | Посох грома и молнии | srd-5.2 | srd-5.1 |  |
+| Staff of Withering | Staff of Withering | Посох увядания | srd-5.2 | srd-5.1 |  |
+| Staff of the Magi | Staff of the Magi | Посох мага | srd-5.2 | srd-5.1 |  |
+| Staff of the Python | Staff of the Python | Посох питона | srd-5.2 | srd-5.1 |  |
+| Staff of the Woodlands | Staff of the Woodlands | Посох леса | srd-5.2 | srd-5.1 |  |
+| Stone of Controlling Earth Elementals | Stone of Controlling Earth Elementals | Камень управления земными элементалями | srd-5.2 | srd-5.1 |  |
+| Stone of Good Luck (Luckstone) | Stone of Good Luck (Luckstone) | Камень удачи (Камень везения) | srd-5.2 | srd-5.1 |  |
+| Sun Blade | Sun Blade | Солнечный клинок | srd-5.2 | srd-5.1 |  |
+| Sword of Life Stealing | Sword of Life Stealing | Меч похищения жизни | srd-5.2 | srd-5.1 |  |
+| Sword of Sharpness | Sword of Sharpness | Меч остроты | srd-5.2 | srd-5.1 |  |
+| Sword of Wounding | Sword of Wounding | Меч ран | srd-5.2 | srd-5.1 |  |
+| Talisman of Pure Good | Talisman of Pure Good | Талисман чистого добра | srd-5.2 | srd-5.1 |  |
+| Talisman of Ultimate Evil | Talisman of Ultimate Evil | Талисман абсолютного зла | srd-5.2 | srd-5.1 |  |
+| Talisman of the Sphere | Talisman of the Sphere | Талисман сферы | srd-5.2 | srd-5.1 |  |
+| Thunderous Greatclub | - | Громовая дубина | srd-5.2 | — |  |
+| Tome of Clear Thought | Tome of Clear Thought | Том ясной мысли | srd-5.2 | srd-5.1 |  |
+| Tome of Leadership and Influence | Tome of Leadership and Influence | Том лидерства и влияния | srd-5.2 | srd-5.1 |  |
+| Tome of Understanding | Tome of Understanding | Том понимания | srd-5.2 | srd-5.1 |  |
+| Trident of Fish Command | Trident of Fish Command | Трезубец повелителя рыб | srd-5.2 | srd-5.1 |  |
+| Universal Solvent | Universal Solvent | Универсальный растворитель | srd-5.2 | srd-5.1 |  |
+| Vicious Weapon | Vicious Weapon | Жестокое оружие | srd-5.2 | srd-5.1 |  |
+| Vorpal Sword | Vorpal Sword | Ворпальный меч | srd-5.2 | srd-5.1 |  |
+| Wand of Binding | Wand of Binding | Волшебная палочка связывания | srd-5.2 | srd-5.1 |  |
+| Wand of Enemy Detection | Wand of Enemy Detection | Волшебная палочка обнаружения врагов | srd-5.2 | srd-5.1 |  |
+| Wand of Fear | Wand of Fear | Волшебная палочка страха | srd-5.2 | srd-5.1 |  |
+| Wand of Fireballs | Wand of Fireballs | Волшебная палочка огненных шаров | srd-5.2 | srd-5.1 |  |
+| Wand of Lightning Bolts | Wand of Lightning Bolts | Волшебная палочка молний | srd-5.2 | srd-5.1 |  |
+| Wand of Magic Detection | Wand of Magic Detection | Волшебная палочка обнаружения магии | srd-5.2 | srd-5.1 |  |
+| Wand of Magic Missiles | Wand of Magic Missiles | Волшебная палочка волшебных стрел | srd-5.2 | srd-5.1 |  |
+| Wand of Paralysis | Wand of Paralysis | Волшебная палочка паралича | srd-5.2 | srd-5.1 |  |
+| Wand of Polymorph | Wand of Polymorph | Волшебная палочка превращения | srd-5.2 | srd-5.1 |  |
+| Wand of Secrets | Wand of Secrets | Волшебная палочка секретов | srd-5.2 | srd-5.1 |  |
+| Wand of Web | Wand of Web | Волшебная палочка паутины | srd-5.2 | srd-5.1 |  |
+| Wand of Wonder | Wand of Wonder | Волшебная палочка чудес | srd-5.2 | srd-5.1 |  |
+| Wand of the War Mage, +1, +2, or +3 | Wand of the War Mage, +1, +2, or +3 | Волшебная палочка боевого мага, +1, +2 или +3 | srd-5.2 | srd-5.1 |  |
+| Weapon of Warning | - | Оружие предупреждения | srd-5.2 | — |  |
+| Weapon, +1, +2, or +3 | Weapon, +1, +2, or +3 | Оружие, +1, +2 или +3 | srd-5.2 | srd-5.1 |  |
+| Well of Many Worlds | Well of Many Worlds | Колодец многих миров | srd-5.2 | srd-5.1 |  |
+| Wind Fan | Wind Fan | Ветряной веер | srd-5.2 | srd-5.1 |  |
+| Winged Boots | Winged Boots | Крылатые сапоги | srd-5.2 | srd-5.1 |  |
+| Wings of Flying | Wings of Flying | Крылья полёта | srd-5.2 | srd-5.1 |  |
 
 Всего: 271 предмет.
