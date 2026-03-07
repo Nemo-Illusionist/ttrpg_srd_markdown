@@ -39,6 +39,12 @@ src/site/                      — исходники сайта (index, assets,
 | `/translate-content` | Перевод контентных файлов строго по глоссарию |
 | `/verify-content` | Верификация перевода: весь перевод (3 агента) или одна страница (1 агент) |
 
+### Утилиты
+
+| Команда | Описание |
+|---|---|
+| `/validate-markdown` | Валидация структуры markdown: таблицы, заголовки, списки, форматирование, парная проверка EN↔RU |
+
 ### Интеграция в сайт
 
 | Команда | Описание |
@@ -64,7 +70,7 @@ src/site/                      — исходники сайта (index, assets,
 
 | Правило | Описание | Подключается к |
 |---|---|---|
-| `translation-style.md` | Стиль перевода TTRPG-правил (как переводить) | `src/**/ru/**`, translate-content/glossary |
+| `translation-style.md` | Стиль перевода TTRPG-правил + конкретные антипаттерны с примерами | `src/**/ru/**`, translate-content/glossary |
 | `translation-validation.md` | Чеклист валидации перевода (структура, термины, оформление) | `src/**/ru/**`, translate-*/verify-content |
 | `translation-quality-review.md` | Системный промт агента качества (жёсткая редакторская проверка) | `src/**/ru/**`, translate-verify/verify-content |
 
