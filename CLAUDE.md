@@ -8,13 +8,12 @@
 src/{game}/{version}/en/       — EN оригинал (markdown)
 src/{game}/{version}/ru/       — RU перевод
 src/{game}/{version}/ru/*_Glossary/  — глоссарий (словарь терминов)
-.github/mkdocs.yml            — конфиг MkDocs
-.github/overrides/             — кастомные шаблоны (SEO, верификация)
+src/site/                      — исходники сайта (index, assets, mkdocs.yml, overrides)
 .github/scripts/               — скрипты сборки и генерации
 .github/workflows/             — CI/CD workflows
 ```
 
-При сборке (`prepare_docs.sh` или CI) `mkdocs.yml` и `overrides/` копируются в корень.
+При сборке (`prepare_docs.sh` или CI) `mkdocs.yml` и `overrides/` копируются из `src/site/` в корень.
 
 Игры: `dnd` (D&D 5.1, 5.2), `daggerheart` (SRD 1.0), `brp` (BRP SRD 1.0).
 

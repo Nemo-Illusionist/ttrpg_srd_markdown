@@ -4,9 +4,9 @@
 set -euo pipefail
 cd "$(git rev-parse --show-toplevel)"
 
-# MkDocs config and overrides
-cp .github/mkdocs.yml mkdocs.yml
-cp -r .github/overrides overrides
+# MkDocs config and overrides (from src/site/ to root)
+cp src/site/mkdocs.yml mkdocs.yml
+cp -r src/site/overrides overrides
 
 # Site-level files (index pages, assets, robots.txt)
 mkdir -p docs/
