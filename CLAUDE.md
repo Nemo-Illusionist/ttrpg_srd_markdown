@@ -82,6 +82,20 @@ PDF → /convert-pdf → /cleanup-artifacts → /verify-import → /integrate-sr
 
 Или одной командой: `/translate-srd` (фазы 0-8).
 
+## Сборка сайта
+
+Сайт собирается копированием — исходники из `src/` копируются в `docs/` и корень:
+
+```bash
+bash .github/scripts/prepare_docs.sh   # подготовка
+mkdocs serve                            # локальный сервер
+mkdocs build                            # билд в site/
+bash .github/scripts/prepare_docs.sh --clean  # очистка
+```
+
+Скрипт: `src/site/mkdocs.yml` и `overrides/` → корень, `src/` → `docs/{en,ru}/`.
+CI (`pages.yml`) вызывает тот же скрипт.
+
 ## Технические детали
 
 - Все агенты используют **model: "opus"**

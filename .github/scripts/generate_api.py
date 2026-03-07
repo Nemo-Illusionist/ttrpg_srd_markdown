@@ -2,7 +2,7 @@
 """Generate static JSON API from D&D SRD Markdown sources.
 
 Usage:
-    python3 scripts/generate_api.py --src-root src/dnd --output-dir site/api
+    python3 .github/scripts/generate_api.py --src-root src/dnd --output-dir site/api
 """
 
 import argparse
