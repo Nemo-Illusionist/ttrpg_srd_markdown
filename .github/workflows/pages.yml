@@ -7,7 +7,7 @@ on:
       - "src/**"
       - "overrides/**"
       - "mkdocs.yml"
-      - "scripts/**"
+      - ".github/scripts/**"
   workflow_dispatch:
     inputs:
       api_individual:
@@ -64,11 +64,11 @@ jobs:
         run: mkdocs build
 
       - name: Split sitemap into index
-        run: python3 scripts/split_sitemap.py
+        run: python3 .github/scripts/split_sitemap.py
 
       - name: Generate JSON API
         run: >
-          python3 scripts/generate_api.py
+          python3 .github/scripts/generate_api.py
           --src-root src/dnd
           --output-dir site/api
           ${{ github.event.inputs.api_individual == 'true' && '--individual' || '' }}

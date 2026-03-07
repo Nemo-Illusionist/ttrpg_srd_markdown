@@ -170,7 +170,7 @@ user-invocable: true
 
 Это включает:
 - `src/site/index.md` — главная страница (EN + RU блоки для нового SRD)
-- `scripts/prepare_docs.sh` — команды копирования
+- `.github/scripts/prepare_docs.sh` — команды копирования
 - `.github/workflows/pages.yml` — CI деплой
 - `mkdocs.yml` — навигация + nav_translations
 - `.github/workflows/release-{game}.yml` — release workflow

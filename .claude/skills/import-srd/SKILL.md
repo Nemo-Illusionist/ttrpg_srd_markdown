@@ -78,7 +78,7 @@ user-invocable: true
 Вызови skill `integrate-srd` с аргументами `{game} {version}`.
 
 Это включает:
-- `scripts/prepare_docs.sh` — команды копирования
+- `.github/scripts/prepare_docs.sh` — команды копирования
 - `.github/workflows/pages.yml` — CI деплой
 - `mkdocs.yml` — навигация + nav_translations
 - `.github/workflows/release-{game}.yml` — release workflow

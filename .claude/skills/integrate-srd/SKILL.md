@@ -50,9 +50,9 @@ user-invocable: true
 3. Добавь перед разделителем `---` в каждом файле
 4. **Коммит:** `Интеграция {game} {version}: главная страница (RU + EN)`
 
-### Шаг 3: `scripts/prepare_docs.sh`
+### Шаг 3: `.github/scripts/prepare_docs.sh`
 
-1. Прочитай `scripts/prepare_docs.sh`
+1. Прочитай `.github/scripts/prepare_docs.sh`
 2. Добавь блок для нового SRD **по образцу существующих** (Daggerheart, D&D):
 
 ```bash
@@ -212,7 +212,7 @@ git push origin {tag}
 
 ### Шаг 8: Проверка
 
-1. Запусти `bash scripts/prepare_docs.sh` и проверь что файлы появились в `docs/`
+1. Запусти `bash .github/scripts/prepare_docs.sh` и проверь что файлы появились в `docs/`
 2. Проверь структуру:
 
 ```bash
@@ -225,7 +225,7 @@ ls docs/ru/{game}/{version}/
 
 ```
 Интеграция {game} {version} завершена:
-- scripts/prepare_docs.sh ✓
+- .github/scripts/prepare_docs.sh ✓
 - .github/workflows/pages.yml ✓
 - mkdocs.yml — навигация ✓
 - mkdocs.yml — nav_translations ✓
@@ -257,6 +257,6 @@ ls docs/ru/{game}/{version}/
 ## Технические требования
 
 - Все агенты используют **model: "opus"**
-- Проверить работоспособность через `bash scripts/prepare_docs.sh`
+- Проверить работоспособность через `bash .github/scripts/prepare_docs.sh`
 - Коммит после каждого изменённого файла
 - Сообщения коммитов на русском
