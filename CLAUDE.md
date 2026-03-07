@@ -8,6 +8,8 @@
 src/{game}/{version}/en/       — EN оригинал (markdown)
 src/{game}/{version}/ru/       — RU перевод
 src/{game}/{version}/ru/*_Glossary/  — глоссарий (словарь терминов)
+src/{game}/translate/          — переводческие артефакты (decisions.md, ...)
+src/translate/                 — общие переводческие артефакты (все системы)
 src/site/                      — исходники сайта (index, assets, mkdocs.yml, overrides)
 .github/scripts/               — скрипты сборки и генерации
 .github/workflows/             — CI/CD workflows
@@ -110,7 +112,10 @@ CI (`pages.yml`) вызывает тот же скрипт.
 
 ## Терминологические решения
 
-Спорные переводческие решения и их обоснования: `.claude/terminology-decisions.md`.
+Спорные переводческие решения и их обоснования:
+- `src/{game}/translate/decisions.md` — решения для конкретной системы
+- `src/translate/decisions.md` — общие решения (все системы)
+
 Глоссарий фиксирует **что** переводить как, decisions log — **почему**.
 
 ## Технические детали
