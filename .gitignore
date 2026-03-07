@@ -1,6 +1,7 @@
 .vscode/
 .claude/settings.local.json
 __pycache__/
+.DS_Store
 DND-SRD-5.2.1-RU.md
 /site/
 docs/
