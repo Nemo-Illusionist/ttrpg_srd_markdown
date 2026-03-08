@@ -8,7 +8,7 @@
 src/{game}/{version}/en/       — EN оригинал (markdown)
 src/{game}/{version}/ru/       — RU перевод
 src/{game}/{version}/ru/*_Glossary/  — глоссарий (словарь терминов)
-src/{game}/translate/          — словари и лог решений (00_log, 01_dictionary_base, ...)
+src/{game}/translate/          — словари и логи (logs/, 01_dictionary_base, ...)
 src/translate/                 — общие переводческие артефакты (все системы)
 src/site/                      — исходники сайта (index, assets, mkdocs.yml, overrides)
 .github/scripts/               — скрипты сборки и генерации
@@ -78,6 +78,7 @@ src/site/                      — исходники сайта (index, assets,
 | `translation-validation.md` | Чеклист валидации перевода (структура, термины, оформление) | `src/**/ru/**`, translate-*/verify-content |
 | `translation-quality-review.md` | Системный промт агента качества (жёсткая редакторская проверка) | `src/**/ru/**`, translate-verify/verify-content |
 | `translate-dictionaries.md` | Структура и формат словарей `translate/`, приоритет источников | `src/*/translate/**`, translate-*/verify-content |
+| `terminology-propagation.md` | Пропагация терминологических изменений, conflict resolution, verify loop | `src/**/ru/**`, `src/*/translate/**`, translate-*/verify-content |
 
 ### Общие
 
@@ -116,10 +117,11 @@ CI (`pages.yml`) вызывает тот же скрипт.
 ## Терминологические решения
 
 Спорные переводческие решения и их обоснования:
-- `src/{game}/translate/00_log.md` — решения для конкретной системы
-- `src/translate/00_log.md` — общие решения (все системы)
+- `src/{game}/translate/logs/{date}_log.md` — решения для конкретной системы
+- `src/translate/logs/{date}_log.md` — общие решения (все системы)
 
-Словари фиксируют **что** переводить как, лог — **почему**.
+Словари фиксируют **что** переводить как, логи — **когда и почему**.
+При изменении термина — `.claude/rules/terminology-propagation.md`.
 
 ## Технические детали
 

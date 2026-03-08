@@ -31,7 +31,7 @@ user-invocable: true
 5. **Загрузка словарей `translate/` как reference:**
    - Прочитай `src/translate/01_dictionary_base.md` (общие термины)
    - Прочитай `src/{game}/translate/01_dictionary_base.md` + `02+_dictionary_*.md` (если существуют)
-   - Прочитай `src/{game}/translate/00_log.md` и `src/translate/00_log.md` (решения имеют приоритет)
+   - Прочитай логи `src/{game}/translate/logs/` и `src/translate/logs/` (решения имеют приоритет)
    - Это **reference-словарь** — приоритетный источник перевода
    - Правила приоритетов: см. `.claude/rules/translate-dictionaries.md`
 
@@ -78,7 +78,7 @@ user-invocable: true
 После перевода всех файлов глоссария — создай/обнови словари в `src/{game}/translate/`:
 
 1. Если `src/{game}/translate/` не существует — создай
-2. Если `00_log.md` не существует — создай с шаблоном (заголовок + пустой)
+2. Если `logs/` не существует — создай директорию
 3. Создай/обнови `01_dictionary_base.md` из `00_Glossary.md` (базовые термины)
 4. Создай/обнови `02+_dictionary_*.md` из `01+` файлов глоссария (сущности)
 5. Формат словарей — по `.claude/rules/translate-dictionaries.md`
@@ -114,8 +114,8 @@ user-invocable: true
 
 При спорном выборе перевода (несколько допустимых вариантов, отклонение от reference, нестандартный термин):
 
-1. Прочитай `src/{game}/translate/00_log.md` и `src/translate/00_log.md` (общие) — возможно, решение уже принято
-2. Если решение новое — после подтверждения пользователем **добавь запись** в `src/{game}/translate/00_log.md`
+1. Прочитай логи в `src/{game}/translate/logs/` и `src/translate/logs/` (общие) — возможно, решение уже принято
+2. Если решение новое — после подтверждения пользователем **добавь запись** в `src/{game}/translate/logs/{date}_log.md`
 3. Формат: `### EN термин → RU перевод`, поля: Решение, Причина, Отвергнуто
 
 ## Технические требования
