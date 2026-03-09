@@ -17,19 +17,23 @@ user-invocable: true
 
 ### Шаг 1: Проверка зависимостей
 
-Проверь наличие каждого инструмента:
+Конвертеры устанавливаются в **отдельные venv** (конфликт зависимостей между marker и docling):
 
 ```bash
-python3 -c "import marker" 2>/dev/null && echo "marker: OK" || echo "marker: NOT FOUND"
-python3 -c "import pymupdf4llm" 2>/dev/null && echo "pymupdf4llm: OK" || echo "pymupdf4llm: NOT FOUND"
-python3 -c "import docling" 2>/dev/null && echo "docling: OK" || echo "docling: NOT FOUND"
+# Проверка существующих venv
+for tool in marker pymupdf docling; do
+  venv="/tmp/venv-${tool}"
+  if [ -d "$venv" ]; then echo "${tool}: OK (${venv})"; else echo "${tool}: NOT FOUND"; fi
+done
 ```
 
-Если что-то отсутствует — предложи установку через AskUserQuestion:
+Если отсутствуют — создать venv и установить (можно параллельно):
 
-```
-Не найдены зависимости: {список}
-Установить? pip install marker-pdf pymupdf4llm docling
+```bash
+# Каждый в свой venv — обязательно, pip install без venv не работает (PEP 668)
+python3 -m venv /tmp/venv-marker && /tmp/venv-marker/bin/pip install marker-pdf
+python3 -m venv /tmp/venv-pymupdf && /tmp/venv-pymupdf/bin/pip install pymupdf4llm
+python3 -m venv /tmp/venv-docling && /tmp/venv-docling/bin/pip install docling
 ```
 
 Также проверь что PDF существует: `ls {pdf_path}`
@@ -38,8 +42,27 @@ python3 -c "import docling" 2>/dev/null && echo "docling: OK" || echo "docling: 
 
 marker даёт лучшую структуру заголовков и списков. Поддерживает GPU/MPS.
 
+**Важно:** На macOS MPS marker может падать с `torch.AcceleratorError` при layout detection.
+Решение — переменная окружения для управления памятью MPS + отключение OCR (для цифровых PDF не нужен):
+
 ```bash
-marker_single "{pdf_path}" --output_dir /tmp/{game}_marker/
+mkdir -p /tmp/{game}_marker && \
+PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0 \
+/tmp/venv-marker/bin/marker_single "{pdf_path}" \
+  --output_dir /tmp/{game}_marker/ \
+  --disable_ocr \
+  --disable_image_extraction
+```
+
+Если всё равно падает — попробовать на CPU:
+
+```bash
+PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0 PYTORCH_ENABLE_MPS_FALLBACK=1 \
+/tmp/venv-marker/bin/marker_single "{pdf_path}" \
+  --output_dir /tmp/{game}_marker/ \
+  --disable_ocr \
+  --disable_image_extraction \
+  --lowres_image_dpi 72
 ```
 
 Найди результирующий `.md` файл в `/tmp/{game}_marker/` и скопируй:
@@ -48,25 +71,19 @@ marker_single "{pdf_path}" --output_dir /tmp/{game}_marker/
 cp /tmp/{game}_marker/*/*.md /tmp/{game}_marker.md
 ```
 
-Если `marker_single` не найден как команда, используй:
-
-```bash
-python3 -m marker.scripts.single "{pdf_path}" --output_dir /tmp/{game}_marker/
-```
-
 ### Шаг 3: Конвертация pymupdf4llm (быстрый, хороший текст)
 
 pymupdf4llm — самый быстрый конвертер, даёт чистый текст.
 
-Создай и запусти Python-скрипт:
-
-```python
+```bash
+/tmp/venv-pymupdf/bin/python3 -c "
 import pymupdf4llm
 import pathlib
 
-md_text = pymupdf4llm.to_markdown("{pdf_path}")
-pathlib.Path("/tmp/{game}_pymupdf.md").write_text(md_text)
-print(f"OK: {len(md_text)} chars, {md_text.count(chr(10))} lines")
+md_text = pymupdf4llm.to_markdown('${pdf_path}')
+pathlib.Path('/tmp/${game}_pymupdf.md').write_text(md_text)
+print(f'OK: {len(md_text)} chars, {md_text.count(chr(10))} lines')
+"
 ```
 
 Результат: `/tmp/{game}_pymupdf.md`
@@ -76,27 +93,26 @@ print(f"OK: {len(md_text)} chars, {md_text.count(chr(10))} lines")
 docling лучше всех обрабатывает таблицы и сложный layout.
 
 ```bash
-docling "{pdf_path}" --to md --output /tmp/{game}_docling/
-```
-
-Найди результирующий `.md` и скопируй:
-
-```bash
+/tmp/venv-docling/bin/docling "{pdf_path}" --to md --output /tmp/{game}_docling/
 cp /tmp/{game}_docling/*.md /tmp/{game}_docling.md
 ```
 
-Если `docling` CLI не найден, используй Python:
+Альтернативный способ — через Python API (CLI может быть не в PATH):
 
-```python
+```bash
+/tmp/venv-docling/bin/python3 -c "
 from docling.document_converter import DocumentConverter
 
 converter = DocumentConverter()
-result = converter.convert("{pdf_path}")
+result = converter.convert('${pdf_path}')
 md_text = result.document.export_to_markdown()
-with open("/tmp/{game}_docling.md", "w") as f:
+with open('/tmp/${game}_docling.md', 'w') as f:
     f.write(md_text)
-print(f"OK: {len(md_text)} chars")
+print(f'OK: {len(md_text)} chars, {md_text.count(chr(10))} lines')
+"
 ```
+
+**Примечание:** docling — самый медленный конвертер (30-60 мин на 400 стр.), но лучший для таблиц.
 
 ### Шаг 5: Статистика
 
