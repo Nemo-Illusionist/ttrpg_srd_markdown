@@ -88,17 +88,34 @@ src/site/                      — исходники сайта (index, assets,
 
 ## Пайплайн импорта
 
+Оркестратор: `/import-srd` — все фазы последовательно.
+
 ```
-PDF → /convert-pdf → /cleanup-artifacts → /verify-import → /integrate-srd
+Phase 0:   Создание ветки import/{game}-{version}
+Phase 1:   /convert-pdf        — PDF → 3 markdown в /tmp/
+Phase 2:   /cleanup-artifacts  — сведение + разбивка + чистка → src/{game}/{version}/en/
+Phase 3:   /verify-import      — циклическая верификация + ручная проверка
+Phase 3.5: Squash merge в main
+Phase 4:   /integrate-srd      — интеграция в сайт (уже в main)
 ```
 
 ## Пайплайн перевода
 
-```
-/build-glossary → /translate-glossary → /translate-verify → /translate-content → /verify-content → /integrate-srd
-```
+Оркестратор: `/translate-srd` — все фазы последовательно.
 
-Или одной командой: `/translate-srd` (фазы 0-8).
+```
+Phase 0:   Проверка EN + создание ветки translate/{game}-{version}
+Phase 0.5: Загрузка reference-глоссариев (кросс-версионная согласованность)
+Phase 1:   /build-glossary     — EN глоссарий из исходников
+Phase 2:   /translate-glossary — RU глоссарий + словари translate/
+Phase 3:   /translate-verify   — верификация глоссария (3 агента, 3+ раундов)
+Phase 4:   Ручная проверка глоссария
+Phase 5:   /translate-content  — перевод контента по словарю
+Phase 6:   /verify-content     — верификация контента (3 агента, 3+ раундов)
+Phase 7:   Ручная проверка контента
+Phase 7.5: Squash merge в main
+Phase 8:   /integrate-srd      — интеграция в сайт (уже в main)
+```
 
 ## Сборка сайта
 
