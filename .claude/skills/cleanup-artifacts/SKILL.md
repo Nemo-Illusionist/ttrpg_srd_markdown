@@ -65,7 +65,13 @@ docling:
 
 Чеклист: **`.claude/rules/layout-recovery.md`**
 
-Агент восстанавливает структуру документа: склейка разорванных абзацев и слов, удаление номеров страниц и колонтитулов, OCR-маркеров, image placeholders, нормализация заголовков, таблиц, списков.
+Скрипт: **`.claude/skills/cleanup-artifacts/layout_recovery.py`** — автоматические исправления (bold из заголовков, дефисные переносы, split components, trailing columns).
+
+```bash
+python3 .claude/skills/cleanup-artifacts/layout_recovery.py /tmp/{game}_merged.md /tmp/{game}_recovered.md
+```
+
+После скрипта — агент выполняет оставшиеся исправления вручную: склейка разорванных абзацев на границах страниц, удаление номеров страниц и колонтитулов, OCR-маркеров, image placeholders, восстановление двухколоночной вёрстки.
 
 Выполняется на `/tmp/{game}_merged.md` перед разбивкой на файлы.
 

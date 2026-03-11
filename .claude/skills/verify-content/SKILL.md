@@ -28,8 +28,13 @@ user-invocable: true
 
 1. Найди EN контент: `src/{game}/{version}/en/**/*.md` (исключая `*_Glossary/`)
 2. Найди RU контент: `src/{game}/{version}/ru/**/*.md` (исключая `*_Glossary/`)
-3. Построй словарь терминов из `src/{game}/translate/` и `src/translate/` (см. `.claude/rules/translate-dictionaries.md`)
-4. Если RU контент не найден — предложи сначала `/translate-content`
+3. **Быстрая проверка структуры** — запусти скрипт:
+   ```bash
+   bash .claude/skills/verify-content/compare_structure.sh src/{game}/{version}/en src/{game}/{version}/ru
+   ```
+   Если есть расхождения — они будут перечислены. Это экономит время агентов.
+4. Построй словарь терминов из `src/{game}/translate/` и `src/translate/` (см. `.claude/rules/translate-dictionaries.md`)
+5. Если RU контент не найден — предложи сначала `/translate-content`
 5. Определи режим:
    - `[file]` указан → **режим одной страницы**
    - `[file]` не указан → **режим полной верификации**
