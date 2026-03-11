@@ -1,0 +1,71 @@
+{
+  "skill_name": "verify-import",
+  "evals": [
+    {
+      "id": 1,
+      "name": "automated-checks-first",
+      "prompt": "/verify-import dnd-v2 srd-5.2",
+      "expected_output": "Сначала запускается check_markdown.py, затем агент для семантической проверки",
+      "files": [],
+      "assertions": [
+        {
+          "name": "script_before_agent",
+          "type": "contains",
+          "description": "check_markdown.py запущен до агента верификации",
+          "expected": "check_markdown.py"
+        },
+        {
+          "name": "pdf_pages_checked",
+          "type": "output_contains",
+          "description": "Агент сверил с конкретными страницами PDF",
+          "expected": "pages"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "broken-table-detection",
+      "prompt": "Проверь файл с намеренно сломанной таблицей через check_markdown.py",
+      "expected_output": "Скрипт обнаруживает broken_table",
+      "files": [],
+      "assertions": [
+        {
+          "name": "broken_table_found",
+          "type": "output_contains",
+          "description": "Обнаружена сломанная таблица",
+          "expected": "broken_table"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "min-2-rounds",
+      "prompt": "/verify-import dnd-v2 srd-5.2 — проверь что выполняется минимум 2 раунда",
+      "expected_output": "Минимум 2 раунда проверки даже если ошибок нет",
+      "files": [],
+      "assertions": [
+        {
+          "name": "two_rounds",
+          "type": "output_contains",
+          "description": "Два раунда проверки",
+          "expected": "раунд"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "clean-files-pass",
+      "prompt": "Запусти check_markdown.py на src/dnd-v2/srd-5.2/en/ — чистые файлы должны пройти без ошибок",
+      "expected_output": "0 issues, все файлы прошли",
+      "files": [],
+      "assertions": [
+        {
+          "name": "zero_issues",
+          "type": "output_contains",
+          "description": "Все файлы чистые",
+          "expected": "0 issues"
+        }
+      ]
+    }
+  ]
+}
