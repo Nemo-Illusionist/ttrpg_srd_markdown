@@ -1,0 +1,95 @@
+{
+  "skill_name": "cleanup-artifacts",
+  "evals": [
+    {
+      "id": 1,
+      "name": "layout-recovery-script",
+      "prompt": "Запусти layout_recovery.py на /tmp/dnd_merged.md и проверь результат",
+      "expected_output": "Скрипт запущен, статистика выведена, /tmp/dnd_recovered.md создан",
+      "files": [],
+      "assertions": [
+        {
+          "name": "script_used",
+          "type": "contains",
+          "description": "Использован скрипт layout_recovery.py, а не ручные regex",
+          "expected": "layout_recovery.py"
+        },
+        {
+          "name": "output_created",
+          "type": "file_exists",
+          "description": "Создан выходной файл",
+          "path": "/tmp/dnd_recovered.md"
+        },
+        {
+          "name": "bold_headers_fixed",
+          "type": "output_contains",
+          "description": "Скрипт сообщил о fix bold headers",
+          "expected": "bold_headers"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "normalize-markdown-script",
+      "prompt": "Запусти normalize_markdown.py на директории src/dnd-v2/srd-5.2/en/ и проверь результат",
+      "expected_output": "Скрипт нормализовал файлы, статистика выведена",
+      "files": [],
+      "assertions": [
+        {
+          "name": "script_used",
+          "type": "contains",
+          "description": "Использован скрипт normalize_markdown.py",
+          "expected": "normalize_markdown.py"
+        },
+        {
+          "name": "processed_count",
+          "type": "output_contains",
+          "description": "Скрипт сообщил о количестве обработанных файлов",
+          "expected": "Processed"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "subfolder-detection",
+      "prompt": "В merged markdown есть 12 классов (Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard) как H2 внутри H1 Classes. Как их правильно разбить по файлам?",
+      "expected_output": "Подпапка 03_Classes/ с 12 файлами (01_Barbarian.md ... 12_Wizard.md) + 00_Classes.md для вводного текста",
+      "files": [],
+      "assertions": [
+        {
+          "name": "subfolder_proposed",
+          "type": "output_contains",
+          "description": "Предложена подпапка Classes/",
+          "expected": "Classes/"
+        },
+        {
+          "name": "12_files",
+          "type": "output_contains",
+          "description": "12 файлов для 12 классов",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "single-commit-per-file",
+      "prompt": "/cleanup-artifacts dnd srd-5.2 — проверь что создаётся один коммит на файл, а не два (создание + нормализация)",
+      "expected_output": "Один коммит 'Импорт dnd srd-5.2: filename' на файл, нормализация включена",
+      "files": [],
+      "assertions": [
+        {
+          "name": "single_commit_pattern",
+          "type": "output_contains",
+          "description": "Один коммит на файл без отдельного коммита нормализации",
+          "expected": "Импорт"
+        },
+        {
+          "name": "no_separate_normalization_commit",
+          "type": "output_not_contains",
+          "description": "Нет отдельных коммитов нормализации",
+          "unexpected": "нормализация"
+        }
+      ]
+    }
+  ]
+}
