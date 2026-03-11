@@ -1,5 +1,5 @@
 ---
-description: "Конвертация PDF в сырой markdown тремя инструментами (marker + pymupdf4llm + docling)"
+description: "Конвертация PDF в сырой markdown тремя инструментами (marker + pymupdf4llm + docling). Используй при импорте нового SRD из PDF."
 user-invocable: true
 ---
 
@@ -15,35 +15,29 @@ user-invocable: true
 
 ## Алгоритм
 
-### Шаг 1: Проверка зависимостей
+### Основной способ — скрипт
 
-Конвертеры устанавливаются в **отдельные venv** (конфликт зависимостей между marker и docling):
-
-```bash
-# Проверка существующих venv
-for tool in marker pymupdf docling; do
-  venv="/tmp/venv-${tool}"
-  if [ -d "$venv" ]; then echo "${tool}: OK (${venv})"; else echo "${tool}: NOT FOUND"; fi
-done
-```
-
-Если отсутствуют — создать venv и установить (можно параллельно):
+Скрипт `.claude/skills/convert-pdf/convert_pdf.py` автоматически:
+- Проверяет/создаёт venv для каждого конвертера
+- Запускает все три конвертера последовательно с правильными параметрами
+- Обрабатывает ошибки (marker fallback MPS→CPU, таймауты)
+- Выводит статистику и сохраняет сводку в JSON
 
 ```bash
-# Каждый в свой venv — обязательно, pip install без venv не работает (PEP 668)
-python3 -m venv /tmp/venv-marker && /tmp/venv-marker/bin/pip install marker-pdf
-python3 -m venv /tmp/venv-pymupdf && /tmp/venv-pymupdf/bin/pip install pymupdf4llm
-python3 -m venv /tmp/venv-docling && /tmp/venv-docling/bin/pip install docling
+python3 .claude/skills/convert-pdf/convert_pdf.py "{pdf_path}" "{game}"
 ```
 
-Также проверь что PDF существует: `ls {pdf_path}`
+Результат:
+- `/tmp/{game}_marker.md` — marker (лучшие заголовки и структура)
+- `/tmp/{game}_pymupdf.md` — pymupdf4llm (быстрый, чистый текст)
+- `/tmp/{game}_docling.md` — docling (лучшие таблицы)
+- `/tmp/{game}_convert_summary.json` — машиночитаемая сводка
 
-### Шаг 2: Конвертация marker (структура, заголовки)
+### Ручной запуск отдельных конвертеров
 
-marker даёт лучшую структуру заголовков и списков. Поддерживает GPU/MPS.
+Если скрипт не подходит (например, нужен только один конвертер или кастомные параметры):
 
-**Важно:** На macOS MPS marker может падать с `torch.AcceleratorError` при layout detection.
-Решение — переменная окружения для управления памятью MPS + отключение OCR (для цифровых PDF не нужен):
+#### marker (структура, заголовки)
 
 ```bash
 mkdir -p /tmp/{game}_marker && \
@@ -52,102 +46,71 @@ PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0 \
   --output_dir /tmp/{game}_marker/ \
   --disable_ocr \
   --disable_image_extraction
+cp /tmp/{game}_marker/*/*.md /tmp/{game}_marker.md
 ```
 
-Если всё равно падает — попробовать на CPU:
+Fallback на CPU (если MPS падает с `torch.AcceleratorError`):
 
 ```bash
 PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0 PYTORCH_ENABLE_MPS_FALLBACK=1 \
 /tmp/venv-marker/bin/marker_single "{pdf_path}" \
   --output_dir /tmp/{game}_marker/ \
-  --disable_ocr \
-  --disable_image_extraction \
-  --lowres_image_dpi 72
+  --disable_ocr --disable_image_extraction --lowres_image_dpi 72
 ```
 
-Найди результирующий `.md` файл в `/tmp/{game}_marker/` и скопируй:
-
-```bash
-cp /tmp/{game}_marker/*/*.md /tmp/{game}_marker.md
-```
-
-### Шаг 3: Конвертация pymupdf4llm (быстрый, хороший текст)
-
-pymupdf4llm — самый быстрый конвертер, даёт чистый текст.
+#### pymupdf4llm (быстрый текст)
 
 ```bash
 /tmp/venv-pymupdf/bin/python3 -c "
-import pymupdf4llm
-import pathlib
-
-md_text = pymupdf4llm.to_markdown('${pdf_path}')
-pathlib.Path('/tmp/${game}_pymupdf.md').write_text(md_text)
-print(f'OK: {len(md_text)} chars, {md_text.count(chr(10))} lines')
+import pymupdf4llm, pathlib
+md = pymupdf4llm.to_markdown('${pdf_path}')
+pathlib.Path('/tmp/${game}_pymupdf.md').write_text(md)
+print(f'OK: {len(md)} chars, {md.count(chr(10))} lines')
 "
 ```
 
-Результат: `/tmp/{game}_pymupdf.md`
-
-### Шаг 4: Конвертация docling (лучшие таблицы)
-
-docling лучше всех обрабатывает таблицы и сложный layout.
-
-```bash
-/tmp/venv-docling/bin/docling "{pdf_path}" --to md --output /tmp/{game}_docling/
-cp /tmp/{game}_docling/*.md /tmp/{game}_docling.md
-```
-
-Альтернативный способ — через Python API (CLI может быть не в PATH):
+#### docling (таблицы, 30-60 мин на 400 стр.)
 
 ```bash
 /tmp/venv-docling/bin/python3 -c "
 from docling.document_converter import DocumentConverter
-
 converter = DocumentConverter()
 result = converter.convert('${pdf_path}')
-md_text = result.document.export_to_markdown()
-with open('/tmp/${game}_docling.md', 'w') as f:
-    f.write(md_text)
-print(f'OK: {len(md_text)} chars, {md_text.count(chr(10))} lines')
+md = result.document.export_to_markdown()
+open('/tmp/${game}_docling.md', 'w').write(md)
+print(f'OK: {len(md)} chars, {md.count(chr(10))} lines')
 "
 ```
 
-**Примечание:** docling — самый медленный конвертер (30-60 мин на 400 стр.), но лучший для таблиц.
+### Установка venv (если не установлены)
 
-### Шаг 5: Статистика
+Каждый конвертер в свой venv — обязательно (PEP 668 + конфликт зависимостей marker↔docling):
 
-Выведи сводку по всем трём результатам:
-
-```
-Конвертация завершена:
-
-| Конвертер   | Строк | Заголовков | Таблиц | Размер  |
-|-------------|-------|------------|--------|---------|
-| marker      | ...   | ...        | ...    | ... KB  |
-| pymupdf4llm | ...   | ...        | ...    | ... KB  |
-| docling     | ...   | ...        | ...    | ... KB  |
-
-Файлы:
-- /tmp/{game}_marker.md
-- /tmp/{game}_pymupdf.md
-- /tmp/{game}_docling.md
-
-Следующий шаг: /cleanup-artifacts {game} {version}
+```bash
+python3 -m venv /tmp/venv-marker && /tmp/venv-marker/bin/pip install marker-pdf
+python3 -m venv /tmp/venv-pymupdf && /tmp/venv-pymupdf/bin/pip install pymupdf4llm
+python3 -m venv /tmp/venv-docling && /tmp/venv-docling/bin/pip install docling
 ```
 
-Подсчёт:
-- Строк: `wc -l`
-- Заголовков: `grep -c '^#' {file}`
-- Таблиц: `grep -c '^\|' {file}` (строки начинающиеся с `|`)
+Можно запускать параллельно — они независимы.
+
+## Сильные и слабые стороны конвертеров
+
+| Конвертер | Хорош для | Слаб в | Скорость |
+|-----------|-----------|--------|----------|
+| marker | Заголовки (уровни `#`), общая структура, таблицы | Может падать на MPS | ~50 мин / 400 стр. |
+| pymupdf4llm | Чистый текст абзацев, скорость | Таблицы (0 форматированных), разрывы строк | ~1 мин / 400 стр. |
+| docling | Таблицы (структура `\|`), сложный layout | Заголовки (плоская иерархия), скорость | ~40 мин / 400 стр. |
 
 ## Обработка ошибок
 
-- Если один из конвертеров не установлен и пользователь отказался — пропусти его, но предупреди что сведение будет менее точным
-- Если конвертер падает — сохрани stderr, покажи пользователю, продолжи с остальными
-- Минимум 2 из 3 конвертеров должны отработать для продолжения
+- Конвертер не установлен и пользователь отказался → пропустить, предупредить
+- Конвертер падает → сохранить stderr, показать пользователю, продолжить с остальными
+- **Минимум 2 из 3** конвертеров должны отработать для продолжения
+- Пустой выходной файл → считать как ошибку
 
 ## Технические требования
 
 - Все результаты в `/tmp/` — коммитов нет
-- Все агенты — **model: "opus"**
-- PDF может быть большим (100+ страниц) — таймаут 10 минут на каждый конвертер
+- PDF может быть большим (100+ страниц)
+- Таймауты: marker 10 мин (+ 10 мин CPU fallback), pymupdf 5 мин, docling 60 мин

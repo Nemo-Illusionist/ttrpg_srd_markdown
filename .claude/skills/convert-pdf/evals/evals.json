@@ -1,0 +1,105 @@
+{
+  "skill_name": "convert-pdf",
+  "evals": [
+    {
+      "id": 1,
+      "name": "dnd-srd-5.2-full",
+      "prompt": "/convert-pdf /tmp/SRD_CC_v5.2.1.pdf dnd srd-5.2",
+      "expected_output": "3 файла в /tmp/ (dnd_marker.md, dnd_pymupdf.md, dnd_docling.md), таблица статистики, минимум 2 конвертера успешны",
+      "files": [],
+      "assertions": [
+        {
+          "name": "script_used",
+          "type": "contains",
+          "description": "Агент использовал скрипт convert_pdf.py вместо ручных команд",
+          "expected": "convert_pdf.py"
+        },
+        {
+          "name": "min_2_converters",
+          "type": "output_check",
+          "description": "Минимум 2 из 3 конвертеров отработали успешно",
+          "check": "grep -c 'ok' /tmp/dnd_convert_summary.json >= 2"
+        },
+        {
+          "name": "pymupdf_output_exists",
+          "type": "file_exists",
+          "description": "pymupdf4llm создал выходной файл",
+          "path": "/tmp/dnd_pymupdf.md"
+        },
+        {
+          "name": "pymupdf_not_empty",
+          "type": "file_min_lines",
+          "description": "pymupdf выход не пустой (>1000 строк для SRD)",
+          "path": "/tmp/dnd_pymupdf.md",
+          "min_lines": 1000
+        },
+        {
+          "name": "statistics_table",
+          "type": "output_contains",
+          "description": "Агент вывел таблицу статистики с конвертерами",
+          "expected": "| Конвертер"
+        },
+        {
+          "name": "summary_json_created",
+          "type": "file_exists",
+          "description": "Сводка сохранена в JSON для downstream",
+          "path": "/tmp/dnd_convert_summary.json"
+        },
+        {
+          "name": "no_commits",
+          "type": "output_not_contains",
+          "description": "Конвертация не создаёт коммитов",
+          "unexpected": "git commit"
+        },
+        {
+          "name": "venv_used",
+          "type": "output_not_contains",
+          "description": "Не использован системный pip (PEP 668)",
+          "unexpected": "pip install marker-pdf"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "missing-pdf-error",
+      "prompt": "/convert-pdf /tmp/nonexistent.pdf test srd-1.0",
+      "expected_output": "Ошибка: PDF не найден. Скрипт или агент сообщает пользователю.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "error_reported",
+          "type": "output_contains",
+          "description": "Агент сообщил об отсутствии PDF",
+          "expected": "not found"
+        },
+        {
+          "name": "no_crash",
+          "type": "output_not_contains",
+          "description": "Не было необработанного исключения",
+          "unexpected": "Traceback"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "partial-failure-handling",
+      "prompt": "Сконвертируй PDF /tmp/SRD_CC_v5.2.1.pdf для игры test-partial, но перед этим удали venv маркера: rm -rf /tmp/venv-marker. Потом запусти /convert-pdf /tmp/SRD_CC_v5.2.1.pdf test-partial srd-1.0",
+      "expected_output": "marker пропущен или переустановлен, pymupdf + docling отработали, предупреждение пользователю",
+      "files": [],
+      "assertions": [
+        {
+          "name": "graceful_degradation",
+          "type": "output_check",
+          "description": "Скрипт продолжил работу при отсутствии одного конвертера",
+          "check": "файлы pymupdf и docling созданы"
+        },
+        {
+          "name": "warning_shown",
+          "type": "output_contains",
+          "description": "Предупреждение о пропущенном конвертере",
+          "expected": "marker"
+        }
+      ]
+    }
+  ]
+}
