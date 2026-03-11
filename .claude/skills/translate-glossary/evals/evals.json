@@ -1,0 +1,71 @@
+{
+  "skill_name": "translate-glossary",
+  "evals": [
+    {
+      "id": 1,
+      "name": "check-glossary-script",
+      "prompt": "Запусти check_glossary.py на переведённом глоссарии dnd-v2 srd-5.2",
+      "expected_output": "Скрипт проверяет файлы, строки, колонку Оригинал, сортировку ё=е",
+      "files": [],
+      "assertions": [
+        {
+          "name": "script_used",
+          "type": "contains",
+          "description": "check_glossary.py использован",
+          "expected": "check_glossary.py"
+        },
+        {
+          "name": "zero_issues",
+          "type": "output_contains",
+          "description": "Все проверки пройдены",
+          "expected": "0 issues"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "yo-sorting-rule",
+      "prompt": "Проверь что в RU глоссарии 'Тёмное зрение' стоит рядом с 'Телепатия', а не после 'Труднопроходимая'",
+      "expected_output": "Сортировка ё=е соблюдена, Тёмное зрение перед Труднопроходимая",
+      "files": [],
+      "assertions": [
+        {
+          "name": "yo_before_t",
+          "type": "output_contains",
+          "description": "Тёмное зрение перед Труднопроходимая",
+          "expected": "Тёмное зрение"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "row-count-match",
+      "prompt": "Сравни количество строк данных в EN и RU глоссариях dnd-v2 — должны совпадать",
+      "expected_output": "EN rows = RU rows для каждого файла",
+      "files": [],
+      "assertions": [
+        {
+          "name": "counts_match",
+          "type": "output_not_contains",
+          "description": "Нет расхождений",
+          "unexpected": "mismatch"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "original-column-present",
+      "prompt": "Проверь что все RU таблицы глоссария содержат колонку 'Оригинал'",
+      "expected_output": "Колонка Оригинал присутствует во всех таблицах",
+      "files": [],
+      "assertions": [
+        {
+          "name": "original_present",
+          "type": "output_not_contains",
+          "description": "Нет отсутствующих колонок",
+          "unexpected": "missing_original"
+        }
+      ]
+    }
+  ]
+}
