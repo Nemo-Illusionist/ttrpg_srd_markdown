@@ -1,0 +1,68 @@
+{
+  "skill_name": "build-glossary",
+  "evals": [
+    {
+      "id": 1,
+      "name": "extract-entities-script",
+      "prompt": "Запусти extract_entities.py на src/dnd-v2/srd-5.2/en/ и проверь результат",
+      "expected_output": "Скрипт классифицировал файлы, нашёл spells/monsters/animals/magic_items",
+      "files": [],
+      "assertions": [
+        {
+          "name": "script_used",
+          "type": "contains",
+          "description": "Использован скрипт extract_entities.py",
+          "expected": "extract_entities.py"
+        },
+        {
+          "name": "spells_found",
+          "type": "output_contains",
+          "description": "Найдены заклинания",
+          "expected": "spells"
+        },
+        {
+          "name": "monsters_found",
+          "type": "output_contains",
+          "description": "Найдены монстры",
+          "expected": "monsters"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "extended-categories-in-glossary",
+      "prompt": "/build-glossary dnd-v2 srd-5.2 — проверь что 00_Glossary.md содержит расширенные категории (названия разделов, подклассов, умений)",
+      "expected_output": "00_Glossary.md содержит секции: характеристики, состояния, типы урона, классы, виды, навыки, типы существ, механики + расширенные (разделы, подклассы, умения)",
+      "files": [],
+      "assertions": [
+        {
+          "name": "section_names",
+          "type": "output_contains",
+          "description": "Расширенная категория 'названия разделов' присутствует",
+          "expected": "Section"
+        },
+        {
+          "name": "subclass_names",
+          "type": "output_contains",
+          "description": "Расширенная категория подклассов присутствует",
+          "expected": "Subclass"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "verification-count-match",
+      "prompt": "/build-glossary — проверь что количество сущностей в созданных файлах глоссария совпадает с extract_entities.py",
+      "expected_output": "Количество заклинаний/монстров/предметов/животных в глоссарии = в extract JSON",
+      "files": [],
+      "assertions": [
+        {
+          "name": "counts_verified",
+          "type": "output_contains",
+          "description": "Агент сравнил количества с extract",
+          "expected": "extract"
+        }
+      ]
+    }
+  ]
+}
