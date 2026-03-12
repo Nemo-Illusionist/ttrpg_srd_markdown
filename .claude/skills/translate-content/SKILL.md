@@ -1,5 +1,5 @@
 ---
-description: "Перевод контентных файлов SRD строго по глоссарию"
+description: "Перевод контентных файлов SRD строго по глоссарию. Используй после верификации глоссария."
 user-invocable: true
 ---
 
@@ -85,7 +85,11 @@ user-invocable: true
    - EN файлов (без глоссария): X
    - RU файлов (без глоссария): Y
    - X = Y — ОК
-2. Выведи итог:
+2. Запусти структурную проверку скриптом:
+   ```bash
+   bash .claude/skills/verify-content/compare_structure.sh src/{game}/{version}/en src/{game}/{version}/ru
+   ```
+3. Выведи итог:
 
 ```
 Перевод завершён:

@@ -1,0 +1,74 @@
+{
+  "skill_name": "verify-content",
+  "evals": [
+    {
+      "id": 1,
+      "name": "compare-structure-first",
+      "prompt": "/verify-content dnd srd-5.2 — проверь что compare_structure.sh запускается первым перед агентами",
+      "expected_output": "Скрипт compare_structure.sh запущен в шаге подготовки до создания агентов-верификаторов",
+      "files": [],
+      "assertions": [
+        {
+          "name": "script_runs",
+          "type": "contains",
+          "description": "compare_structure.sh запускается",
+          "expected": "compare_structure.sh"
+        },
+        {
+          "name": "before_agents",
+          "type": "output_contains",
+          "description": "Скрипт выполняется до запуска агентов",
+          "expected": "compare_structure"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "three-agents-parallel",
+      "prompt": "/verify-content daggerheart srd-1.0 — проверь что 3 агента запускаются параллельно через Agent tool",
+      "expected_output": "Три агента (verifier-terminology, verifier-structure, verifier-quality) запущены параллельно",
+      "files": [],
+      "assertions": [
+        {
+          "name": "terminology_agent",
+          "type": "output_contains",
+          "description": "Агент терминологии запущен",
+          "expected": "verifier-terminology"
+        },
+        {
+          "name": "structure_agent",
+          "type": "output_contains",
+          "description": "Агент структуры запущен",
+          "expected": "verifier-structure"
+        },
+        {
+          "name": "quality_agent",
+          "type": "output_contains",
+          "description": "Агент качества запущен",
+          "expected": "verifier-quality"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "minimum-three-rounds",
+      "prompt": "/verify-content brp srd-1.0 — проверь что цикл верификации проходит минимум 3 раунда",
+      "expected_output": "Цикл верификации: минимум 3 раунда, выход только при раунд >= 3 И ошибок = 0",
+      "files": [],
+      "assertions": [
+        {
+          "name": "three_rounds",
+          "type": "output_contains",
+          "description": "Минимум 3 раунда",
+          "expected": "раунд"
+        },
+        {
+          "name": "round_count",
+          "type": "output_contains",
+          "description": "Условие минимума раундов",
+          "expected": "3"
+        }
+      ]
+    }
+  ]
+}

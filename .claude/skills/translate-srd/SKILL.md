@@ -1,5 +1,5 @@
 ---
-description: "Оркестратор полного пайплайна перевода SRD — от глоссария до интеграции в сайт"
+description: "Оркестратор полного пайплайна перевода SRD. Вызывает build-glossary, translate-glossary, translate-verify, translate-content, verify-content, integrate-srd."
 user-invocable: true
 ---
 

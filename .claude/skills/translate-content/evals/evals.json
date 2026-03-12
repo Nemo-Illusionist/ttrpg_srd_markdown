@@ -1,0 +1,68 @@
+{
+  "skill_name": "translate-content",
+  "evals": [
+    {
+      "id": 1,
+      "name": "line-count-strict-match",
+      "prompt": "/translate-content dnd srd-5.2 — проверь что wc -l RU файла строго равен wc -l EN файла для каждого переведённого файла",
+      "expected_output": "Для каждого файла выполнена проверка wc -l, количество строк RU = EN строго (допуск 0)",
+      "files": [],
+      "assertions": [
+        {
+          "name": "wc_check",
+          "type": "output_contains",
+          "description": "Проверка количества строк через wc -l",
+          "expected": "wc -l"
+        },
+        {
+          "name": "strict_match",
+          "type": "output_contains",
+          "description": "Строгое совпадение без допуска",
+          "expected": "строк"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "dictionary-used",
+      "prompt": "/translate-content daggerheart srd-1.0 — проверь что словарь из src/{game}/translate/ используется как источник терминов",
+      "expected_output": "Словарь терминов загружен из src/{game}/translate/, каждый термин переводится строго по словарю",
+      "files": [],
+      "assertions": [
+        {
+          "name": "dictionary_loaded",
+          "type": "output_contains",
+          "description": "Словарь загружен из translate/",
+          "expected": "translate/"
+        },
+        {
+          "name": "term_count",
+          "type": "output_contains",
+          "description": "Выведена статистика по словарю",
+          "expected": "термин"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "large-files-chunked",
+      "prompt": "/translate-content dnd srd-5.2 — проверь что файлы >3000 строк читаются и переводятся чанками через offset/limit",
+      "expected_output": "Большие файлы (>3000 строк) обрабатываются чанками: offset=0 limit=3000, offset=3000 limit=3000 и т.д.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "chunked_read",
+          "type": "output_contains",
+          "description": "Используется чтение чанками",
+          "expected": "offset"
+        },
+        {
+          "name": "limit_param",
+          "type": "output_contains",
+          "description": "Указан параметр limit",
+          "expected": "limit"
+        }
+      ]
+    }
+  ]
+}

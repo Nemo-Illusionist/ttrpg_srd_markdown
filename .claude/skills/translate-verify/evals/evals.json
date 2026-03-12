@@ -1,0 +1,74 @@
+{
+  "skill_name": "translate-verify",
+  "evals": [
+    {
+      "id": 1,
+      "name": "check-glossary-before-agents",
+      "prompt": "/translate-verify dnd srd-5.2 — проверь что check_glossary.py запускается ДО запуска агентов-верификаторов",
+      "expected_output": "Скрипт check_glossary.py запущен первым для быстрой проверки, затем агенты",
+      "files": [],
+      "assertions": [
+        {
+          "name": "script_runs_first",
+          "type": "contains",
+          "description": "check_glossary.py запускается до агентов",
+          "expected": "check_glossary.py"
+        },
+        {
+          "name": "before_agents",
+          "type": "output_contains",
+          "description": "Скрипт выполняется перед запуском агентов",
+          "expected": "check_glossary"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "three-agents-parallel",
+      "prompt": "/translate-verify daggerheart srd-1.0 — проверь что 3 агента запускаются параллельно",
+      "expected_output": "Три агента (verifier-structure, verifier-consistency, verifier-quality) запущены параллельно через Agent tool",
+      "files": [],
+      "assertions": [
+        {
+          "name": "structure_agent",
+          "type": "output_contains",
+          "description": "Агент структуры запущен",
+          "expected": "verifier-structure"
+        },
+        {
+          "name": "consistency_agent",
+          "type": "output_contains",
+          "description": "Агент консистентности запущен",
+          "expected": "verifier-consistency"
+        },
+        {
+          "name": "quality_agent",
+          "type": "output_contains",
+          "description": "Агент качества запущен",
+          "expected": "verifier-quality"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "minimum-three-rounds",
+      "prompt": "/translate-verify brp srd-1.0 — проверь что выполняется минимум 3 раунда верификации даже при отсутствии ошибок",
+      "expected_output": "Цикл верификации выполнил минимум 3 раунда, условие выхода: раунд >= 3 И ошибок = 0",
+      "files": [],
+      "assertions": [
+        {
+          "name": "three_rounds",
+          "type": "output_contains",
+          "description": "Минимум 3 раунда выполнено",
+          "expected": "раунд"
+        },
+        {
+          "name": "exit_condition",
+          "type": "output_contains",
+          "description": "Условие выхода проверяет минимум раундов",
+          "expected": "3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-description: "Оркестратор полного пайплайна импорта PDF → markdown → сайт"
+description: "Оркестратор полного пайплайна импорта PDF в markdown. Вызывает convert-pdf, cleanup-artifacts, verify-import, integrate-srd."
 user-invocable: true
 ---
 

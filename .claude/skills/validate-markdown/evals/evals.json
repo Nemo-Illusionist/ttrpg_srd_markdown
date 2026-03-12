@@ -1,0 +1,47 @@
+{
+  "skill_name": "validate-markdown",
+  "evals": [
+    {
+      "id": 1,
+      "name": "table-validation",
+      "prompt": "/validate-markdown src/dnd/srd-5.2/en/ — проверь что таблицы валидируются: количество колонок, разделительная строка, разорванные таблицы",
+      "expected_output": "Проверены все таблицы: одинаковое количество |, наличие разделительной строки, отсутствие разорванных таблиц",
+      "files": [],
+      "assertions": [
+        {
+          "name": "column_check",
+          "type": "output_contains",
+          "description": "Проверка количества колонок в таблицах",
+          "expected": "колон"
+        },
+        {
+          "name": "separator_check",
+          "type": "output_contains",
+          "description": "Проверка разделительной строки таблицы",
+          "expected": "таблиц"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "paired-check-en-ru",
+      "prompt": "/validate-markdown src/dnd/srd-5.2/en/ src/dnd/srd-5.2/ru/ — проверь парную проверку EN и RU: заголовки, таблицы, списки, blockquotes",
+      "expected_output": "Парная проверка: количество заголовков, строк таблиц, элементов списков, blockquotes в RU = EN",
+      "files": [],
+      "assertions": [
+        {
+          "name": "heading_count",
+          "type": "output_contains",
+          "description": "Сравнение количества заголовков EN и RU",
+          "expected": "заголовк"
+        },
+        {
+          "name": "paired_result",
+          "type": "output_contains",
+          "description": "Результат парной проверки",
+          "expected": "парн"
+        }
+      ]
+    }
+  ]
+}

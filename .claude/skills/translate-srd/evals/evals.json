@@ -1,0 +1,47 @@
+{
+  "skill_name": "translate-srd",
+  "evals": [
+    {
+      "id": 1,
+      "name": "translate-branch-created",
+      "prompt": "/translate-srd daggerheart srd-1.0 — проверь что создаётся ветка translate/{game}-{version}",
+      "expected_output": "Phase 0: создана ветка translate/daggerheart-srd-1.0, все коммиты фаз 1-7 идут в неё",
+      "files": [],
+      "assertions": [
+        {
+          "name": "branch_name",
+          "type": "output_contains",
+          "description": "Ветка translate/{game}-{version} создана",
+          "expected": "translate/"
+        },
+        {
+          "name": "checkout_command",
+          "type": "contains",
+          "description": "Используется git checkout -b для создания ветки",
+          "expected": "git checkout"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "squash-merge-to-main",
+      "prompt": "/translate-srd — проверь что Phase 7.5 выполняет squash merge ветки translate/ в main",
+      "expected_output": "Phase 7.5: git checkout main, git merge --squash translate/{game}-{version}, коммит, удаление ветки",
+      "files": [],
+      "assertions": [
+        {
+          "name": "squash_merge",
+          "type": "output_contains",
+          "description": "Используется squash merge",
+          "expected": "squash"
+        },
+        {
+          "name": "merge_to_main",
+          "type": "output_contains",
+          "description": "Merge в main",
+          "expected": "main"
+        }
+      ]
+    }
+  ]
+}

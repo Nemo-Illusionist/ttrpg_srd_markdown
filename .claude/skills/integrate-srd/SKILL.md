@@ -1,5 +1,5 @@
 ---
-description: "Интеграция переведённого SRD в сайт — скрипты, CI, навигация"
+description: "Интеграция переведённого SRD в сайт — скрипты, CI, навигация. Используй как последний шаг пайплайна."
 user-invocable: true
 ---
 
@@ -118,7 +118,14 @@ cp -r src/{game}/{version}/ru/* docs/ru/{game}/{version}/
 4. Добавь nav_translations для новых RU-имён в секцию `plugins.i18n.languages[en].nav_translations`
 5. **Коммит:** `Интеграция {game} {version}: навигация src/site/mkdocs.yml`
 
-### Шаг 6: Release workflow
+### Шаг 6: Сборка объединённого markdown (опционально)
+
+Для проверки можно собрать объединённый файл скриптом:
+```bash
+bash .claude/skills/integrate-srd/build_combined_md.sh src/{game}/{version}/ru {SHORT}-SRD-{VER}-RU.md
+```
+
+### Шаг 7: Release workflow
 
 1. Определи короткий префикс для тега — см. `.claude/rules/file-naming-conventions.md` (раздел "Релизные теги")
 2. Проверь существует ли уже workflow `.github/workflows/release-{game}.yml`
@@ -196,7 +203,7 @@ jobs:
 
 4. **Коммит:** `Интеграция {game} {version}: release workflow`
 
-### Шаг 7: Создание релизного тега
+### Шаг 8: Создание релизного тега
 
 1. Определи версию тега: `{short}-srd-v1.0.0` (первый релиз для этой игры)
 2. Если тег уже существует — инкрементируй patch: `v1.0.1`, `v1.0.2` и т.д.
@@ -218,7 +225,7 @@ git push origin {tag}
   git push origin {tag}
 ```
 
-### Шаг 8: Проверка
+### Шаг 9: Проверка
 
 1. Запусти `bash .github/scripts/prepare_docs.sh` и проверь что файлы появились в `docs/`
 2. Проверь структуру:
